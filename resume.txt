@@ -1,0 +1,43 @@
+Randall Gaynor
+3492 NE Causeway Boulevard Apt. 104 Jensen Beach, FL 34957 | (770)-866-7458 | rcg19fsu@gmail.com
+https://www.linkedin.com/in/randygaynor
+https://randygaynor.github.io/portfolio-website/pages/professional.html
+Education
+Florida State University, Tallahassee, FL August 2025
+Master of Science in Meteorology GPA - 3.902
+Florida State University, Tallahassee, FL May 2023
+Bachelor of Science in Meteorology GPA - 3.807
+Professional Experience
+FSU Department of EOAS, Tallahassee, FL, Teaching Assistant (20 hr/wk) August 2023 - May 2025
+● Presented rigorous course content to align with student learning objectives
+● Reviewed course assignments and provided meaningful feedback to between 10 and 50 students
+● Routinely administered and graded course exams, quizzes, and homework
+Moody’s HWind, Tallahassee, FL, Hurricane Analyst Intern (20 hr/wk) April 2024 - August 2025
+● Produced high impact operational tropical cyclone wind field analyses, discussions, and forecasts
+● Interacted with, quality controlled, and problem solved with a large dataset
+● Designed Python-based operational data ingestion and automated validation workflows for tropical
+cyclone wind field analysis products
+Research Experience
+Florida State University, Tallahassee, FL August 2023 - August 2025
+● Successfully defended a Master’s thesis focusing on the modeling of a flash flooding event
+● Utilized a new lightning data assimilation technique in the WRF model
+● Developed, executed, and visualized 100+ high-resolution WRF simulations for urban flash flood
+forecasting sensitivity studies using advanced lightning data assimilation techniques
+Florida State University, Tallahassee, FL January 2022 - May 2023
+● Participated in an undergraduate research program focused on student-led projects
+● Researched the relationship between CG+ lightning flashes and wildfire smoke
+● Filtered and analyzed large wildfire databases and HYSPLIT model results
+● Produced meaningful graphics and comparisons with the data
+● Presented the results at the AMS student conference in Denver (January 2023)
+Honors/Activities
+Member of the Phi Beta Kappa Honor Society
+Member of the American Meteorological Society
+Certificate in Emergency Management from Florida State University (Completed in July 2022)
+Skills
+Programming & Scientific Computing: Python, Fortran, C++, Unix/Linux, MATLAB, GrADS, HPC
+Atmospheric & Environmental Modeling: WRF, Data Assimilation, Forecast Verification, Numerical
+Weather Prediction, HYSPLIT
+Data & Visualization: Scientific Visualization, Geospatial Analysis, Large Dataset Processing, Operational
+Forecast Data, Statistical Analysis, NetCDF, Xarray, Pandas, Numpy, Matplotlib, Cartopy
+Professional: Technical Communication, Teaching, Research Presentation, Decision Support, Customer
+Assistance
