@@ -1,15 +1,3 @@
-$env:EMAIL_PASSWORD = "your_app_password"Subject: Job Digest - 2026-05-12
+Subject: Job Digest - 2026-05-13
 
 Good morning, here are the new matched jobs from last night:
-
-Public Health Epidemiologist & Analyst | California | California
-URL: https://www.governmentjobs.com/jobs/5336729-0/public-health-epidemiologist-analyst
-Score: 6 | Matched: gis, analyst
-
-GIS Data Analyst | Idaho | Idaho
-URL: https://www.governmentjobs.com/jobs/5336941-0/gis-data-analyst
-Score: 6 | Matched: gis, analyst
-
-Geographic Information Systems (GIS) Analyst | Tennessee | Tennessee
-URL: https://www.governmentjobs.com/jobs/143010-1/geographic-information-systems-gis-analyst
-Score: 6 | Matched: gis, analyst
