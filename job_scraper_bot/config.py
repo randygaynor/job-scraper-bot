@@ -147,6 +147,16 @@ BROADCAST_EXCLUSION_TERMS = [
     "News 12",
     "on camera",
     "Allen Media",
+    "WPTV",
+    "WJCL",
+    "WTVJ",
+    "WFXL",
+    "WECT",
+    "WTVD",
+    "WESH",
+    "WLOX",
+    "WVTM",
+    "WINK",
 ]
 MIN_EMAIL_SCORE = 3
 
