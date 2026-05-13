@@ -45,12 +45,15 @@ def run_once():
         scored_jobs = 0
         new_jobs_count = 0
         for job in jobs:
-            if not storage.is_job_seen(job):
-                scored = matcher.score_job(job)
-                if scored["score"] > 0:
-                    new_jobs.append(scored)
-                    scored_jobs += 1
-                new_jobs_count += 1
+            if storage.is_job_seen(job):
+                continue
+            if matcher.is_broadcast_job(job):
+                continue
+            scored = matcher.score_job(job)
+            if scored["score"] > 0:
+                new_jobs.append(scored)
+                scored_jobs += 1
+            new_jobs_count += 1
 
         if scored_jobs == 0 and jobs:
             print(f"{fetcher.source_name()}: {len(jobs)} fetched jobs, but none scored > 0")

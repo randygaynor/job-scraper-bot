@@ -110,7 +110,15 @@ EMAIL_TO = os.getenv("EMAIL_TO", "rcg19fsu@gmail.com")
 
 WEB_HOST = os.getenv("WEB_HOST", "0.0.0.0")
 WEB_PORT = int(os.getenv("WEB_PORT", "8000"))
-MIN_EMAIL_SCORE = 5
+BROADCAST_EXCLUSION_TERMS = [
+    "broadcast",
+    "broadcast meteorology",
+    "TV meteorologist",
+    "television meteorologist",
+    "on-air meteorologist",
+    "weather anchor",
+]
+MIN_EMAIL_SCORE = 3
 
 WINDOWS_TASK_NAME = "JobScraperBotDaily"
 

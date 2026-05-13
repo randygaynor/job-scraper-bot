@@ -1,5 +1,6 @@
 from collections import Counter
 from job_scraper_bot.config import (
+    BROADCAST_EXCLUSION_TERMS,
     DEFAULT_RESUME_KEYWORDS,
     PRIMARY_TARGET_TERMS,
     SECONDARY_TARGET_TERMS,
@@ -66,3 +67,12 @@ class JobMatcher:
         if source and "StateBoard" in source:
             return 1
         return 0
+
+    def is_broadcast_job(self, job):
+        text = normalize_text(" ".join([
+            job.get("title", ""),
+            job.get("company", ""),
+            job.get("location", ""),
+            job.get("description", ""),
+        ]))
+        return any(term.lower() in text for term in BROADCAST_EXCLUSION_TERMS)
