@@ -17,7 +17,7 @@ A Python-based job scraping and matching bot for USA federal, state, and private
 
 ## Goals
 
-- Scrape jobs nightly at 21:00 local time
+- Scrape jobs nightly 
 - Match postings to your resume and career goals
 - Rank jobs by relevance to primary and secondary target terms
 - Skip already-seen jobs across runs
