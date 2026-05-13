@@ -87,7 +87,7 @@ git push -u origin main
    - `EMAIL_USERNAME` = your Gmail address
    - `EMAIL_PASSWORD` = your App Password
    - `EMAIL_FROM` = your Gmail address
-   - `EMAIL_TO` = `rcg19fsu@gmail.com`
+   - `EMAIL_TO` = `your email`
 
 4. The workflow in `.github/workflows/scraper.yml` will automatically run daily at 21:00 UTC (adjust the cron schedule if needed).
 
