@@ -3,3 +3,4 @@ beautifulsoup4
 schedule
 python-dateutil
 flask
+playwright
