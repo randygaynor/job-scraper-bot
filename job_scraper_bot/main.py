@@ -35,7 +35,12 @@ def run_once():
     new_jobs = []
     for fetcher in fetchers:
         print(f"Fetching jobs from {fetcher.source_name()}")
-        jobs = fetcher.fetch_jobs()
+        try:
+            jobs = fetcher.fetch_jobs()
+        except Exception as exc:
+            print(f"Fetcher {fetcher.source_name()} failed: {exc}")
+            jobs = []
+
         for job in jobs:
             if not storage.is_job_seen(job):
                 scored = matcher.score_job(job)

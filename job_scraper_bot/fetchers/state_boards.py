@@ -80,7 +80,12 @@ class StateBoardFetcher(JobFetcher):
         state_urls = self._load_state_urls()
 
         for state, url in state_urls.items():
-            response = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
+            try:
+                response = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
+            except requests.exceptions.RequestException as exc:
+                print(f"State board fetch failed for {state}: {exc}")
+                continue
+
             if response.status_code != 200:
                 print(f"State board fetch failed for {state}: {response.status_code}")
                 continue
