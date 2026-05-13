@@ -2,8 +2,11 @@ name: Job Scraper Bot
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # Daily at 9:00 PM UTC
+    - cron: '0 2 * * *'  # Daily at 2:00 am UTC
   workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
 
 jobs:
   scrape:

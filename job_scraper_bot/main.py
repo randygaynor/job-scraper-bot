@@ -41,11 +41,21 @@ def run_once():
             print(f"Fetcher {fetcher.source_name()} failed: {exc}")
             jobs = []
 
+        print(f"{fetcher.source_name()}: fetched {len(jobs)} jobs")
+        scored_jobs = 0
+        new_jobs_count = 0
         for job in jobs:
             if not storage.is_job_seen(job):
                 scored = matcher.score_job(job)
                 if scored["score"] > 0:
                     new_jobs.append(scored)
+                    scored_jobs += 1
+                new_jobs_count += 1
+
+        if scored_jobs == 0 and jobs:
+            print(f"{fetcher.source_name()}: {len(jobs)} fetched jobs, but none scored > 0")
+        elif jobs:
+            print(f"{fetcher.source_name()}: {scored_jobs} new scored jobs")
 
     if new_jobs:
         storage.save_jobs(new_jobs)
