@@ -1,5 +1,7 @@
 name: Job Scraper Bot
-
+concurrency:
+  group: job-scraper-bot
+  cancel-in-progress: false
 on:
   schedule:
     - cron: '0 7 * * *'  # Daily at 2:00 am UTC
@@ -55,5 +57,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update job digest - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git pull --rebase origin master
             git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           fi
