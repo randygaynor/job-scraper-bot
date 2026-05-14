@@ -54,7 +54,7 @@ class JobMatcher:
         if any(term in title_lower for term in ["meteorologist", "atmospheric", "forecast", "hurricane", "tropical"]):
             bonus += 3
         if any(term in title_lower for term in ["analyst", "data scientist", "geospatial", "risk"]):
-            bonus += 1
+            bonus += 2
         if "remote" in text:
             bonus += 1
         if "noaa" in text or "nws" in text:
