@@ -157,6 +157,11 @@ BROADCAST_EXCLUSION_TERMS = [
     "WLOX",
     "WVTM",
     "WINK",
+    "WBND",
+    "TEGNA",
+    "Nexstar",
+    "Spectrum",
+    "WGBA",
 ]
 MIN_EMAIL_SCORE = 3
 
