@@ -8,7 +8,8 @@
     "description": "Employer Login",
     "url": "https://employer.governmentjobs.com/#/sign-in",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://employer.governmentjobs.com/#/sign-in",
@@ -30,7 +31,8 @@
     "description": "Search jobs",
     "url": "https://www.governmentjobs.com/",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/SavedJobs",
@@ -41,7 +43,8 @@
     "description": "My Saved Jobs",
     "url": "https://www.governmentjobs.com/SavedJobs",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/SavedJobs",
@@ -63,7 +66,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Alabama&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5324746-0/purchasing-officer",
@@ -85,7 +89,8 @@
     "description": "Engineering Manager",
     "url": "https://www.governmentjobs.com/jobs/5315614-0/engineering-manager",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5307292-0/student-mechanic",
@@ -107,7 +112,8 @@
     "description": "Police Officer",
     "url": "https://www.governmentjobs.com/jobs/5281506-0/police-officer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5332301-0/customer-service-assistant",
@@ -118,7 +124,8 @@
     "description": "CUSTOMER SERVICE ASSISTANT",
     "url": "https://www.governmentjobs.com/jobs/5332301-0/customer-service-assistant",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5308631-0/permit-technician",
@@ -184,7 +191,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Alabama&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Alabama&isTransfer=False&isPromotional=False",
@@ -195,7 +203,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Alabama&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Alabama&isTransfer=False&isPromotional=False",
@@ -206,7 +215,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Alabama&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Alabama&isTransfer=False&isPromotional=False",
@@ -217,7 +227,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Alabama&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Alabama&isTransfer=False&isPromotional=False",
@@ -228,7 +239,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Alabama&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Alabama&isTransfer=False&isPromotional=False",
@@ -239,7 +251,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Alabama&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Alabama&isTransfer=False&isPromotional=False",
@@ -250,7 +263,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Alabama&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Alabama&isTransfer=False&isPromotional=False",
@@ -261,7 +275,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Alabama&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Alabama&isTransfer=False&isPromotional=False",
@@ -272,7 +287,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Alabama&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Alabama&isTransfer=False&isPromotional=False",
@@ -294,7 +310,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=34&location=Alabama&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/SavedJobs",
@@ -316,7 +333,8 @@
     "description": "My Job Applications",
     "url": "https://www.governmentjobs.com/Applications/submitted",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.topresume.com/resume-review/?pt=3oWX6VGn1APM2&utm_medium=referral&utm_source=GovernmentJobs&utm_campaign=jobsearchresults",
@@ -327,7 +345,8 @@
     "description": "Submit",
     "url": "https://www.topresume.com/resume-review/?pt=3oWX6VGn1APM2&utm_medium=referral&utm_source=GovernmentJobs&utm_campaign=jobsearchresults",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://employer.governmentjobs.com",
@@ -338,7 +357,8 @@
     "description": "Advertise",
     "url": "https://employer.governmentjobs.com",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://employer.governmentjobs.com/#/sign-in",
@@ -360,7 +380,8 @@
     "description": "www.governmentjobs.com",
     "url": "https://www.governmentjobs.com",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.schooljobs.com",
@@ -371,7 +392,8 @@
     "description": "www.schooljobs.com",
     "url": "https://www.schooljobs.com",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/home/privacypolicy",
@@ -382,7 +404,8 @@
     "description": "https://www.governmentjobs.com/home/privacypolicy",
     "url": "https://www.governmentjobs.com/home/privacypolicy",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "mailto:support@GovernmentJobs.com",
@@ -393,7 +416,8 @@
     "description": "support@GovernmentJobs.com",
     "url": "mailto:support@GovernmentJobs.com",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "mailto:customersupport@GovernmentJobs.com",
@@ -404,7 +428,8 @@
     "description": "customersupport@GovernmentJobs.com",
     "url": "mailto:customersupport@GovernmentJobs.com",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "mailto:support@GovernmentJobs.com",
@@ -492,7 +517,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Alaska&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5335191-0/alpar-supervisor",
@@ -503,7 +529,8 @@
     "description": "ALPAR Supervisor",
     "url": "https://www.governmentjobs.com/jobs/5335191-0/alpar-supervisor",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5330535-0/alpar-team-member",
@@ -514,7 +541,8 @@
     "description": "ALPAR Team Member",
     "url": "https://www.governmentjobs.com/jobs/5330535-0/alpar-team-member",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5326240-0/police-officer-i-ii",
@@ -525,7 +553,8 @@
     "description": "Police Officer I/II",
     "url": "https://www.governmentjobs.com/jobs/5326240-0/police-officer-i-ii",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5320607-0/emergency-dispatcher",
@@ -536,7 +565,8 @@
     "description": "Emergency Dispatcher",
     "url": "https://www.governmentjobs.com/jobs/5320607-0/emergency-dispatcher",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5296328-0/parks-recreation-laborer",
@@ -547,7 +577,8 @@
     "description": "Parks & Recreation Laborer",
     "url": "https://www.governmentjobs.com/jobs/5296328-0/parks-recreation-laborer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337557-0/ihlc-specialist",
@@ -613,7 +644,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Alaska&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Alaska&isTransfer=False&isPromotional=False",
@@ -624,7 +656,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Alaska&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Alaska&isTransfer=False&isPromotional=False",
@@ -635,7 +668,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Alaska&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Alaska&isTransfer=False&isPromotional=False",
@@ -646,7 +680,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Alaska&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Alaska&isTransfer=False&isPromotional=False",
@@ -657,7 +692,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Alaska&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Alaska&isTransfer=False&isPromotional=False",
@@ -668,7 +704,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Alaska&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Alaska&isTransfer=False&isPromotional=False",
@@ -679,7 +716,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Alaska&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Alaska&isTransfer=False&isPromotional=False",
@@ -690,7 +728,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Alaska&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Alaska&isTransfer=False&isPromotional=False",
@@ -701,7 +740,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Alaska&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Alaska&isTransfer=False&isPromotional=False",
@@ -921,7 +961,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Arizona&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/143115-1/senior-property-management-specialist",
@@ -943,7 +984,8 @@
     "description": "Bailiff",
     "url": "https://www.governmentjobs.com/jobs/5339224-0/bailiff",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336917-0/deputy-recording-clerk",
@@ -1042,7 +1084,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Arizona&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Arizona&isTransfer=False&isPromotional=False",
@@ -1053,7 +1096,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Arizona&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Arizona&isTransfer=False&isPromotional=False",
@@ -1064,7 +1108,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Arizona&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Arizona&isTransfer=False&isPromotional=False",
@@ -1075,7 +1120,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Arizona&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Arizona&isTransfer=False&isPromotional=False",
@@ -1086,7 +1132,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Arizona&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Arizona&isTransfer=False&isPromotional=False",
@@ -1097,7 +1144,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Arizona&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Arizona&isTransfer=False&isPromotional=False",
@@ -1108,7 +1156,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Arizona&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Arizona&isTransfer=False&isPromotional=False",
@@ -1119,7 +1168,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Arizona&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Arizona&isTransfer=False&isPromotional=False",
@@ -1130,7 +1180,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Arizona&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Arizona&isTransfer=False&isPromotional=False",
@@ -1350,7 +1401,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Arkansas&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339583-0/circulation-clerk-ii-part-time",
@@ -1372,7 +1424,8 @@
     "description": "Custodian - full-time",
     "url": "https://www.governmentjobs.com/jobs/5338827-0/custodian-full-time",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5204301-0/summer-youth-intern-part-time",
@@ -1383,7 +1436,8 @@
     "description": "Summer Youth Intern (Part Time)",
     "url": "https://www.governmentjobs.com/jobs/5204301-0/summer-youth-intern-part-time",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336480-0/crew-leader-cdl",
@@ -1394,7 +1448,8 @@
     "description": "Crew Leader CDL",
     "url": "https://www.governmentjobs.com/jobs/5336480-0/crew-leader-cdl",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/4552281-0/ems-instructor-coordinator",
@@ -1405,7 +1460,8 @@
     "description": "EMS Instructor/Coordinator",
     "url": "https://www.governmentjobs.com/jobs/4552281-0/ems-instructor-coordinator",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5325144-0/engineering-specialist-zoo",
@@ -1416,7 +1472,8 @@
     "description": "Engineering Specialist (Zoo)",
     "url": "https://www.governmentjobs.com/jobs/5325144-0/engineering-specialist-zoo",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5329932-0/aquatic-center-lifeguard",
@@ -1438,7 +1495,8 @@
     "description": "Fleet Supply Chain Supervisor",
     "url": "https://www.governmentjobs.com/jobs/5328191-0/fleet-supply-chain-supervisor",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5328302-0/supervisor-i-operations-improvement-development",
@@ -1460,7 +1518,8 @@
     "description": "PT Summer Playground Aide at Southwest Community Center",
     "url": "https://www.governmentjobs.com/jobs/5329484-0/pt-summer-playground-aide-at-southwest-community-center",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Arkansas&isTransfer=False&isPromotional=False",
@@ -1471,7 +1530,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Arkansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Arkansas&isTransfer=False&isPromotional=False",
@@ -1482,7 +1542,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Arkansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Arkansas&isTransfer=False&isPromotional=False",
@@ -1493,7 +1554,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Arkansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Arkansas&isTransfer=False&isPromotional=False",
@@ -1504,7 +1566,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Arkansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Arkansas&isTransfer=False&isPromotional=False",
@@ -1515,7 +1578,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Arkansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Arkansas&isTransfer=False&isPromotional=False",
@@ -1735,7 +1799,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=California&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339409-0/management-intern",
@@ -1822,11 +1887,13 @@
     "location": "California",
     "description": "Public Health Epidemiologist & Analyst",
     "url": "https://www.governmentjobs.com/jobs/5336729-0/public-health-epidemiologist-analyst",
-    "score": 6,
+    "score": 7,
     "matched_keywords": {
       "gis": 1,
       "analyst": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336956-0/elections-support-worker",
@@ -1837,7 +1904,8 @@
     "description": "Elections Support Worker",
     "url": "https://www.governmentjobs.com/jobs/5336956-0/elections-support-worker",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337745-0/gate-attendant-i",
@@ -1859,7 +1927,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=California&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=California&isTransfer=False&isPromotional=False",
@@ -1870,7 +1939,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=California&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=California&isTransfer=False&isPromotional=False",
@@ -1881,7 +1951,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=California&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=California&isTransfer=False&isPromotional=False",
@@ -1892,7 +1963,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=California&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=California&isTransfer=False&isPromotional=False",
@@ -1903,7 +1975,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=California&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=California&isTransfer=False&isPromotional=False",
@@ -1914,7 +1987,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=California&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=California&isTransfer=False&isPromotional=False",
@@ -1925,7 +1999,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=California&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=California&isTransfer=False&isPromotional=False",
@@ -1936,7 +2011,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=California&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=California&isTransfer=False&isPromotional=False",
@@ -1947,7 +2023,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=California&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=California&isTransfer=False&isPromotional=False",
@@ -2167,7 +2244,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Colorado&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337661-0/director-of-the-lcc-foundation-and-institutional-advancement",
@@ -2189,7 +2267,8 @@
     "description": "HUMAN RESOURCES & FACILITIES SPECIALIST",
     "url": "https://www.governmentjobs.com/jobs/5328451-0/human-resources-facilities-specialist",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/4835683-0/part-time-assistant-womens-soccer-coach",
@@ -2200,7 +2279,8 @@
     "description": "Part Time Assistant Women's Soccer Coach",
     "url": "https://www.governmentjobs.com/jobs/4835683-0/part-time-assistant-womens-soccer-coach",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/4786259-0/construction-adjunct-instructor-trinidad-campus",
@@ -2211,7 +2291,8 @@
     "description": "Construction Adjunct Instructor- Trinidad Campus",
     "url": "https://www.governmentjobs.com/jobs/4786259-0/construction-adjunct-instructor-trinidad-campus",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/4477966-0/head-rodeo-coach",
@@ -2222,7 +2303,8 @@
     "description": "Head Rodeo Coach",
     "url": "https://www.governmentjobs.com/jobs/4477966-0/head-rodeo-coach",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5296788-0/plumbing-instructor-adjunct-position",
@@ -2233,7 +2315,8 @@
     "description": "Plumbing Instructor (Adjunct Position)",
     "url": "https://www.governmentjobs.com/jobs/5296788-0/plumbing-instructor-adjunct-position",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/77677-1/birthday-party-host",
@@ -2244,7 +2327,8 @@
     "description": "Birthday Party Host",
     "url": "https://www.governmentjobs.com/jobs/77677-1/birthday-party-host",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/77660-1/lifeguard",
@@ -2255,7 +2339,8 @@
     "description": "Lifeguard",
     "url": "https://www.governmentjobs.com/jobs/77660-1/lifeguard",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/77612-1/indoor-pool-coordinator",
@@ -2266,7 +2351,8 @@
     "description": "Indoor Pool Coordinator",
     "url": "https://www.governmentjobs.com/jobs/77612-1/indoor-pool-coordinator",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/77672-1/preschool-activity-aide",
@@ -2277,7 +2363,8 @@
     "description": "Preschool Activity Aide",
     "url": "https://www.governmentjobs.com/jobs/77672-1/preschool-activity-aide",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Colorado&isTransfer=False&isPromotional=False",
@@ -2288,7 +2375,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Colorado&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Colorado&isTransfer=False&isPromotional=False",
@@ -2299,7 +2387,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Colorado&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Colorado&isTransfer=False&isPromotional=False",
@@ -2310,7 +2399,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Colorado&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Colorado&isTransfer=False&isPromotional=False",
@@ -2321,7 +2411,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Colorado&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Colorado&isTransfer=False&isPromotional=False",
@@ -2332,7 +2423,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Colorado&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Colorado&isTransfer=False&isPromotional=False",
@@ -2343,7 +2435,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Colorado&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Colorado&isTransfer=False&isPromotional=False",
@@ -2354,7 +2447,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Colorado&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Colorado&isTransfer=False&isPromotional=False",
@@ -2365,7 +2459,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Colorado&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Colorado&isTransfer=False&isPromotional=False",
@@ -2376,7 +2471,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Colorado&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Colorado&isTransfer=False&isPromotional=False",
@@ -2596,7 +2692,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Connecticut&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5263931-0/road-construction-project-manager",
@@ -2607,7 +2704,8 @@
     "description": "Road Construction Project Manager",
     "url": "https://www.governmentjobs.com/jobs/5263931-0/road-construction-project-manager",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339538-0/collections-maintainer-ii",
@@ -2618,7 +2716,8 @@
     "description": "Collections Maintainer II",
     "url": "https://www.governmentjobs.com/jobs/5339538-0/collections-maintainer-ii",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5338239-0/health-department-administrative-assistant-part-time",
@@ -2629,7 +2728,8 @@
     "description": "Health Department Administrative Assistant (PART-TIME)",
     "url": "https://www.governmentjobs.com/jobs/5338239-0/health-department-administrative-assistant-part-time",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5334880-0/assistant-building-official",
@@ -2640,7 +2740,8 @@
     "description": "Assistant Building Official",
     "url": "https://www.governmentjobs.com/jobs/5334880-0/assistant-building-official",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5331778-0/part-time-animal-control-officer",
@@ -2651,7 +2752,8 @@
     "description": "Part-Time Animal Control Officer",
     "url": "https://www.governmentjobs.com/jobs/5331778-0/part-time-animal-control-officer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5338673-0/administrative-support-seasonal-part-time-pr",
@@ -2673,7 +2775,8 @@
     "description": "Public Health Nurse 10 month",
     "url": "https://www.governmentjobs.com/jobs/5329579-0/public-health-nurse-10-month",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5326905-0/chief-operating-officer",
@@ -2684,7 +2787,8 @@
     "description": "Chief Operating Officer",
     "url": "https://www.governmentjobs.com/jobs/5326905-0/chief-operating-officer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5327107-0/pipe-installer-i",
@@ -2695,7 +2799,8 @@
     "description": "Pipe Installer I",
     "url": "https://www.governmentjobs.com/jobs/5327107-0/pipe-installer-i",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5334728-0/custodian",
@@ -2717,7 +2822,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Connecticut&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Connecticut&isTransfer=False&isPromotional=False",
@@ -2728,7 +2834,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Connecticut&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Connecticut&isTransfer=False&isPromotional=False",
@@ -2739,7 +2846,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Connecticut&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Connecticut&isTransfer=False&isPromotional=False",
@@ -2750,7 +2858,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Connecticut&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Connecticut&isTransfer=False&isPromotional=False",
@@ -2959,7 +3068,8 @@
     "description": "Automotive Mechanic (Pay Grade 20) AFSCME Local 459",
     "url": "https://www.governmentjobs.com/jobs/5324667-0/automotive-mechanic-pay-grade-20-afscme-local-459",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5200309-0/pipelayer-supervisor-pay-grade-21-local-union-459",
@@ -2980,10 +3090,12 @@
     "location": "Delaware",
     "description": "PROGRAM ANALYST (SELECTIVE CERT- PUBLIC SAFETY FEDERAL GRANTS) Pay Grade 24 AFSCME Local 3109",
     "url": "https://www.governmentjobs.com/jobs/5309009-0/program-analyst-selective-cert-public-safety-federal-grants-pay-grade-24-afscm",
-    "score": 4,
+    "score": 5,
     "matched_keywords": {
       "analyst": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5046700-0/459-only-transfer-request",
@@ -2994,7 +3106,8 @@
     "description": "459 ONLY Transfer Request",
     "url": "https://www.governmentjobs.com/jobs/5046700-0/459-only-transfer-request",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5332138-0/assessment-analyst-pay-grade-24-afscme-local-3109-promotional-only",
@@ -3004,10 +3117,12 @@
     "location": "Delaware",
     "description": "ASSESSMENT ANALYST (PAY GRADE 24) AFSCME LOCAL 3109 *PROMOTIONAL ONLY*",
     "url": "https://www.governmentjobs.com/jobs/5332138-0/assessment-analyst-pay-grade-24-afscme-local-3109-promotional-only",
-    "score": 4,
+    "score": 5,
     "matched_keywords": {
       "analyst": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.governmentjobs.com/jobs/4918160-0/paramedic-certified-paramedic-10-000-signing-bonus",
@@ -3018,7 +3133,8 @@
     "description": "PARAMEDIC (CERTIFIED PARAMEDIC) $10,000 SIGNING BONUS",
     "url": "https://www.governmentjobs.com/jobs/4918160-0/paramedic-certified-paramedic-10-000-signing-bonus",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5291469-0/public-works-seasonal-worker-parks-maintenance-pww-i",
@@ -3029,7 +3145,8 @@
     "description": "Public Works Seasonal Worker - Parks Maintenance (PWW I)",
     "url": "https://www.governmentjobs.com/jobs/5291469-0/public-works-seasonal-worker-parks-maintenance-pww-i",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/3912929-0/school-crossing-guard-500-sign-on-bonus",
@@ -3040,7 +3157,8 @@
     "description": "SCHOOL CROSSING GUARD - *$500 SIGN ON BONUS*",
     "url": "https://www.governmentjobs.com/jobs/3912929-0/school-crossing-guard-500-sign-on-bonus",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/1570822-0/transfer-request",
@@ -3051,7 +3169,8 @@
     "description": "TRANSFER REQUEST",
     "url": "https://www.governmentjobs.com/jobs/1570822-0/transfer-request",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/SavedJobs",
@@ -3249,7 +3368,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Florida&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/128131-1/assistant-public-defender",
@@ -3260,7 +3380,8 @@
     "description": "Assistant Public Defender",
     "url": "https://www.governmentjobs.com/jobs/128131-1/assistant-public-defender",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5335577-0/senior-building-inspector",
@@ -3271,7 +3392,8 @@
     "description": "Senior Building Inspector",
     "url": "https://www.governmentjobs.com/jobs/5335577-0/senior-building-inspector",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339080-0/project-manager",
@@ -3282,7 +3404,8 @@
     "description": "Project Manager",
     "url": "https://www.governmentjobs.com/jobs/5339080-0/project-manager",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5333564-0/operations-supervisor-wastewater",
@@ -3293,7 +3416,8 @@
     "description": "Operations Supervisor - Wastewater",
     "url": "https://www.governmentjobs.com/jobs/5333564-0/operations-supervisor-wastewater",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5333497-0/electrical-maintenance-technician-i",
@@ -3304,7 +3428,8 @@
     "description": "Electrical Maintenance Technician I",
     "url": "https://www.governmentjobs.com/jobs/5333497-0/electrical-maintenance-technician-i",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5333599-0/heavy-equipment-operator-stormwater",
@@ -3315,7 +3440,8 @@
     "description": "Heavy Equipment Operator (Stormwater)",
     "url": "https://www.governmentjobs.com/jobs/5333599-0/heavy-equipment-operator-stormwater",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5328725-0/recreation-leader-volleyball-basketball-cheerleading-soccer",
@@ -3326,7 +3452,8 @@
     "description": "Recreation Leader (Volleyball, Basketball, Cheerleading & Soccer)",
     "url": "https://www.governmentjobs.com/jobs/5328725-0/recreation-leader-volleyball-basketball-cheerleading-soccer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5328180-0/senior-fiscal-analyst",
@@ -3372,7 +3499,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Florida&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Florida&isTransfer=False&isPromotional=False",
@@ -3383,7 +3511,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Florida&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Florida&isTransfer=False&isPromotional=False",
@@ -3394,7 +3523,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Florida&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Florida&isTransfer=False&isPromotional=False",
@@ -3405,7 +3535,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Florida&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Florida&isTransfer=False&isPromotional=False",
@@ -3416,7 +3547,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Florida&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Florida&isTransfer=False&isPromotional=False",
@@ -3427,7 +3559,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Florida&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Florida&isTransfer=False&isPromotional=False",
@@ -3438,7 +3571,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Florida&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Florida&isTransfer=False&isPromotional=False",
@@ -3449,7 +3583,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Florida&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Florida&isTransfer=False&isPromotional=False",
@@ -3460,7 +3595,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Florida&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Florida&isTransfer=False&isPromotional=False",
@@ -3680,7 +3816,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Georgia&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5325980-0/planner-i-ii-or-iii",
@@ -3735,7 +3872,8 @@
     "description": "Chief Information Officer",
     "url": "https://www.governmentjobs.com/jobs/5337281-0/chief-information-officer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339553-0/transit-maintenance-worker-i",
@@ -3746,7 +3884,8 @@
     "description": "Transit Maintenance Worker I",
     "url": "https://www.governmentjobs.com/jobs/5339553-0/transit-maintenance-worker-i",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339582-0/voter-registration-specialist",
@@ -3770,7 +3909,8 @@
     "description": "Waycross Laboratory Services Director",
     "url": "https://www.governmentjobs.com/jobs/5335265-0/waycross-laboratory-services-director",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337275-0/nutritionist-health-educator-internal-applicants-only",
@@ -3803,7 +3943,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Georgia&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Georgia&isTransfer=False&isPromotional=False",
@@ -3814,7 +3955,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Georgia&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Georgia&isTransfer=False&isPromotional=False",
@@ -3825,7 +3967,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Georgia&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Georgia&isTransfer=False&isPromotional=False",
@@ -3836,7 +3979,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Georgia&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Georgia&isTransfer=False&isPromotional=False",
@@ -3847,7 +3991,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Georgia&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Georgia&isTransfer=False&isPromotional=False",
@@ -3858,7 +4003,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Georgia&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Georgia&isTransfer=False&isPromotional=False",
@@ -3869,7 +4015,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Georgia&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Georgia&isTransfer=False&isPromotional=False",
@@ -3880,7 +4027,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Georgia&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Georgia&isTransfer=False&isPromotional=False",
@@ -3891,7 +4039,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Georgia&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Georgia&isTransfer=False&isPromotional=False",
@@ -4111,7 +4260,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Hawaii&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5328701-0/program-budget-analyst-ii-oahu",
@@ -4121,10 +4271,12 @@
     "location": "Hawaii",
     "description": "PROGRAM BUDGET ANALYST II - OAHU",
     "url": "https://www.governmentjobs.com/jobs/5328701-0/program-budget-analyst-ii-oahu",
-    "score": 4,
+    "score": 5,
     "matched_keywords": {
       "analyst": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5329403-0/public-housing-supervisor-v-oahu",
@@ -4135,7 +4287,8 @@
     "description": "PUBLIC HOUSING SUPERVISOR V - OAHU",
     "url": "https://www.governmentjobs.com/jobs/5329403-0/public-housing-supervisor-v-oahu",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5334629-0/truck-driver-oahu",
@@ -4146,7 +4299,8 @@
     "description": "TRUCK DRIVER - OAHU",
     "url": "https://www.governmentjobs.com/jobs/5334629-0/truck-driver-oahu",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5327618-0/substance-abuse-specialist-iii-correctional-facilities-oahu",
@@ -4157,7 +4311,8 @@
     "description": "SUBSTANCE ABUSE SPECIALIST III - CORRECTIONAL FACILITIES - OAHU",
     "url": "https://www.governmentjobs.com/jobs/5327618-0/substance-abuse-specialist-iii-correctional-facilities-oahu",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5321213-0/social-service-assistant-iv-correctional-facilities-oahu",
@@ -4168,7 +4323,8 @@
     "description": "SOCIAL SERVICE ASSISTANT IV - CORRECTIONAL FACILITIES - OAHU",
     "url": "https://www.governmentjobs.com/jobs/5321213-0/social-service-assistant-iv-correctional-facilities-oahu",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5324240-0/program-specialist-iv-oahu",
@@ -4179,7 +4335,8 @@
     "description": "PROGRAM SPECIALIST IV - OAHU",
     "url": "https://www.governmentjobs.com/jobs/5324240-0/program-specialist-iv-oahu",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5329357-0/human-resources-technician-vi-honolulu-oahu",
@@ -4234,7 +4391,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Hawaii&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Hawaii&isTransfer=False&isPromotional=False",
@@ -4245,7 +4403,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Hawaii&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Hawaii&isTransfer=False&isPromotional=False",
@@ -4256,7 +4415,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Hawaii&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Hawaii&isTransfer=False&isPromotional=False",
@@ -4267,7 +4427,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Hawaii&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Hawaii&isTransfer=False&isPromotional=False",
@@ -4278,7 +4439,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Hawaii&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Hawaii&isTransfer=False&isPromotional=False",
@@ -4289,7 +4451,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Hawaii&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Hawaii&isTransfer=False&isPromotional=False",
@@ -4300,7 +4463,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Hawaii&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Hawaii&isTransfer=False&isPromotional=False",
@@ -4311,7 +4475,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Hawaii&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Hawaii&isTransfer=False&isPromotional=False",
@@ -4322,7 +4487,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Hawaii&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Hawaii&isTransfer=False&isPromotional=False",
@@ -4344,7 +4510,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=175&location=Hawaii&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/SavedJobs",
@@ -4542,7 +4709,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Idaho&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339160-0/application-systems-manger",
@@ -4553,7 +4721,8 @@
     "description": "Application Systems Manger",
     "url": "https://www.governmentjobs.com/jobs/5339160-0/application-systems-manger",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5334996-0/power-administrative-assistant-or-executive-assistant-doe-q",
@@ -4564,7 +4733,8 @@
     "description": "Power - Administrative Assistant or Executive Assistant (DOE/Q)",
     "url": "https://www.governmentjobs.com/jobs/5334996-0/power-administrative-assistant-or-executive-assistant-doe-q",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337513-0/procurement-specialist-ii",
@@ -4575,7 +4745,8 @@
     "description": "Procurement Specialist II",
     "url": "https://www.governmentjobs.com/jobs/5337513-0/procurement-specialist-ii",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336604-0/part-time-instructor-nursing-clinical",
@@ -4586,7 +4757,8 @@
     "description": "Part-time Instructor, Nursing Clinical",
     "url": "https://www.governmentjobs.com/jobs/5336604-0/part-time-instructor-nursing-clinical",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5318290-0/wastewater-operator-ii",
@@ -4633,7 +4805,8 @@
     "description": "Parks Maintenance Operator I",
     "url": "https://www.governmentjobs.com/jobs/5333562-0/parks-maintenance-operator-i",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/143034-1/maintenance-technician",
@@ -4666,7 +4839,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Idaho&isTransfer=False&isPromotional=False",
@@ -4677,7 +4851,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Idaho&isTransfer=False&isPromotional=False",
@@ -4688,7 +4863,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Idaho&isTransfer=False&isPromotional=False",
@@ -4699,7 +4875,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Idaho&isTransfer=False&isPromotional=False",
@@ -4710,7 +4887,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Idaho&isTransfer=False&isPromotional=False",
@@ -4721,7 +4899,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Idaho&isTransfer=False&isPromotional=False",
@@ -4732,7 +4911,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Idaho&isTransfer=False&isPromotional=False",
@@ -4743,7 +4923,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Idaho&isTransfer=False&isPromotional=False",
@@ -4754,7 +4935,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Idaho&isTransfer=False&isPromotional=False",
@@ -4974,7 +5156,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Illinois&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5191546-0/resident-assistant-second-shift-naperville",
@@ -4996,7 +5179,8 @@
     "description": "Highway Maintenance Supervisor",
     "url": "https://www.governmentjobs.com/jobs/5336382-0/highway-maintenance-supervisor",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5324312-0/housekeeping-supervisor-2nd-shift",
@@ -5097,7 +5281,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Illinois&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Illinois&isTransfer=False&isPromotional=False",
@@ -5108,7 +5293,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Illinois&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Illinois&isTransfer=False&isPromotional=False",
@@ -5119,7 +5305,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Illinois&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Illinois&isTransfer=False&isPromotional=False",
@@ -5130,7 +5317,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Illinois&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Illinois&isTransfer=False&isPromotional=False",
@@ -5141,7 +5329,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Illinois&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Illinois&isTransfer=False&isPromotional=False",
@@ -5152,7 +5341,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Illinois&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Illinois&isTransfer=False&isPromotional=False",
@@ -5163,7 +5353,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Illinois&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Illinois&isTransfer=False&isPromotional=False",
@@ -5174,7 +5365,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Illinois&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Illinois&isTransfer=False&isPromotional=False",
@@ -5185,7 +5377,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Illinois&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Illinois&isTransfer=False&isPromotional=False",
@@ -5405,7 +5598,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Indiana&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336309-0/regional-dispatcher-indianapolis-regional-dispatch-center-3-vacancies",
@@ -5416,7 +5610,8 @@
     "description": "Regional Dispatcher - Indianapolis Regional Dispatch Center (3 Vacancies)",
     "url": "https://www.governmentjobs.com/jobs/5336309-0/regional-dispatcher-indianapolis-regional-dispatch-center-3-vacancies",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336842-0/fingerprint-classifier-ii-afis-administration-unit-indianapolis",
@@ -5427,7 +5622,8 @@
     "description": "Fingerprint Classifier II - AFIS Administration Unit - Indianapolis",
     "url": "https://www.governmentjobs.com/jobs/5336842-0/fingerprint-classifier-ii-afis-administration-unit-indianapolis",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337570-0/evidence-specialist-fort-wayne-regional-laboratory",
@@ -5438,7 +5634,8 @@
     "description": "Evidence Specialist - Fort Wayne Regional Laboratory",
     "url": "https://www.governmentjobs.com/jobs/5337570-0/evidence-specialist-fort-wayne-regional-laboratory",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337075-0/purchasing-administrator-i-fiscal-division",
@@ -5449,7 +5646,8 @@
     "description": "Purchasing Administrator I - Fiscal Division",
     "url": "https://www.governmentjobs.com/jobs/5337075-0/purchasing-administrator-i-fiscal-division",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336312-0/regional-dispatch-center-shift-supervisor-fort-wayne-dispatch-center",
@@ -5460,7 +5658,8 @@
     "description": "Regional Dispatch Center Shift Supervisor - Fort Wayne Dispatch Center",
     "url": "https://www.governmentjobs.com/jobs/5336312-0/regional-dispatch-center-shift-supervisor-fort-wayne-dispatch-center",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336319-0/forensic-scientist-iii-digital-forensics-examiner-lowell",
@@ -5471,7 +5670,8 @@
     "description": "Forensic Scientist III-Digital Forensics Examiner - Lowell",
     "url": "https://www.governmentjobs.com/jobs/5336319-0/forensic-scientist-iii-digital-forensics-examiner-lowell",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336318-0/equipment-mechanic-ii-installer-indianapolis",
@@ -5482,7 +5682,8 @@
     "description": "Equipment Mechanic II (Installer) - Indianapolis",
     "url": "https://www.governmentjobs.com/jobs/5336318-0/equipment-mechanic-ii-installer-indianapolis",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336649-0/administrative-assistant-v-mail-room-criminal-history-indianapolis",
@@ -5493,7 +5694,8 @@
     "description": "Administrative Assistant V - Mail Room/Criminal History - Indianapolis",
     "url": "https://www.governmentjobs.com/jobs/5336649-0/administrative-assistant-v-mail-room-criminal-history-indianapolis",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336456-0/administrative-assistant-v-accounts-payable-fiscal-division",
@@ -5504,7 +5706,8 @@
     "description": "Administrative Assistant V - Accounts Payable - Fiscal Division",
     "url": "https://www.governmentjobs.com/jobs/5336456-0/administrative-assistant-v-accounts-payable-fiscal-division",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336315-0/regional-dispatch-center-manager-lowell",
@@ -5515,7 +5718,8 @@
     "description": "Regional Dispatch Center Manager - Lowell",
     "url": "https://www.governmentjobs.com/jobs/5336315-0/regional-dispatch-center-manager-lowell",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Indiana&isTransfer=False&isPromotional=False",
@@ -5526,7 +5730,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Indiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Indiana&isTransfer=False&isPromotional=False",
@@ -5537,7 +5742,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Indiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Indiana&isTransfer=False&isPromotional=False",
@@ -5548,7 +5754,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Indiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Indiana&isTransfer=False&isPromotional=False",
@@ -5559,7 +5766,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Indiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Indiana&isTransfer=False&isPromotional=False",
@@ -5570,7 +5778,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Indiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Indiana&isTransfer=False&isPromotional=False",
@@ -5581,7 +5790,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Indiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Indiana&isTransfer=False&isPromotional=False",
@@ -5592,7 +5802,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Indiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Indiana&isTransfer=False&isPromotional=False",
@@ -5603,7 +5814,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Indiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Indiana&isTransfer=False&isPromotional=False",
@@ -5614,7 +5826,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Indiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Indiana&isTransfer=False&isPromotional=False",
@@ -5834,7 +6047,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Iowa&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5323031-0/air-permit-engineer",
@@ -5856,7 +6070,8 @@
     "description": "DETENTION OFFICER (PART-TIME)",
     "url": "https://www.governmentjobs.com/jobs/5318939-0/detention-officer-part-time",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5318569-0/detention-officer-full-time",
@@ -5867,7 +6082,8 @@
     "description": "DETENTION OFFICER (FULL-TIME)",
     "url": "https://www.governmentjobs.com/jobs/5318569-0/detention-officer-full-time",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5320349-0/youth-corps-coordinator",
@@ -5878,7 +6094,8 @@
     "description": "YOUTH CORPS COORDINATOR",
     "url": "https://www.governmentjobs.com/jobs/5320349-0/youth-corps-coordinator",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5335113-0/youth-corps-coordinator",
@@ -5889,7 +6106,8 @@
     "description": "YOUTH CORPS COORDINATOR",
     "url": "https://www.governmentjobs.com/jobs/5335113-0/youth-corps-coordinator",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5335676-0/natural-resources-laborer",
@@ -5900,7 +6118,8 @@
     "description": "NATURAL RESOURCES LABORER",
     "url": "https://www.governmentjobs.com/jobs/5335676-0/natural-resources-laborer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5335446-0/natural-resources-laborer",
@@ -5911,7 +6130,8 @@
     "description": "NATURAL RESOURCES LABORER",
     "url": "https://www.governmentjobs.com/jobs/5335446-0/natural-resources-laborer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5332135-0/assistant-county-attorney",
@@ -5922,7 +6142,8 @@
     "description": "ASSISTANT COUNTY ATTORNEY",
     "url": "https://www.governmentjobs.com/jobs/5332135-0/assistant-county-attorney",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5328921-0/investigator",
@@ -5944,7 +6165,8 @@
     "description": "Recreational Attendants",
     "url": "https://www.governmentjobs.com/jobs/5180128-0/recreational-attendants",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Iowa&isTransfer=False&isPromotional=False",
@@ -5955,7 +6177,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Iowa&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Iowa&isTransfer=False&isPromotional=False",
@@ -5966,7 +6189,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Iowa&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Iowa&isTransfer=False&isPromotional=False",
@@ -5977,7 +6201,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Iowa&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Iowa&isTransfer=False&isPromotional=False",
@@ -5988,7 +6213,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Iowa&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Iowa&isTransfer=False&isPromotional=False",
@@ -5999,7 +6225,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Iowa&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Iowa&isTransfer=False&isPromotional=False",
@@ -6010,7 +6237,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Iowa&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Iowa&isTransfer=False&isPromotional=False",
@@ -6021,7 +6249,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Iowa&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Iowa&isTransfer=False&isPromotional=False",
@@ -6032,7 +6261,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Iowa&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Iowa&isTransfer=False&isPromotional=False",
@@ -6043,7 +6273,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Iowa&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Iowa&isTransfer=False&isPromotional=False",
@@ -6263,7 +6494,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Kansas&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/137979-1/911-telecommunicator-emergency-service-dispatcher",
@@ -6274,7 +6506,8 @@
     "description": "911 Telecommunicator Emergency Service Dispatcher",
     "url": "https://www.governmentjobs.com/jobs/137979-1/911-telecommunicator-emergency-service-dispatcher",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5333735-0/body-shop-mechanic-i",
@@ -6285,7 +6518,8 @@
     "description": "Body Shop Mechanic I",
     "url": "https://www.governmentjobs.com/jobs/5333735-0/body-shop-mechanic-i",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/2957750-0/wpd-spider-dispatcher-2nd-shift",
@@ -6296,7 +6530,8 @@
     "description": "WPD SPIDER Dispatcher 2nd Shift",
     "url": "https://www.governmentjobs.com/jobs/2957750-0/wpd-spider-dispatcher-2nd-shift",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/2496943-0/police-officer-rehires-only-w-previous-request-made-to-dept",
@@ -6307,7 +6542,8 @@
     "description": "Police Officer - Rehires Only (w/previous request made to dept.)",
     "url": "https://www.governmentjobs.com/jobs/2496943-0/police-officer-rehires-only-w-previous-request-made-to-dept",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/3401410-0/maintenance-mechanic-b-sewer-treatment",
@@ -6318,7 +6554,8 @@
     "description": "Maintenance Mechanic (B) - Sewer Treatment",
     "url": "https://www.governmentjobs.com/jobs/3401410-0/maintenance-mechanic-b-sewer-treatment",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/4832178-0/customer-clerk-tex-consolver",
@@ -6329,7 +6566,8 @@
     "description": "Customer Clerk - Tex Consolver",
     "url": "https://www.governmentjobs.com/jobs/4832178-0/customer-clerk-tex-consolver",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/1986613-0/electrician-ii-623-buildings",
@@ -6340,7 +6578,8 @@
     "description": "Electrician II - 623 - Buildings",
     "url": "https://www.governmentjobs.com/jobs/1986613-0/electrician-ii-623-buildings",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/3125647-0/gardener-i-park-maintenance",
@@ -6351,7 +6590,8 @@
     "description": "Gardener I - Park Maintenance",
     "url": "https://www.governmentjobs.com/jobs/3125647-0/gardener-i-park-maintenance",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5329953-0/deputy-city-attorney",
@@ -6362,7 +6602,8 @@
     "description": "Deputy City Attorney",
     "url": "https://www.governmentjobs.com/jobs/5329953-0/deputy-city-attorney",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5234715-0/department-intern-housing",
@@ -6384,7 +6625,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Kansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Kansas&isTransfer=False&isPromotional=False",
@@ -6395,7 +6637,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Kansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Kansas&isTransfer=False&isPromotional=False",
@@ -6406,7 +6649,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Kansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Kansas&isTransfer=False&isPromotional=False",
@@ -6417,7 +6661,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Kansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Kansas&isTransfer=False&isPromotional=False",
@@ -6428,7 +6673,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Kansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Kansas&isTransfer=False&isPromotional=False",
@@ -6439,7 +6685,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Kansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Kansas&isTransfer=False&isPromotional=False",
@@ -6450,7 +6697,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Kansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Kansas&isTransfer=False&isPromotional=False",
@@ -6461,7 +6709,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Kansas&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Kansas&isTransfer=False&isPromotional=False",
@@ -6670,7 +6919,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Kentucky&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5336410-0/utility-trainee-drainage-2-positions",
@@ -6681,7 +6931,8 @@
     "description": "Utility Trainee (Drainage) 2 Positions",
     "url": "https://www.governmentjobs.com/jobs/5336410-0/utility-trainee-drainage-2-positions",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337898-0/library-clerk-lu-pt",
@@ -6692,7 +6943,8 @@
     "description": "Library Clerk LU PT",
     "url": "https://www.governmentjobs.com/jobs/5337898-0/library-clerk-lu-pt",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5334818-0/homeless-resource-outreach-specialist-ii",
@@ -6714,7 +6966,8 @@
     "description": "Executive Administrator",
     "url": "https://www.governmentjobs.com/jobs/5334684-0/executive-administrator",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5330770-0/budget-officer",
@@ -6725,7 +6978,8 @@
     "description": "Budget Officer",
     "url": "https://www.governmentjobs.com/jobs/5330770-0/budget-officer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5330462-0/recreation-center-worker",
@@ -6736,7 +6990,8 @@
     "description": "Recreation Center Worker",
     "url": "https://www.governmentjobs.com/jobs/5330462-0/recreation-center-worker",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5320775-0/administrative-coordinator",
@@ -6747,7 +7002,8 @@
     "description": "Administrative Coordinator",
     "url": "https://www.governmentjobs.com/jobs/5320775-0/administrative-coordinator",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5323775-0/police-officer",
@@ -6758,7 +7014,8 @@
     "description": "Police Officer",
     "url": "https://www.governmentjobs.com/jobs/5323775-0/police-officer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5326429-0/hwu-utility-system-worker-i",
@@ -6769,7 +7026,8 @@
     "description": "HWU Utility System Worker I",
     "url": "https://www.governmentjobs.com/jobs/5326429-0/hwu-utility-system-worker-i",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5320466-0/deputy-director-finance",
@@ -6791,7 +7049,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Kentucky&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Kentucky&isTransfer=False&isPromotional=False",
@@ -6802,7 +7061,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Kentucky&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Kentucky&isTransfer=False&isPromotional=False",
@@ -6813,7 +7073,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Kentucky&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Kentucky&isTransfer=False&isPromotional=False",
@@ -6824,7 +7085,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Kentucky&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Kentucky&isTransfer=False&isPromotional=False",
@@ -6835,7 +7097,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Kentucky&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Kentucky&isTransfer=False&isPromotional=False",
@@ -6846,7 +7109,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Kentucky&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Kentucky&isTransfer=False&isPromotional=False",
@@ -7055,7 +7319,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Louisiana&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337608-0/mobile-equipment-operator-1-2-or-heavy-1-chase",
@@ -7182,7 +7447,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Louisiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Louisiana&isTransfer=False&isPromotional=False",
@@ -7193,7 +7459,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Louisiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Louisiana&isTransfer=False&isPromotional=False",
@@ -7204,7 +7471,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Louisiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=5&location=Louisiana&isTransfer=False&isPromotional=False",
@@ -7215,7 +7483,8 @@
     "description": "5",
     "url": "https://www.governmentjobs.com/jobs?page=5&location=Louisiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Louisiana&isTransfer=False&isPromotional=False",
@@ -7226,7 +7495,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Louisiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=7&location=Louisiana&isTransfer=False&isPromotional=False",
@@ -7237,7 +7507,8 @@
     "description": "7",
     "url": "https://www.governmentjobs.com/jobs?page=7&location=Louisiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=8&location=Louisiana&isTransfer=False&isPromotional=False",
@@ -7248,7 +7519,8 @@
     "description": "8",
     "url": "https://www.governmentjobs.com/jobs?page=8&location=Louisiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=9&location=Louisiana&isTransfer=False&isPromotional=False",
@@ -7259,7 +7531,8 @@
     "description": "9",
     "url": "https://www.governmentjobs.com/jobs?page=9&location=Louisiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=10&location=Louisiana&isTransfer=False&isPromotional=False",
@@ -7270,7 +7543,8 @@
     "description": "10",
     "url": "https://www.governmentjobs.com/jobs?page=10&location=Louisiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Louisiana&isTransfer=False&isPromotional=False",
@@ -7490,7 +7764,8 @@
     "description": "Clear all",
     "url": "https://www.governmentjobs.com/jobs?keyword=&location=Maine&distance=50",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5338381-0/assistant-director-of-undergraduate-admissions-central-and-western-ma",
@@ -7501,7 +7776,8 @@
     "description": "Assistant Director of Undergraduate Admissions -Central and Western MA",
     "url": "https://www.governmentjobs.com/jobs/5338381-0/assistant-director-of-undergraduate-admissions-central-and-western-ma",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5328199-0/assessment-curriculum-instruction-specialist",
@@ -7512,7 +7788,8 @@
     "description": "Assessment, Curriculum & Instruction Specialist",
     "url": "https://www.governmentjobs.com/jobs/5328199-0/assessment-curriculum-instruction-specialist",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5320280-0/cook-1-part-time-academic-year",
@@ -7523,7 +7800,8 @@
     "description": "Cook 1 - Part Time Academic Year",
     "url": "https://www.governmentjobs.com/jobs/5320280-0/cook-1-part-time-academic-year",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5308832-0/remote-adjunct-course-instructors-for-bs-animal-care-and-behavior-ms-animal-be",
@@ -7534,7 +7812,8 @@
     "description": "Remote Adjunct - Course Instructors for BS Animal Care and Behavior, MS Animal Behavior and Welfare",
     "url": "https://www.governmentjobs.com/jobs/5308832-0/remote-adjunct-course-instructors-for-bs-animal-care-and-behavior-ms-animal-be",
     "score": 2,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5303674-0/security-officer",
@@ -7545,7 +7824,8 @@
     "description": "Security Officer",
     "url": "https://www.governmentjobs.com/jobs/5303674-0/security-officer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5297266-0/multimedia-specialist",
@@ -7556,7 +7836,8 @@
     "description": "Multimedia Specialist",
     "url": "https://www.governmentjobs.com/jobs/5297266-0/multimedia-specialist",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5289907-0/remote-adjunct-course-developers-instructors-for-bs-in-wildlife-care-and-reha",
@@ -7567,7 +7848,8 @@
     "description": "Remote Adjunct - Course Developers & Instructors for BS in Wildlife Care and Rehabilitation",
     "url": "https://www.governmentjobs.com/jobs/5289907-0/remote-adjunct-course-developers-instructors-for-bs-in-wildlife-care-and-reha",
     "score": 2,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5289131-0/student-health-nurse-rn-per-diem",
@@ -7578,7 +7860,8 @@
     "description": "Student Health Nurse (RN) - Per Diem",
     "url": "https://www.governmentjobs.com/jobs/5289131-0/student-health-nurse-rn-per-diem",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5328006-0/staff-summer-camp-counselor",
@@ -7600,7 +7883,8 @@
     "description": "Adjunct - Occupational Therapy",
     "url": "https://www.governmentjobs.com/jobs/5273788-0/adjunct-occupational-therapy",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Maine&isTransfer=False&isPromotional=False",
@@ -7611,7 +7895,8 @@
     "description": "2",
     "url": "https://www.governmentjobs.com/jobs?page=2&location=Maine&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=3&location=Maine&isTransfer=False&isPromotional=False",
@@ -7622,7 +7907,8 @@
     "description": "3",
     "url": "https://www.governmentjobs.com/jobs?page=3&location=Maine&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=4&location=Maine&isTransfer=False&isPromotional=False",
@@ -7633,7 +7919,8 @@
     "description": "4",
     "url": "https://www.governmentjobs.com/jobs?page=4&location=Maine&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=2&location=Maine&isTransfer=False&isPromotional=False",
@@ -20907,7 +21194,8 @@
     "description": "Administrative Clerk Specialist",
     "url": "https://www.governmentjobs.com/jobs/5218532-0/administrative-clerk-specialist",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339240-0/justice-court-clerk-lead",
@@ -20918,7 +21206,8 @@
     "description": "Justice Court Clerk Lead",
     "url": "https://www.governmentjobs.com/jobs/5339240-0/justice-court-clerk-lead",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340109-0/building-and-construction-inspector",
@@ -20929,7 +21218,8 @@
     "description": "BUILDING AND CONSTRUCTION INSPECTOR",
     "url": "https://www.governmentjobs.com/jobs/5340109-0/building-and-construction-inspector",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5330097-0/crew-worker-special-projects-part-time",
@@ -20973,7 +21263,8 @@
     "description": "Utilities Maintenance Mechanic - Welding",
     "url": "https://www.governmentjobs.com/jobs/5339742-0/utilities-maintenance-mechanic-welding",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=669&location=California&isTransfer=False&isPromotional=False",
@@ -20995,7 +21286,8 @@
     "description": "Executive Director of the LCC Foundation and Institutional Advancement",
     "url": "https://www.governmentjobs.com/jobs/5337661-0/executive-director-of-the-lcc-foundation-and-institutional-advancement",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=133&location=Colorado&isTransfer=False&isPromotional=False",
@@ -21105,7 +21397,8 @@
     "description": "LAND USE SERVICES ADMINISTRATOR (SC - ENGINEERING DIVISION) NON-UNION CLASSIFIED",
     "url": "https://www.governmentjobs.com/jobs/5339849-0/land-use-services-administrator-sc-engineering-division-non-union-classified",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5341177-0/parks-maintenance-supervisor-beaches-nighttime-custodial",
@@ -21116,7 +21409,8 @@
     "description": "Parks Maintenance Supervisor \u2013 Beaches Nighttime Custodial",
     "url": "https://www.governmentjobs.com/jobs/5341177-0/parks-maintenance-supervisor-beaches-nighttime-custodial",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5341180-0/landfill-operator",
@@ -21127,7 +21421,8 @@
     "description": "Landfill Operator",
     "url": "https://www.governmentjobs.com/jobs/5341180-0/landfill-operator",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340699-0/police-officer-recruit",
@@ -21149,7 +21444,8 @@
     "description": "Events Technician (Intermittent/On-call)",
     "url": "https://www.governmentjobs.com/jobs/5340720-0/events-technician-intermittent-on-call",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339674-0/library-assistant-ops",
@@ -21281,7 +21577,8 @@
     "description": "Analytics Strategy Manager",
     "url": "https://www.governmentjobs.com/jobs/5236520-0/analytics-strategy-manager",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5184796-0/deputy-sheriff-patrol-lateral",
@@ -21292,7 +21589,8 @@
     "description": "Deputy Sheriff, Patrol Lateral",
     "url": "https://www.governmentjobs.com/jobs/5184796-0/deputy-sheriff-patrol-lateral",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5338575-0/fleet-technician-journey-level",
@@ -21303,7 +21601,8 @@
     "description": "Fleet Technician - Journey Level",
     "url": "https://www.governmentjobs.com/jobs/5338575-0/fleet-technician-journey-level",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=12&location=Idaho&isTransfer=False&isPromotional=False",
@@ -21314,7 +21613,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=12&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340240-0/heavy-machine-operator-solid-waste",
@@ -21325,7 +21625,8 @@
     "description": "Heavy Machine Operator (Solid Waste)",
     "url": "https://www.governmentjobs.com/jobs/5340240-0/heavy-machine-operator-solid-waste",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5341346-0/behavioral-health-supervisor",
@@ -21336,7 +21637,8 @@
     "description": "Behavioral Health Supervisor",
     "url": "https://www.governmentjobs.com/jobs/5341346-0/behavioral-health-supervisor",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/143376-1/it-business-analyst",
@@ -21346,10 +21648,12 @@
     "location": "Illinois",
     "description": "IT Business Analyst",
     "url": "https://www.governmentjobs.com/jobs/143376-1/it-business-analyst",
-    "score": 4,
+    "score": 5,
     "matched_keywords": {
       "analyst": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340633-0/procurement-manager",
@@ -21360,7 +21664,8 @@
     "description": "Procurement Manager",
     "url": "https://www.governmentjobs.com/jobs/5340633-0/procurement-manager",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5334774-0/peer-support-engagement-specialist-on-call",
@@ -21371,7 +21676,8 @@
     "description": "Peer Support/Engagement Specialist On Call",
     "url": "https://www.governmentjobs.com/jobs/5334774-0/peer-support-engagement-specialist-on-call",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340219-0/procurement-specialist",
@@ -21382,7 +21688,8 @@
     "description": "Procurement Specialist",
     "url": "https://www.governmentjobs.com/jobs/5340219-0/procurement-specialist",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=55&location=Illinois&isTransfer=False&isPromotional=False",
@@ -21393,7 +21700,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=55&location=Illinois&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340106-0/youth-services-aide",
@@ -21404,7 +21712,8 @@
     "description": "YOUTH SERVICES AIDE",
     "url": "https://www.governmentjobs.com/jobs/5340106-0/youth-services-aide",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=44&location=Iowa&isTransfer=False&isPromotional=False",
@@ -21415,7 +21724,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=44&location=Iowa&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340460-0/practical-nurse-licensed-1-3-lpn-1-2-3",
@@ -21426,7 +21736,8 @@
     "description": "Practical Nurse - Licensed, 1-3 (LPN 1/2/3)",
     "url": "https://www.governmentjobs.com/jobs/5340460-0/practical-nurse-licensed-1-3-lpn-1-2-3",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5341310-0/administrative-assistant-5",
@@ -21437,7 +21748,8 @@
     "description": "Administrative Assistant 5",
     "url": "https://www.governmentjobs.com/jobs/5341310-0/administrative-assistant-5",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339449-0/corrections-captain",
@@ -21536,7 +21848,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=105&location=Louisiana&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340786-0/online-academic-advisor-remote-or-on-site-available",
@@ -21547,7 +21860,8 @@
     "description": "Online Academic Advisor (Remote or On Site Available)",
     "url": "https://www.governmentjobs.com/jobs/5340786-0/online-academic-advisor-remote-or-on-site-available",
     "score": 2,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340492-0/building-inspector",
@@ -22667,7 +22981,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.usajobs.gov/job/867905500",
@@ -22682,7 +22998,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.usajobs.gov/job/851700900",
@@ -22697,7 +23015,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.usajobs.gov/job/867656900",
@@ -22712,7 +23032,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.usajobs.gov/job/867259300",
@@ -22727,7 +23049,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.usajobs.gov/job/867260400",
@@ -22742,7 +23066,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.usajobs.gov/job/867260700",
@@ -22757,7 +23083,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.usajobs.gov/job/867401400",
@@ -22772,7 +23100,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.usajobs.gov/job/868206200",
@@ -22787,7 +23117,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.usajobs.gov/job/868207000",
@@ -22802,7 +23134,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.usajobs.gov/job/867403400",
@@ -22817,7 +23151,9 @@
       "usajobs": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.linkedin.com/jobs/view/meteorologist-%2460-hr-remote-at-crossing-hurdles-4370632173?position=1&pageNum=0&refId=sNvYch%2F6qgWFYYR4Ffpm1A%3D%3D&trackingId=sGhtVEyOGNXNArVlOadBEA%3D%3D",
@@ -23506,7 +23842,9 @@
       "weather": 1,
       "forecast": 1,
       "forecaster": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.glassdoor.com/job-listing/weather-forecaster-ii-redtown-technical-services-llc-JV_IC1150381_KO0,21_KE22,52.htm?jl=1010133259263",
@@ -23564,7 +23902,9 @@
       "weather": 1,
       "forecast": 1,
       "forecaster": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.glassdoor.com/job-listing/weather-forecaster-observer-guantanamo-bay-cuba-redtown-technical-services-llc-JV_IC1136949_KO0,47_KE48,78.htm?jl=1010129233161",
@@ -23579,7 +23919,9 @@
       "weather": 1,
       "forecast": 1,
       "forecaster": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.glassdoor.com/job-listing/weather-forecaster-observer-antarctica-chickasaw-nation-industries-JV_IC1155074_KO0,38_KE39,66.htm?jl=1010055054548",
@@ -23594,7 +23936,9 @@
       "weather": 1,
       "forecast": 1,
       "forecaster": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.glassdoor.com/job-listing/environmental-scientist-hcl-global-systems-JV_IC1144353_KO0,23_KE24,42.htm?jl=1010132254837",
@@ -23620,7 +23964,8 @@
     "score": 2,
     "matched_keywords": {
       "environmental": 1
-    }
+    },
+    "sent": false
   },
   {
     "id": "https://www.glassdoor.com/job-listing/environmental-scientist-1-johnson-city-tn-software-technology-JV_IC3779017_KO0,41_KE42,61.htm?jl=1009948445151",
@@ -23633,7 +23978,8 @@
     "score": 2,
     "matched_keywords": {
       "environmental": 1
-    }
+    },
+    "sent": false
   },
   {
     "id": "https://www.glassdoor.com/job-listing/meteorologist-mmj-w-end-wbbj-gray-media-JV_IC1144353_KO0,28_KE29,39.htm?jl=1010033449809",
@@ -23687,7 +24033,9 @@
     "matched_keywords": {
       "weather": 1,
       "forecast": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.glassdoor.com/job-listing/meteorologist-w-end-wect-gray-media-JV_IC1139117_KO0,24_KE25,35.htm?jl=1010098785206",
@@ -23782,7 +24130,8 @@
     "description": "Municipal Associate - Outside Services",
     "url": "https://www.governmentjobs.com/jobs/5194121-0/municipal-associate-outside-services",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5339903-0/cemetery-maintenance-worker-grade-7-6",
@@ -23793,7 +24142,8 @@
     "description": "Cemetery Maintenance Worker (Grade 7/6)",
     "url": "https://www.governmentjobs.com/jobs/5339903-0/cemetery-maintenance-worker-grade-7-6",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340609-0/chief-executive-officer-mha-mobile-housing-authority",
@@ -23804,7 +24154,8 @@
     "description": "Chief Executive Officer - MHA (Mobile Housing Authority)",
     "url": "https://www.governmentjobs.com/jobs/5340609-0/chief-executive-officer-mha-mobile-housing-authority",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5341502-0/sanitation-worker",
@@ -23881,7 +24232,8 @@
     "description": "Substructure Cement Finisher",
     "url": "https://www.governmentjobs.com/jobs/5262615-0/substructure-cement-finisher",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5330136-0/peer-support-specialist",
@@ -23892,7 +24244,8 @@
     "description": "Peer Support Specialist",
     "url": "https://www.governmentjobs.com/jobs/5330136-0/peer-support-specialist",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=670&location=California&isTransfer=False&isPromotional=False",
@@ -23914,7 +24267,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=134&location=Colorado&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=6&location=Connecticut&isTransfer=False&isPromotional=False",
@@ -23925,7 +24279,8 @@
     "description": "6",
     "url": "https://www.governmentjobs.com/jobs?page=6&location=Connecticut&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337985-0/library-assistant-ops-information-services",
@@ -23949,7 +24304,9 @@
     "score": 3,
     "matched_keywords": {
       "gis": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340068-0/administrative-support-level-1-2-or-3",
@@ -23984,7 +24341,8 @@
     "description": "VECTOR CONTROL WORKER I AND II - DEPARTMENT OF HEALTH - HALAWA TO KALIHI, OAHU",
     "url": "https://www.governmentjobs.com/jobs/5281020-0/vector-control-worker-i-and-ii-department-of-health-halawa-to-kalihi-oahu",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5334584-0/civil-rights-coordinator-dot",
@@ -23995,7 +24353,8 @@
     "description": "CIVIL RIGHTS COORDINATOR (DOT)",
     "url": "https://www.governmentjobs.com/jobs/5334584-0/civil-rights-coordinator-dot",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337720-0/professional-worker-iii-med-quest-oahu-ohhi",
@@ -24006,7 +24365,8 @@
     "description": "PROFESSIONAL WORKER III (MED-QUEST) - OAHU (OHHI)",
     "url": "https://www.governmentjobs.com/jobs/5337720-0/professional-worker-iii-med-quest-oahu-ohhi",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5326281-0/information-technology-band-a-network-analyst-oahu",
@@ -25266,7 +25626,8 @@
     "description": "Temp Election Cycle Assistant",
     "url": "https://www.governmentjobs.com/jobs/5336876-0/temp-election-cycle-assistant",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5280813-0/accountant",
@@ -25277,7 +25638,8 @@
     "description": "Accountant",
     "url": "https://www.governmentjobs.com/jobs/5280813-0/accountant",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5326214-0/temporary-scalehouse-attendant",
@@ -25288,7 +25650,8 @@
     "description": "Temporary Scalehouse Attendant",
     "url": "https://www.governmentjobs.com/jobs/5326214-0/temporary-scalehouse-attendant",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5326218-0/temporary-scalehouse-attendant",
@@ -25299,7 +25662,8 @@
     "description": "Temporary Scalehouse Attendant",
     "url": "https://www.governmentjobs.com/jobs/5326218-0/temporary-scalehouse-attendant",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5302441-0/library-clerk-part-time",
@@ -25354,7 +25718,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=671&location=California&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5341308-0/water-pollution-control-facility-operator",
@@ -25365,7 +25730,8 @@
     "description": "Water Pollution Control Facility Operator",
     "url": "https://www.governmentjobs.com/jobs/5341308-0/water-pollution-control-facility-operator",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5341514-0/parks-and-recreation-program-assistant-part-time",
@@ -25376,7 +25742,8 @@
     "description": "Parks and Recreation Program Assistant - Part Time",
     "url": "https://www.governmentjobs.com/jobs/5341514-0/parks-and-recreation-program-assistant-part-time",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5341412-0/maintenance-worker-i",
@@ -25497,7 +25864,8 @@
     "description": "ORS SPECIALIST 1/2/3/4",
     "url": "https://www.governmentjobs.com/jobs/5337836-0/ors-specialist-1-2-3-4",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5337845-0/ors-manager-1",
@@ -25508,7 +25876,8 @@
     "description": "ORS MANAGER 1",
     "url": "https://www.governmentjobs.com/jobs/5337845-0/ors-manager-1",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5333335-0/administrative-coordinator-3",
@@ -26247,7 +26616,9 @@
       "atmospheric": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.glassdoor.com/job-listing/reporter-i-meteorologist-nexstar-media-group-JV_IC1140445_KO0,24_KE25,44.htm?jl=1010099331739",
@@ -26276,7 +26647,9 @@
       "weather": 1,
       "forecast": 1,
       "forecaster": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.glassdoor.com/job-listing/part-time-weather-forecaster-observer-redtown-technical-services-llc-JV_IC1130306_KO0,37_KE38,68.htm?jl=1010133387216",
@@ -26291,7 +26664,9 @@
       "weather": 1,
       "forecast": 1,
       "forecaster": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.glassdoor.com/job-listing/environmental-scientist-1-water-resources-jackson-tn-renaissance-therapy-group-JV_IC1144353_KO0,52_KE53,78.htm?jl=1010132156108",
@@ -26304,7 +26679,8 @@
     "score": 2,
     "matched_keywords": {
       "environmental": 1
-    }
+    },
+    "sent": false
   },
   {
     "id": "https://www.glassdoor.com/job-listing/meteorologist-fire-us-bureau-of-indian-affairs-JV_IC1151614_KO0,18_KE19,46.htm?jl=1010124923520",
@@ -26318,7 +26694,9 @@
     "matched_keywords": {
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.glassdoor.com/job-listing/physical-scientist-hydrologist-meteorologist-national-oceanic-atmospheric-administration-JV_IC1141503_KO0,44_KE45,88.htm?jl=1010121520385",
@@ -26333,7 +26711,9 @@
       "atmospheric": 1,
       "gis": 1,
       "meteorologist": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342479-0/public-safety-telecommunicator",
@@ -26344,7 +26724,8 @@
     "description": "PUBLIC SAFETY TELECOMMUNICATOR",
     "url": "https://www.governmentjobs.com/jobs/5342479-0/public-safety-telecommunicator",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342466-0/public-safety-telecommunicator-pt",
@@ -26355,7 +26736,8 @@
     "description": "PUBLIC SAFETY TELECOMMUNICATOR (PT)",
     "url": "https://www.governmentjobs.com/jobs/5342466-0/public-safety-telecommunicator-pt",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5321029-0/investigator-opr-city-of-mobile",
@@ -26388,7 +26770,8 @@
     "description": "Fish and Game Coordinator (PCN 111202)",
     "url": "https://www.governmentjobs.com/jobs/5342650-0/fish-and-game-coordinator-pcn-111202",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342484-0/seasonal-groundskeeper",
@@ -26399,7 +26782,8 @@
     "description": "Seasonal Groundskeeper",
     "url": "https://www.governmentjobs.com/jobs/5342484-0/seasonal-groundskeeper",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342459-0/librarian-talkeetna",
@@ -26410,7 +26794,8 @@
     "description": "Librarian \u2013 Talkeetna",
     "url": "https://www.governmentjobs.com/jobs/5342459-0/librarian-talkeetna",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342799-0/station-agent-denali-alaska-railroad",
@@ -26421,7 +26806,8 @@
     "description": "Station Agent - Denali (Alaska Railroad)",
     "url": "https://www.governmentjobs.com/jobs/5342799-0/station-agent-denali-alaska-railroad",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342820-0/fish-and-wildlife-technician-3-pcns-111127-111864",
@@ -26432,7 +26818,8 @@
     "description": "Fish and Wildlife Technician 3 (PCNs 111127 & 111864)",
     "url": "https://www.governmentjobs.com/jobs/5342820-0/fish-and-wildlife-technician-3-pcns-111127-111864",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=57&location=Alaska&isTransfer=False&isPromotional=False",
@@ -26443,7 +26830,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=57&location=Alaska&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342808-0/deputy-director-facilities-land-management",
@@ -26454,7 +26842,8 @@
     "description": "Deputy Director Facilities & Land Management",
     "url": "https://www.governmentjobs.com/jobs/5342808-0/deputy-director-facilities-land-management",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342823-0/title-examiner",
@@ -26465,7 +26854,8 @@
     "description": "Title Examiner",
     "url": "https://www.governmentjobs.com/jobs/5342823-0/title-examiner",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=93&location=Arizona&isTransfer=False&isPromotional=False",
@@ -26476,7 +26866,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=93&location=Arizona&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5328103-0/custodian-part-time",
@@ -26509,7 +26900,8 @@
     "description": "Addictions Counselor Trainee / Addictions Counselor I-III",
     "url": "https://www.governmentjobs.com/jobs/5341827-0/addictions-counselor-trainee-addictions-counselor-i-iii",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342722-0/agriculture-and-standards-inspector-i-ii-iii",
@@ -26586,7 +26978,8 @@
     "description": "\u25bb\u25bb",
     "url": "https://www.governmentjobs.com/jobs?page=254&location=Florida&isTransfer=False&isPromotional=False",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5341320-0/control-room-operator-sheriffs-office",
@@ -26597,7 +26990,8 @@
     "description": "Control Room Operator / Sheriff's Office",
     "url": "https://www.governmentjobs.com/jobs/5341320-0/control-room-operator-sheriffs-office",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5341844-0/gis-intern",
@@ -26610,7 +27004,9 @@
     "score": 3,
     "matched_keywords": {
       "gis": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342000-0/ph-registered-nurse-1-or-2",
@@ -26623,7 +27019,9 @@
     "score": 3,
     "matched_keywords": {
       "gis": 1
-    }
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5338258-0/utility-maintenance-supervisor",
@@ -26634,7 +27032,8 @@
     "description": "Utility Maintenance Supervisor",
     "url": "https://www.governmentjobs.com/jobs/5338258-0/utility-maintenance-supervisor",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5340386-0/nutrition-manager-lawrenceville-wic",
@@ -26645,7 +27044,8 @@
     "description": "Nutrition Manager - Lawrenceville WIC",
     "url": "https://www.governmentjobs.com/jobs/5340386-0/nutrition-manager-lawrenceville-wic",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342499-0/code-enforcement-officer",
@@ -26656,7 +27056,8 @@
     "description": "Code Enforcement Officer",
     "url": "https://www.governmentjobs.com/jobs/5342499-0/code-enforcement-officer",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs?page=176&location=Hawaii&isTransfer=False&isPromotional=False",
@@ -26733,7 +27134,8 @@
     "description": "CS Learning Assistant - Summer Student Employment",
     "url": "https://www.governmentjobs.com/jobs/5342206-0/cs-learning-assistant-summer-student-employment",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
   },
   {
     "id": "https://www.governmentjobs.com/jobs/5342318-0/west-end-research-coordinator",
@@ -26744,6 +27146,780 @@
     "description": "West End Research Coordinator",
     "url": "https://www.governmentjobs.com/jobs/5342318-0/west-end-research-coordinator",
     "score": 1,
-    "matched_keywords": {}
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-%2460-hr-remote-at-crossing-hurdles-4370632173?position=1&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=wqd3gDWf66QtD42EHEqvWA%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist | $60/hr Remote",
+    "company": "Crossing Hurdles",
+    "location": "United States",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-%2460-hr-remote-at-crossing-hurdles-4370632173?position=1&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=wqd3gDWf66QtD42EHEqvWA%3D%3D",
+    "score": 11,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/entry-level-nws-meteorologists-gs-5-9-at-nws-sacramento-and-across-the-nation-at-us-national-weather-service-sacramento-california-4407932166?position=3&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=ZA4WtidpiWBMawd%2F3Jhqeg%3D%3D",
+    "source": "LinkedIn",
+    "title": "Entry Level NWS Meteorologists GS 5-9 at NWS Sacramento and across the Nation",
+    "company": "US National Weather Service Sacramento California",
+    "location": "Sacramento, CA",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-nws-meteorologists-gs-5-9-at-nws-sacramento-and-across-the-nation-at-us-national-weather-service-sacramento-california-4407932166?position=3&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=ZA4WtidpiWBMawd%2F3Jhqeg%3D%3D",
+    "score": 19,
+    "matched_keywords": {
+      "weather": 1,
+      "nws": 1,
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/operational-meteorologist-at-bam-weather-4409712225?position=9&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=KS%2F%2Bt9yeSWSV7pCo1ElDEQ%3D%3D",
+    "source": "LinkedIn",
+    "title": "Operational Meteorologist",
+    "company": "BAM Weather",
+    "location": "Greenwood, IN",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/operational-meteorologist-at-bam-weather-4409712225?position=9&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=KS%2F%2Bt9yeSWSV7pCo1ElDEQ%3D%3D",
+    "score": 14,
+    "matched_keywords": {
+      "weather": 1,
+      "operational": 1,
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-shift-wed-sat-2pm-12am-ct-at-alertmedia-4410321334?position=12&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=7H%2Bx%2BNhlZSB3cNJwFOFgQw%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist (Shift Wed-Sat, 2pm-12am CT)",
+    "company": "AlertMedia",
+    "location": "Austin, Texas Metropolitan Area",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-shift-wed-sat-2pm-12am-ct-at-alertmedia-4410321334?position=12&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=7H%2Bx%2BNhlZSB3cNJwFOFgQw%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorology-intern-at-structural-integrity-associates-4404083734?position=14&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=54oWpN6joNJWQQ9JO1QJsQ%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorology Intern",
+    "company": "Structural Integrity Associates",
+    "location": "Rockdale, IL",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorology-intern-at-structural-integrity-associates-4404083734?position=14&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=54oWpN6joNJWQQ9JO1QJsQ%3D%3D",
+    "score": 2,
+    "matched_keywords": {
+      "meteorology": 1
+    },
+    "sent": false
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/operational-meteorologist-intern-at-bam-weather-4412642072?position=15&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=BXB0XxGm5rKPvuqW3iI7NQ%3D%3D",
+    "source": "LinkedIn",
+    "title": "Operational Meteorologist - Intern",
+    "company": "BAM Weather",
+    "location": "Greenwood, IN",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/operational-meteorologist-intern-at-bam-weather-4412642072?position=15&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=BXB0XxGm5rKPvuqW3iI7NQ%3D%3D",
+    "score": 14,
+    "matched_keywords": {
+      "weather": 1,
+      "operational": 1,
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/applied-climate-scientist-state-climatologist-at-rutgers-university-4393936533?position=17&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=i1wUujuJhbTh%2Fvt0SIv9Og%3D%3D",
+    "source": "LinkedIn",
+    "title": "Applied Climate Scientist/State Climatologist",
+    "company": "Rutgers University",
+    "location": "New Brunswick, NJ",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/applied-climate-scientist-state-climatologist-at-rutgers-university-4393936533?position=17&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=i1wUujuJhbTh%2Fvt0SIv9Og%3D%3D",
+    "score": 4,
+    "matched_keywords": {
+      "gis": 1,
+      "climate": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorology-intern-at-si-solutions-llc-4403963977?position=18&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=pC%2FyFqqjNXJxE7Q8qx%2BjRg%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorology Intern",
+    "company": "SI Solutions, LLC",
+    "location": "Rockdale, IL",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorology-intern-at-si-solutions-llc-4403963977?position=18&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=pC%2FyFqqjNXJxE7Q8qx%2BjRg%3D%3D",
+    "score": 2,
+    "matched_keywords": {
+      "meteorology": 1
+    },
+    "sent": false
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-ii-at-axiom-consultants-4382619003?position=26&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=7mzUZcXf%2BEFUe%2FgDAFUNhQ%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist II",
+    "company": "Axiom Consultants",
+    "location": "Sterling, VA",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-ii-at-axiom-consultants-4382619003?position=26&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=7mzUZcXf%2BEFUe%2FgDAFUNhQ%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-oahu-at-hawaiian-electric-4342897640?position=30&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=3M0Mr%2F8Ixj3uEnlQ4C%2B4RQ%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist - Oahu",
+    "company": "Hawaiian Electric",
+    "location": "Hawaii, United States",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-oahu-at-hawaiian-electric-4342897640?position=30&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=3M0Mr%2F8Ixj3uEnlQ4C%2B4RQ%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/weather-reporter-%2460-hr-remote-at-crossing-hurdles-4370612985?position=31&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=ln1muMzPT5EFlAebXZ1i1w%3D%3D",
+    "source": "LinkedIn",
+    "title": "Weather Reporter | $60/hr Remote",
+    "company": "Crossing Hurdles",
+    "location": "United States",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/weather-reporter-%2460-hr-remote-at-crossing-hurdles-4370612985?position=31&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=ln1muMzPT5EFlAebXZ1i1w%3D%3D",
+    "score": 3,
+    "matched_keywords": {
+      "weather": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/forecast-intern-at-surfline-wavetrak-inc-4409198579?position=32&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=mQ16RSbYVvTtoef4WSTBDg%3D%3D",
+    "source": "LinkedIn",
+    "title": "Forecast Intern",
+    "company": "Surfline\\Wavetrak, Inc.",
+    "location": "Los Angeles, CA",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/forecast-intern-at-surfline-wavetrak-inc-4409198579?position=32&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=mQ16RSbYVvTtoef4WSTBDg%3D%3D",
+    "score": 5,
+    "matched_keywords": {
+      "forecast": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-developer-at-lynker-4407968504?position=33&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=IoDOUqSp4Gc8tpUiM%2FcmxA%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist Developer",
+    "company": "Lynker",
+    "location": "College Park, MD",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-developer-at-lynker-4407968504?position=33&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=IoDOUqSp4Gc8tpUiM%2FcmxA%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/assistant-associate-or-full-research-meteorologist-at-uc-san-diego-academic-jobs-4372751078?position=35&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=syltiBuTWqD4aPgcEzs3nA%3D%3D",
+    "source": "LinkedIn",
+    "title": "Assistant, Associate, or Full Research Meteorologist",
+    "company": "UC San Diego Academic Jobs",
+    "location": "San Diego, CA",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/assistant-associate-or-full-research-meteorologist-at-uc-san-diego-academic-jobs-4372751078?position=35&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=syltiBuTWqD4aPgcEzs3nA%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/field-meteorologist-at-washington-state-university-4410278329?position=38&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=PuQRWtw%2FJzFV2070aZgHTg%3D%3D",
+    "source": "LinkedIn",
+    "title": "Field Meteorologist",
+    "company": "Washington State University",
+    "location": "Prosser, WA",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/field-meteorologist-at-washington-state-university-4410278329?position=38&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=PuQRWtw%2FJzFV2070aZgHTg%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-at-arizona-public-service-aps-4405387995?position=42&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=g3SlN4MiUq7eGvz927TsXw%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist",
+    "company": "Arizona Public Service - APS",
+    "location": "Greater Phoenix Area",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-at-arizona-public-service-aps-4405387995?position=42&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=g3SlN4MiUq7eGvz927TsXw%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/research-and-training-meteorologist-for-international-desks-bilingual-at-lynker-4396386152?position=44&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=Drf5JysakmR%2BRqE7uR4AjA%3D%3D",
+    "source": "LinkedIn",
+    "title": "Research and Training Meteorologist for International Desks - Bilingual",
+    "company": "Lynker",
+    "location": "College Park, MD",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/research-and-training-meteorologist-for-international-desks-bilingual-at-lynker-4396386152?position=44&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=Drf5JysakmR%2BRqE7uR4AjA%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-at-air-force-research-laboratory-4386941047?position=57&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=AkozFq1ciG1LaqsPGsBCyA%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist",
+    "company": "Air Force Research Laboratory",
+    "location": "Dayton, OH",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-at-air-force-research-laboratory-4386941047?position=57&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=AkozFq1ciG1LaqsPGsBCyA%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-at-wmur-tv-4410126208?position=58&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=6CL4Wdg4KJDuKShmyo5lZA%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist",
+    "company": "WMUR-TV",
+    "location": "Manchester, NH",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-at-wmur-tv-4410126208?position=58&pageNum=0&refId=ntUx982dPONOFZwf6oRLKg%3D%3D&trackingId=6CL4Wdg4KJDuKShmyo5lZA%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/pharmaceutical-scientist-remote-at-stem-sync-ai-4404733220?position=36&pageNum=0&refId=JBanUp3D7yDFG1TIUS1Vrw%3D%3D&trackingId=VILA6smwZQ1%2BgbdiQokVVQ%3D%3D",
+    "source": "LinkedIn",
+    "title": "Pharmaceutical Scientist | Remote",
+    "company": "STEM Sync AI",
+    "location": "United States",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/pharmaceutical-scientist-remote-at-stem-sync-ai-4404733220?position=36&pageNum=0&refId=JBanUp3D7yDFG1TIUS1Vrw%3D%3D&trackingId=VILA6smwZQ1%2BgbdiQokVVQ%3D%3D",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/research-scientist-ii-the-school-of-earth-and-atmospheric-sciences-lozier-georgia-tech-JV_IC1155583_KO0,73_KE74,86.htm?jl=1010132404410",
+    "source": "Glassdoor",
+    "title": "Research Scientist II The School of Earth and Atmospheric Sciences (Lozier)",
+    "company": "Georgia Tech",
+    "location": "Atlanta, GA",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/research-scientist-ii-the-school-of-earth-and-atmospheric-sciences-lozier-georgia-tech-JV_IC1155583_KO0,73_KE74,86.htm?jl=1010132404410",
+    "score": 5,
+    "matched_keywords": {
+      "atmospheric": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/atmospheric-scientist-ai-trainer-dataannotation-JV_IC1155582_KO0,32_KE33,47.htm?jl=1010108476646",
+    "source": "Glassdoor",
+    "title": "Atmospheric Scientist - AI Trainer",
+    "company": "DataAnnotation",
+    "location": "Alpharetta, GA",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/atmospheric-scientist-ai-trainer-dataannotation-JV_IC1155582_KO0,32_KE33,47.htm?jl=1010108476646",
+    "score": 5,
+    "matched_keywords": {
+      "atmospheric": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/atmospheric-scientist-ai-trainer-dataannotation-JV_IC1155193_KO0,32_KE33,47.htm?jl=1010108476642",
+    "source": "Glassdoor",
+    "title": "Atmospheric Scientist - AI Trainer",
+    "company": "DataAnnotation",
+    "location": "Greenville, SC",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/atmospheric-scientist-ai-trainer-dataannotation-JV_IC1155193_KO0,32_KE33,47.htm?jl=1010108476642",
+    "score": 5,
+    "matched_keywords": {
+      "atmospheric": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/atmospheric-scientist-ai-trainer-dataannotation-JV_IC1134930_KO0,32_KE33,47.htm?jl=1010108476635",
+    "source": "Glassdoor",
+    "title": "Atmospheric Scientist - AI Trainer",
+    "company": "DataAnnotation",
+    "location": "Lansing, MI",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/atmospheric-scientist-ai-trainer-dataannotation-JV_IC1134930_KO0,32_KE33,47.htm?jl=1010108476635",
+    "score": 5,
+    "matched_keywords": {
+      "atmospheric": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/ml-scientist-atmospheric-science-verisk-JV_IC1154532_KO0,32_KE33,39.htm?jl=1010114586267",
+    "source": "Glassdoor",
+    "title": "ML Scientist (Atmospheric Science)",
+    "company": "Verisk",
+    "location": "Boston, MA",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/ml-scientist-atmospheric-science-verisk-JV_IC1154532_KO0,32_KE33,39.htm?jl=1010114586267",
+    "score": 7,
+    "matched_keywords": {
+      "atmospheric": 1,
+      "risk": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/research-scientist-engineer-4-atmospheric-scientist-university-of-washington-JV_IC1150505_KO0,51_KE52,76.htm?jl=1010126951686",
+    "source": "Glassdoor",
+    "title": "Research Scientist Engineer 4: Atmospheric Scientist",
+    "company": "University of Washington",
+    "location": "Seattle, WA",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/research-scientist-engineer-4-atmospheric-scientist-university-of-washington-JV_IC1150505_KO0,51_KE52,76.htm?jl=1010126951686",
+    "score": 5,
+    "matched_keywords": {
+      "atmospheric": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/postdoctoral-scholar-climate-related-exposures-environmental-and-occupational-health-sciences-university-of-washington-JV_IC1150505_KO0,93_KE94,118.htm?jl=1010111682825",
+    "source": "Glassdoor",
+    "title": "Postdoctoral Scholar: Climate-Related Exposures, Environmental and Occupational Health Sciences",
+    "company": "University of Washington",
+    "location": "Seattle, WA",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/postdoctoral-scholar-climate-related-exposures-environmental-and-occupational-health-sciences-university-of-washington-JV_IC1150505_KO0,93_KE94,118.htm?jl=1010111682825",
+    "score": 4,
+    "matched_keywords": {
+      "climate": 1,
+      "environmental": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/hydrologist-dewberry-JV_IC1148170_KO0,11_KE12,20.htm?jl=1010104435780",
+    "source": "Glassdoor",
+    "title": "Hydrologist",
+    "company": "Dewberry",
+    "location": "Denver, CO",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/hydrologist-dewberry-JV_IC1148170_KO0,11_KE12,20.htm?jl=1010104435780",
+    "score": 2,
+    "matched_keywords": {
+      "gis": 1
+    },
+    "sent": false
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/postdoctoral-fellow-school-of-earth-and-atmospheric-sciences-ito-georgia-tech-JV_IC1155583_KO0,64_KE65,77.htm?jl=1010108064067",
+    "source": "Glassdoor",
+    "title": "Postdoctoral Fellow School of Earth and Atmospheric Sciences (Ito)",
+    "company": "Georgia Tech",
+    "location": "Atlanta, GA",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/postdoctoral-fellow-school-of-earth-and-atmospheric-sciences-ito-georgia-tech-JV_IC1155583_KO0,64_KE65,77.htm?jl=1010108064067",
+    "score": 5,
+    "matched_keywords": {
+      "atmospheric": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/wildfire-scientist-impact-forecasting-aon-JV_IC1154532_KO0,37_KE38,41.htm?jl=1010119490104",
+    "source": "Glassdoor",
+    "title": "Wildfire Scientist - Impact Forecasting",
+    "company": "Aon",
+    "location": "Boston, MA",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/wildfire-scientist-impact-forecasting-aon-JV_IC1154532_KO0,37_KE38,41.htm?jl=1010119490104",
+    "score": 5,
+    "matched_keywords": {
+      "forecast": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5338136-0/payroll-specialist-prichard-water-works-and-sewer-board",
+    "source": "StateBoard:Alabama",
+    "title": "Payroll Specialist (Prichard Water Works and Sewer Board)",
+    "company": "Alabama",
+    "location": "Alabama",
+    "description": "Payroll Specialist (Prichard Water Works and Sewer Board)",
+    "url": "https://www.governmentjobs.com/jobs/5338136-0/payroll-specialist-prichard-water-works-and-sewer-board",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5342072-0/airport-operations-officer-seasonal",
+    "source": "StateBoard:Alabama",
+    "title": "Airport Operations Officer (Seasonal)",
+    "company": "Alabama",
+    "location": "Alabama",
+    "description": "Airport Operations Officer (Seasonal)",
+    "url": "https://www.governmentjobs.com/jobs/5342072-0/airport-operations-officer-seasonal",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5342774-0/deputy-public-fiduciary",
+    "source": "StateBoard:Arizona",
+    "title": "Deputy Public Fiduciary",
+    "company": "Arizona",
+    "location": "Arizona",
+    "description": "Deputy Public Fiduciary",
+    "url": "https://www.governmentjobs.com/jobs/5342774-0/deputy-public-fiduciary",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5342961-0/rocket-admission-specialist",
+    "source": "StateBoard:Arkansas",
+    "title": "Rocket Admission Specialist",
+    "company": "Arkansas",
+    "location": "Arkansas",
+    "description": "Rocket Admission Specialist",
+    "url": "https://www.governmentjobs.com/jobs/5342961-0/rocket-admission-specialist",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5342988-0/head-baseball-coach",
+    "source": "StateBoard:Arkansas",
+    "title": "Head Baseball Coach",
+    "company": "Arkansas",
+    "location": "Arkansas",
+    "description": "Head Baseball Coach",
+    "url": "https://www.governmentjobs.com/jobs/5342988-0/head-baseball-coach",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5341748-0/cook",
+    "source": "StateBoard:California",
+    "title": "Cook",
+    "company": "California",
+    "location": "California",
+    "description": "Cook",
+    "url": "https://www.governmentjobs.com/jobs/5341748-0/cook",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5329396-0/community-development-department-division-director-cannabis",
+    "source": "StateBoard:California",
+    "title": "Community Development Department Division Director - Cannabis",
+    "company": "California",
+    "location": "California",
+    "description": "Community Development Department Division Director - Cannabis",
+    "url": "https://www.governmentjobs.com/jobs/5329396-0/community-development-department-division-director-cannabis",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5329393-0/human-resources-technician",
+    "source": "StateBoard:California",
+    "title": "Human Resources Technician",
+    "company": "California",
+    "location": "California",
+    "description": "Human Resources Technician",
+    "url": "https://www.governmentjobs.com/jobs/5329393-0/human-resources-technician",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5308936-0/correctional-officer-female",
+    "source": "StateBoard:California",
+    "title": "Correctional Officer - Female",
+    "company": "California",
+    "location": "California",
+    "description": "Correctional Officer - Female",
+    "url": "https://www.governmentjobs.com/jobs/5308936-0/correctional-officer-female",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs?page=84&location=Georgia&isTransfer=False&isPromotional=False",
+    "source": "StateBoard:Georgia",
+    "title": "\u25bb\u25bb",
+    "company": "Georgia",
+    "location": "Georgia",
+    "description": "\u25bb\u25bb",
+    "url": "https://www.governmentjobs.com/jobs?page=84&location=Georgia&isTransfer=False&isPromotional=False",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5336112-0/library-assistant-iii-shift-work-kaunakakai-molokai",
+    "source": "StateBoard:Hawaii",
+    "title": "LIBRARY ASSISTANT III - SHIFT WORK - KAUNAKAKAI, MOLOKA'I",
+    "company": "Hawaii",
+    "location": "Hawaii",
+    "description": "LIBRARY ASSISTANT III - SHIFT WORK - KAUNAKAKAI, MOLOKA'I",
+    "url": "https://www.governmentjobs.com/jobs/5336112-0/library-assistant-iii-shift-work-kaunakakai-molokai",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5273767-0/public-works-seasonal-maintenance",
+    "source": "StateBoard:Idaho",
+    "title": "Public Works Seasonal Maintenance",
+    "company": "Idaho",
+    "location": "Idaho",
+    "description": "Public Works Seasonal Maintenance",
+    "url": "https://www.governmentjobs.com/jobs/5273767-0/public-works-seasonal-maintenance",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5341433-0/data-analyst-institutional-research",
+    "source": "StateBoard:Idaho",
+    "title": "Data Analyst, Institutional Research",
+    "company": "Idaho",
+    "location": "Idaho",
+    "description": "Data Analyst, Institutional Research",
+    "url": "https://www.governmentjobs.com/jobs/5341433-0/data-analyst-institutional-research",
+    "score": 5,
+    "matched_keywords": {
+      "analyst": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5342983-0/resident-assistant-1-naperville-gh",
+    "source": "StateBoard:Illinois",
+    "title": "Resident Assistant 1 - Naperville GH",
+    "company": "Illinois",
+    "location": "Illinois",
+    "description": "Resident Assistant 1 - Naperville GH",
+    "url": "https://www.governmentjobs.com/jobs/5342983-0/resident-assistant-1-naperville-gh",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs?page=15&location=Indiana&isTransfer=False&isPromotional=False",
+    "source": "StateBoard:Indiana",
+    "title": "\u25bb\u25bb",
+    "company": "Indiana",
+    "location": "Indiana",
+    "description": "\u25bb\u25bb",
+    "url": "https://www.governmentjobs.com/jobs?page=15&location=Indiana&isTransfer=False&isPromotional=False",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5322197-0/security-officer-on-call",
+    "source": "StateBoard:Iowa",
+    "title": "SECURITY OFFICER (ON-CALL)",
+    "company": "Iowa",
+    "location": "Iowa",
+    "description": "SECURITY OFFICER (ON-CALL)",
+    "url": "https://www.governmentjobs.com/jobs/5322197-0/security-officer-on-call",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5341605-0/airport-building-and-utilities-supervisor",
+    "source": "StateBoard:Kansas",
+    "title": "AIRPORT BUILDING AND UTILITIES SUPERVISOR",
+    "company": "Kansas",
+    "location": "Kansas",
+    "description": "AIRPORT BUILDING AND UTILITIES SUPERVISOR",
+    "url": "https://www.governmentjobs.com/jobs/5341605-0/airport-building-and-utilities-supervisor",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5339685-0/fire-clerk-typist-i",
+    "source": "StateBoard:Kentucky",
+    "title": "Fire Clerk Typist I",
+    "company": "Kentucky",
+    "location": "Kentucky",
+    "description": "Fire Clerk Typist I",
+    "url": "https://www.governmentjobs.com/jobs/5339685-0/fire-clerk-typist-i",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5342303-0/library-courier-lu",
+    "source": "StateBoard:Kentucky",
+    "title": "Library Courier LU",
+    "company": "Kentucky",
+    "location": "Kentucky",
+    "description": "Library Courier LU",
+    "url": "https://www.governmentjobs.com/jobs/5342303-0/library-courier-lu",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5341727-0/probation-and-parole-officer-1-2-or-3-adult",
+    "source": "StateBoard:Louisiana",
+    "title": "PROBATION AND PAROLE OFFICER 1, 2 or 3 - ADULT",
+    "company": "Louisiana",
+    "location": "Louisiana",
+    "description": "PROBATION AND PAROLE OFFICER 1, 2 or 3 - ADULT",
+    "url": "https://www.governmentjobs.com/jobs/5341727-0/probation-and-parole-officer-1-2-or-3-adult",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5342953-0/audit-coordinator-specialist",
+    "source": "StateBoard:Louisiana",
+    "title": "AUDIT COORDINATOR SPECIALIST",
+    "company": "Louisiana",
+    "location": "Louisiana",
+    "description": "AUDIT COORDINATOR SPECIALIST",
+    "url": "https://www.governmentjobs.com/jobs/5342953-0/audit-coordinator-specialist",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5339976-0/communications-officer-manager-1",
+    "source": "StateBoard:Louisiana",
+    "title": "Communications Officer Manager 1",
+    "company": "Louisiana",
+    "location": "Louisiana",
+    "description": "Communications Officer Manager 1",
+    "url": "https://www.governmentjobs.com/jobs/5339976-0/communications-officer-manager-1",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5341735-0/district-sign-specialist-leader",
+    "source": "StateBoard:Louisiana",
+    "title": "DISTRICT SIGN SPECIALIST LEADER",
+    "company": "Louisiana",
+    "location": "Louisiana",
+    "description": "DISTRICT SIGN SPECIALIST LEADER",
+    "url": "https://www.governmentjobs.com/jobs/5341735-0/district-sign-specialist-leader",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5340060-0/social-services-analyst-1-2-3-child-support-enforcement-lake-charles-region",
+    "source": "StateBoard:Louisiana",
+    "title": "Social Services Analyst 1/2/3 (Child Support Enforcement - Lake Charles Region)",
+    "company": "Louisiana",
+    "location": "Louisiana",
+    "description": "Social Services Analyst 1/2/3 (Child Support Enforcement - Lake Charles Region)",
+    "url": "https://www.governmentjobs.com/jobs/5340060-0/social-services-analyst-1-2-3-child-support-enforcement-lake-charles-region",
+    "score": 5,
+    "matched_keywords": {
+      "analyst": 1
+    },
+    "sent": true,
+    "sent_at": "2026-05-14T14:02:00.034212Z"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5341586-0/tourism-information-counselor-1-wae",
+    "source": "StateBoard:Louisiana",
+    "title": "Tourism Information Counselor 1 WAE",
+    "company": "Louisiana",
+    "location": "Louisiana",
+    "description": "Tourism Information Counselor 1 WAE",
+    "url": "https://www.governmentjobs.com/jobs/5341586-0/tourism-information-counselor-1-wae",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false
   }
 ]
