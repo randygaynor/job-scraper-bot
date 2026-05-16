@@ -41,3 +41,28 @@ def extract_resume_keywords(text):
 
     keywords.update(tokens & support_tokens)
     return sorted(keywords)
+
+
+def normalize_url(url: str) -> str:
+    if not url:
+        return ""
+    url = url.strip()
+    # remove query params and fragments
+    parts = url.split("?")[0].split('#')[0]
+    # remove trailing slash
+    if parts.endswith("/"):
+        parts = parts[:-1]
+    return parts.lower()
+
+
+def job_fingerprint(job: dict) -> str:
+    """Create a stable fingerprint for a job using URL when available,
+    otherwise fall back to title|company|location normalized."""
+    url = job.get("url") or job.get("id")
+    norm = normalize_url(url) if url else ""
+    if norm:
+        return norm
+    title = (job.get("title") or "").strip().lower()
+    company = (job.get("company") or "").strip().lower()
+    location = (job.get("location") or "").strip().lower()
+    return "|".join([title, company, location])

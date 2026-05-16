@@ -114,7 +114,7 @@ def run_once():
         if EmailSender.can_send():
             try:
                 EmailSender.send_digest()
-                storage.mark_jobs_as_sent([job["id"] for job in mail_jobs])
+                storage.mark_jobs_as_sent(mail_jobs)
                 print("Email digest sent successfully.")
             except Exception as exc:
                 print(f"Email send failed: {exc}")
