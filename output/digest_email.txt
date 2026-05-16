@@ -4,24 +4,8 @@ Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-05-16 14:55:51 UTC
-  End: 2026-05-16 15:10:49 UTC
-  Runtime: 14m 57s
-  Sources with email jobs: StateBoard:Alaska, StateBoard:Hawaii, StateBoard:Michigan
-  Fetched: 1007 | Considered: 520 | Matched: 437 | Mailed: 4
-
-Project Analyst (PCN 06T003) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5344529-0/project-analyst-pcn-06t003
-Score: 5 | Matched: analyst
-
-Departmental Analyst 12 - Communication, Connections and Navigation Analyst - BCCHPS | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5344625-0/departmental-analyst-12-communication-connections-and-navigation-analyst-bcc
-Score: 5 | Matched: analyst
-
-Departmental Analyst 9-P11/CIP Business Services | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5297077-0/departmental-analyst-9-p11-cip-business-services
-Score: 5 | Matched: analyst
-
-ENTOMOLOGIST IV - OAHU (OHHI) | Hawaii | Hawaii
-URL: https://www.governmentjobs.com/jobs/5342121-0/entomologist-iv-oahu-ohhi
-Score: 3 | Matched: gis
+  Start: 2026-05-16 15:27:21 UTC
+  End: 2026-05-16 15:48:23 UTC
+  Runtime: 21m 1s
+  Sources with email jobs: None
+  Fetched: 523 | Considered: 276 | Matched: 199 | Mailed: 0
