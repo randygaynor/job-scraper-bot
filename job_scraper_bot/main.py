@@ -110,6 +110,26 @@ def run_once():
     generator.write_text()
     generator.write_email()
 
+    # Weather summary: build and send a separate email with condensed weather info
+    try:
+        from job_scraper_bot.weather_summary import WeatherSummaryGenerator
+
+        weather = WeatherSummaryGenerator()
+        weather.build()
+        weather.write_html()
+        weather.write_text()
+        weather.write_email()
+        if EmailSender.can_send():
+            try:
+                EmailSender.send_file(WEATHER_TEXT_FILE, html_file=WEATHER_HTML_FILE, subject=f"Weather Summary - {datetime.utcnow().strftime('%Y-%m-%d')}")
+                print("Weather summary email sent successfully.")
+            except Exception as exc:
+                print(f"Weather email send failed: {exc}")
+        else:
+            print("Weather email not sent: SMTP credentials are not configured in environment variables.")
+    except Exception as exc:
+        print(f"Weather summary generation failed: {exc}")
+
     if mail_jobs:
         if EmailSender.can_send():
             try:

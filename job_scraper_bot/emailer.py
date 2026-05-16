@@ -13,6 +13,7 @@ from job_scraper_bot.config import (
     DIGEST_HTML_FILE,
     DIGEST_TEXT_FILE,
 )
+from job_scraper_bot.config import WEATHER_HTML_FILE, WEATHER_TEXT_FILE, WEATHER_EMAIL_FILE
 
 
 class EmailSender:
@@ -35,6 +36,38 @@ class EmailSender:
             message.add_alternative(html, subtype="html")
 
         return message
+
+    @classmethod
+    def send_file(cls, text_file, html_file=None, subject=None):
+        if not cls.can_send():
+            raise RuntimeError("Email credentials are not configured.")
+
+        message = EmailMessage()
+        if subject:
+            message["Subject"] = subject
+        else:
+            message["Subject"] = f"Automated Message - {datetime.now().strftime('%Y-%m-%d')}"
+        message["From"] = EMAIL_FROM or EMAIL_USERNAME
+        message["To"] = EMAIL_TO
+
+        # plain text
+        body = "No content available."
+        if os.path.exists(text_file):
+            with open(text_file, "r", encoding="utf-8") as handle:
+                body = handle.read()
+        message.set_content(body)
+
+        # HTML alternative
+        if html_file and os.path.exists(html_file):
+            with open(html_file, "r", encoding="utf-8") as handle:
+                html = handle.read()
+            message.add_alternative(html, subtype="html")
+
+        with smtplib.SMTP(EMAIL_HOST, EMAIL_PORT, timeout=60) as smtp:
+            if EMAIL_USE_TLS:
+                smtp.starttls()
+            smtp.login(EMAIL_USERNAME, EMAIL_PASSWORD)
+            smtp.send_message(message)
 
     @classmethod
     def _load_plain_text(cls):
