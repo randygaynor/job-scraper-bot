@@ -44,6 +44,8 @@ jobs:
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          # Optional: enable AI weather summaries. Add OPENAI_API_KEY to repository secrets to enable.
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python -m job_scraper_bot.main --run-once
 
       - name: Commit output files

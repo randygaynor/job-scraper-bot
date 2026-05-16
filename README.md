@@ -53,6 +53,17 @@ $env:EMAIL_FROM = "your@gmail.com"
 $env:EMAIL_TO = "rcg19fsu@gmail.com"
 ```
 
+7. (Optional) Enable AI weather summaries
+
+If you want an AI-written weather overview (concise narrative + bullet takeaways), add an OpenAI API key as an environment variable before running, or add it to your GitHub Actions secrets as `OPENAI_API_KEY`.
+
+```powershell
+$env:OPENAI_API_KEY = "sk-..."
+$env:WEATHER_USE_AI_SUMMARY = "true"
+```
+
+By default the AI model used is `gpt-4o-mini`. To override the model, set `WEATHER_AI_MODEL`.
+
 **See [EMAIL_SETUP.md](EMAIL_SETUP.md) for detailed Gmail configuration steps.**
 
 6. Run the bot once manually:
@@ -88,6 +99,7 @@ git push -u origin main
    - `EMAIL_PASSWORD` = your App Password
    - `EMAIL_FROM` = your Gmail address
    - `EMAIL_TO` = `your email`
+   - (Optional) `OPENAI_API_KEY` = your OpenAI API key (enable AI weather summaries)
 
 4. The workflow in `.github/workflows/scraper.yml` will automatically run daily at 21:00 UTC (adjust the cron schedule if needed).
 

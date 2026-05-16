@@ -226,3 +226,6 @@ STATE_BOARD_QUERY_STATES = [
 STATE_BOARD_URLS = {
     "State": "https://www.governmentjobs.com/jobs?keyword=&location="
 }
+# Weather summary AI options
+WEATHER_USE_AI_SUMMARY = os.getenv("WEATHER_USE_AI_SUMMARY", "false").lower() in ("1", "true", "yes")
+WEATHER_AI_MODEL = os.getenv("WEATHER_AI_MODEL", "gpt-4o-mini")

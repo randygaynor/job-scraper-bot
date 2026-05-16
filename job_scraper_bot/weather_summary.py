@@ -1,7 +1,18 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-from job_scraper_bot.config import WEATHER_HTML_FILE, WEATHER_TEXT_FILE, WEATHER_EMAIL_FILE
+from job_scraper_bot.config import (
+    WEATHER_HTML_FILE,
+    WEATHER_TEXT_FILE,
+    WEATHER_EMAIL_FILE,
+    WEATHER_USE_AI_SUMMARY,
+    WEATHER_AI_MODEL,
+)
+try:
+    import openai
+except Exception:
+    openai = None
 
 
 class WeatherSummaryGenerator:
@@ -51,6 +62,32 @@ class WeatherSummaryGenerator:
         sentences = [s.strip() for s in sentences if s.strip()]
         return " ".join(sentences[:max_sentences])
 
+    def _ai_summarize_section(self, title, headlines, fallback_summary):
+        if not WEATHER_USE_AI_SUMMARY or openai is None:
+            return fallback_summary
+        api_key = os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            return fallback_summary
+        try:
+            openai.api_key = api_key
+            prompt = (
+                f"You are a concise meteorology-aware assistant.\n\nSection: {title}\n\n"
+                "Given the following headlines, produce:\n"
+                "1) a 2-3 sentence plain-text summary, and\n"
+                "2) a short list of 2-4 actionable bullet takeaways.\n\n"
+                "Headlines:\n" + "\n".join(f"- {h}" for h in headlines)
+            )
+            response = openai.ChatCompletion.create(
+                model=WEATHER_AI_MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=300,
+                temperature=0.2,
+            )
+            text = response["choices"][0]["message"]["content"].strip()
+            return text
+        except Exception:
+            return fallback_summary
+
     def build(self):
         # NHC - National Hurricane Center
         nhc_html = self._fetch("https://www.nhc.noaa.gov/")
@@ -70,6 +107,11 @@ class WeatherSummaryGenerator:
         noaa_headlines = self._extract_headlines(noaa_html, selectors=[".views-row h3", ".top-stories__headline"], fallback=5)
         noaa_summary = self._summarize_simple(noaa_headlines, max_sentences=3)
         self.sections.append({"title": "NOAA Top Stories", "headlines": noaa_headlines, "summary": noaa_summary, "source": "https://www.noaa.gov/"})
+        # If configured, run AI summarization per section
+        if WEATHER_USE_AI_SUMMARY:
+            for sec in self.sections:
+                sec_fallback = sec.get("summary", "")
+                sec["summary"] = self._ai_summarize_section(sec.get("title", ""), sec.get("headlines", []), sec_fallback)
 
     def write_text(self):
         lines = [f"Weather Summary - {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}", ""]
