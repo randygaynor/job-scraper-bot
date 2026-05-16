@@ -1,136 +1,24 @@
 Job Digest - 2026-05-16
 
 Summary:
-  Start: 2026-05-16 08:51:05 UTC
-  End: 2026-05-16 09:06:12 UTC
-  Runtime: 15m 7s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Alabama, StateBoard:Georgia, StateBoard:Missouri, StateBoard:Oregon, StateBoard:Pennsylvania
-  Fetched: 1054 | Considered: 572 | Matched: 504 | Mailed: 32
+  Start: 2026-05-16 14:55:51 UTC
+  End: 2026-05-16 15:10:49 UTC
+  Runtime: 14m 57s
+  Sources with email jobs: StateBoard:Alaska, StateBoard:Hawaii, StateBoard:Michigan
+  Fetched: 1007 | Considered: 520 | Matched: 437 | Mailed: 4
 
-Entry Level NWS Meteorologists GS 5-9 at NWS Sacramento and across the Nation | US National Weather Service Sacramento California | Sacramento, CA
-Score: 19 | URL: https://www.linkedin.com/jobs/view/entry-level-nws-meteorologists-gs-5-9-at-nws-sacramento-and-across-the-nation-at-us-national-weather-service-sacramento-california-4407932166?position=3&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=VnNiPqyNPwSbfuba4UaMmA%3D%3D
-Matched: weather, nws, gis, meteorologist
-
-Operational Meteorologist | BAM Weather | Greenwood, IN
-Score: 14 | URL: https://www.linkedin.com/jobs/view/operational-meteorologist-at-bam-weather-4409712225?position=11&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=KZvKG5ysMd%2Bra1Gt38J1tw%3D%3D
-Matched: weather, operational, gis, meteorologist
-
-Operational Meteorologist - Intern | BAM Weather | Greenwood, IN
-Score: 14 | URL: https://www.linkedin.com/jobs/view/operational-meteorologist-intern-at-bam-weather-4412642072?position=14&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=2Eze3rCBMBHPtc4SRubJeg%3D%3D
-Matched: weather, operational, gis, meteorologist
-
-Meteorologist | $60/hr Remote | Crossing Hurdles | United States
-Score: 11 | URL: https://www.linkedin.com/jobs/view/meteorologist-%2460-hr-remote-at-crossing-hurdles-4370632173?position=1&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=aWcz4iDsRv1MwNvHfZGDHw%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist (Shift Wed-Sat, 2pm-12am CT) | AlertMedia | United States
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-shift-wed-sat-2pm-12am-ct-at-alertmedia-4410321334?position=4&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=1v5iRWyWmmDWbHCJkakLHQ%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | RG&T Solutions | Elizabeth, CO
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4415131501?position=8&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=LeRdwdbBNFSlRnAd1oIKEA%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | RG&T Solutions | Huntingdon, TN
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4415129555?position=12&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=HZLbaYEOY7gVwg8v4LGyjw%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | RG&T Solutions | Gaithersburg, MD
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4415130498?position=15&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=Cclw0YLUMInAbBE%2BD5KSuQ%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | RG&T Solutions | Summit, NJ
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4415141294?position=18&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=qz1AUg1KF8p6MJoCbzCsRg%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | RG&T Solutions | Arnolds Park, IA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4415148035?position=22&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=XlPq%2FyZ7lUmyfJ7s6BblgA%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | National Association of Black Journalists (NABJ) | Manchester, CA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-national-association-of-black-journalists-nabj-4414926241?position=23&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=oRn8bVwroBXFXdnDcb0v%2BA%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | val's services | Artesia, NM
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4415590636?position=30&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=YPA0H%2BM%2BvXbJZD4P%2B6%2BvbQ%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist II | Axiom Consultants | Sterling, VA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-ii-at-axiom-consultants-4382619003?position=34&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=swybD1M89N%2FwxVA9hbExtA%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist - Oahu | Hawaiian Electric | Hawaii, United States
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-oahu-at-hawaiian-electric-4342897640?position=37&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=yu7pUDN9hFBlpXL0N1%2FMdg%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | val's services | La Junta, CO
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4415595197?position=38&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=D6GcgfZFP95RGlLegJoVdQ%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | val's services | Shoreview, MN
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4415589624?position=40&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=NR9ajWpgwF%2FqGGSOIRADxA%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist Developer | Lynker | College Park, MD
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-developer-at-lynker-4407968504?position=45&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=rSgmPLBdkqLescxuI0X2eQ%3D%3D
-Matched: gis, meteorologist
-
-Assistant, Associate, or Full Research Meteorologist | UC San Diego Academic Jobs | San Diego, CA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/assistant-associate-or-full-research-meteorologist-at-uc-san-diego-academic-jobs-4372751078?position=47&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=Y4qIGtiSTM2dEOwwBfEKNg%3D%3D
-Matched: gis, meteorologist
-
-Field Meteorologist | Washington State University | Prosser, WA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/field-meteorologist-at-washington-state-university-4410278329?position=49&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=o1Y7ZZSccDCQJbvNWKlqHQ%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | Arizona Public Service - APS | Greater Phoenix Area
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-arizona-public-service-aps-4405387995?position=51&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=jlFGw%2BU%2FzDXz3TXWaZBXvg%3D%3D
-Matched: gis, meteorologist
-
-Research and Training Meteorologist for International Desks - Bilingual | Lynker | College Park, MD
-Score: 10 | URL: https://www.linkedin.com/jobs/view/research-and-training-meteorologist-for-international-desks-bilingual-at-lynker-4396386152?position=55&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=s65KcE6Xe259q608xbJoTg%3D%3D
-Matched: gis, meteorologist
-
-Staff Scientist - Extreme Weather, Predictability & AI/ML Forecasting | Lawrence Berkeley Lab | San Francisco, CA
-Score: 7 | URL: https://www.glassdoor.com/job-listing/staff-scientist-extreme-weather-predictability-ai-ml-forecasting-lawrence-berkeley-lab-JV_IC1147401_KO0,64_KE65,86.htm?jl=1010128371046
-Matched: weather, forecast
-
-Forecast Intern | Surfline\Wavetrak, Inc. | Los Angeles, CA
-Score: 5 | URL: https://www.linkedin.com/jobs/view/forecast-intern-at-surfline-wavetrak-inc-4409198579?position=42&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=EL8UtL9OGHmse%2FyEjHRRMg%3D%3D
-Matched: forecast
-
-Economic Development Specialist (Management Analyst 2) - Community and Economic Development | Oregon | Oregon
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5325649-0/economic-development-specialist-management-analyst-2-community-and-economic-d
+Project Analyst (PCN 06T003) | Alaska | Alaska
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5344529-0/project-analyst-pcn-06t003
 Matched: analyst
 
-Research Analyst | Pennsylvania | Pennsylvania
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5345339-0/research-analyst
+Departmental Analyst 12 - Communication, Connections and Navigation Analyst - BCCHPS | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5344625-0/departmental-analyst-12-communication-connections-and-navigation-analyst-bcc
 Matched: analyst
 
-Applied Climate Scientist/State Climatologist | Rutgers University | New Brunswick, NJ
-Score: 4 | URL: https://www.linkedin.com/jobs/view/applied-climate-scientist-state-climatologist-at-rutgers-university-4393936533?position=21&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=73P64F7kL1Wju%2B8ksIIL%2BA%3D%3D
-Matched: gis, climate
+Departmental Analyst 9-P11/CIP Business Services | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5297077-0/departmental-analyst-9-p11-cip-business-services
+Matched: analyst
 
-Weather Reporter | $60/hr Remote | Crossing Hurdles | United States
-Score: 3 | URL: https://www.linkedin.com/jobs/view/weather-reporter-%2460-hr-remote-at-crossing-hurdles-4370612985?position=41&pageNum=0&refId=AcWsnSduWUwrAMwmpnjM1w%3D%3D&trackingId=xfmLnVj4Vjxgzz%2FR6aLEHg%3D%3D
-Matched: weather
-
-Environmental Services Operator I | Alabama | Alabama
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5340965-0/environmental-services-operator-i
-Matched: environmental
-
-Environmental Compliance Supervisor – Grease Management Program | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5338179-0/environmental-compliance-supervisor-grease-management-program
-Matched: environmental
-
-Qualified Mental Health Professional 9-P11 (LPC, MSW, Psychologist, Social Worker) | Missouri | Missouri
-Score: 3 | URL: https://www.governmentjobs.com/jobs/3031194-0/qualified-mental-health-professional-9-p11-lpc-msw-psychologist-social-worker
+ENTOMOLOGIST IV - OAHU (OHHI) | Hawaii | Hawaii
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5342121-0/entomologist-iv-oahu-ohhi
 Matched: gis
-
-Director, Student Records/Registrar | Missouri | Missouri
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5342397-0/director-student-records-registrar
-Matched: gis
-
-Stormwater Program Engineer (Environmental Engineer 3 / Environmental Engineer 2 - Underfill) | Oregon | Oregon
-Score: 3 | URL: https://www.governmentjobs.com/jobs/142946-1/stormwater-program-engineer-environmental-engineer-3-environmental-engineer-2
-Matched: environmental
