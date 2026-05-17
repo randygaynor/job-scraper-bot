@@ -1,11 +1,71 @@
-Subject: Job Digest - 2026-05-16
+Subject: Job Digest - 2026-05-17
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-05-16 15:27:21 UTC
-  End: 2026-05-16 15:48:23 UTC
-  Runtime: 21m 1s
-  Sources with email jobs: None
-  Fetched: 523 | Considered: 276 | Matched: 199 | Mailed: 0
+  Start: 2026-05-17 09:09:26 UTC
+  End: 2026-05-17 09:20:10 UTC
+  Runtime: 10m 43s
+  Sources with email jobs: LinkedIn, StateBoard:Michigan, StateBoard:Montana, StateBoard:Nevada, StateBoard:New Mexico, StateBoard:North Carolina, StateBoard:Ohio, StateBoard:Vermont
+  Fetched: 1288 | Considered: 677 | Matched: 618 | Mailed: 15
+
+Meteorologist | val's services | Glendale, AZ
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4416005363?position=28&pageNum=0&refId=du7Rc5HYij4xoHeV0pLdtQ%3D%3D&trackingId=lZMwVaDuWXyIijDA8%2F1YJg%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+Meteorologist | val's services | St George, UT
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4416008325?position=38&pageNum=0&refId=du7Rc5HYij4xoHeV0pLdtQ%3D%3D&trackingId=5yBD%2BkbW3%2FGYV5gamytWbA%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+Meteorologist | val's services | Snow Hill, MD
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4415891589?position=39&pageNum=0&refId=du7Rc5HYij4xoHeV0pLdtQ%3D%3D&trackingId=Zu%2BvnyN4RNbBnuW1n6sVjw%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+Meteorologist | val's services | Dickinson, ND
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4416004391?position=41&pageNum=0&refId=du7Rc5HYij4xoHeV0pLdtQ%3D%3D&trackingId=th3wj3xJ9cDH%2FMoOEtCo1w%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+Meteorologist | val's services | Rockland, ME
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4415895407?position=44&pageNum=0&refId=du7Rc5HYij4xoHeV0pLdtQ%3D%3D&trackingId=fbEd0DeoccekudIBI5kDuw%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+Environmental Quality Analyst 12 - Immediate Risk Unit (3 vacancies) | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5344599-0/environmental-quality-analyst-12-immediate-risk-unit-3-vacancies
+Score: 9 | Matched: risk, environmental, analyst
+
+Data Quality Assurance Analyst, Departmental Analyst-E | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5307333-0/data-quality-assurance-analyst-departmental-analyst-e
+Score: 5 | Matched: analyst
+
+BUDGET ANALYST 2 | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5339931-0/budget-analyst-2
+Score: 5 | Matched: analyst
+
+Registered Environmental Health Specialist | Ohio | Ohio
+URL: https://www.governmentjobs.com/jobs/5344858-0/registered-environmental-health-specialist
+Score: 5 | Matched: gis, environmental
+
+Financial Analyst | Vermont | Vermont
+URL: https://www.governmentjobs.com/jobs/5324629-0/financial-analyst
+Score: 5 | Matched: analyst
+
+Registered Nurse (RN) - Rest Home | Montana | Montana
+URL: https://www.governmentjobs.com/jobs/4553992-0/registered-nurse-rn-rest-home
+Score: 3 | Matched: gis
+
+SPED DSC Teacher (Current GISD Employees Only) | New Mexico | New Mexico
+URL: https://www.governmentjobs.com/jobs/5341675-0/sped-dsc-teacher-current-gisd-employees-only
+Score: 3 | Matched: gis
+
+SPED BSC Teacher (Current GISD Employees Only) | New Mexico | New Mexico
+URL: https://www.governmentjobs.com/jobs/5341678-0/sped-bsc-teacher-current-gisd-employees-only
+Score: 3 | Matched: gis
+
+SPED ASC Teacher (Current GISD Employees Only) | New Mexico | New Mexico
+URL: https://www.governmentjobs.com/jobs/5341683-0/sped-asc-teacher-current-gisd-employees-only
+Score: 3 | Matched: gis
+
+Deputy Register of Deeds | North Carolina | North Carolina
+URL: https://www.governmentjobs.com/jobs/5338086-0/deputy-register-of-deeds
+Score: 3 | Matched: gis
