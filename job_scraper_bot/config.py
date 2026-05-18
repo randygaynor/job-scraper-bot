@@ -47,6 +47,7 @@ PRIMARY_TARGET_TERMS = [
     "NWS",
     "NOAA",
     "USAJobs",
+    "GIS Analyst",
 ]
 
 SECONDARY_TARGET_TERMS = [
@@ -60,6 +61,7 @@ SECONDARY_TARGET_TERMS = [
     "data assimilation",
     "spatial",
     "visualization",
+    "geography",
 ]
 
 SEARCH_TERMS = [
@@ -74,6 +76,8 @@ SEARCH_TERMS = [
     "climate risk analyst",
     "weather risk analyst",
     "emergency management specialist",
+    "gis analyst",
+    "data analyst",
 ]
 
 JOB_SOURCES = [

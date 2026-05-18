@@ -1,7 +1,7 @@
 import argparse
 import os
 from datetime import datetime
-from job_scraper_bot.config import OUTPUT_DIRECTORY, MIN_EMAIL_SCORE
+from job_scraper_bot.config import OUTPUT_DIRECTORY, MIN_EMAIL_SCORE, WEATHER_TEXT_FILE, WEATHER_HTML_FILE
 from job_scraper_bot.scheduler import schedule_nightly_run
 from job_scraper_bot.storage import JobStorage
 from job_scraper_bot.fetchers.usa_jobs import USAJobsFetcher
