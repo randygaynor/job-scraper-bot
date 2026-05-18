@@ -1,12 +1,40 @@
 Job Digest - 2026-05-18
 
 Summary:
-  Start: 2026-05-18 11:10:08 UTC
-  End: 2026-05-18 11:30:10 UTC
-  Runtime: 20m 1s
-  Sources with email jobs: Glassdoor
-  Fetched: 629 | Considered: 324 | Matched: 242 | Mailed: 1
+  Start: 2026-05-18 15:32:11 UTC
+  End: 2026-05-18 15:42:26 UTC
+  Runtime: 10m 14s
+  Sources with email jobs: LinkedIn, StateBoard:Illinois, StateBoard:Iowa, StateBoard:North Dakota, StateBoard:Utah, StateBoard:Virginia, StateBoard:West Virginia
+  Fetched: 1403 | Considered: 737 | Matched: 654 | Mailed: 8
 
-CIRES / NOAA Chemical Sciences Laboratory, Research Scientist in Atmospheric Modeling and Data Analysis | University of Colorado Boulder | Boulder, CO
-Score: 12 | URL: https://www.glassdoor.com/job-listing/cires-noaa-chemical-sciences-laboratory-research-scientist-in-atmospheric-modeling-and-data-analysis-university-of-colorado-boulder-JV_IC1148112_KO0,100_KE101,131.htm?jl=1010136266433
-Matched: atmospheric, noaa
+Bilingual Research Meteorologist and Trainer for International Desks | Lynker | College Park, MD
+Score: 10 | URL: https://www.linkedin.com/jobs/view/bilingual-research-meteorologist-and-trainer-for-international-desks-at-lynker-4415175298?position=60&pageNum=0&refId=ENbKSiScZTXo86x4HzdhOQ%3D%3D&trackingId=SxgogfZsyfnB%2B5G1qd0aAQ%3D%3D
+Matched: gis, meteorologist
+
+Senior GIS Analyst | Virginia | Virginia
+Score: 7 | URL: https://www.governmentjobs.com/jobs/5343143-0/senior-gis-analyst
+Matched: gis, analyst
+
+Billing and Reimbursement Analyst | Illinois | Illinois
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5346350-0/billing-and-reimbursement-analyst
+Matched: analyst
+
+Systems Analyst | North Dakota | North Dakota
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5291478-0/systems-analyst
+Matched: analyst
+
+Programmer Analyst 1 | West Virginia | West Virginia
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5336666-0/programmer-analyst-1
+Matched: analyst
+
+Registered Nurse (RN) - Temporary | Iowa | Iowa
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5310798-0/registered-nurse-rn-temporary
+Matched: gis
+
+Manager , Fleet & Logistics | Utah | Utah
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5341862-0/manager-fleet-logistics
+Matched: gis
+
+Developmental Specialist (Part C Speech/Language Pathologist) | Virginia | Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5342215-0/developmental-specialist-part-c-speech-language-pathologist
+Matched: gis

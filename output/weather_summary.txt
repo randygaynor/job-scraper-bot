@@ -1,4 +1,4 @@
-Weather Summary - 2026-05-18 11:30 UTC
+Weather Summary - 2026-05-18 15:42 UTC
 
 Hurricane/NHC
 -
@@ -9,10 +9,19 @@ Building Your Hurricane Knowledge Kit
 
 Convective/Severe Weather (SPC)
 -
-(no headlines found)
+- All Products
+- Watches
+- MDs
+- Outlooks
 
 Summary:
-No summary available.
+All Products
+
+Watches
+
+MDs
+
+Outlooks
 
 NOAA Top Stories
 -
