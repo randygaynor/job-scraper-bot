@@ -63,13 +63,13 @@
     "fingerprint": "https://www.governmentjobs.com/savedjobs"
   },
   {
-    "id": "https://www.governmentjobs.com/jobs?page=74&location=Wisconsin&isTransfer=False&isPromotional=False",
-    "source": "StateBoard:Wisconsin",
+    "id": "https://www.governmentjobs.com/jobs?page=12&location=Idaho&isTransfer=False&isPromotional=False",
+    "source": "StateBoard:Idaho",
     "title": "\u25bb\u25bb",
-    "company": "Wisconsin",
-    "location": "Wisconsin",
+    "company": "Idaho",
+    "location": "Idaho",
     "description": "\u25bb\u25bb",
-    "url": "https://www.governmentjobs.com/jobs?page=74&location=Wisconsin&isTransfer=False&isPromotional=False",
+    "url": "https://www.governmentjobs.com/jobs?page=12&location=Idaho&isTransfer=False&isPromotional=False",
     "score": 1,
     "matched_keywords": {},
     "sent": false,
@@ -1976,6 +1976,7 @@
     "url": "https://www.governmentjobs.com/jobs/5339409-0/management-intern",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5339409-0/management-intern"
   },
   {
@@ -1988,6 +1989,7 @@
     "url": "https://www.governmentjobs.com/jobs/5338370-0/volunteer-civil-grand-jury",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5338370-0/volunteer-civil-grand-jury"
   },
   {
@@ -2000,6 +2002,7 @@
     "url": "https://www.governmentjobs.com/jobs/5337377-0/airport-director",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5337377-0/airport-director"
   },
   {
@@ -2012,6 +2015,7 @@
     "url": "https://www.governmentjobs.com/jobs/5332288-0/administrative-assistant",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5332288-0/administrative-assistant"
   },
   {
@@ -23432,6 +23436,7 @@
     "url": "https://www.governmentjobs.com/jobs/5329423-0/director-of-business-and-community-development",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5329423-0/director-of-business-and-community-development"
   },
   {
@@ -23444,6 +23449,7 @@
     "url": "https://www.governmentjobs.com/jobs/5330794-0/part-time-public-service-manager",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5330794-0/part-time-public-service-manager"
   },
   {
@@ -23456,6 +23462,7 @@
     "url": "https://www.governmentjobs.com/jobs/5330160-0/administrative-support-i-town-clerk",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5330160-0/administrative-support-i-town-clerk"
   },
   {
@@ -23480,6 +23487,7 @@
     "url": "https://www.governmentjobs.com/jobs/5326982-0/adaptive-recreation-program-coordinator",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5326982-0/adaptive-recreation-program-coordinator"
   },
   {
@@ -23492,6 +23500,7 @@
     "url": "https://www.governmentjobs.com/jobs/5324857-0/health-program-assistant",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5324857-0/health-program-assistant"
   },
   {
@@ -25596,13 +25605,13 @@
     "fingerprint": "https://www.linkedin.com/jobs/view/operational-meteorologist-at-bam-weather-4409712225"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/meteorology-intern-at-structural-integrity-associates-4404083734?position=17&pageNum=0&refId=du7Rc5HYij4xoHeV0pLdtQ%3D%3D&trackingId=R%2FJ%2FvNkEFOBlICaVIz1nwA%3D%3D",
+    "id": "https://www.linkedin.com/jobs/view/meteorology-intern-at-structural-integrity-associates-4404083734?position=13&pageNum=0&refId=aNH744E4EJUX6fKsPE32bA%3D%3D&trackingId=OoPnKEzQhgrMd7DgPu%2F35Q%3D%3D",
     "source": "LinkedIn",
     "title": "Meteorology Intern",
     "company": "Structural Integrity Associates",
     "location": "Rockdale, IL",
     "description": "",
-    "url": "https://www.linkedin.com/jobs/view/meteorology-intern-at-structural-integrity-associates-4404083734?position=17&pageNum=0&refId=du7Rc5HYij4xoHeV0pLdtQ%3D%3D&trackingId=R%2FJ%2FvNkEFOBlICaVIz1nwA%3D%3D",
+    "url": "https://www.linkedin.com/jobs/view/meteorology-intern-at-structural-integrity-associates-4404083734?position=13&pageNum=0&refId=aNH744E4EJUX6fKsPE32bA%3D%3D&trackingId=OoPnKEzQhgrMd7DgPu%2F35Q%3D%3D",
     "score": 2,
     "matched_keywords": {
       "meteorology": 1
@@ -25687,13 +25696,13 @@
     "fingerprint": "https://www.linkedin.com/jobs/view/operational-meteorologist-intern-at-bam-weather-4412642072"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/meteorology-intern-at-si-solutions-llc-4403963977?position=24&pageNum=0&refId=du7Rc5HYij4xoHeV0pLdtQ%3D%3D&trackingId=bJ1aGyav2b25iZJdOvq4iA%3D%3D",
+    "id": "https://www.linkedin.com/jobs/view/meteorology-intern-at-si-solutions-llc-4403963977?position=19&pageNum=0&refId=aNH744E4EJUX6fKsPE32bA%3D%3D&trackingId=tPh9kmFtOcDURe8g0s%2BxEQ%3D%3D",
     "source": "LinkedIn",
     "title": "Meteorology Intern",
     "company": "SI Solutions, LLC",
     "location": "Rockdale, IL",
     "description": "",
-    "url": "https://www.linkedin.com/jobs/view/meteorology-intern-at-si-solutions-llc-4403963977?position=24&pageNum=0&refId=du7Rc5HYij4xoHeV0pLdtQ%3D%3D&trackingId=bJ1aGyav2b25iZJdOvq4iA%3D%3D",
+    "url": "https://www.linkedin.com/jobs/view/meteorology-intern-at-si-solutions-llc-4403963977?position=19&pageNum=0&refId=aNH744E4EJUX6fKsPE32bA%3D%3D&trackingId=tPh9kmFtOcDURe8g0s%2BxEQ%3D%3D",
     "score": 2,
     "matched_keywords": {
       "meteorology": 1
@@ -26148,13 +26157,13 @@
     "fingerprint": "https://www.linkedin.com/jobs/view/meteorologist-at-sinclair-inc-4346793771"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/pharmaceutical-scientist-remote-at-stem-sync-ai-4404733220?position=41&pageNum=0&refId=PlrvtleWPc8rHWyFm4qRgQ%3D%3D&trackingId=LM5vKUv%2FrpLNB9QU7FA82Q%3D%3D",
+    "id": "https://www.linkedin.com/jobs/view/pharmaceutical-scientist-remote-at-stem-sync-ai-4404733220?position=37&pageNum=0&refId=MECsVFHZm7ai4gxJROBX7A%3D%3D&trackingId=OfPocrf0W1jfnaeuEsv%2BLQ%3D%3D",
     "source": "LinkedIn",
     "title": "Pharmaceutical Scientist | Remote",
     "company": "STEM Sync AI",
     "location": "United States",
     "description": "",
-    "url": "https://www.linkedin.com/jobs/view/pharmaceutical-scientist-remote-at-stem-sync-ai-4404733220?position=41&pageNum=0&refId=PlrvtleWPc8rHWyFm4qRgQ%3D%3D&trackingId=LM5vKUv%2FrpLNB9QU7FA82Q%3D%3D",
+    "url": "https://www.linkedin.com/jobs/view/pharmaceutical-scientist-remote-at-stem-sync-ai-4404733220?position=37&pageNum=0&refId=MECsVFHZm7ai4gxJROBX7A%3D%3D&trackingId=OfPocrf0W1jfnaeuEsv%2BLQ%3D%3D",
     "score": 1,
     "matched_keywords": {},
     "sent": false,
@@ -29504,6 +29513,7 @@
     "url": "https://www.governmentjobs.com/jobs/5342722-0/agriculture-and-standards-inspector-i-ii-iii",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5342722-0/agriculture-and-standards-inspector-i-ii-iii"
   },
   {
@@ -29516,6 +29526,7 @@
     "url": "https://www.governmentjobs.com/jobs/5341944-0/senior-staff-assistant",
     "score": 1,
     "matched_keywords": {},
+    "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5341944-0/senior-staff-assistant"
   },
   {
@@ -35386,5 +35397,269 @@
     "matched_keywords": {},
     "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5345763-0/transport-officer"
+  },
+  {
+    "id": "https://www.glassdoor.com/job-listing/cires-noaa-chemical-sciences-laboratory-research-scientist-in-atmospheric-modeling-and-data-analysis-university-of-colorado-boulder-JV_IC1148112_KO0,100_KE101,131.htm?jl=1010136266433",
+    "source": "Glassdoor",
+    "title": "CIRES / NOAA Chemical Sciences Laboratory, Research Scientist in Atmospheric Modeling and Data Analysis",
+    "company": "University of Colorado Boulder",
+    "location": "Boulder, CO",
+    "description": "",
+    "url": "https://www.glassdoor.com/job-listing/cires-noaa-chemical-sciences-laboratory-research-scientist-in-atmospheric-modeling-and-data-analysis-university-of-colorado-boulder-JV_IC1148112_KO0,100_KE101,131.htm?jl=1010136266433",
+    "score": 12,
+    "matched_keywords": {
+      "atmospheric": 1,
+      "noaa": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.glassdoor.com/job-listing/cires-noaa-chemical-sciences-laboratory-research-scientist-in-atmospheric-modeling-and-data-analysis-university-of-colorado-boulder-jv_ic1148112_ko0,100_ke101,131.htm",
+    "sent_at": "2026-05-18T11:30:45.376025Z"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5344286-0/grants-compliance-manager-city-of-mobile",
+    "source": "StateBoard:Alabama",
+    "title": "Grants Compliance Manager (City of Mobile)",
+    "company": "Alabama",
+    "location": "Alabama",
+    "description": "Grants Compliance Manager (City of Mobile)",
+    "url": "https://www.governmentjobs.com/jobs/5344286-0/grants-compliance-manager-city-of-mobile",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5344286-0/grants-compliance-manager-city-of-mobile"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5345002-0/office-assistant-iii-satsuma-water-and-sewer-board",
+    "source": "StateBoard:Alabama",
+    "title": "Office Assistant III (Satsuma Water and Sewer Board)",
+    "company": "Alabama",
+    "location": "Alabama",
+    "description": "Office Assistant III (Satsuma Water and Sewer Board)",
+    "url": "https://www.governmentjobs.com/jobs/5345002-0/office-assistant-iii-satsuma-water-and-sewer-board",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5345002-0/office-assistant-iii-satsuma-water-and-sewer-board"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5344979-0/recreation-leader-i-gymnastics-city-of-mobile",
+    "source": "StateBoard:Alabama",
+    "title": "Recreation Leader I (Gymnastics) (City of Mobile)",
+    "company": "Alabama",
+    "location": "Alabama",
+    "description": "Recreation Leader I (Gymnastics) (City of Mobile)",
+    "url": "https://www.governmentjobs.com/jobs/5344979-0/recreation-leader-i-gymnastics-city-of-mobile",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5344979-0/recreation-leader-i-gymnastics-city-of-mobile"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5345993-0/health-services-program-manager",
+    "source": "StateBoard:California",
+    "title": "Health Services Program Manager",
+    "company": "California",
+    "location": "California",
+    "description": "Health Services Program Manager",
+    "url": "https://www.governmentjobs.com/jobs/5345993-0/health-services-program-manager",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5345993-0/health-services-program-manager"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5345571-0/correctional-deputy-sheriff-dispatcher-i-ii",
+    "source": "StateBoard:California",
+    "title": "Correctional Deputy Sheriff/Dispatcher I/II",
+    "company": "California",
+    "location": "California",
+    "description": "Correctional Deputy Sheriff/Dispatcher I/II",
+    "url": "https://www.governmentjobs.com/jobs/5345571-0/correctional-deputy-sheriff-dispatcher-i-ii",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5345571-0/correctional-deputy-sheriff-dispatcher-i-ii"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5344145-0/sr-network-administrator",
+    "source": "StateBoard:Colorado",
+    "title": "Sr. Network Administrator",
+    "company": "Colorado",
+    "location": "Colorado",
+    "description": "Sr. Network Administrator",
+    "url": "https://www.governmentjobs.com/jobs/5344145-0/sr-network-administrator",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5344145-0/sr-network-administrator"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5344109-0/online-success-liaison",
+    "source": "StateBoard:Colorado",
+    "title": "Online Success Liaison",
+    "company": "Colorado",
+    "location": "Colorado",
+    "description": "Online Success Liaison",
+    "url": "https://www.governmentjobs.com/jobs/5344109-0/online-success-liaison",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5344109-0/online-success-liaison"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5325386-0/it-helpdesk-assistant-summer-part-time",
+    "source": "StateBoard:Connecticut",
+    "title": "IT HelpDesk Assistant SUMMER Part Time",
+    "company": "Connecticut",
+    "location": "Connecticut",
+    "description": "IT HelpDesk Assistant SUMMER Part Time",
+    "url": "https://www.governmentjobs.com/jobs/5325386-0/it-helpdesk-assistant-summer-part-time",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5325386-0/it-helpdesk-assistant-summer-part-time"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5322177-0/maintainer-i-building-facilities",
+    "source": "StateBoard:Connecticut",
+    "title": "Maintainer I - Building Facilities",
+    "company": "Connecticut",
+    "location": "Connecticut",
+    "description": "Maintainer I - Building Facilities",
+    "url": "https://www.governmentjobs.com/jobs/5322177-0/maintainer-i-building-facilities",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5322177-0/maintainer-i-building-facilities"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5346069-0/hybrid-transportation-manager",
+    "source": "StateBoard:Florida",
+    "title": "Hybrid Transportation Manager",
+    "company": "Florida",
+    "location": "Florida",
+    "description": "Hybrid Transportation Manager",
+    "url": "https://www.governmentjobs.com/jobs/5346069-0/hybrid-transportation-manager",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5346069-0/hybrid-transportation-manager"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5346070-0/permit-licensing-technician",
+    "source": "StateBoard:Florida",
+    "title": "Permit & Licensing Technician",
+    "company": "Florida",
+    "location": "Florida",
+    "description": "Permit & Licensing Technician",
+    "url": "https://www.governmentjobs.com/jobs/5346070-0/permit-licensing-technician",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5346070-0/permit-licensing-technician"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5345175-0/recreation-worker-pt",
+    "source": "StateBoard:Florida",
+    "title": "Recreation Worker PT",
+    "company": "Florida",
+    "location": "Florida",
+    "description": "Recreation Worker PT",
+    "url": "https://www.governmentjobs.com/jobs/5345175-0/recreation-worker-pt",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5345175-0/recreation-worker-pt"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5344588-0/customer-service-representative-i",
+    "source": "StateBoard:Florida",
+    "title": "Customer Service Representative I",
+    "company": "Florida",
+    "location": "Florida",
+    "description": "Customer Service Representative I",
+    "url": "https://www.governmentjobs.com/jobs/5344588-0/customer-service-representative-i",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5344588-0/customer-service-representative-i"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5345844-0/water-distribution-system-specialist",
+    "source": "StateBoard:Florida",
+    "title": "Water Distribution System Specialist",
+    "company": "Florida",
+    "location": "Florida",
+    "description": "Water Distribution System Specialist",
+    "url": "https://www.governmentjobs.com/jobs/5345844-0/water-distribution-system-specialist",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5345844-0/water-distribution-system-specialist"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5345477-0/human-resources-generalist",
+    "source": "StateBoard:Florida",
+    "title": "Human Resources Generalist",
+    "company": "Florida",
+    "location": "Florida",
+    "description": "Human Resources Generalist",
+    "url": "https://www.governmentjobs.com/jobs/5345477-0/human-resources-generalist",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5345477-0/human-resources-generalist"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5343481-0/heavy-equipment-operator-tree-crew-cdl-required",
+    "source": "StateBoard:Florida",
+    "title": "Heavy Equipment Operator (Tree Crew/CDL Required)",
+    "company": "Florida",
+    "location": "Florida",
+    "description": "Heavy Equipment Operator (Tree Crew/CDL Required)",
+    "url": "https://www.governmentjobs.com/jobs/5343481-0/heavy-equipment-operator-tree-crew-cdl-required",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5343481-0/heavy-equipment-operator-tree-crew-cdl-required"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5343075-0/certified-police-officer",
+    "source": "StateBoard:Florida",
+    "title": "Certified Police Officer",
+    "company": "Florida",
+    "location": "Florida",
+    "description": "Certified Police Officer",
+    "url": "https://www.governmentjobs.com/jobs/5343075-0/certified-police-officer",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5343075-0/certified-police-officer"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5326272-0/account-clerk-iii-hilo-hawaii-island",
+    "source": "StateBoard:Hawaii",
+    "title": "ACCOUNT CLERK III - HILO, HAWAII ISLAND",
+    "company": "Hawaii",
+    "location": "Hawaii",
+    "description": "ACCOUNT CLERK III - HILO, HAWAII ISLAND",
+    "url": "https://www.governmentjobs.com/jobs/5326272-0/account-clerk-iii-hilo-hawaii-island",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5326272-0/account-clerk-iii-hilo-hawaii-island"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5342578-0/secretary-i-childrens-justice-center-typing-kailua-kona-hawaii",
+    "source": "StateBoard:Hawaii",
+    "title": "Secretary I (Children's Justice Center/Typing) - Kailua-Kona, Hawaii",
+    "company": "Hawaii",
+    "location": "Hawaii",
+    "description": "Secretary I (Children's Justice Center/Typing) - Kailua-Kona, Hawaii",
+    "url": "https://www.governmentjobs.com/jobs/5342578-0/secretary-i-childrens-justice-center-typing-kailua-kona-hawaii",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5342578-0/secretary-i-childrens-justice-center-typing-kailua-kona-hawaii"
   }
 ]
