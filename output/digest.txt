@@ -1,40 +1,28 @@
-Job Digest - 2026-05-18
+Job Digest - 2026-05-19
 
 Summary:
-  Start: 2026-05-18 15:32:11 UTC
-  End: 2026-05-18 15:42:26 UTC
-  Runtime: 10m 14s
-  Sources with email jobs: LinkedIn, StateBoard:Illinois, StateBoard:Iowa, StateBoard:North Dakota, StateBoard:Utah, StateBoard:Virginia, StateBoard:West Virginia
-  Fetched: 1403 | Considered: 737 | Matched: 654 | Mailed: 8
+  Start: 2026-05-19 10:39:30 UTC
+  End: 2026-05-19 10:50:22 UTC
+  Runtime: 10m 51s
+  Sources with email jobs: LinkedIn, StateBoard:Missouri, StateBoard:Nebraska, StateBoard:Pennsylvania
+  Fetched: 1359 | Considered: 714 | Matched: 630 | Mailed: 5
 
-Bilingual Research Meteorologist and Trainer for International Desks | Lynker | College Park, MD
-Score: 10 | URL: https://www.linkedin.com/jobs/view/bilingual-research-meteorologist-and-trainer-for-international-desks-at-lynker-4415175298?position=60&pageNum=0&refId=ENbKSiScZTXo86x4HzdhOQ%3D%3D&trackingId=SxgogfZsyfnB%2B5G1qd0aAQ%3D%3D
+Meteorologist | KGTX 7 News | League City, TX
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-kgtx-7-news-4415698357?position=37&pageNum=0&refId=HdJZ1E6OS5yRvtr6CFlJeg%3D%3D&trackingId=%2F2UkY%2BVTv%2BNFkK%2F435X7cw%3D%3D
 Matched: gis, meteorologist
 
-Senior GIS Analyst | Virginia | Virginia
-Score: 7 | URL: https://www.governmentjobs.com/jobs/5343143-0/senior-gis-analyst
-Matched: gis, analyst
-
-Billing and Reimbursement Analyst | Illinois | Illinois
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5346350-0/billing-and-reimbursement-analyst
+Human Resource Analyst 1 - Talent Management Division (Harrisburg) | Pennsylvania | Pennsylvania
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5345176-0/human-resource-analyst-1-talent-management-division-harrisburg
 Matched: analyst
 
-Systems Analyst | North Dakota | North Dakota
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5291478-0/systems-analyst
-Matched: analyst
-
-Programmer Analyst 1 | West Virginia | West Virginia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5336666-0/programmer-analyst-1
-Matched: analyst
-
-Registered Nurse (RN) - Temporary | Iowa | Iowa
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5310798-0/registered-nurse-rn-temporary
+Registered Nurse | Missouri | Missouri
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5112803-0/registered-nurse
 Matched: gis
 
-Manager , Fleet & Logistics | Utah | Utah
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5341862-0/manager-fleet-logistics
+Registered Nurse | Nebraska | Nebraska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5338408-0/registered-nurse
 Matched: gis
 
-Developmental Specialist (Part C Speech/Language Pathologist) | Virginia | Virginia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5342215-0/developmental-specialist-part-c-speech-language-pathologist
+Licensed Psychologist Manager - Ebensburg Center | Pennsylvania | Pennsylvania
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5344035-0/licensed-psychologist-manager-ebensburg-center
 Matched: gis
