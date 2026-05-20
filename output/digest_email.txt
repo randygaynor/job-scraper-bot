@@ -1,31 +1,59 @@
-Subject: Job Digest - 2026-05-19
+Subject: Job Digest - 2026-05-20
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-05-19 10:39:30 UTC
-  End: 2026-05-19 10:50:22 UTC
-  Runtime: 10m 51s
-  Sources with email jobs: LinkedIn, StateBoard:Missouri, StateBoard:Nebraska, StateBoard:Pennsylvania
-  Fetched: 1359 | Considered: 714 | Matched: 630 | Mailed: 5
+  Start: 2026-05-20 10:26:50 UTC
+  End: 2026-05-20 10:38:06 UTC
+  Runtime: 11m 16s
+  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Alaska, StateBoard:Colorado, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:Mississippi, StateBoard:Pennsylvania, StateBoard:Tennessee, StateBoard:Virginia
+  Fetched: 1325 | Considered: 703 | Matched: 623 | Mailed: 12
 
-Meteorologist | KGTX 7 News | League City, TX
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-kgtx-7-news-4415698357?position=37&pageNum=0&refId=HdJZ1E6OS5yRvtr6CFlJeg%3D%3D&trackingId=%2F2UkY%2BVTv%2BNFkK%2F435X7cw%3D%3D
+Meteorologist - Applied Climatologist | Air Force Civilian Service | Asheville, NC
+URL: https://www.linkedin.com/jobs/view/meteorologist-applied-climatologist-at-air-force-civilian-service-4415717175?position=52&pageNum=0&refId=TcvI9GwfsDi%2B%2B8C8VIkKtg%3D%3D&trackingId=Mfz%2FoFqnO2agmLTcBaBh5w%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Human Resource Analyst 1 - Talent Management Division (Harrisburg) | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5345176-0/human-resource-analyst-1-talent-management-division-harrisburg
+On Air Digital Meteorologist | StormHub | Nashville, TN
+URL: https://www.glassdoor.com/job-listing/on-air-digital-meteorologist-stormhub-JV_IC1144541_KO0,28_KE29,37.htm?jl=1010138208580
+Score: 10 | Matched: gis, meteorologist
+
+Geospatial Data Scientist | MITRE | Bedford, MA
+URL: https://www.glassdoor.com/job-listing/geospatial-data-scientist-mitre-JV_IC1154527_KO0,25_KE26,31.htm?jl=1010080514685
+Score: 7 | Matched: spatial, geospatial
+
+Project Manager/Business Analyst - HR/Payroll | Colorado | Colorado
+URL: https://www.governmentjobs.com/jobs/5347771-0/project-manager-business-analyst-hr-payroll
 Score: 5 | Matched: analyst
 
-Registered Nurse | Missouri | Missouri
-URL: https://www.governmentjobs.com/jobs/5112803-0/registered-nurse
+Licensing Analyst 1-2 | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5342545-0/licensing-analyst-1-2
+Score: 5 | Matched: analyst
+
+Departmental Analyst 12 / OOD / RRS / RECORDS PRODUCTION UNIT | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5343990-0/departmental-analyst-12-ood-rrs-records-production-unit
+Score: 5 | Matched: analyst
+
+High Risk Case Manager | Tennessee | Tennessee
+URL: https://www.governmentjobs.com/jobs/5348006-0/high-risk-case-manager
+Score: 5 | Matched: risk
+
+Financial Systems Senior Analyst | Virginia | Virginia
+URL: https://www.governmentjobs.com/jobs/5342362-0/financial-systems-senior-analyst
+Score: 5 | Matched: analyst
+
+Senior Wildlife Biologist | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5347450-0/senior-wildlife-biologist
 Score: 3 | Matched: gis
 
-Registered Nurse | Nebraska | Nebraska
-URL: https://www.governmentjobs.com/jobs/5338408-0/registered-nurse
+Emergency Management Officer I - State Warning Point Officer | Mississippi | Mississippi
+URL: https://www.governmentjobs.com/jobs/5346414-0/emergency-management-officer-i-state-warning-point-officer
+Score: 3 | Matched: emergency management
+
+Registered Nurse - SCI Fayette | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5347117-0/registered-nurse-sci-fayette
 Score: 3 | Matched: gis
 
-Licensed Psychologist Manager - Ebensburg Center | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5344035-0/licensed-psychologist-manager-ebensburg-center
+Registered Nurse (2nd Shift) - Torrance State Hospital | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5347794-0/registered-nurse-2nd-shift-torrance-state-hospital
 Score: 3 | Matched: gis
