@@ -1,39 +1,123 @@
-Subject: Job Digest - 2026-05-21
+Subject: Job Digest - 2026-05-22
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-05-21 10:42:17 UTC
-  End: 2026-05-21 10:54:03 UTC
-  Runtime: 11m 45s
-  Sources with email jobs: LinkedIn, StateBoard:Hawaii, StateBoard:Louisiana
-  Fetched: 1359 | Considered: 716 | Matched: 658 | Mailed: 7
+  Start: 2026-05-22 10:26:43 UTC
+  End: 2026-05-22 10:36:27 UTC
+  Runtime: 9m 44s
+  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Georgia, StateBoard:Massachusetts, StateBoard:Missouri, StateBoard:New Hampshire, StateBoard:South Carolina, StateBoard:South Dakota, StateBoard:Wisconsin, USAJOBS
+  Fetched: 1383 | Considered: 716 | Matched: 678 | Mailed: 28
 
-Meteorologist/Air Communications Specialist | Survival Flight Inc. | Columbia, TN
-URL: https://www.linkedin.com/jobs/view/meteorologist-air-communications-specialist-at-survival-flight-inc-4417438929?position=8&pageNum=0&refId=g1%2Bkop3qP%2FUPkAgSDaU9PA%3D%3D&trackingId=G4YfuCTtndar52GH6SU2yw%3D%3D
+METEOROLOGIST | USAJOBS | 
+URL: https://www.usajobs.gov/job/869782300
+Score: 17 | Matched: usajobs, gis, meteorologist
+
+CIRES / NOAA Chemical Sciences Laboratory, Research Scientist in Atmospheric Modeling and Data Analysis | University of Colorado Boulder | Boulder, CO
+URL: https://www.linkedin.com/jobs/view/cires-noaa-chemical-sciences-laboratory-research-scientist-in-atmospheric-modeling-and-data-analysis-at-university-of-colorado-boulder-4415551041?position=7&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=8Wjh76xoZueQZ5cq3pH%2B8w%3D%3D
+Score: 12 | Matched: atmospheric, noaa
+
+Senior Meteorologist | Avangrid | Portland, OR
+URL: https://www.linkedin.com/jobs/view/senior-meteorologist-at-avangrid-4414695855?position=38&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=QY7RwTxEenIMpDYGtkPfSA%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Meteorologist - Temporary | TelevisaUnivision | Los Angeles, CA
-URL: https://www.linkedin.com/jobs/view/meteorologist-temporary-at-televisaunivision-4416943305?position=45&pageNum=0&refId=g1%2Bkop3qP%2FUPkAgSDaU9PA%3D%3D&trackingId=J0Rb78Wcm6%2FpCS957H%2FbBw%3D%3D
+Meteorologist II | Axiom Consultants | Sterling, VA
+URL: https://www.glassdoor.com/job-listing/meteorologist-ii-axiom-consultants-JV_IC1130411_KO0,16_KE17,34.htm?jl=1010056180724
 Score: 10 | Matched: gis, meteorologist
 
-ENVIRONMENTAL HEALTH SPECIALIST II - KONA, HAWAII ISLAND (OHHI) | Hawaii | Hawaii
-URL: https://www.governmentjobs.com/jobs/5336034-0/environmental-health-specialist-ii-kona-hawaii-island-ohhi
-Score: 3 | Matched: environmental
+On Air Digital Meteorologist | StormHub | 
+URL: https://www.glassdoor.com/job-listing/on-air-digital-meteorologist-stormhub-JV_KO0,28_KE29,37.htm?jl=1010138208580
+Score: 10 | Matched: gis, meteorologist
 
-ENVIRONMENTAL HEALTH SPECIALIST II - HILO, HAWAII ISLAND (OHHI) | Hawaii | Hawaii
-URL: https://www.governmentjobs.com/jobs/5335822-0/environmental-health-specialist-ii-hilo-hawaii-island-ohhi
-Score: 3 | Matched: environmental
+Sr. Quantitative Meteorologist | Selby Jennings | Houston, MN
+URL: https://www.glassdoor.com/job-listing/sr-quantitative-meteorologist-selby-jennings-JV_IC1142460_KO0,29_KE30,44.htm?jl=1010133412296
+Score: 10 | Matched: gis, meteorologist
 
-REGISTERED NURSE SUPERVISOR B | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5349760-0/registered-nurse-supervisor-b
+Forecast Verification Analyst 3 - 139717 | UC San Diego | San Diego, CA
+URL: https://www.linkedin.com/jobs/view/forecast-verification-analyst-3-139717-at-uc-san-diego-4414024479?position=26&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=eSioTLtWilBGFZVWZiTlUg%3D%3D
+Score: 9 | Matched: forecast, analyst
+
+Meteorology and Atmospheric Science Faculty in Climate Science with Emphasis on Climate Feedbacks | Penn State University | University Park, PA
+URL: https://www.linkedin.com/jobs/view/meteorology-and-atmospheric-science-faculty-in-climate-science-with-emphasis-on-climate-feedbacks-at-penn-state-university-4389735686?position=50&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=gRYUimSTRs0wqcA3sU6hdA%3D%3D
+Score: 9 | Matched: meteorology, atmospheric, climate
+
+Staff Scientist - Extreme Weather, Predictability & AI/ML Forecasting | Berkeley Lab | Berkeley, CA
+URL: https://www.linkedin.com/jobs/view/staff-scientist-extreme-weather-predictability-ai-ml-forecasting-at-berkeley-lab-4412429811?position=12&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=N%2FYWUo2u1CbQ%2Fij5x2DnqA%3D%3D
+Score: 7 | Matched: weather, forecast
+
+CIRES / NOAA Chemical Sciences Laboratory, Research Scientist in Greenhouse Gas and Ammonia Air Pollutant Measurements | University of Colorado Boulder | Boulder, CO
+URL: https://www.linkedin.com/jobs/view/cires-noaa-chemical-sciences-laboratory-research-scientist-in-greenhouse-gas-and-ammonia-air-pollutant-measurements-at-university-of-colorado-boulder-4414252535?position=14&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=jz9N55gx6wBrzUt%2BQHis2g%3D%3D
+Score: 7 | Matched: noaa
+
+ML Scientist (Atmospheric Science) | Verisk | Boston, MA
+URL: https://www.linkedin.com/jobs/view/ml-scientist-atmospheric-science-at-verisk-4407461347?position=15&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=H4KJGlY90QfScSycEzzetw%3D%3D
+Score: 7 | Matched: atmospheric, risk
+
+Open Rank: Atmospheric Sciences Professor (Center for Urban and Coastal Climate Science Research) | Morgan State University | Washington DC-Baltimore Area
+URL: https://www.linkedin.com/jobs/view/open-rank-atmospheric-sciences-professor-center-for-urban-and-coastal-climate-science-research-at-morgan-state-university-4313268747?position=45&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=48m1EPl12YlUjxQ2j4HHww%3D%3D
+Score: 7 | Matched: atmospheric, climate
+
+GIS Programmer Analyst | Missouri | Missouri
+URL: https://www.governmentjobs.com/jobs/143837-1/gis-programmer-analyst
+Score: 7 | Matched: gis, analyst
+
+Senior Weather Analyst/ML Researcher | Jane Street | New York City Metropolitan Area
+URL: https://www.linkedin.com/jobs/view/senior-weather-analyst-ml-researcher-at-jane-street-4378798179?position=22&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=LUOgGi0jF0aRsLLUr%2BoCGg%3D%3D
+Score: 6 | Matched: weather, analyst
+
+Atmospheric Scientist (Associate or Mid-Level) | Boeing | Kirtland Air Force Base, NM
+URL: https://www.linkedin.com/jobs/view/atmospheric-scientist-associate-or-mid-level-at-boeing-4364469918?position=6&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=GP1lVAl%2FAkM7%2BTA%2FjARHUA%3D%3D
+Score: 5 | Matched: atmospheric
+
+Research Scientist (Atmospheric Science) | Karen Clark & Company | Boston, MA
+URL: https://www.linkedin.com/jobs/view/research-scientist-atmospheric-science-at-karen-clark-company-4372217441?position=8&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=9UbkihPzrH2kShjE9pNGiA%3D%3D
+Score: 5 | Matched: atmospheric
+
+Atmospheric Scientist, Calibration Validation Specialist | DeVine Consulting, Inc. | Monterey, CA
+URL: https://www.linkedin.com/jobs/view/atmospheric-scientist-calibration-validation-specialist-at-devine-consulting-inc-4399919032?position=17&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=h101taIkiHLEE9OKQQW75Q%3D%3D
+Score: 5 | Matched: atmospheric
+
+Wildfire Scientist - Impact Forecasting | Aon | Boston, MA
+URL: https://www.linkedin.com/jobs/view/wildfire-scientist-impact-forecasting-at-aon-4409188390?position=18&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=yzkACZIGAncQp8gVUaArtQ%3D%3D
+Score: 5 | Matched: forecast
+
+Atmospheric Sciences - Postdoctoral Researcher | Lawrence Livermore National Laboratory | Livermore, CA
+URL: https://www.linkedin.com/jobs/view/atmospheric-sciences-postdoctoral-researcher-at-lawrence-livermore-national-laboratory-4418031017?position=42&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=q4L9UtGRldebyPu3dtsnPA%3D%3D
+Score: 5 | Matched: atmospheric
+
+Geodetic Earth Scientist | National Geospatial-Intelligence Agency | Saint Louis, MO
+URL: https://www.glassdoor.com/job-listing/geodetic-earth-scientist-national-geospatial-intelligence-agency-JV_IC1131270_KO0,24_KE25,64.htm?jl=1010138189696
+Score: 5 | Matched: spatial, geospatial
+
+Program Analyst I or II - Assessors' Office | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5350028-0/program-analyst-i-or-ii-assessors-office
+Score: 5 | Matched: analyst
+
+Safety & Risk Coordinator | South Dakota | South Dakota
+URL: https://www.governmentjobs.com/jobs/5347633-0/safety-risk-coordinator
+Score: 5 | Matched: risk
+
+AI and Data Assimilation Scientist | Lynker | College Park, MD
+URL: https://www.linkedin.com/jobs/view/ai-and-data-assimilation-scientist-at-lynker-4409720550?position=55&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=A8l2KeEYHlWF6Ki4xNDALg%3D%3D
+Score: 3 | Matched: data assimilation
+
+GIS / APPLICATION MANAGER | Massachusetts | Massachusetts
+URL: https://www.governmentjobs.com/jobs/5348683-0/gis-application-manager
 Score: 3 | Matched: gis
 
-REGISTERED NURSE SUPERVISOR A | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5349711-0/registered-nurse-supervisor-a
+GIS Specialist | Missouri | Missouri
+URL: https://www.governmentjobs.com/jobs/5349326-0/gis-specialist
 Score: 3 | Matched: gis
 
-BIOLOGIST 1-3   ROCKEFELLER | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5342881-0/biologist-1-3-rockefeller
+Administrative Technician - Tax Collector/Auto Registration | New Hampshire | New Hampshire
+URL: https://www.governmentjobs.com/jobs/5351554-0/administrative-technician-tax-collector-auto-registration
+Score: 3 | Matched: gis
+
+Registered Nurse, Institutional (RN) (G.W. Bryan Hospital) | South Carolina | South Carolina
+URL: https://www.governmentjobs.com/jobs/5348186-0/registered-nurse-institutional-rn-g-w-bryan-hospital
+Score: 3 | Matched: gis
+
+Public Health Nurse/Registered Nurse Public Health | Wisconsin | Wisconsin
+URL: https://www.governmentjobs.com/jobs/143902-1/public-health-nurse-registered-nurse-public-health
 Score: 3 | Matched: gis
