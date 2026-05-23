@@ -1,120 +1,172 @@
-Job Digest - 2026-05-22
+Job Digest - 2026-05-23
 
 Summary:
-  Start: 2026-05-22 10:26:43 UTC
-  End: 2026-05-22 10:36:27 UTC
-  Runtime: 9m 44s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Georgia, StateBoard:Massachusetts, StateBoard:Missouri, StateBoard:New Hampshire, StateBoard:South Carolina, StateBoard:South Dakota, StateBoard:Wisconsin, USAJOBS
-  Fetched: 1383 | Considered: 716 | Matched: 678 | Mailed: 28
+  Start: 2026-05-23 09:05:20 UTC
+  End: 2026-05-23 09:25:51 UTC
+  Runtime: 20m 30s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia
+  Fetched: 524 | Considered: 312 | Matched: 257 | Mailed: 41
 
-METEOROLOGIST | USAJOBS | 
-Score: 17 | URL: https://www.usajobs.gov/job/869782300
-Matched: usajobs, gis, meteorologist
-
-CIRES / NOAA Chemical Sciences Laboratory, Research Scientist in Atmospheric Modeling and Data Analysis | University of Colorado Boulder | Boulder, CO
-Score: 12 | URL: https://www.linkedin.com/jobs/view/cires-noaa-chemical-sciences-laboratory-research-scientist-in-atmospheric-modeling-and-data-analysis-at-university-of-colorado-boulder-4415551041?position=7&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=8Wjh76xoZueQZ5cq3pH%2B8w%3D%3D
-Matched: atmospheric, noaa
-
-Senior Meteorologist | Avangrid | Portland, OR
-Score: 10 | URL: https://www.linkedin.com/jobs/view/senior-meteorologist-at-avangrid-4414695855?position=38&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=QY7RwTxEenIMpDYGtkPfSA%3D%3D
+Meteorologist | RG&T Solutions | Afton, WY
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417172546?position=8&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=SnyH2gTRjOZVjQ8ayYDEYQ%3D%3D
 Matched: gis, meteorologist
 
-Meteorologist II | Axiom Consultants | Sterling, VA
-Score: 10 | URL: https://www.glassdoor.com/job-listing/meteorologist-ii-axiom-consultants-JV_IC1130411_KO0,16_KE17,34.htm?jl=1010056180724
+Meteorologist | RG&T Solutions | Derry, PA
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417180446?position=9&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=jfHPbbySnKorDHp6%2FLi3pA%3D%3D
 Matched: gis, meteorologist
 
-On Air Digital Meteorologist | StormHub | 
-Score: 10 | URL: https://www.glassdoor.com/job-listing/on-air-digital-meteorologist-stormhub-JV_KO0,28_KE29,37.htm?jl=1010138208580
+Meteorologist | RG&T Solutions | Valdese, NC
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417164679?position=12&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=IpNSYRxXEDh5N1sP2Wqefw%3D%3D
 Matched: gis, meteorologist
 
-Sr. Quantitative Meteorologist | Selby Jennings | Houston, MN
-Score: 10 | URL: https://www.glassdoor.com/job-listing/sr-quantitative-meteorologist-selby-jennings-JV_IC1142460_KO0,29_KE30,44.htm?jl=1010133412296
+Meteorologist | RG&T Solutions | Forest Park, IL
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417168614?position=13&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=ybhzz0cZrONSFIj0FK6Qsg%3D%3D
 Matched: gis, meteorologist
 
-Forecast Verification Analyst 3 - 139717 | UC San Diego | San Diego, CA
-Score: 9 | URL: https://www.linkedin.com/jobs/view/forecast-verification-analyst-3-139717-at-uc-san-diego-4414024479?position=26&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=eSioTLtWilBGFZVWZiTlUg%3D%3D
-Matched: forecast, analyst
+Meteorologist | RG&T Solutions | West Milwaukee, WI
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417535490?position=14&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=86iSUiJCdfGVJ3v2agShfQ%3D%3D
+Matched: gis, meteorologist
 
-Meteorology and Atmospheric Science Faculty in Climate Science with Emphasis on Climate Feedbacks | Penn State University | University Park, PA
-Score: 9 | URL: https://www.linkedin.com/jobs/view/meteorology-and-atmospheric-science-faculty-in-climate-science-with-emphasis-on-climate-feedbacks-at-penn-state-university-4389735686?position=50&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=gRYUimSTRs0wqcA3sU6hdA%3D%3D
-Matched: meteorology, atmospheric, climate
+Meteorologist | RG&T Solutions | Boyd, TX
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417174530?position=15&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=R9e%2BsBwynxYkz175hCFxkg%3D%3D
+Matched: gis, meteorologist
 
-Staff Scientist - Extreme Weather, Predictability & AI/ML Forecasting | Berkeley Lab | Berkeley, CA
-Score: 7 | URL: https://www.linkedin.com/jobs/view/staff-scientist-extreme-weather-predictability-ai-ml-forecasting-at-berkeley-lab-4412429811?position=12&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=N%2FYWUo2u1CbQ%2Fij5x2DnqA%3D%3D
-Matched: weather, forecast
+Meteorologist | RG&T Solutions | Greensburg, IN
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417173536?position=16&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=a1o0hnFARmCyXB36T15EJA%3D%3D
+Matched: gis, meteorologist
 
-CIRES / NOAA Chemical Sciences Laboratory, Research Scientist in Greenhouse Gas and Ammonia Air Pollutant Measurements | University of Colorado Boulder | Boulder, CO
-Score: 7 | URL: https://www.linkedin.com/jobs/view/cires-noaa-chemical-sciences-laboratory-research-scientist-in-greenhouse-gas-and-ammonia-air-pollutant-measurements-at-university-of-colorado-boulder-4414252535?position=14&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=jz9N55gx6wBrzUt%2BQHis2g%3D%3D
-Matched: noaa
+Meteorologist | RG&T Solutions | Lincoln Park, MI
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417536525?position=17&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=Bwo72Icc8x9luDAOw2Z7ZA%3D%3D
+Matched: gis, meteorologist
 
-ML Scientist (Atmospheric Science) | Verisk | Boston, MA
-Score: 7 | URL: https://www.linkedin.com/jobs/view/ml-scientist-atmospheric-science-at-verisk-4407461347?position=15&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=H4KJGlY90QfScSycEzzetw%3D%3D
-Matched: atmospheric, risk
+Meteorologist | RG&T Solutions | Richland, MS
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417168615?position=18&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=KfrTT1iBgv9ciro4LTtiiw%3D%3D
+Matched: gis, meteorologist
 
-Open Rank: Atmospheric Sciences Professor (Center for Urban and Coastal Climate Science Research) | Morgan State University | Washington DC-Baltimore Area
-Score: 7 | URL: https://www.linkedin.com/jobs/view/open-rank-atmospheric-sciences-professor-center-for-urban-and-coastal-climate-science-research-at-morgan-state-university-4313268747?position=45&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=48m1EPl12YlUjxQ2j4HHww%3D%3D
-Matched: atmospheric, climate
+Meteorologist | RG&T Solutions | Eaton, CO
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417162747?position=19&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=OSCvys16oWQdnbmkld03zg%3D%3D
+Matched: gis, meteorologist
 
-GIS Programmer Analyst | Missouri | Missouri
-Score: 7 | URL: https://www.governmentjobs.com/jobs/143837-1/gis-programmer-analyst
-Matched: gis, analyst
+Meteorologist | RG&T Solutions | Poultney, VT
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417169598?position=20&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=Og6cAp07wmZo9ZBmeNh%2B2Q%3D%3D
+Matched: gis, meteorologist
 
-Senior Weather Analyst/ML Researcher | Jane Street | New York City Metropolitan Area
-Score: 6 | URL: https://www.linkedin.com/jobs/view/senior-weather-analyst-ml-researcher-at-jane-street-4378798179?position=22&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=LUOgGi0jF0aRsLLUr%2BoCGg%3D%3D
-Matched: weather, analyst
+Meteorologist | RG&T Solutions | Valley City, ND
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417177479?position=21&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=gJZSYDcPT7A8RMS57Y8PDw%3D%3D
+Matched: gis, meteorologist
 
-Atmospheric Scientist (Associate or Mid-Level) | Boeing | Kirtland Air Force Base, NM
-Score: 5 | URL: https://www.linkedin.com/jobs/view/atmospheric-scientist-associate-or-mid-level-at-boeing-4364469918?position=6&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=GP1lVAl%2FAkM7%2BTA%2FjARHUA%3D%3D
-Matched: atmospheric
+Meteorologist | RG&T Solutions | Bayard, NM
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417181413?position=22&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=4Xxii4JpCHvbP2LWqXkwww%3D%3D
+Matched: gis, meteorologist
 
-Research Scientist (Atmospheric Science) | Karen Clark & Company | Boston, MA
-Score: 5 | URL: https://www.linkedin.com/jobs/view/research-scientist-atmospheric-science-at-karen-clark-company-4372217441?position=8&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=9UbkihPzrH2kShjE9pNGiA%3D%3D
-Matched: atmospheric
+Meteorologist | RG&T Solutions | Nibley, UT
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417555231?position=23&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=RWLC1SysGgUhYCCLZmklKw%3D%3D
+Matched: gis, meteorologist
 
-Atmospheric Scientist, Calibration Validation Specialist | DeVine Consulting, Inc. | Monterey, CA
-Score: 5 | URL: https://www.linkedin.com/jobs/view/atmospheric-scientist-calibration-validation-specialist-at-devine-consulting-inc-4399919032?position=17&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=h101taIkiHLEE9OKQQW75Q%3D%3D
-Matched: atmospheric
+Meteorologist | RG&T Solutions | Midland City, AL
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417162746?position=24&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=DWjEihuONy0ss1zEBvVM2g%3D%3D
+Matched: gis, meteorologist
 
-Wildfire Scientist - Impact Forecasting | Aon | Boston, MA
-Score: 5 | URL: https://www.linkedin.com/jobs/view/wildfire-scientist-impact-forecasting-at-aon-4409188390?position=18&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=yzkACZIGAncQp8gVUaArtQ%3D%3D
-Matched: forecast
+Meteorologist | RG&T Solutions | Sauk Centre, MN
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417543322?position=27&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=rpV4y3UANDCVApbx9vJTIQ%3D%3D
+Matched: gis, meteorologist
 
-Atmospheric Sciences - Postdoctoral Researcher | Lawrence Livermore National Laboratory | Livermore, CA
-Score: 5 | URL: https://www.linkedin.com/jobs/view/atmospheric-sciences-postdoctoral-researcher-at-lawrence-livermore-national-laboratory-4418031017?position=42&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=q4L9UtGRldebyPu3dtsnPA%3D%3D
-Matched: atmospheric
+Meteorologist | RG&T Solutions | Lowell, AR
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417174535?position=29&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=DSc5t8Bu7LLP992J8rcGcg%3D%3D
+Matched: gis, meteorologist
 
-Geodetic Earth Scientist | National Geospatial-Intelligence Agency | Saint Louis, MO
-Score: 5 | URL: https://www.glassdoor.com/job-listing/geodetic-earth-scientist-national-geospatial-intelligence-agency-JV_IC1131270_KO0,24_KE25,64.htm?jl=1010138189696
-Matched: spatial, geospatial
+Meteorologist | RG&T Solutions | Felton, DE
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417535486?position=31&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=jzPWmM%2BqVsg7tSIfAJtaDw%3D%3D
+Matched: gis, meteorologist
 
-Program Analyst I or II - Assessors' Office | Georgia | Georgia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5350028-0/program-analyst-i-or-ii-assessors-office
+Meteorologist | RG&T Solutions | Baltic, SD
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417181412?position=32&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=1DT%2FEuJbkSqppObOuCKZ%2BA%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | Port Richey, FL
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418449265?position=33&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=9O9UT2SD95JrlF3F4jBiBw%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | RG&T Solutions | Madison, WV
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417549292?position=35&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=9Om8E2x9MOiHjlAsZ2zU1w%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | Johnstown, PA
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418453154?position=36&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=ElLJ64lD8eRyc2%2B4go8aYg%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | Olney, TX
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418455127?position=37&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=FAkdFWH9%2FTA6u8DHz1H0Mw%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | RG&T Solutions | Soldotna, AK
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417533626?position=39&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=iLwrGn9ZO0I3vTqiWFgl0w%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | McCall, ID
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418436970?position=41&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=T7WmQE%2BbL4afL2FBnyteOQ%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | RG&T Solutions | Guymon, OK
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417178474?position=44&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=jIAOwPLFAUAZrlreUZ3fWw%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | Carson City, NV
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418458171?position=45&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=pluo%2BDGTdoMnlSUAdDD06g%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | McKenzie, TN
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418441668?position=46&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=yjp%2BvZoPrwcwM9yr579pww%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | Cut Bank, MT
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418436968?position=48&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=%2BS4JFspaqDahNo0GWd0Iug%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | Portland, ME
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418445372?position=49&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=fJoWA3Y45aBPJ3HoUKslAA%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | RG&T Solutions | Lemont, IL
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417545354?position=50&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=9r3WfNwg7dNAWHnbCcW91w%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | RG&T Solutions | Rochester, MN
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417551251?position=51&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=grvSWpxLspS%2FWnPvelOL%2Fw%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | RG&T Solutions | Aberdeen, ID
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417545350?position=52&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=xSfIvCZcu8cudzI0RfosUA%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | RG&T Solutions | Rolling Hills Estates, CA
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-rg-t-solutions-4417554259?position=55&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=g%2Bq1ZnCGyvxWfaRi%2FnkOfA%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | Summerville, SC
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418438741?position=57&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=6QL6LRDcLa4xNNOPsAk5Lg%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | Point Pleasant, NJ
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418453162?position=58&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=AC%2FSOsaQn1awyKNcCAYBxQ%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist | val's services | Blades, DE
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-val-s-services-4418455124?position=59&pageNum=0&refId=TsjPCzM%2B4DINV5JXwC%2FYMw%3D%3D&trackingId=EHHfTg5s6pLMNbYepdIxGw%3D%3D
+Matched: gis, meteorologist
+
+SENIOR SYSTEMS ANALYST - Range 17 / NON | Alaska | Alaska
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5352165-0/senior-systems-analyst-range-17-non
 Matched: analyst
 
-Safety & Risk Coordinator | South Dakota | South Dakota
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5347633-0/safety-risk-coordinator
-Matched: risk
+ERP HCM FUNCTIONAL ANALYST (Systems Analyst) - Range 16 / NON | Alaska | Alaska
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5352407-0/erp-hcm-functional-analyst-systems-analyst-range-16-non
+Matched: analyst
 
-AI and Data Assimilation Scientist | Lynker | College Park, MD
-Score: 3 | URL: https://www.linkedin.com/jobs/view/ai-and-data-assimilation-scientist-at-lynker-4409720550?position=55&pageNum=0&refId=S7t1PRvAVhmUKPaYeo%2Fgog%3D%3D&trackingId=A8l2KeEYHlWF6Ki4xNDALg%3D%3D
-Matched: data assimilation
+Financial Analyst II - Budget Division | Georgia | Georgia
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5293622-0/financial-analyst-ii-budget-division
+Matched: analyst
 
-GIS / APPLICATION MANAGER | Massachusetts | Massachusetts
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5348683-0/gis-application-manager
-Matched: gis
-
-GIS Specialist | Missouri | Missouri
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5349326-0/gis-specialist
-Matched: gis
-
-Administrative Technician - Tax Collector/Auto Registration | New Hampshire | New Hampshire
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5351554-0/administrative-technician-tax-collector-auto-registration
-Matched: gis
-
-Registered Nurse, Institutional (RN) (G.W. Bryan Hospital) | South Carolina | South Carolina
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5348186-0/registered-nurse-institutional-rn-g-w-bryan-hospital
-Matched: gis
-
-Public Health Nurse/Registered Nurse Public Health | Wisconsin | Wisconsin
-Score: 3 | URL: https://www.governmentjobs.com/jobs/143902-1/public-health-nurse-registered-nurse-public-health
+PH Registered Nurse-1, 2 or 3 | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5353200-0/ph-registered-nurse-1-2-or-3
 Matched: gis
