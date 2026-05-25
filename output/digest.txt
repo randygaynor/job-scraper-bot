@@ -1,68 +1,20 @@
-Job Digest - 2026-05-24
+Job Digest - 2026-05-25
 
 Summary:
-  Start: 2026-05-24 09:23:46 UTC
-  End: 2026-05-24 09:34:30 UTC
-  Runtime: 10m 43s
-  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Louisiana, StateBoard:Minnesota, StateBoard:Nebraska, StateBoard:New Mexico, StateBoard:West Virginia
-  Fetched: 1275 | Considered: 671 | Matched: 612 | Mailed: 15
+  Start: 2026-05-25 11:14:19 UTC
+  End: 2026-05-25 11:32:49 UTC
+  Runtime: 18m 30s
+  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Hawaii
+  Fetched: 712 | Considered: 373 | Matched: 308 | Mailed: 3
 
-Graphic Design Meteorologist | AccuWeather | State College, PA
-Score: 12 | URL: https://www.linkedin.com/jobs/view/graphic-design-meteorologist-at-accuweather-4365628078?position=55&pageNum=0&refId=U6mLRjlH7nIIOISYMzFJBQ%3D%3D&trackingId=G86Vd%2BF0DcA894jn3Qm2KQ%3D%3D
-Matched: weather, gis, meteorologist
-
-Meteorologist | The E.W. Scripps Company | Greater Missoula Area
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-the-e-w-scripps-company-4418407931?position=1&pageNum=0&refId=U6mLRjlH7nIIOISYMzFJBQ%3D%3D&trackingId=Tg%2Fow5M%2BdIPVyPxSS5YZtQ%3D%3D
+PT Meteorologist | KRDO13 | Colorado Springs, CO
+Score: 10 | URL: https://www.linkedin.com/jobs/view/pt-meteorologist-at-krdo13-4414017522?position=46&pageNum=0&refId=8tmnMeyUZe%2FSaJ8tdqrzyA%3D%3D&trackingId=Bv%2Blm9B5tdnPHcvspZRqPA%3D%3D
 Matched: gis, meteorologist
 
-Meteorologist | Amentum | Cape Canaveral, FL
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-amentum-4417313927?position=7&pageNum=0&refId=U6mLRjlH7nIIOISYMzFJBQ%3D%3D&trackingId=tnmPSo5eDsUGGzF5%2Bmo9kA%3D%3D
-Matched: gis, meteorologist
-
-Operations Meteorologist | Avista | Spokane, WA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/operations-meteorologist-at-avista-4411651975?position=21&pageNum=0&refId=U6mLRjlH7nIIOISYMzFJBQ%3D%3D&trackingId=8g74u2cwIVOGEenxq454Sg%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist III | WCIA 3 | Champaign, IL
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-iii-at-wcia-3-4331978309?position=35&pageNum=0&refId=U6mLRjlH7nIIOISYMzFJBQ%3D%3D&trackingId=kz7lEobhg5gozEg5pNrv0w%3D%3D
-Matched: gis, meteorologist
-
-Weather Forecaster I - US Air Force Academy | Akima | Colorado Springs, CO
-Score: 9 | URL: https://www.linkedin.com/jobs/view/weather-forecaster-i-us-air-force-academy-at-akima-4384927276?position=16&pageNum=0&refId=U6mLRjlH7nIIOISYMzFJBQ%3D%3D&trackingId=XraqKiyJwDhwYmhJiOag8Q%3D%3D
+Weather Forecaster | Akytech | Shaw AFB, SC
+Score: 9 | URL: https://www.glassdoor.com/job-listing/weather-forecaster-akytech-JV_IC1166775_KO0,18_KE19,26.htm?jl=1010143444835
 Matched: weather, forecast, forecaster
 
-Weather Forecaster | SDS International, Inc. | Las Vegas, NV
-Score: 9 | URL: https://www.linkedin.com/jobs/view/weather-forecaster-at-sds-international-inc-4317925359?position=19&pageNum=0&refId=U6mLRjlH7nIIOISYMzFJBQ%3D%3D&trackingId=IKMie6RXK0wGyOqVyHEF1A%3D%3D
-Matched: weather, forecast, forecaster
-
-Aviation Weather Forecaster | Leidos | Vienna, VA
-Score: 9 | URL: https://www.linkedin.com/jobs/view/aviation-weather-forecaster-at-leidos-4397189263?position=41&pageNum=0&refId=U6mLRjlH7nIIOISYMzFJBQ%3D%3D&trackingId=%2BSWSfhT9idGMB42sTkMdOA%3D%3D
-Matched: weather, forecast, forecaster
-
-Reporter / Weather Forecaster | KOAT 7 | Albuquerque, NM
-Score: 9 | URL: https://www.linkedin.com/jobs/view/reporter-weather-forecaster-at-koat-7-4375575303?position=57&pageNum=0&refId=U6mLRjlH7nIIOISYMzFJBQ%3D%3D&trackingId=hafHCHwdYk7x535yLJYRyA%3D%3D
-Matched: weather, forecast, forecaster
-
-Technical Analyst | West Virginia | West Virginia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5349976-0/technical-analyst
-Matched: analyst
-
-FLEET LOGISTICS ADMINISTRATOR (FIRE) | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5353904-0/fleet-logistics-administrator-fire
-Matched: gis
-
-ASSOCIATE 1, 2, OR 3 TO A PSYCHOLOGIST | Louisiana | Louisiana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5352549-0/associate-1-2-or-3-to-a-psychologist
-Matched: gis
-
-Fall/Winter Environmental Educator | Minnesota | Minnesota
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5351072-0/fall-winter-environmental-educator
-Matched: environmental
-
-Environmental Services Associate | Nebraska | Nebraska
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5353186-0/environmental-services-associate
-Matched: environmental
-
-Registered Nurse | New Mexico | New Mexico
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5353306-0/registered-nurse
+GEOLOGIST I - OAHU (OHHI) | Hawaii | Hawaii
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5349174-0/geologist-i-oahu-ohhi
 Matched: gis
