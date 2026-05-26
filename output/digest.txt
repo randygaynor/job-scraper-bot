@@ -1,20 +1,12 @@
-Job Digest - 2026-05-25
+Job Digest - 2026-05-26
 
 Summary:
-  Start: 2026-05-25 11:14:19 UTC
-  End: 2026-05-25 11:32:49 UTC
-  Runtime: 18m 30s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Hawaii
-  Fetched: 712 | Considered: 373 | Matched: 308 | Mailed: 3
+  Start: 2026-05-26 14:28:34 UTC
+  End: 2026-05-26 14:47:06 UTC
+  Runtime: 18m 32s
+  Sources with email jobs: Glassdoor
+  Fetched: 712 | Considered: 386 | Matched: 309 | Mailed: 1
 
-PT Meteorologist | KRDO13 | Colorado Springs, CO
-Score: 10 | URL: https://www.linkedin.com/jobs/view/pt-meteorologist-at-krdo13-4414017522?position=46&pageNum=0&refId=8tmnMeyUZe%2FSaJ8tdqrzyA%3D%3D&trackingId=Bv%2Blm9B5tdnPHcvspZRqPA%3D%3D
-Matched: gis, meteorologist
-
-Weather Forecaster | Akytech | Shaw AFB, SC
-Score: 9 | URL: https://www.glassdoor.com/job-listing/weather-forecaster-akytech-JV_IC1166775_KO0,18_KE19,26.htm?jl=1010143444835
-Matched: weather, forecast, forecaster
-
-GEOLOGIST I - OAHU (OHHI) | Hawaii | Hawaii
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5349174-0/geologist-i-oahu-ohhi
-Matched: gis
+Data Scientist / Senior Data Scientist | Berkshire Hathaway Specialty Insurance | San Ramon, CA
+Score: 5 | URL: https://www.glassdoor.com/job-listing/data-scientist-senior-data-scientist-berkshire-hathaway-specialty-insurance-JV_IC1147410_KO0,36_KE37,75.htm?jl=1010000204457
+Matched: insurance
