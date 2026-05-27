@@ -1,15 +1,47 @@
-Subject: Job Digest - 2026-05-26
+Subject: Job Digest - 2026-05-27
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-05-26 14:28:34 UTC
-  End: 2026-05-26 14:47:06 UTC
-  Runtime: 18m 32s
-  Sources with email jobs: Glassdoor
-  Fetched: 712 | Considered: 386 | Matched: 309 | Mailed: 1
+  Start: 2026-05-27 10:58:32 UTC
+  End: 2026-05-27 11:09:46 UTC
+  Runtime: 11m 13s
+  Sources with email jobs: StateBoard:Alaska, StateBoard:Arkansas, StateBoard:Georgia, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:Ohio
+  Fetched: 1234 | Considered: 644 | Matched: 585 | Mailed: 9
 
-Data Scientist / Senior Data Scientist | Berkshire Hathaway Specialty Insurance | San Ramon, CA
-URL: https://www.glassdoor.com/job-listing/data-scientist-senior-data-scientist-berkshire-hathaway-specialty-insurance-JV_IC1147410_KO0,36_KE37,75.htm?jl=1010000204457
-Score: 5 | Matched: insurance
+Research Analyst 1/2 (PCN 110457) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5355026-0/research-analyst-1-2-pcn-110457
+Score: 5 | Matched: analyst
+
+Labor and Employee Relations Analyst II | Arkansas | Arkansas
+URL: https://www.governmentjobs.com/jobs/5351997-0/labor-and-employee-relations-analyst-ii
+Score: 5 | Matched: analyst
+
+Oracle Cloud Reporting Analyst | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5345829-0/oracle-cloud-reporting-analyst
+Score: 5 | Matched: analyst
+
+Licensing Analyst 1 | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5354302-0/licensing-analyst-1
+Score: 5 | Matched: analyst
+
+Licensing Analyst Director | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5354249-0/licensing-analyst-director
+Score: 5 | Matched: analyst
+
+Management Analyst II (Vacancy) | Ohio | Ohio
+URL: https://www.governmentjobs.com/jobs/5343874-0/management-analyst-ii-vacancy
+Score: 5 | Matched: analyst
+
+SENIOR MANAGEMENT ANALYST(UNCLASSIFIED) | Ohio | Ohio
+URL: https://www.governmentjobs.com/jobs/5354742-0/senior-management-analystunclassified
+Score: 5 | Matched: analyst
+
+District 3-5 Environmental Health Director | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5189151-0/district-3-5-environmental-health-director
+Score: 3 | Matched: environmental
+
+Registered Nurse Manager 12 | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5352813-0/registered-nurse-manager-12
+Score: 3 | Matched: gis
