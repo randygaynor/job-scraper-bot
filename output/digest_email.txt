@@ -1,35 +1,55 @@
-Subject: Job Digest - 2026-05-28
+Subject: Job Digest - 2026-05-29
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-05-28 10:59:39 UTC
-  End: 2026-05-28 11:18:38 UTC
-  Runtime: 18m 59s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Illinois, USAJOBS
-  Fetched: 644 | Considered: 345 | Matched: 287 | Mailed: 6
+  Start: 2026-05-29 10:51:25 UTC
+  End: 2026-05-29 10:57:25 UTC
+  Runtime: 6m 0s
+  Sources with email jobs: StateBoard:Hawaii, StateBoard:Maryland, StateBoard:Michigan, StateBoard:Montana, StateBoard:Nevada, StateBoard:New Jersey, StateBoard:West Virginia
+  Fetched: 1628 | Considered: 858 | Matched: 796 | Mailed: 11
 
-Meteorologist | USAJOBS | 
-URL: https://www.usajobs.gov/job/870691200
-Score: 17 | Matched: usajobs, gis, meteorologist
+Departmental Analyst 9-12 (Data Visualization Analyst) - Bureau of Development | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5355666-0/departmental-analyst-9-12-data-visualization-analyst-bureau-of-development
+Score: 8 | Matched: visualization, analyst
 
-Meteorologist, KPAX | Scripps Montana/MTN | Greater Missoula Area
-URL: https://www.linkedin.com/jobs/view/meteorologist-kpax-at-scripps-montana-mtn-4418407931?position=6&pageNum=0&refId=bDUZDDjcYYfixWe%2B9%2FBvFQ%3D%3D&trackingId=b4l5JA9z5BTxX1vCxU5BXg%3D%3D
-Score: 10 | Matched: gis, meteorologist
-
-Associate Weather Risk Analyst | DTN | Bloomington, MN
-URL: https://www.linkedin.com/jobs/view/associate-weather-risk-analyst-at-dtn-4419577374?position=33&pageNum=0&refId=bDUZDDjcYYfixWe%2B9%2FBvFQ%3D%3D&trackingId=dDf8SFjc5sQgSxkOZIfpeg%3D%3D
-Score: 8 | Matched: weather, risk, analyst
-
-Public Health Data Analyst (PCN 061335) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5352341-0/public-health-data-analyst-pcn-061335
+Capital Management Analyst | Maryland | Maryland
+URL: https://www.governmentjobs.com/jobs/5355579-0/capital-management-analyst
 Score: 5 | Matched: analyst
 
-Barge Operations and Logistics Supervisor (Alaska Railroad) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5356022-0/barge-operations-and-logistics-supervisor-alaska-railroad
+Departmental Analyst (Trainee) 9-12 | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5356537-0/departmental-analyst-trainee-9-12
+Score: 5 | Matched: analyst
+
+Information Technology Analyst 3 | New Jersey | New Jersey
+URL: https://www.governmentjobs.com/jobs/5351217-0/information-technology-analyst-3
+Score: 5 | Matched: analyst
+
+Transportation Program Analyst 2 - Kanawha County | West Virginia | West Virginia
+URL: https://www.governmentjobs.com/jobs/5357342-0/transportation-program-analyst-2-kanawha-county
+Score: 5 | Matched: analyst
+
+Transportation Program Analyst 2 - Kanawha County | West Virginia | West Virginia
+URL: https://www.governmentjobs.com/jobs/5357295-0/transportation-program-analyst-2-kanawha-county
+Score: 5 | Matched: analyst
+
+REGISTERED NURSE III - SHIFTWORK - CORRECTIONAL FACILITIES - STATEWIDE | Hawaii | Hawaii
+URL: https://www.governmentjobs.com/jobs/5352196-0/registered-nurse-iii-shiftwork-correctional-facilities-statewide
 Score: 3 | Matched: gis
 
-Network Security Engineer - Operational Technology | Illinois | Illinois
-URL: https://www.governmentjobs.com/jobs/5354579-0/network-security-engineer-operational-technology
-Score: 3 | Matched: operational
+Registered Nurse I | Maryland | Maryland
+URL: https://www.governmentjobs.com/jobs/5318591-0/registered-nurse-i
+Score: 3 | Matched: gis
+
+Registered Nurse (RN, Casual On-Call) - Detention Center | Montana | Montana
+URL: https://www.governmentjobs.com/jobs/5356968-0/registered-nurse-rn-casual-on-call-detention-center
+Score: 3 | Matched: gis
+
+Environmental Health Specialist I/II | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5356620-0/environmental-health-specialist-i-ii
+Score: 3 | Matched: environmental
+
+Transportation Engineering Technologist - Randolph County | West Virginia | West Virginia
+URL: https://www.governmentjobs.com/jobs/5356270-0/transportation-engineering-technologist-randolph-county
+Score: 3 | Matched: gis
