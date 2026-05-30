@@ -1,55 +1,39 @@
-Subject: Job Digest - 2026-05-29
+Subject: Job Digest - 2026-05-30
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-05-29 10:51:25 UTC
-  End: 2026-05-29 10:57:25 UTC
-  Runtime: 6m 0s
-  Sources with email jobs: StateBoard:Hawaii, StateBoard:Maryland, StateBoard:Michigan, StateBoard:Montana, StateBoard:Nevada, StateBoard:New Jersey, StateBoard:West Virginia
-  Fetched: 1628 | Considered: 858 | Matched: 796 | Mailed: 11
+  Start: 2026-05-30 09:22:53 UTC
+  End: 2026-05-30 09:41:20 UTC
+  Runtime: 18m 27s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Illinois
+  Fetched: 682 | Considered: 364 | Matched: 303 | Mailed: 7
 
-Departmental Analyst 9-12 (Data Visualization Analyst) - Bureau of Development | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5355666-0/departmental-analyst-9-12-data-visualization-analyst-bureau-of-development
-Score: 8 | Matched: visualization, analyst
+Meteorologist | Portland General Electric | Tualatin, OR
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-portland-general-electric-4421316036?position=52&pageNum=0&refId=aD15kFsKN5%2FrfTJdbqWpZQ%3D%3D&trackingId=Bw9j6rI0VnM976n3dJDspA%3D%3D
+Score: 10 | Matched: gis, meteorologist
 
-Capital Management Analyst | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5355579-0/capital-management-analyst
+IT Business Analyst (PCN 064949) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5358557-0/it-business-analyst-pcn-064949
 Score: 5 | Matched: analyst
 
-Departmental Analyst (Trainee) 9-12 | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5356537-0/departmental-analyst-trainee-9-12
+Data Analyst - G126 - Fire/EMS | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5343268-0/data-analyst-g126-fire-ems
 Score: 5 | Matched: analyst
 
-Information Technology Analyst 3 | New Jersey | New Jersey
-URL: https://www.governmentjobs.com/jobs/5351217-0/information-technology-analyst-3
-Score: 5 | Matched: analyst
-
-Transportation Program Analyst 2 - Kanawha County | West Virginia | West Virginia
-URL: https://www.governmentjobs.com/jobs/5357342-0/transportation-program-analyst-2-kanawha-county
-Score: 5 | Matched: analyst
-
-Transportation Program Analyst 2 - Kanawha County | West Virginia | West Virginia
-URL: https://www.governmentjobs.com/jobs/5357295-0/transportation-program-analyst-2-kanawha-county
-Score: 5 | Matched: analyst
-
-REGISTERED NURSE III - SHIFTWORK - CORRECTIONAL FACILITIES - STATEWIDE | Hawaii | Hawaii
-URL: https://www.governmentjobs.com/jobs/5352196-0/registered-nurse-iii-shiftwork-correctional-facilities-statewide
+Habitat Biologist 1 (PCN 114335) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5354920-0/habitat-biologist-1-pcn-114335
 Score: 3 | Matched: gis
 
-Registered Nurse I | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5318591-0/registered-nurse-i
+Wildlife Biologist 1/2 (PCN 111659) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5359587-0/wildlife-biologist-1-2-pcn-111659
 Score: 3 | Matched: gis
 
-Registered Nurse (RN, Casual On-Call) - Detention Center | Montana | Montana
-URL: https://www.governmentjobs.com/jobs/5356968-0/registered-nurse-rn-casual-on-call-detention-center
+Radiologist 2 | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5025289-0/radiologist-2
 Score: 3 | Matched: gis
 
-Environmental Health Specialist I/II | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5356620-0/environmental-health-specialist-i-ii
-Score: 3 | Matched: environmental
-
-Transportation Engineering Technologist - Randolph County | West Virginia | West Virginia
-URL: https://www.governmentjobs.com/jobs/5356270-0/transportation-engineering-technologist-randolph-county
-Score: 3 | Matched: gis
+Director, Emergency Management Agency | Illinois | Illinois
+URL: https://www.governmentjobs.com/jobs/144211-1/director-emergency-management-agency
+Score: 3 | Matched: emergency management
