@@ -1,36 +1,48 @@
-Job Digest - 2026-05-30
+Job Digest - 2026-05-31
 
 Summary:
-  Start: 2026-05-30 09:22:53 UTC
-  End: 2026-05-30 09:41:20 UTC
-  Runtime: 18m 27s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Illinois
-  Fetched: 682 | Considered: 364 | Matched: 303 | Mailed: 7
+  Start: 2026-05-31 09:48:59 UTC
+  End: 2026-05-31 09:52:34 UTC
+  Runtime: 3m 35s
+  Sources with email jobs: Glassdoor, StateBoard:Iowa, StateBoard:Massachusetts, StateBoard:Mississippi, StateBoard:Nebraska, StateBoard:New Jersey
+  Fetched: 1843 | Considered: 966 | Matched: 884 | Mailed: 10
 
-Meteorologist | Portland General Electric | Tualatin, OR
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-portland-general-electric-4421316036?position=52&pageNum=0&refId=aD15kFsKN5%2FrfTJdbqWpZQ%3D%3D&trackingId=Bw9j6rI0VnM976n3dJDspA%3D%3D
-Matched: gis, meteorologist
+ML Scientist (Atmospheric Science) | Ignite Insurance Systems | Boston, MA
+Score: 8 | URL: https://www.glassdoor.com/job-listing/ml-scientist-atmospheric-science-ignite-insurance-systems-JV_IC1154532_KO0,32_KE33,57.htm?jl=1010114769140
+Matched: atmospheric, insurance
 
-IT Business Analyst (PCN 064949) | Alaska | Alaska
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5358557-0/it-business-analyst-pcn-064949
+Procurement & Logistics Data Analyst | Massachusetts | Massachusetts
+Score: 7 | URL: https://www.governmentjobs.com/jobs/5354534-0/procurement-logistics-data-analyst
+Matched: gis, analyst
+
+Crime Analyst | Massachusetts | Massachusetts
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5351655-0/crime-analyst
 Matched: analyst
 
-Data Analyst - G126 - Fire/EMS | Georgia | Georgia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5343268-0/data-analyst-g126-fire-ems
+Case Analyst (Court Services Officer 1) | New Jersey | New Jersey
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5281282-0/case-analyst-court-services-officer-1
 Matched: analyst
 
-Habitat Biologist 1 (PCN 114335) | Alaska | Alaska
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5354920-0/habitat-biologist-1-pcn-114335
+Registered Nurse | Iowa | Iowa
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5360135-0/registered-nurse
 Matched: gis
 
-Wildlife Biologist 1/2 (PCN 111659) | Alaska | Alaska
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5359587-0/wildlife-biologist-1-2-pcn-111659
+Shared Services Coordinator / Regional Epidemiologist | Massachusetts | Massachusetts
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5359257-0/shared-services-coordinator-regional-epidemiologist
 Matched: gis
 
-Radiologist 2 | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5025289-0/radiologist-2
+Emergency Management Officer I - Floodplain Management Specialist | Mississippi | Mississippi
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5345389-0/emergency-management-officer-i-floodplain-management-specialist
+Matched: emergency management
+
+Revenue Specialist I - MVS/Registration | Mississippi | Mississippi
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5358950-0/revenue-specialist-i-mvs-registration
 Matched: gis
 
-Director, Emergency Management Agency | Illinois | Illinois
-Score: 3 | URL: https://www.governmentjobs.com/jobs/144211-1/director-emergency-management-agency
+Registered Nurse | Nebraska | Nebraska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5359002-0/registered-nurse
+Matched: gis
+
+Emergency Management Specialist I | Nebraska | Nebraska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5357947-0/emergency-management-specialist-i
 Matched: emergency management
