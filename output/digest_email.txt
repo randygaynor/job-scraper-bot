@@ -1,51 +1,35 @@
-Subject: Job Digest - 2026-05-31
+Subject: Job Digest - 2026-06-01
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-05-31 09:48:59 UTC
-  End: 2026-05-31 09:52:34 UTC
-  Runtime: 3m 35s
-  Sources with email jobs: Glassdoor, StateBoard:Iowa, StateBoard:Massachusetts, StateBoard:Mississippi, StateBoard:Nebraska, StateBoard:New Jersey
-  Fetched: 1843 | Considered: 966 | Matched: 884 | Mailed: 10
+  Start: 2026-06-01 12:42:28 UTC
+  End: 2026-06-01 13:02:08 UTC
+  Runtime: 19m 39s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Pennsylvania, USAJOBS
+  Fetched: 644 | Considered: 321 | Matched: 288 | Mailed: 6
 
-ML Scientist (Atmospheric Science) | Ignite Insurance Systems | Boston, MA
-URL: https://www.glassdoor.com/job-listing/ml-scientist-atmospheric-science-ignite-insurance-systems-JV_IC1154532_KO0,32_KE33,57.htm?jl=1010114769140
-Score: 8 | Matched: atmospheric, insurance
+Supervisory Meteorologist | USAJOBS | 
+URL: https://www.usajobs.gov/job/871123200
+Score: 17 | Matched: usajobs, gis, meteorologist
 
-Procurement & Logistics Data Analyst | Massachusetts | Massachusetts
-URL: https://www.governmentjobs.com/jobs/5354534-0/procurement-logistics-data-analyst
-Score: 7 | Matched: gis, analyst
+Supervisory Meteorologist | USAJOBS | 
+URL: https://www.usajobs.gov/job/871123400
+Score: 17 | Matched: usajobs, gis, meteorologist
 
-Crime Analyst | Massachusetts | Massachusetts
-URL: https://www.governmentjobs.com/jobs/5351655-0/crime-analyst
+Air Quality Environmental Analyst | Lawrence Livermore National Laboratory | Livermore, CA
+URL: https://www.linkedin.com/jobs/view/air-quality-environmental-analyst-at-lawrence-livermore-national-laboratory-4419518907?position=46&pageNum=0&refId=uI31YW8YE5wRnjm5vD2CLA%3D%3D&trackingId=4BQclPKRQBcPc3GP3Ogf7g%3D%3D
+Score: 6 | Matched: environmental, analyst
+
+Human Resource Analyst 1 | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5357965-0/human-resource-analyst-1
 Score: 5 | Matched: analyst
 
-Case Analyst (Court Services Officer 1) | New Jersey | New Jersey
-URL: https://www.governmentjobs.com/jobs/5281282-0/case-analyst-court-services-officer-1
-Score: 5 | Matched: analyst
-
-Registered Nurse | Iowa | Iowa
-URL: https://www.governmentjobs.com/jobs/5360135-0/registered-nurse
+Engineering Geologist 1/2 (PCN 251635) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5350739-0/engineering-geologist-1-2-pcn-251635
 Score: 3 | Matched: gis
 
-Shared Services Coordinator / Regional Epidemiologist | Massachusetts | Massachusetts
-URL: https://www.governmentjobs.com/jobs/5359257-0/shared-services-coordinator-regional-epidemiologist
-Score: 3 | Matched: gis
-
-Emergency Management Officer I - Floodplain Management Specialist | Mississippi | Mississippi
-URL: https://www.governmentjobs.com/jobs/5345389-0/emergency-management-officer-i-floodplain-management-specialist
-Score: 3 | Matched: emergency management
-
-Revenue Specialist I - MVS/Registration | Mississippi | Mississippi
-URL: https://www.governmentjobs.com/jobs/5358950-0/revenue-specialist-i-mvs-registration
-Score: 3 | Matched: gis
-
-Registered Nurse | Nebraska | Nebraska
-URL: https://www.governmentjobs.com/jobs/5359002-0/registered-nurse
-Score: 3 | Matched: gis
-
-Emergency Management Specialist I | Nebraska | Nebraska
-URL: https://www.governmentjobs.com/jobs/5357947-0/emergency-management-specialist-i
-Score: 3 | Matched: emergency management
+Environmental Health Specialist 1, 2 or 3 | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5359426-0/environmental-health-specialist-1-2-or-3
+Score: 3 | Matched: environmental
