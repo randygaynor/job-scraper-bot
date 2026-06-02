@@ -1,32 +1,60 @@
-Job Digest - 2026-06-01
+Job Digest - 2026-06-02
 
 Summary:
-  Start: 2026-06-01 12:42:28 UTC
-  End: 2026-06-01 13:02:08 UTC
-  Runtime: 19m 39s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Pennsylvania, USAJOBS
-  Fetched: 644 | Considered: 321 | Matched: 288 | Mailed: 6
+  Start: 2026-06-02 11:22:14 UTC
+  End: 2026-06-02 11:27:45 UTC
+  Runtime: 5m 30s
+  Sources with email jobs: StateBoard:Alaska, StateBoard:California, StateBoard:Georgia, StateBoard:Hawaii, StateBoard:Iowa, StateBoard:Kansas, StateBoard:Kentucky, StateBoard:Maryland, StateBoard:Nebraska, StateBoard:New Jersey, StateBoard:North Carolina, StateBoard:Virginia, StateBoard:Wisconsin
+  Fetched: 1658 | Considered: 863 | Matched: 802 | Mailed: 13
 
-Supervisory Meteorologist | USAJOBS | 
-Score: 17 | URL: https://www.usajobs.gov/job/871123200
-Matched: usajobs, gis, meteorologist
-
-Supervisory Meteorologist | USAJOBS | 
-Score: 17 | URL: https://www.usajobs.gov/job/871123400
-Matched: usajobs, gis, meteorologist
-
-Air Quality Environmental Analyst | Lawrence Livermore National Laboratory | Livermore, CA
-Score: 6 | URL: https://www.linkedin.com/jobs/view/air-quality-environmental-analyst-at-lawrence-livermore-national-laboratory-4419518907?position=46&pageNum=0&refId=uI31YW8YE5wRnjm5vD2CLA%3D%3D&trackingId=4BQclPKRQBcPc3GP3Ogf7g%3D%3D
-Matched: environmental, analyst
-
-Human Resource Analyst 1 | Pennsylvania | Pennsylvania
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5357965-0/human-resource-analyst-1
+Financial Analyst | California | California
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5359437-0/financial-analyst
 Matched: analyst
 
-Engineering Geologist 1/2 (PCN 251635) | Alaska | Alaska
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5350739-0/engineering-geologist-1-2-pcn-251635
+Technical Support Analyst - DOT | Georgia | Georgia
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5359905-0/technical-support-analyst-dot
+Matched: analyst
+
+Risk Manager | Iowa | Iowa
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5362007-0/risk-manager
+Matched: risk
+
+Principal Budget Analyst - Operating Budget Coordinator | Kansas | Kansas
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5361681-0/principal-budget-analyst-operating-budget-coordinator
+Matched: analyst
+
+Information Technology Analyst 2 | New Jersey | New Jersey
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5352535-0/information-technology-analyst-2
+Matched: analyst
+
+Community Systems Performance Analyst | Wisconsin | Wisconsin
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5325023-0/community-systems-performance-analyst
+Matched: analyst
+
+UNEMPLOYMENT INSURANCE ASSISTANT III - KONA, HAWAII | Hawaii | Hawaii
+Score: 4 | URL: https://www.governmentjobs.com/jobs/5360254-0/unemployment-insurance-assistant-iii-kona-hawaii
+Matched: insurance
+
+Fishery Biologist 4 (Statewide Salmon Research Biologist - PCN 117025) | Alaska | Alaska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5361523-0/fishery-biologist-4-statewide-salmon-research-biologist-pcn-117025
 Matched: gis
 
-Environmental Health Specialist 1, 2 or 3 | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5359426-0/environmental-health-specialist-1-2-or-3
+Environmental Health Spec I U31 | Kentucky | Kentucky
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5359234-0/environmental-health-spec-i-u31
 Matched: environmental
+
+Environmental Inspector - Part-Time | Maryland | Maryland
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5361262-0/environmental-inspector-part-time
+Matched: environmental
+
+Psychiatric Registered Nurse | Nebraska | Nebraska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5277533-0/psychiatric-registered-nurse
+Matched: gis
+
+Medical Lab Technologist (HRL) - 00004023 | North Carolina | North Carolina
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5250953-0/medical-lab-technologist-hrl-00004023
+Matched: gis
+
+Registered Nurse (Pine Forest) (re-ad 26-00698; 26-00562) | Virginia | Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5357161-0/registered-nurse-pine-forest-re-ad-26-00698-26-00562
+Matched: gis
