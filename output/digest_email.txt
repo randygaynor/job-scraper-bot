@@ -1,63 +1,35 @@
-Subject: Job Digest - 2026-06-02
+Subject: Job Digest - 2026-06-03
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-02 11:22:14 UTC
-  End: 2026-06-02 11:27:45 UTC
-  Runtime: 5m 30s
-  Sources with email jobs: StateBoard:Alaska, StateBoard:California, StateBoard:Georgia, StateBoard:Hawaii, StateBoard:Iowa, StateBoard:Kansas, StateBoard:Kentucky, StateBoard:Maryland, StateBoard:Nebraska, StateBoard:New Jersey, StateBoard:North Carolina, StateBoard:Virginia, StateBoard:Wisconsin
-  Fetched: 1658 | Considered: 863 | Matched: 802 | Mailed: 13
+  Start: 2026-06-03 11:59:40 UTC
+  End: 2026-06-03 12:15:53 UTC
+  Runtime: 16m 13s
+  Sources with email jobs: LinkedIn, StateBoard:Connecticut, StateBoard:Missouri, StateBoard:Pennsylvania
+  Fetched: 992 | Considered: 527 | Matched: 466 | Mailed: 6
 
-Financial Analyst | California | California
-URL: https://www.governmentjobs.com/jobs/5359437-0/financial-analyst
+Weather Forecaster I - US Air Force Academy with Security Clearance | Akima Infrastructure Services | Colorado Springs, CO
+URL: https://www.linkedin.com/jobs/view/weather-forecaster-i-us-air-force-academy-with-security-clearance-at-akima-infrastructure-services-4419425126?position=30&pageNum=0&refId=S8rq1UJfhesy3kqC97jmQQ%3D%3D&trackingId=oNt37G7e5TCRPoNXgSv1JA%3D%3D
+Score: 9 | Matched: weather, forecast, forecaster
+
+Associate Commission Analyst | Connecticut | Connecticut
+URL: https://www.governmentjobs.com/jobs/5361144-0/associate-commission-analyst
 Score: 5 | Matched: analyst
 
-Technical Support Analyst - DOT | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5359905-0/technical-support-analyst-dot
+Vulnerability Management Analyst (Information Security Specialist 2) | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5357277-0/vulnerability-management-analyst-information-security-specialist-2
 Score: 5 | Matched: analyst
 
-Risk Manager | Iowa | Iowa
-URL: https://www.governmentjobs.com/jobs/5362007-0/risk-manager
-Score: 5 | Matched: risk
-
-Principal Budget Analyst - Operating Budget Coordinator | Kansas | Kansas
-URL: https://www.governmentjobs.com/jobs/5361681-0/principal-budget-analyst-operating-budget-coordinator
+Drug and Alcohol Program Analyst | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5355843-0/drug-and-alcohol-program-analyst
 Score: 5 | Matched: analyst
 
-Information Technology Analyst 2 | New Jersey | New Jersey
-URL: https://www.governmentjobs.com/jobs/5352535-0/information-technology-analyst-2
-Score: 5 | Matched: analyst
-
-Community Systems Performance Analyst | Wisconsin | Wisconsin
-URL: https://www.governmentjobs.com/jobs/5325023-0/community-systems-performance-analyst
-Score: 5 | Matched: analyst
-
-UNEMPLOYMENT INSURANCE ASSISTANT III - KONA, HAWAII | Hawaii | Hawaii
-URL: https://www.governmentjobs.com/jobs/5360254-0/unemployment-insurance-assistant-iii-kona-hawaii
-Score: 4 | Matched: insurance
-
-Fishery Biologist 4 (Statewide Salmon Research Biologist - PCN 117025) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5361523-0/fishery-biologist-4-statewide-salmon-research-biologist-pcn-117025
+Registered Nurse, Nurse-Family Partnership | Missouri | Missouri
+URL: https://www.governmentjobs.com/jobs/5163722-0/registered-nurse-nurse-family-partnership
 Score: 3 | Matched: gis
 
-Environmental Health Spec I U31 | Kentucky | Kentucky
-URL: https://www.governmentjobs.com/jobs/5359234-0/environmental-health-spec-i-u31
-Score: 3 | Matched: environmental
-
-Environmental Inspector - Part-Time | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5361262-0/environmental-inspector-part-time
-Score: 3 | Matched: environmental
-
-Psychiatric Registered Nurse | Nebraska | Nebraska
-URL: https://www.governmentjobs.com/jobs/5277533-0/psychiatric-registered-nurse
-Score: 3 | Matched: gis
-
-Medical Lab Technologist (HRL) - 00004023 | North Carolina | North Carolina
-URL: https://www.governmentjobs.com/jobs/5250953-0/medical-lab-technologist-hrl-00004023
-Score: 3 | Matched: gis
-
-Registered Nurse (Pine Forest) (re-ad 26-00698; 26-00562) | Virginia | Virginia
-URL: https://www.governmentjobs.com/jobs/5357161-0/registered-nurse-pine-forest-re-ad-26-00698-26-00562
+Registered Nurse - Wound Care Nurse - Pennsylvania Soldiers' and Sailors' Home | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5359942-0/registered-nurse-wound-care-nurse-pennsylvania-soldiers-and-sailors-home
 Score: 3 | Matched: gis
