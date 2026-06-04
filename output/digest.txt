@@ -1,32 +1,60 @@
-Job Digest - 2026-06-03
+Job Digest - 2026-06-04
 
 Summary:
-  Start: 2026-06-03 11:59:40 UTC
-  End: 2026-06-03 12:15:53 UTC
-  Runtime: 16m 13s
-  Sources with email jobs: LinkedIn, StateBoard:Connecticut, StateBoard:Missouri, StateBoard:Pennsylvania
-  Fetched: 992 | Considered: 527 | Matched: 466 | Mailed: 6
+  Start: 2026-06-04 10:40:55 UTC
+  End: 2026-06-04 10:46:57 UTC
+  Runtime: 6m 2s
+  Sources with email jobs: StateBoard:Alaska, StateBoard:Arkansas, StateBoard:Hawaii, StateBoard:Illinois, StateBoard:Iowa, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Mississippi, StateBoard:Nebraska, StateBoard:Virginia
+  Fetched: 1632 | Considered: 854 | Matched: 793 | Mailed: 13
 
-Weather Forecaster I - US Air Force Academy with Security Clearance | Akima Infrastructure Services | Colorado Springs, CO
-Score: 9 | URL: https://www.linkedin.com/jobs/view/weather-forecaster-i-us-air-force-academy-with-security-clearance-at-akima-infrastructure-services-4419425126?position=30&pageNum=0&refId=S8rq1UJfhesy3kqC97jmQQ%3D%3D&trackingId=oNt37G7e5TCRPoNXgSv1JA%3D%3D
-Matched: weather, forecast, forecaster
-
-Associate Commission Analyst | Connecticut | Connecticut
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5361144-0/associate-commission-analyst
+Human Resources Analyst | Illinois | Illinois
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5363942-0/human-resources-analyst
 Matched: analyst
 
-Vulnerability Management Analyst (Information Security Specialist 2) | Pennsylvania | Pennsylvania
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5357277-0/vulnerability-management-analyst-information-security-specialist-2
+Research/Data Analyst III | Mississippi | Mississippi
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5364475-0/research-data-analyst-iii
 Matched: analyst
 
-Drug and Alcohol Program Analyst | Pennsylvania | Pennsylvania
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5355843-0/drug-and-alcohol-program-analyst
-Matched: analyst
+Environmental Program Specialist Flex 1/2/3 (090400) | Alaska | Alaska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5307981-0/environmental-program-specialist-flex-1-2-3-090400
+Matched: environmental
 
-Registered Nurse, Nurse-Family Partnership | Missouri | Missouri
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5163722-0/registered-nurse-nurse-family-partnership
+PT Cash Register Operator at Jim Dailey Fitness & Aquatic Center | Arkansas | Arkansas
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5292470-0/pt-cash-register-operator-at-jim-dailey-fitness-aquatic-center
 Matched: gis
 
-Registered Nurse - Wound Care Nurse - Pennsylvania Soldiers' and Sailors' Home | Pennsylvania | Pennsylvania
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5359942-0/registered-nurse-wound-care-nurse-pennsylvania-soldiers-and-sailors-home
+PT Cash Register Operator at Southwest Community Center | Arkansas | Arkansas
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5294273-0/pt-cash-register-operator-at-southwest-community-center
 Matched: gis
+
+MICROBIOLOGIST II AND III - MAUI | Hawaii | Hawaii
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5352167-0/microbiologist-ii-and-iii-maui
+Matched: gis
+
+Speech Language Pathologist | Iowa | Iowa
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5364134-0/speech-language-pathologist
+Matched: gis
+
+Environmental Scientist 1/2/3 | Louisiana | Louisiana
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5363951-0/environmental-scientist-1-2-3
+Matched: environmental
+
+BIOLOGIST SUPERVISOR | Louisiana | Louisiana
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5362228-0/biologist-supervisor
+Matched: gis
+
+BIOLOGIST 1-3 | Louisiana | Louisiana
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5362111-0/biologist-1-3
+Matched: gis
+
+Speech Language Pathologist | Maryland | Maryland
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5356820-0/speech-language-pathologist
+Matched: gis
+
+Epidemiologist (GRANT FUNDED) | Nebraska | Nebraska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5364304-0/epidemiologist-grant-funded
+Matched: gis
+
+Principal Maintenance Worker (Environmental Engineering) | Virginia | Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5357198-0/principal-maintenance-worker-environmental-engineering
+Matched: environmental
