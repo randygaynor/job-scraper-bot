@@ -1,24 +1,16 @@
-Job Digest - 2026-06-05
+Job Digest - 2026-06-06
 
 Summary:
-  Start: 2026-06-05 10:52:02 UTC
-  End: 2026-06-05 11:12:32 UTC
-  Runtime: 20m 30s
-  Sources with email jobs: StateBoard:Arizona, StateBoard:Florida, StateBoard:Georgia
-  Fetched: 527 | Considered: 277 | Matched: 216 | Mailed: 4
+  Start: 2026-06-06 09:28:33 UTC
+  End: 2026-06-06 09:49:02 UTC
+  Runtime: 20m 29s
+  Sources with email jobs: LinkedIn, StateBoard:Hawaii
+  Fetched: 520 | Considered: 276 | Matched: 214 | Mailed: 2
 
-Director Human Resources and Risk Management | Arizona | Arizona
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5364738-0/director-human-resources-and-risk-management
-Matched: risk
+Meteorologist, KMGH | Denver7 (KMGH-TV) | Denver, CO
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-kmgh-at-denver7-kmgh-tv-4424904788?position=42&pageNum=0&refId=JkcoOqIRRLk5PTkAFc7Rqw%3D%3D&trackingId=aiNjTteO2%2BfGNTSjwMBfpw%3D%3D
+Matched: gis, meteorologist
 
-Senior Budget Analyst – GFO | Florida | Florida
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5365850-0/senior-budget-analyst-gfo
-Matched: analyst
-
-PH Environmental Health Specialist 1 | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5366020-0/ph-environmental-health-specialist-1
-Matched: environmental
-
-Registered Nurse - Children's Medical Services | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5115775-0/registered-nurse-childrens-medical-services
+ENTOMOLOGIST II, III AND IV - WAILUKU/KAHULUI, MAUI | Hawaii | Hawaii
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5353859-0/entomologist-ii-iii-and-iv-wailuku-kahului-maui
 Matched: gis
