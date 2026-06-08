@@ -1,19 +1,15 @@
-Subject: Job Digest - 2026-06-07
+Subject: Job Digest - 2026-06-08
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-07 10:07:36 UTC
-  End: 2026-06-07 10:28:35 UTC
-  Runtime: 20m 59s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska
-  Fetched: 481 | Considered: 257 | Matched: 195 | Mailed: 2
+  Start: 2026-06-08 12:02:36 UTC
+  End: 2026-06-08 12:25:38 UTC
+  Runtime: 23m 1s
+  Sources with email jobs: LinkedIn
+  Fetched: 348 | Considered: 192 | Matched: 133 | Mailed: 1
 
-Meteorologist | WISN-TV | Milwaukee, WI
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-wisn-tv-4421548777?position=47&pageNum=0&refId=aM2U46Ya%2BWP8enaPg9JwTw%3D%3D&trackingId=NYExXE0Q3ERzLPU41dN%2F8Q%3D%3D
+Meteorologist | National Association of Black Journalists (NABJ) | Milwaukee, WI
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-national-association-of-black-journalists-nabj-4425461651?position=34&pageNum=0&refId=S%2BEhQylyFMU5N6PxVz2IoA%3D%3D&trackingId=48Cx71%2F3aTRWfA6Mfvq1DQ%3D%3D
 Score: 10 | Matched: gis, meteorologist
-
-Analyst Programmer 2/3/4 (12-4707) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5368496-0/analyst-programmer-2-3-4-12-4707
-Score: 5 | Matched: analyst
