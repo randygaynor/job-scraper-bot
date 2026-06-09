@@ -1,15 +1,75 @@
-Subject: Job Digest - 2026-06-08
+Subject: Job Digest - 2026-06-09
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-08 12:02:36 UTC
-  End: 2026-06-08 12:25:38 UTC
-  Runtime: 23m 1s
-  Sources with email jobs: LinkedIn
-  Fetched: 348 | Considered: 192 | Matched: 133 | Mailed: 1
+  Start: 2026-06-09 10:36:47 UTC
+  End: 2026-06-09 10:44:26 UTC
+  Runtime: 7m 38s
+  Sources with email jobs: StateBoard:Georgia, StateBoard:Hawaii, StateBoard:Kentucky, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:Nebraska, StateBoard:New Mexico, StateBoard:Ohio, StateBoard:Pennsylvania, StateBoard:South Carolina, StateBoard:South Dakota, StateBoard:West Virginia
+  Fetched: 1517 | Considered: 800 | Matched: 739 | Mailed: 16
 
-Meteorologist | National Association of Black Journalists (NABJ) | Milwaukee, WI
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-national-association-of-black-journalists-nabj-4425461651?position=34&pageNum=0&refId=S%2BEhQylyFMU5N6PxVz2IoA%3D%3D&trackingId=48Cx71%2F3aTRWfA6Mfvq1DQ%3D%3D
-Score: 10 | Matched: gis, meteorologist
+IT Service Desk Analyst II | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5362099-0/it-service-desk-analyst-ii
+Score: 5 | Matched: analyst
+
+Procurement Analyst | Kentucky | Kentucky
+URL: https://www.governmentjobs.com/jobs/5365433-0/procurement-analyst
+Score: 5 | Matched: analyst
+
+Social Services Analyst 3-WAE-EC | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5367322-0/social-services-analyst-3-wae-ec
+Score: 5 | Matched: analyst
+
+ITPA12 - Senior IT Business Analyst | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5369656-0/itpa12-senior-it-business-analyst
+Score: 5 | Matched: analyst
+
+Accountant/Fiscal Analyst / Revenue Accounting Supervisor - 189252 | South Carolina | South Carolina
+URL: https://www.governmentjobs.com/jobs/5368218-0/accountant-fiscal-analyst-revenue-accounting-supervisor-189252
+Score: 5 | Matched: analyst
+
+Insurance Fraud Investigator | West Virginia | West Virginia
+URL: https://www.governmentjobs.com/jobs/5361163-0/insurance-fraud-investigator
+Score: 4 | Matched: insurance
+
+MEDICAL TECHNOLOGIST IV - HAWAII STATE HOSPITAL - OAHU | Hawaii | Hawaii
+URL: https://www.governmentjobs.com/jobs/5360010-0/medical-technologist-iv-hawaii-state-hospital-oahu
+Score: 3 | Matched: gis
+
+BIOLOGIST DCL-A : STATEWIDE | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5357916-0/biologist-dcl-a-statewide
+Score: 3 | Matched: gis
+
+Registered Nurse Supervisor A | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5368784-0/registered-nurse-supervisor-a
+Score: 3 | Matched: gis
+
+Environmental Scientist 4 | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5367431-0/environmental-scientist-4
+Score: 3 | Matched: environmental
+
+Registered Nurse Supervisor A | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5368023-0/registered-nurse-supervisor-a
+Score: 3 | Matched: gis
+
+Environmental Services Associate | Nebraska | Nebraska
+URL: https://www.governmentjobs.com/jobs/5365726-0/environmental-services-associate
+Score: 3 | Matched: environmental
+
+Registered Nurse | New Mexico | New Mexico
+URL: https://www.governmentjobs.com/jobs/5368828-0/registered-nurse
+Score: 3 | Matched: gis
+
+Canton Environmental Health Specialist I (Health Inspector I) | Ohio | Ohio
+URL: https://www.governmentjobs.com/jobs/5368810-0/canton-environmental-health-specialist-i-health-inspector-i
+Score: 3 | Matched: environmental
+
+Registered Nurse - SCI Laurel Highlands | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5368653-0/registered-nurse-sci-laurel-highlands
+Score: 3 | Matched: gis
+
+Temporary Certified Deputy Sheriff – Sturgis Rally | South Dakota | South Dakota
+URL: https://www.governmentjobs.com/jobs/5359057-0/temporary-certified-deputy-sheriff-sturgis-rally
+Score: 3 | Matched: gis
