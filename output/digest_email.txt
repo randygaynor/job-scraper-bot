@@ -1,71 +1,79 @@
-Subject: Job Digest - 2026-06-11
+Subject: Job Digest - 2026-06-12
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-11 11:25:06 UTC
-  End: 2026-06-11 11:37:10 UTC
-  Runtime: 12m 4s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Illinois, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:Ohio, StateBoard:Pennsylvania, StateBoard:Tennessee
-  Fetched: 1500 | Considered: 771 | Matched: 739 | Mailed: 15
+  Start: 2026-06-12 11:04:57 UTC
+  End: 2026-06-12 11:15:10 UTC
+  Runtime: 10m 13s
+  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Indiana, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Nevada, StateBoard:Pennsylvania, StateBoard:Virginia, StateBoard:West Virginia
+  Fetched: 1323 | Considered: 686 | Matched: 653 | Mailed: 17
 
-Meteorologist, Weekends, KNXV | ABC15 Arizona | Greater Phoenix Area
-URL: https://www.linkedin.com/jobs/view/meteorologist-weekends-knxv-at-abc15-arizona-4426522423?position=33&pageNum=0&refId=hMH9VUlZQqEZ2Grq2cOLKQ%3D%3D&trackingId=I5m4V3WcKlv1dgOtXeQMUw%3D%3D
+Meteorologist | Roadrunner Venture Studios | Albuquerque, NM
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-roadrunner-venture-studios-4427662288?position=16&pageNum=0&refId=W57sydcMTTErDIh4qXet%2FA%3D%3D&trackingId=tctTOH2Oi%2FDPZqKn3geJcA%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Weather Forecaster/Observer - Fallon, NV | RedTown, LLC | Fallon, NV
-URL: https://www.linkedin.com/jobs/view/weather-forecaster-observer-fallon-nv-at-redtown-llc-4427013679?position=23&pageNum=0&refId=hMH9VUlZQqEZ2Grq2cOLKQ%3D%3D&trackingId=7UJAc%2BKFRc4mNIpdO1%2Fqdg%3D%3D
-Score: 9 | Matched: weather, forecast, forecaster
+Meteorologist | Roadrunner Venture Studios | Albuquerque, NM
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-roadrunner-venture-studios-4427662288?position=22&pageNum=0&refId=%2FqV1O6Pmb0H9%2F1ofqvH9mg%3D%3D&trackingId=T3kgtomtHyOvrQ3QF2XnQg%3D%3D
+Score: 10 | Matched: gis, meteorologist
 
-Weather Forecaster II | RedTown, LLC | Oak Harbor, WA
-URL: https://www.linkedin.com/jobs/view/weather-forecaster-ii-at-redtown-llc-4427007821?position=49&pageNum=0&refId=hMH9VUlZQqEZ2Grq2cOLKQ%3D%3D&trackingId=DrO9ldR9HDeRdEzmvkhmpw%3D%3D
-Score: 9 | Matched: weather, forecast, forecaster
+Safety Officer- Risk Management | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/4712392-0/safety-officer-risk-management
+Score: 5 | Matched: risk
 
-PIR Weather Analyst with Security Clearance | Altamira Technologies Corporation | Dayton, OH
-URL: https://www.linkedin.com/jobs/view/pir-weather-analyst-with-security-clearance-at-altamira-technologies-corporation-4426792875?position=56&pageNum=0&refId=hMH9VUlZQqEZ2Grq2cOLKQ%3D%3D&trackingId=HnSqO2uaRTIm0bIkml3sOg%3D%3D
-Score: 6 | Matched: weather, analyst
-
-Senior Weather Analyst/ML Researcher | Jane Street | New York City Metropolitan Area
-URL: https://www.linkedin.com/jobs/view/senior-weather-analyst-ml-researcher-at-jane-street-4423011203?position=23&pageNum=0&refId=DZ5xxs2dv8LBEJ1fkbv9nQ%3D%3D&trackingId=6u1xnz4%2Bmr4Rj4yx6kkozQ%3D%3D
-Score: 6 | Matched: weather, analyst
-
-Budget Analyst 3 (PCN 20-1004) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5371902-0/budget-analyst-3-pcn-20-1004
+Interoperability Analyst | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5374026-0/interoperability-analyst
 Score: 5 | Matched: analyst
 
-Financial Analyst I | Illinois | Illinois
-URL: https://www.governmentjobs.com/jobs/5371194-0/financial-analyst-i
+Social Services Analyst 1 - Team Specialist (Child Welfare - Baton Rouge Region) | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5370761-0/social-services-analyst-1-team-specialist-child-welfare-baton-rouge-region
 Score: 5 | Matched: analyst
 
-Clinical Informatics Analyst | Illinois | Illinois
-URL: https://www.governmentjobs.com/jobs/5371187-0/clinical-informatics-analyst
+MANAGEMENT ANALYST 2 | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5375228-0/management-analyst-2
 Score: 5 | Matched: analyst
 
-MEDICAID ANALYST 1-3 | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5372000-0/medicaid-analyst-1-3
+Senior Utilities Business Analyst | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5373379-0/senior-utilities-business-analyst
 Score: 5 | Matched: analyst
 
-ITPA12 - Senior Business Analyst | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5282261-0/itpa12-senior-business-analyst
+Senior Administrative Analyst (Finance) | Virginia | Virginia
+URL: https://www.governmentjobs.com/jobs/5366537-0/senior-administrative-analyst-finance
 Score: 5 | Matched: analyst
 
-Employee Benefits Analyst II (TEMPORARY) (Vacancies) | Ohio | Ohio
-URL: https://www.governmentjobs.com/jobs/5365497-0/employee-benefits-analyst-ii-temporary-vacancies
+Senior Automation Analyst | Virginia | Virginia
+URL: https://www.governmentjobs.com/jobs/5366498-0/senior-automation-analyst
 Score: 5 | Matched: analyst
 
-Public Health Registered Nurse 1, 2, or 3 | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5371946-0/public-health-registered-nurse-1-2-or-3
+Data Analyst 1 | West Virginia | West Virginia
+URL: https://www.governmentjobs.com/jobs/5368835-0/data-analyst-1
+Score: 5 | Matched: analyst
+
+AMD Technologist | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5362421-0/amd-technologist
 Score: 3 | Matched: gis
 
-Departmental Specialist 13 (Emergency Management Specialist) | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5371491-0/departmental-specialist-13-emergency-management-specialist
-Score: 3 | Matched: emergency management
+Environmental Health Specialist 2, 3, 4, or 5 | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5371955-0/environmental-health-specialist-2-3-4-or-5
+Score: 3 | Matched: environmental
 
-Registered Nurse (Part-Time) - Southeastern Veterans' Center (2nd and 3rd Shift) | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5370406-0/registered-nurse-part-time-southeastern-veterans-center-2nd-and-3rd-shift
+Assistant GIS Coordinator | Indiana | Indiana
+URL: https://www.governmentjobs.com/jobs/5370591-0/assistant-gis-coordinator
 Score: 3 | Matched: gis
 
-GIS Technician | Tennessee | Tennessee
-URL: https://www.governmentjobs.com/jobs/5369308-0/gis-technician
+Registered Nurse Supervisor A | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5373788-0/registered-nurse-supervisor-a
+Score: 3 | Matched: gis
+
+Planning Specialist II - Public Works, Environmental Services | Maryland | Maryland
+URL: https://www.governmentjobs.com/jobs/5353198-0/planning-specialist-ii-public-works-environmental-services
+Score: 3 | Matched: environmental
+
+Advanced Practice Registered Nurse - Per Diem | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5373937-0/advanced-practice-registered-nurse-per-diem
+Score: 3 | Matched: gis
+
+Licensed Psychologist Manager, Corrections - SCI Smithfield | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5370238-0/licensed-psychologist-manager-corrections-sci-smithfield
 Score: 3 | Matched: gis
