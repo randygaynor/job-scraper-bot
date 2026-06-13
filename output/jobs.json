@@ -63,13 +63,13 @@
     "fingerprint": "https://www.governmentjobs.com/savedjobs"
   },
   {
-    "id": "https://www.governmentjobs.com/jobs?page=44&location=Wyoming&isTransfer=False&isPromotional=False",
-    "source": "StateBoard:Wyoming",
+    "id": "https://www.governmentjobs.com/jobs?page=81&location=Georgia&isTransfer=False&isPromotional=False",
+    "source": "StateBoard:Georgia",
     "title": "\u25bb\u25bb",
-    "company": "Wyoming",
-    "location": "Wyoming",
+    "company": "Georgia",
+    "location": "Georgia",
     "description": "\u25bb\u25bb",
-    "url": "https://www.governmentjobs.com/jobs?page=44&location=Wyoming&isTransfer=False&isPromotional=False",
+    "url": "https://www.governmentjobs.com/jobs?page=81&location=Georgia&isTransfer=False&isPromotional=False",
     "score": 1,
     "matched_keywords": {},
     "sent": false,
@@ -42216,13 +42216,13 @@
     "sent_at": "2026-05-22T10:36:34.477047Z"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/student-weather-lab-manager-at-center-for-public-partnerships-research-4418075266?position=17&pageNum=0&refId=W57sydcMTTErDIh4qXet%2FA%3D%3D&trackingId=XeXreW%2BLU4kVbuqzcv5jLQ%3D%3D",
+    "id": "https://www.linkedin.com/jobs/view/student-weather-lab-manager-at-center-for-public-partnerships-research-4418075266?position=16&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=t7cl%2B2cEo9qLD7UAcgWN%2FA%3D%3D",
     "source": "LinkedIn",
     "title": "Student Weather Lab Manager",
     "company": "Center for Public Partnerships & Research",
     "location": "Topeka Metropolitan Area",
     "description": "",
-    "url": "https://www.linkedin.com/jobs/view/student-weather-lab-manager-at-center-for-public-partnerships-research-4418075266?position=17&pageNum=0&refId=W57sydcMTTErDIh4qXet%2FA%3D%3D&trackingId=XeXreW%2BLU4kVbuqzcv5jLQ%3D%3D",
+    "url": "https://www.linkedin.com/jobs/view/student-weather-lab-manager-at-center-for-public-partnerships-research-4418075266?position=16&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=t7cl%2B2cEo9qLD7UAcgWN%2FA%3D%3D",
     "score": 2,
     "matched_keywords": {
       "weather": 1
@@ -59050,13 +59050,13 @@
     "fingerprint": "https://www.linkedin.com/jobs/view/hydrologist-at-dewberry-4409914409"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/pharmaceutical-scientist-remote-at-stem-sync-ai-4424096202?position=17&pageNum=0&refId=5l71Hkn4bD6vMTvjPCNgyw%3D%3D&trackingId=I0%2F7caKnvCl%2FDNbB9aMJuQ%3D%3D",
+    "id": "https://www.linkedin.com/jobs/view/pharmaceutical-scientist-remote-at-stem-sync-ai-4424096202?position=27&pageNum=0&refId=1FCKotu0H1HhVIbCUgxq%2FA%3D%3D&trackingId=4rivyN7G0I%2BYjSmszObPpA%3D%3D",
     "source": "LinkedIn",
     "title": "Pharmaceutical Scientist | Remote",
     "company": "STEM Sync AI",
     "location": "United States",
     "description": "",
-    "url": "https://www.linkedin.com/jobs/view/pharmaceutical-scientist-remote-at-stem-sync-ai-4424096202?position=17&pageNum=0&refId=5l71Hkn4bD6vMTvjPCNgyw%3D%3D&trackingId=I0%2F7caKnvCl%2FDNbB9aMJuQ%3D%3D",
+    "url": "https://www.linkedin.com/jobs/view/pharmaceutical-scientist-remote-at-stem-sync-ai-4424096202?position=27&pageNum=0&refId=1FCKotu0H1HhVIbCUgxq%2FA%3D%3D&trackingId=4rivyN7G0I%2BYjSmszObPpA%3D%3D",
     "score": 1,
     "matched_keywords": {},
     "sent": false,
@@ -71208,5 +71208,423 @@
     "matched_keywords": {},
     "sent": false,
     "fingerprint": "https://www.governmentjobs.com/jobs/5374417-0/administrative-assistant"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-at-famu-national-alumni-association-4428101688?position=22&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=qh%2F3Z0UqidCSDu2VMKg%2Fhw%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist",
+    "company": "FAMU National Alumni Association",
+    "location": "Lakeland, FL",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-at-famu-national-alumni-association-4428101688?position=22&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=qh%2F3Z0UqidCSDu2VMKg%2Fhw%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.linkedin.com/jobs/view/meteorologist-at-famu-national-alumni-association-4428101688",
+    "sent_at": "2026-06-13T10:25:53.232359Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-at-famu-national-alumni-association-4428114501?position=23&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=jE9PK4c5Iru%2F%2BDgMT4oYiw%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist",
+    "company": "FAMU National Alumni Association",
+    "location": "Lakeland, FL",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-at-famu-national-alumni-association-4428114501?position=23&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=jE9PK4c5Iru%2F%2BDgMT4oYiw%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.linkedin.com/jobs/view/meteorologist-at-famu-national-alumni-association-4428114501",
+    "sent_at": "2026-06-13T10:25:53.232359Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/operational-meteorologist-at-roadrunner-venture-studios-4427662288?position=29&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=XgXX8UMQ3cPytTKliNMmVg%3D%3D",
+    "source": "LinkedIn",
+    "title": "Operational Meteorologist",
+    "company": "Roadrunner Venture Studios",
+    "location": "Albuquerque, NM",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/operational-meteorologist-at-roadrunner-venture-studios-4427662288?position=29&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=XgXX8UMQ3cPytTKliNMmVg%3D%3D",
+    "score": 12,
+    "matched_keywords": {
+      "operational": 1,
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.linkedin.com/jobs/view/operational-meteorologist-at-roadrunner-venture-studios-4427662288",
+    "sent_at": "2026-06-13T10:25:53.232359Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/physical-scientist-hydrologist-meteorologist-at-famu-national-alumni-association-4427998730?position=36&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=dCfnnKlYlrookP0K2%2F2zqw%3D%3D",
+    "source": "LinkedIn",
+    "title": "Physical Scientist/Hydrologist/Meteorologist",
+    "company": "FAMU National Alumni Association",
+    "location": "Wailuku, HI",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/physical-scientist-hydrologist-meteorologist-at-famu-national-alumni-association-4427998730?position=36&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=dCfnnKlYlrookP0K2%2F2zqw%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.linkedin.com/jobs/view/physical-scientist-hydrologist-meteorologist-at-famu-national-alumni-association-4427998730",
+    "sent_at": "2026-06-13T10:25:53.232359Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/physical-scientist-hydrologist-meteorologist-at-famu-national-alumni-association-4428103716?position=40&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=RGKUuWcZFrlAVIfmJaNXow%3D%3D",
+    "source": "LinkedIn",
+    "title": "Physical Scientist/Hydrologist/Meteorologist",
+    "company": "FAMU National Alumni Association",
+    "location": "Wailuku, HI",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/physical-scientist-hydrologist-meteorologist-at-famu-national-alumni-association-4428103716?position=40&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=RGKUuWcZFrlAVIfmJaNXow%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.linkedin.com/jobs/view/physical-scientist-hydrologist-meteorologist-at-famu-national-alumni-association-4428103716",
+    "sent_at": "2026-06-13T10:25:53.232359Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/meteorologist-pittsburg-ks-joplin-mo-at-wisc-tv-4428182931?position=50&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=8EsIT4cHP2jtXWtKzn0xxQ%3D%3D",
+    "source": "LinkedIn",
+    "title": "Meteorologist Pittsburg,KS/Joplin,MO",
+    "company": "WISC-TV",
+    "location": "Pittsburg, KS",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/meteorologist-pittsburg-ks-joplin-mo-at-wisc-tv-4428182931?position=50&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=8EsIT4cHP2jtXWtKzn0xxQ%3D%3D",
+    "score": 10,
+    "matched_keywords": {
+      "gis": 1,
+      "meteorologist": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.linkedin.com/jobs/view/meteorologist-pittsburg-ks-joplin-mo-at-wisc-tv-4428182931",
+    "sent_at": "2026-06-13T10:25:53.232359Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/scientist-water-ecology-i-bureau-of-environmental-sciences-and-engineering-at-chemanager-international-4426976980?position=7&pageNum=0&refId=1FCKotu0H1HhVIbCUgxq%2FA%3D%3D&trackingId=aowrId0p015IssLLh1820A%3D%3D",
+    "source": "LinkedIn",
+    "title": "Scientist (Water Ecology), I - Bureau of Environmental Sciences and Engineering",
+    "company": "CHEManager International",
+    "location": "New York, NY",
+    "description": "",
+    "url": "https://www.linkedin.com/jobs/view/scientist-water-ecology-i-bureau-of-environmental-sciences-and-engineering-at-chemanager-international-4426976980?position=7&pageNum=0&refId=1FCKotu0H1HhVIbCUgxq%2FA%3D%3D&trackingId=aowrId0p015IssLLh1820A%3D%3D",
+    "score": 2,
+    "matched_keywords": {
+      "environmental": 1
+    },
+    "sent": false,
+    "fingerprint": "https://www.linkedin.com/jobs/view/scientist-water-ecology-i-bureau-of-environmental-sciences-and-engineering-at-chemanager-international-4426976980"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5375972-0/sports-center-facility-operator",
+    "source": "StateBoard:Alaska",
+    "title": "Sports Center Facility Operator",
+    "company": "Alaska",
+    "location": "Alaska",
+    "description": "Sports Center Facility Operator",
+    "url": "https://www.governmentjobs.com/jobs/5375972-0/sports-center-facility-operator",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5375972-0/sports-center-facility-operator"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5373597-0/human-resource-technician-3-pcn-253090",
+    "source": "StateBoard:Alaska",
+    "title": "Human Resource Technician 3 (PCN 253090)",
+    "company": "Alaska",
+    "location": "Alaska",
+    "description": "Human Resource Technician 3 (PCN 253090)",
+    "url": "https://www.governmentjobs.com/jobs/5373597-0/human-resource-technician-3-pcn-253090",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5373597-0/human-resource-technician-3-pcn-253090"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5375910-0/recreation-specialist-i-range-7-amea",
+    "source": "StateBoard:Alaska",
+    "title": "RECREATION SPECIALIST I - Range 7 / AMEA",
+    "company": "Alaska",
+    "location": "Alaska",
+    "description": "RECREATION SPECIALIST I - Range 7 / AMEA",
+    "url": "https://www.governmentjobs.com/jobs/5375910-0/recreation-specialist-i-range-7-amea",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5375910-0/recreation-specialist-i-range-7-amea"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5373540-0/research-analyst-3-pcn-065184",
+    "source": "StateBoard:Alaska",
+    "title": "Research Analyst 3 (PCN 065184)",
+    "company": "Alaska",
+    "location": "Alaska",
+    "description": "Research Analyst 3 (PCN 065184)",
+    "url": "https://www.governmentjobs.com/jobs/5373540-0/research-analyst-3-pcn-065184",
+    "score": 5,
+    "matched_keywords": {
+      "analyst": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5373540-0/research-analyst-3-pcn-065184",
+    "sent_at": "2026-06-13T10:25:53.232359Z"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5376158-0/groundskeeper-assistant",
+    "source": "StateBoard:Alaska",
+    "title": "Groundskeeper Assistant",
+    "company": "Alaska",
+    "location": "Alaska",
+    "description": "Groundskeeper Assistant",
+    "url": "https://www.governmentjobs.com/jobs/5376158-0/groundskeeper-assistant",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5376158-0/groundskeeper-assistant"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5373653-0/physician-assistant-advanced-practice-registered-nurse-1-pcn-062293",
+    "source": "StateBoard:Alaska",
+    "title": "Physician Assistant / Advanced Practice Registered Nurse 1 (PCN 062293)",
+    "company": "Alaska",
+    "location": "Alaska",
+    "description": "Physician Assistant / Advanced Practice Registered Nurse 1 (PCN 062293)",
+    "url": "https://www.governmentjobs.com/jobs/5373653-0/physician-assistant-advanced-practice-registered-nurse-1-pcn-062293",
+    "score": 3,
+    "matched_keywords": {
+      "gis": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5373653-0/physician-assistant-advanced-practice-registered-nurse-1-pcn-062293",
+    "sent_at": "2026-06-13T10:25:53.232359Z"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5371521-0/accountant-3-pcn-060613",
+    "source": "StateBoard:Alaska",
+    "title": "Accountant 3 (PCN 060613)",
+    "company": "Alaska",
+    "location": "Alaska",
+    "description": "Accountant 3 (PCN 060613)",
+    "url": "https://www.governmentjobs.com/jobs/5371521-0/accountant-3-pcn-060613",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5371521-0/accountant-3-pcn-060613"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/143439-1/head-start-site-supervisor",
+    "source": "StateBoard:Arizona",
+    "title": "Head Start Site Supervisor",
+    "company": "Arizona",
+    "location": "Arizona",
+    "description": "Head Start Site Supervisor",
+    "url": "https://www.governmentjobs.com/jobs/143439-1/head-start-site-supervisor",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/143439-1/head-start-site-supervisor"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5319495-0/property-and-evidence-technician",
+    "source": "StateBoard:Arkansas",
+    "title": "Property and Evidence Technician",
+    "company": "Arkansas",
+    "location": "Arkansas",
+    "description": "Property and Evidence Technician",
+    "url": "https://www.governmentjobs.com/jobs/5319495-0/property-and-evidence-technician",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5319495-0/property-and-evidence-technician"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5372867-0/land-use-specialist-zoning-enforcement-officer",
+    "source": "StateBoard:Connecticut",
+    "title": "Land Use Specialist/Zoning Enforcement Officer",
+    "company": "Connecticut",
+    "location": "Connecticut",
+    "description": "Land Use Specialist/Zoning Enforcement Officer",
+    "url": "https://www.governmentjobs.com/jobs/5372867-0/land-use-specialist-zoning-enforcement-officer",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5372867-0/land-use-specialist-zoning-enforcement-officer"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/145027-1/delivery-assitant-remote-part-time-work",
+    "source": "StateBoard:Delaware",
+    "title": "Delivery  Assitant (REMOTE PART TIME WORK)",
+    "company": "Delaware",
+    "location": "Delaware",
+    "description": "Delivery  Assitant (REMOTE PART TIME WORK)",
+    "url": "https://www.governmentjobs.com/jobs/145027-1/delivery-assitant-remote-part-time-work",
+    "score": 2,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/145027-1/delivery-assitant-remote-part-time-work"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5375024-0/certified-police-officer",
+    "source": "StateBoard:Florida",
+    "title": "Certified Police Officer",
+    "company": "Florida",
+    "location": "Florida",
+    "description": "Certified Police Officer",
+    "url": "https://www.governmentjobs.com/jobs/5375024-0/certified-police-officer",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5375024-0/certified-police-officer"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5375026-0/senior-building-inspector",
+    "source": "StateBoard:Florida",
+    "title": "Senior Building Inspector",
+    "company": "Florida",
+    "location": "Florida",
+    "description": "Senior Building Inspector",
+    "url": "https://www.governmentjobs.com/jobs/5375026-0/senior-building-inspector",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5375026-0/senior-building-inspector"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5374454-0/court-clerk",
+    "source": "StateBoard:Georgia",
+    "title": "Court Clerk",
+    "company": "Georgia",
+    "location": "Georgia",
+    "description": "Court Clerk",
+    "url": "https://www.governmentjobs.com/jobs/5374454-0/court-clerk",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5374454-0/court-clerk"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5374347-0/part-time-parking-attendant",
+    "source": "StateBoard:Georgia",
+    "title": "PART TIME: Parking Attendant",
+    "company": "Georgia",
+    "location": "Georgia",
+    "description": "PART TIME: Parking Attendant",
+    "url": "https://www.governmentjobs.com/jobs/5374347-0/part-time-parking-attendant",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5374347-0/part-time-parking-attendant"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5374062-0/in-house-public-utilities-analyst",
+    "source": "StateBoard:Georgia",
+    "title": "IN HOUSE: Public Utilities Analyst",
+    "company": "Georgia",
+    "location": "Georgia",
+    "description": "IN HOUSE: Public Utilities Analyst",
+    "url": "https://www.governmentjobs.com/jobs/5374062-0/in-house-public-utilities-analyst",
+    "score": 5,
+    "matched_keywords": {
+      "analyst": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5374062-0/in-house-public-utilities-analyst",
+    "sent_at": "2026-06-13T10:25:53.232359Z"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/4238646-0/hourly-customer-service-representative-1",
+    "source": "StateBoard:Georgia",
+    "title": "Hourly Customer Service Representative 1",
+    "company": "Georgia",
+    "location": "Georgia",
+    "description": "Hourly Customer Service Representative 1",
+    "url": "https://www.governmentjobs.com/jobs/4238646-0/hourly-customer-service-representative-1",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/4238646-0/hourly-customer-service-representative-1"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5325495-0/hourly-nutritionist",
+    "source": "StateBoard:Georgia",
+    "title": "Hourly Nutritionist",
+    "company": "Georgia",
+    "location": "Georgia",
+    "description": "Hourly Nutritionist",
+    "url": "https://www.governmentjobs.com/jobs/5325495-0/hourly-nutritionist",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5325495-0/hourly-nutritionist"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5376027-0/admin-support-madison",
+    "source": "StateBoard:Georgia",
+    "title": "Admin Support - Madison",
+    "company": "Georgia",
+    "location": "Georgia",
+    "description": "Admin Support - Madison",
+    "url": "https://www.governmentjobs.com/jobs/5376027-0/admin-support-madison",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5376027-0/admin-support-madison"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5376431-0/geospatial-systems-analyst-i",
+    "source": "StateBoard:Georgia",
+    "title": "GEOSPATIAL SYSTEMS ANALYST I",
+    "company": "Georgia",
+    "location": "Georgia",
+    "description": "GEOSPATIAL SYSTEMS ANALYST I",
+    "url": "https://www.governmentjobs.com/jobs/5376431-0/geospatial-systems-analyst-i",
+    "score": 10,
+    "matched_keywords": {
+      "spatial": 1,
+      "geospatial": 1,
+      "analyst": 1
+    },
+    "sent": true,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5376431-0/geospatial-systems-analyst-i",
+    "sent_at": "2026-06-13T10:25:53.232359Z"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5376452-0/field-tech-i-water-sewer-department",
+    "source": "StateBoard:Georgia",
+    "title": "Field Tech I (Water & Sewer Department)",
+    "company": "Georgia",
+    "location": "Georgia",
+    "description": "Field Tech I (Water & Sewer Department)",
+    "url": "https://www.governmentjobs.com/jobs/5376452-0/field-tech-i-water-sewer-department",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5376452-0/field-tech-i-water-sewer-department"
+  },
+  {
+    "id": "https://www.governmentjobs.com/jobs/5376544-0/police-officer-lateral-entry-out-of-state-60-486-86-090",
+    "source": "StateBoard:Georgia",
+    "title": "Police Officer - Lateral Entry - Out of State ($60,486 - $86,090)",
+    "company": "Georgia",
+    "location": "Georgia",
+    "description": "Police Officer - Lateral Entry - Out of State ($60,486 - $86,090)",
+    "url": "https://www.governmentjobs.com/jobs/5376544-0/police-officer-lateral-entry-out-of-state-60-486-86-090",
+    "score": 1,
+    "matched_keywords": {},
+    "sent": false,
+    "fingerprint": "https://www.governmentjobs.com/jobs/5376544-0/police-officer-lateral-entry-out-of-state-60-486-86-090"
   }
 ]

@@ -1,79 +1,51 @@
-Subject: Job Digest - 2026-06-12
+Subject: Job Digest - 2026-06-13
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-12 11:04:57 UTC
-  End: 2026-06-12 11:15:10 UTC
-  Runtime: 10m 13s
-  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Indiana, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Nevada, StateBoard:Pennsylvania, StateBoard:Virginia, StateBoard:West Virginia
-  Fetched: 1323 | Considered: 686 | Matched: 653 | Mailed: 17
+  Start: 2026-06-13 10:04:51 UTC
+  End: 2026-06-13 10:25:50 UTC
+  Runtime: 20m 58s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia
+  Fetched: 482 | Considered: 261 | Matched: 201 | Mailed: 10
 
-Meteorologist | Roadrunner Venture Studios | Albuquerque, NM
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-roadrunner-venture-studios-4427662288?position=16&pageNum=0&refId=W57sydcMTTErDIh4qXet%2FA%3D%3D&trackingId=tctTOH2Oi%2FDPZqKn3geJcA%3D%3D
+Operational Meteorologist | Roadrunner Venture Studios | Albuquerque, NM
+URL: https://www.linkedin.com/jobs/view/operational-meteorologist-at-roadrunner-venture-studios-4427662288?position=29&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=XgXX8UMQ3cPytTKliNMmVg%3D%3D
+Score: 12 | Matched: operational, gis, meteorologist
+
+Meteorologist | FAMU National Alumni Association | Lakeland, FL
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-famu-national-alumni-association-4428101688?position=22&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=qh%2F3Z0UqidCSDu2VMKg%2Fhw%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Meteorologist | Roadrunner Venture Studios | Albuquerque, NM
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-roadrunner-venture-studios-4427662288?position=22&pageNum=0&refId=%2FqV1O6Pmb0H9%2F1ofqvH9mg%3D%3D&trackingId=T3kgtomtHyOvrQ3QF2XnQg%3D%3D
+Meteorologist | FAMU National Alumni Association | Lakeland, FL
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-famu-national-alumni-association-4428114501?position=23&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=jE9PK4c5Iru%2F%2BDgMT4oYiw%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Safety Officer- Risk Management | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/4712392-0/safety-officer-risk-management
-Score: 5 | Matched: risk
+Physical Scientist/Hydrologist/Meteorologist | FAMU National Alumni Association | Wailuku, HI
+URL: https://www.linkedin.com/jobs/view/physical-scientist-hydrologist-meteorologist-at-famu-national-alumni-association-4427998730?position=36&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=dCfnnKlYlrookP0K2%2F2zqw%3D%3D
+Score: 10 | Matched: gis, meteorologist
 
-Interoperability Analyst | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5374026-0/interoperability-analyst
+Physical Scientist/Hydrologist/Meteorologist | FAMU National Alumni Association | Wailuku, HI
+URL: https://www.linkedin.com/jobs/view/physical-scientist-hydrologist-meteorologist-at-famu-national-alumni-association-4428103716?position=40&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=RGKUuWcZFrlAVIfmJaNXow%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+Meteorologist Pittsburg,KS/Joplin,MO | WISC-TV | Pittsburg, KS
+URL: https://www.linkedin.com/jobs/view/meteorologist-pittsburg-ks-joplin-mo-at-wisc-tv-4428182931?position=50&pageNum=0&refId=rJ9bBBDqCIigbwQi%2FRzWgQ%3D%3D&trackingId=8EsIT4cHP2jtXWtKzn0xxQ%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+GEOSPATIAL SYSTEMS ANALYST I | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5376431-0/geospatial-systems-analyst-i
+Score: 10 | Matched: spatial, geospatial, analyst
+
+Research Analyst 3 (PCN 065184) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5373540-0/research-analyst-3-pcn-065184
 Score: 5 | Matched: analyst
 
-Social Services Analyst 1 - Team Specialist (Child Welfare - Baton Rouge Region) | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5370761-0/social-services-analyst-1-team-specialist-child-welfare-baton-rouge-region
+IN HOUSE: Public Utilities Analyst | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5374062-0/in-house-public-utilities-analyst
 Score: 5 | Matched: analyst
 
-MANAGEMENT ANALYST 2 | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5375228-0/management-analyst-2
-Score: 5 | Matched: analyst
-
-Senior Utilities Business Analyst | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5373379-0/senior-utilities-business-analyst
-Score: 5 | Matched: analyst
-
-Senior Administrative Analyst (Finance) | Virginia | Virginia
-URL: https://www.governmentjobs.com/jobs/5366537-0/senior-administrative-analyst-finance
-Score: 5 | Matched: analyst
-
-Senior Automation Analyst | Virginia | Virginia
-URL: https://www.governmentjobs.com/jobs/5366498-0/senior-automation-analyst
-Score: 5 | Matched: analyst
-
-Data Analyst 1 | West Virginia | West Virginia
-URL: https://www.governmentjobs.com/jobs/5368835-0/data-analyst-1
-Score: 5 | Matched: analyst
-
-AMD Technologist | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5362421-0/amd-technologist
-Score: 3 | Matched: gis
-
-Environmental Health Specialist 2, 3, 4, or 5 | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5371955-0/environmental-health-specialist-2-3-4-or-5
-Score: 3 | Matched: environmental
-
-Assistant GIS Coordinator | Indiana | Indiana
-URL: https://www.governmentjobs.com/jobs/5370591-0/assistant-gis-coordinator
-Score: 3 | Matched: gis
-
-Registered Nurse Supervisor A | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5373788-0/registered-nurse-supervisor-a
-Score: 3 | Matched: gis
-
-Planning Specialist II - Public Works, Environmental Services | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5353198-0/planning-specialist-ii-public-works-environmental-services
-Score: 3 | Matched: environmental
-
-Advanced Practice Registered Nurse - Per Diem | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5373937-0/advanced-practice-registered-nurse-per-diem
-Score: 3 | Matched: gis
-
-Licensed Psychologist Manager, Corrections - SCI Smithfield | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5370238-0/licensed-psychologist-manager-corrections-sci-smithfield
+Physician Assistant / Advanced Practice Registered Nurse 1 (PCN 062293) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5373653-0/physician-assistant-advanced-practice-registered-nurse-1-pcn-062293
 Score: 3 | Matched: gis
