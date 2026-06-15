@@ -1,32 +1,8 @@
-Job Digest - 2026-06-14
+Job Digest - 2026-06-15
 
 Summary:
-  Start: 2026-06-14 10:28:01 UTC
-  End: 2026-06-14 10:37:42 UTC
-  Runtime: 9m 41s
-  Sources with email jobs: StateBoard:Georgia, StateBoard:New Jersey, StateBoard:Virginia, StateBoard:West Virginia
-  Fetched: 1363 | Considered: 717 | Matched: 657 | Mailed: 6
-
-Data Quality Analyst & OASIS Trainer | Georgia | Georgia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5375435-0/data-quality-analyst-oasis-trainer
-Matched: analyst
-
-Information Technology Analyst 2 | New Jersey | New Jersey
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5337917-0/information-technology-analyst-2
-Matched: analyst
-
-Communications Analyst | Virginia | Virginia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5368925-0/communications-analyst
-Matched: analyst
-
-PH Registered Nurse 1, 2, or 3 | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5375453-0/ph-registered-nurse-1-2-or-3
-Matched: gis
-
-In-Person Adjunct Assistant Professor, Environmental Science (Daytime) | New Jersey | New Jersey
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5177948-0/in-person-adjunct-assistant-professor-environmental-science-daytime
-Matched: environmental
-
-Environmental Resources Specialist 2 | West Virginia | West Virginia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5370739-0/environmental-resources-specialist-2
-Matched: environmental
+  Start: 2026-06-15 13:21:03 UTC
+  End: 2026-06-15 13:41:33 UTC
+  Runtime: 20m 29s
+  Sources with email jobs: None
+  Fetched: 522 | Considered: 263 | Matched: 231 | Mailed: 0
