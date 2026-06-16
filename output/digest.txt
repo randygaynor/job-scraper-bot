@@ -1,8 +1,36 @@
-Job Digest - 2026-06-15
+Job Digest - 2026-06-16
 
 Summary:
-  Start: 2026-06-15 13:21:03 UTC
-  End: 2026-06-15 13:41:33 UTC
-  Runtime: 20m 29s
-  Sources with email jobs: None
-  Fetched: 522 | Considered: 263 | Matched: 231 | Mailed: 0
+  Start: 2026-06-16 12:14:25 UTC
+  End: 2026-06-16 12:32:42 UTC
+  Runtime: 18m 17s
+  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Maryland, StateBoard:North Dakota
+  Fetched: 905 | Considered: 481 | Matched: 421 | Mailed: 7
+
+Meteorologist | Morgan Murphy Media | Pittsburg, KS
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-morgan-murphy-media-4429159427?position=7&pageNum=0&refId=gnA16LScuT1tHScf17xRHQ%3D%3D&trackingId=29JuFJkiOTSvWRAIbKEgow%3D%3D
+Matched: gis, meteorologist
+
+Physical Scientist/Meteorologist/Hydrologist | Arizona Small Business Association - ASBA | Tallahassee, FL
+Score: 10 | URL: https://www.linkedin.com/jobs/view/physical-scientist-meteorologist-hydrologist-at-arizona-small-business-association-asba-4429296556?position=45&pageNum=0&refId=gnA16LScuT1tHScf17xRHQ%3D%3D&trackingId=PaP1KxUFUPK8IS%2Fy%2BgYP6A%3D%3D
+Matched: gis, meteorologist
+
+Physical Scientist/Meteorologist/Hydrologist | Arizona Small Business Association - ASBA | Tallahassee, FL
+Score: 10 | URL: https://www.linkedin.com/jobs/view/physical-scientist-meteorologist-hydrologist-at-arizona-small-business-association-asba-4429298176?position=60&pageNum=0&refId=gnA16LScuT1tHScf17xRHQ%3D%3D&trackingId=mwHtePI4wcDT5HzwcSfh%2Bw%3D%3D
+Matched: gis, meteorologist
+
+Senior Data Analyst - Public Safety | Georgia | Georgia
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5311534-0/senior-data-analyst-public-safety
+Matched: analyst
+
+Management Analyst I (HHS Finance and Administration) | Maryland | Maryland
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5377253-0/management-analyst-i-hhs-finance-and-administration
+Matched: analyst
+
+Intelligence Analyst | North Dakota | North Dakota
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5376167-0/intelligence-analyst
+Matched: analyst
+
+Registered Nurse - Clarke | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/4954334-0/registered-nurse-clarke
+Matched: gis
