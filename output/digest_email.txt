@@ -1,39 +1,91 @@
-Subject: Job Digest - 2026-06-16
+Subject: Job Digest - 2026-06-17
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-16 12:14:25 UTC
-  End: 2026-06-16 12:32:42 UTC
-  Runtime: 18m 17s
-  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Maryland, StateBoard:North Dakota
-  Fetched: 905 | Considered: 481 | Matched: 421 | Mailed: 7
+  Start: 2026-06-17 11:53:56 UTC
+  End: 2026-06-17 12:05:10 UTC
+  Runtime: 11m 13s
+  Sources with email jobs: LinkedIn, StateBoard:Alabama, StateBoard:Alaska, StateBoard:Arkansas, StateBoard:Georgia, StateBoard:Idaho, StateBoard:Indiana, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Michigan, StateBoard:Ohio
+  Fetched: 1237 | Considered: 640 | Matched: 610 | Mailed: 20
 
-Meteorologist | Morgan Murphy Media | Pittsburg, KS
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-morgan-murphy-media-4429159427?position=7&pageNum=0&refId=gnA16LScuT1tHScf17xRHQ%3D%3D&trackingId=29JuFJkiOTSvWRAIbKEgow%3D%3D
+Physical Scientist/Meteorologist/Hydrologist | FAMU National Alumni Association | Tallahassee, FL
+URL: https://www.linkedin.com/jobs/view/physical-scientist-meteorologist-hydrologist-at-famu-national-alumni-association-4429562465?position=28&pageNum=0&refId=IfZS92tuVZdusARd%2Bfw0uA%3D%3D&trackingId=64zxFIgEuR4F8X1Gmehw9g%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Physical Scientist/Meteorologist/Hydrologist | Arizona Small Business Association - ASBA | Tallahassee, FL
-URL: https://www.linkedin.com/jobs/view/physical-scientist-meteorologist-hydrologist-at-arizona-small-business-association-asba-4429296556?position=45&pageNum=0&refId=gnA16LScuT1tHScf17xRHQ%3D%3D&trackingId=PaP1KxUFUPK8IS%2Fy%2BgYP6A%3D%3D
+Meteorologist | Tech Mahindra | United States
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-tech-mahindra-4428406091?position=41&pageNum=0&refId=IfZS92tuVZdusARd%2Bfw0uA%3D%3D&trackingId=bJSnM2N45dS4yGXrBMBDgA%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Physical Scientist/Meteorologist/Hydrologist | Arizona Small Business Association - ASBA | Tallahassee, FL
-URL: https://www.linkedin.com/jobs/view/physical-scientist-meteorologist-hydrologist-at-arizona-small-business-association-asba-4429298176?position=60&pageNum=0&refId=gnA16LScuT1tHScf17xRHQ%3D%3D&trackingId=mwHtePI4wcDT5HzwcSfh%2Bw%3D%3D
+Hydrometeorologist | Credence | Washington, DC
+URL: https://www.linkedin.com/jobs/view/hydrometeorologist-at-credence-4429708486?position=45&pageNum=0&refId=IfZS92tuVZdusARd%2Bfw0uA%3D%3D&trackingId=wriTecr4mfZa2LuFHrPbYQ%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Senior Data Analyst - Public Safety | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5311534-0/senior-data-analyst-public-safety
+Physical Scientist/Meteorologist/Hydrologist | FAMU National Alumni Association | Tallahassee, FL
+URL: https://www.linkedin.com/jobs/view/physical-scientist-meteorologist-hydrologist-at-famu-national-alumni-association-4429562465?position=40&pageNum=0&refId=yIF9cU0IcxJUk13GU8DpEA%3D%3D&trackingId=WBHwmjUWqn4OpTl4AvTbfw%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+Geospatial Data Scientist | Neural Earth | United States
+URL: https://www.linkedin.com/jobs/view/geospatial-data-scientist-at-neural-earth-4422302502?position=60&pageNum=0&refId=yIF9cU0IcxJUk13GU8DpEA%3D%3D&trackingId=4hqyNLQTX7UgLHn07MBlGw%3D%3D
+Score: 7 | Matched: spatial, geospatial
+
+TEST - HR Analyst | Alabama | Alabama
+URL: https://www.governmentjobs.com/jobs/5323390-0/test-hr-analyst
 Score: 5 | Matched: analyst
 
-Management Analyst I (HHS Finance and Administration) | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5377253-0/management-analyst-i-hhs-finance-and-administration
+RECORDS SPECIALIST (Personnel Analyst I) - Range 12 / NON | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5379417-0/records-specialist-personnel-analyst-i-range-12-non
 Score: 5 | Matched: analyst
 
-Intelligence Analyst | North Dakota | North Dakota
-URL: https://www.governmentjobs.com/jobs/5376167-0/intelligence-analyst
+Fire Data Analyst | Arkansas | Arkansas
+URL: https://www.governmentjobs.com/jobs/5374468-0/fire-data-analyst
 Score: 5 | Matched: analyst
 
-Registered Nurse - Clarke | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/4954334-0/registered-nurse-clarke
+BUDGET ANALYST II | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5378510-0/budget-analyst-ii
+Score: 5 | Matched: analyst
+
+Budget Analyst | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5377723-0/budget-analyst
+Score: 5 | Matched: analyst
+
+IT - Systems Analyst | Idaho | Idaho
+URL: https://www.governmentjobs.com/jobs/5379425-0/it-systems-analyst
+Score: 5 | Matched: analyst
+
+Criminal Analyst II - Indiana Intelligence Fusion Center | Indiana | Indiana
+URL: https://www.governmentjobs.com/jobs/5375450-0/criminal-analyst-ii-indiana-intelligence-fusion-center
+Score: 5 | Matched: analyst
+
+Management Analyst II | Maryland | Maryland
+URL: https://www.governmentjobs.com/jobs/5331980-0/management-analyst-ii
+Score: 5 | Matched: analyst
+
+SIGMA Business Intelligence Analyst - Departmental Analyst 9-12 - State Budget Office | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5334922-0/sigma-business-intelligence-analyst-departmental-analyst-9-12-state-budget-of
+Score: 5 | Matched: analyst
+
+Departmental Analyst 9-P11 - Office of Nursing Programs - PPOS | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5368752-0/departmental-analyst-9-p11-office-of-nursing-programs-ppos
+Score: 5 | Matched: analyst
+
+Senior Computer Programmer Analyst | Ohio | Ohio
+URL: https://www.governmentjobs.com/jobs/5379581-0/senior-computer-programmer-analyst
+Score: 5 | Matched: analyst
+
+Computer Systems Analyst | Ohio | Ohio
+URL: https://www.governmentjobs.com/jobs/5379798-0/computer-systems-analyst
+Score: 5 | Matched: analyst
+
+BCDPHA Epidemiologist - Coordinator 3 | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5378527-0/bcdpha-epidemiologist-coordinator-3
+Score: 3 | Matched: gis
+
+REGISTERED NURSE SUPERVISOR B | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5377747-0/registered-nurse-supervisor-b
+Score: 3 | Matched: gis
+
+REGISTERED NURSE SUPERVISOR A (FULL TIME OR WAE/PRN/Part Time) | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5378067-0/registered-nurse-supervisor-a-full-time-or-wae-prn-part-time
 Score: 3 | Matched: gis
