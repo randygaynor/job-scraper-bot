@@ -1,88 +1,96 @@
-Job Digest - 2026-06-17
+Job Digest - 2026-06-18
 
 Summary:
-  Start: 2026-06-17 11:53:56 UTC
-  End: 2026-06-17 12:05:10 UTC
-  Runtime: 11m 13s
-  Sources with email jobs: LinkedIn, StateBoard:Alabama, StateBoard:Alaska, StateBoard:Arkansas, StateBoard:Georgia, StateBoard:Idaho, StateBoard:Indiana, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Michigan, StateBoard:Ohio
-  Fetched: 1237 | Considered: 640 | Matched: 610 | Mailed: 20
+  Start: 2026-06-18 11:11:19 UTC
+  End: 2026-06-18 11:16:05 UTC
+  Runtime: 4m 46s
+  Sources with email jobs: LinkedIn, StateBoard:Alabama, StateBoard:Georgia, StateBoard:Hawaii, StateBoard:Illinois, StateBoard:Iowa, StateBoard:Kentucky, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Nebraska, StateBoard:New Jersey, StateBoard:New Mexico, StateBoard:South Dakota, StateBoard:Tennessee, StateBoard:West Virginia
+  Fetched: 1736 | Considered: 912 | Matched: 850 | Mailed: 22
 
-Physical Scientist/Meteorologist/Hydrologist | FAMU National Alumni Association | Tallahassee, FL
-Score: 10 | URL: https://www.linkedin.com/jobs/view/physical-scientist-meteorologist-hydrologist-at-famu-national-alumni-association-4429562465?position=28&pageNum=0&refId=IfZS92tuVZdusARd%2Bfw0uA%3D%3D&trackingId=64zxFIgEuR4F8X1Gmehw9g%3D%3D
+Slalom Flex - Principal Meteorologist | Slalom | Los Angeles, CA
+Score: 10 | URL: https://www.linkedin.com/jobs/view/slalom-flex-principal-meteorologist-at-slalom-4428072360?position=14&pageNum=0&refId=NvTPn8QG%2BCwgveSpKYrndg%3D%3D&trackingId=Va42S9EUnKRWxt%2FvMjH28g%3D%3D
 Matched: gis, meteorologist
 
-Meteorologist | Tech Mahindra | United States
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-tech-mahindra-4428406091?position=41&pageNum=0&refId=IfZS92tuVZdusARd%2Bfw0uA%3D%3D&trackingId=bJSnM2N45dS4yGXrBMBDgA%3D%3D
+Meteorologist | TDS Telecommunications LLC | Bend, OR
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-tds-telecommunications-llc-4428750690?position=50&pageNum=0&refId=NvTPn8QG%2BCwgveSpKYrndg%3D%3D&trackingId=NIUZmgc4eYkUJ9fFy3rbpQ%3D%3D
 Matched: gis, meteorologist
 
-Hydrometeorologist | Credence | Washington, DC
-Score: 10 | URL: https://www.linkedin.com/jobs/view/hydrometeorologist-at-credence-4429708486?position=45&pageNum=0&refId=IfZS92tuVZdusARd%2Bfw0uA%3D%3D&trackingId=wriTecr4mfZa2LuFHrPbYQ%3D%3D
-Matched: gis, meteorologist
-
-Physical Scientist/Meteorologist/Hydrologist | FAMU National Alumni Association | Tallahassee, FL
-Score: 10 | URL: https://www.linkedin.com/jobs/view/physical-scientist-meteorologist-hydrologist-at-famu-national-alumni-association-4429562465?position=40&pageNum=0&refId=yIF9cU0IcxJUk13GU8DpEA%3D%3D&trackingId=WBHwmjUWqn4OpTl4AvTbfw%3D%3D
-Matched: gis, meteorologist
-
-Geospatial Data Scientist | Neural Earth | United States
-Score: 7 | URL: https://www.linkedin.com/jobs/view/geospatial-data-scientist-at-neural-earth-4422302502?position=60&pageNum=0&refId=yIF9cU0IcxJUk13GU8DpEA%3D%3D&trackingId=4hqyNLQTX7UgLHn07MBlGw%3D%3D
-Matched: spatial, geospatial
-
-TEST - HR Analyst | Alabama | Alabama
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5323390-0/test-hr-analyst
+BUDGET ANALYST | Iowa | Iowa
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5380959-0/budget-analyst
 Matched: analyst
 
-RECORDS SPECIALIST (Personnel Analyst I) - Range 12 / NON | Alaska | Alaska
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5379417-0/records-specialist-personnel-analyst-i-range-12-non
+Systems Analyst | Kentucky | Kentucky
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5377622-0/systems-analyst
 Matched: analyst
 
-Fire Data Analyst | Arkansas | Arkansas
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5374468-0/fire-data-analyst
+WILDLIFE AND FISHERIES COMPLIANCE ANALYST A-C | Louisiana | Louisiana
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5380556-0/wildlife-and-fisheries-compliance-analyst-a-c
 Matched: analyst
 
-BUDGET ANALYST II | Georgia | Georgia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5378510-0/budget-analyst-ii
+Junior Applications Developer (Information Technology Analyst 1) | New Jersey | New Jersey
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5377111-0/junior-applications-developer-information-technology-analyst-1
 Matched: analyst
 
-Budget Analyst | Georgia | Georgia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5377723-0/budget-analyst
+Purchasing Analyst | South Dakota | South Dakota
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5378260-0/purchasing-analyst
 Matched: analyst
 
-IT - Systems Analyst | Idaho | Idaho
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5379425-0/it-systems-analyst
+Human Resources Analyst - Benefits | Tennessee | Tennessee
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5373185-0/human-resources-analyst-benefits
 Matched: analyst
 
-Criminal Analyst II - Indiana Intelligence Fusion Center | Indiana | Indiana
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5375450-0/criminal-analyst-ii-indiana-intelligence-fusion-center
-Matched: analyst
+Environmental Services Technician- Green Waste | Alabama | Alabama
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5380756-0/environmental-services-technician-green-waste
+Matched: environmental
 
-Management Analyst II | Maryland | Maryland
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5331980-0/management-analyst-ii
-Matched: analyst
-
-SIGMA Business Intelligence Analyst - Departmental Analyst 9-12 - State Budget Office | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5334922-0/sigma-business-intelligence-analyst-departmental-analyst-9-12-state-budget-of
-Matched: analyst
-
-Departmental Analyst 9-P11 - Office of Nursing Programs - PPOS | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5368752-0/departmental-analyst-9-p11-office-of-nursing-programs-ppos
-Matched: analyst
-
-Senior Computer Programmer Analyst | Ohio | Ohio
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5379581-0/senior-computer-programmer-analyst
-Matched: analyst
-
-Computer Systems Analyst | Ohio | Ohio
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5379798-0/computer-systems-analyst
-Matched: analyst
-
-BCDPHA Epidemiologist - Coordinator 3 | Louisiana | Louisiana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5378527-0/bcdpha-epidemiologist-coordinator-3
+PH Registered Nurse 2 - PCM - Marietta | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5032395-0/ph-registered-nurse-2-pcm-marietta
 Matched: gis
 
-REGISTERED NURSE SUPERVISOR B | Louisiana | Louisiana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5377747-0/registered-nurse-supervisor-b
+Public Health Registered Nurse, Level 1 or 2 | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5380511-0/public-health-registered-nurse-level-1-or-2
 Matched: gis
 
-REGISTERED NURSE SUPERVISOR A (FULL TIME OR WAE/PRN/Part Time) | Louisiana | Louisiana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5378067-0/registered-nurse-supervisor-a-full-time-or-wae-prn-part-time
+EMERGENCY MANAGEMENT SPECIALIST VI - DIAMOND HEAD CRATER - KAIMUKI, OAHU | Hawaii | Hawaii
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5371945-0/emergency-management-specialist-vi-diamond-head-crater-kaimuki-oahu
+Matched: emergency management
+
+Environmental Services Laborer | Illinois | Illinois
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5379128-0/environmental-services-laborer
+Matched: environmental
+
+Psychologist Post-Doctoral Fellow / Psychologist 2-3 | Louisiana | Louisiana
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5380367-0/psychologist-post-doctoral-fellow-psychologist-2-3
+Matched: gis
+
+Associate 1-2-3 to a Psychologist | Louisiana | Louisiana
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5380339-0/associate-1-2-3-to-a-psychologist
+Matched: gis
+
+Environmental Inspector I - Department of Planning & Land Management | Maryland | Maryland
+Score: 3 | URL: https://www.governmentjobs.com/jobs/145172-1/environmental-inspector-i-department-of-planning-land-management
+Matched: environmental
+
+Psychiatric Registered Nurse - Detox | Nebraska | Nebraska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5370369-0/psychiatric-registered-nurse-detox
+Matched: gis
+
+SNP Field Compliance Supervisor (Current GISD Employees Only) - Position Available August 2026 | New Mexico | New Mexico
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5381576-0/snp-field-compliance-supervisor-current-gisd-employees-only-position-availabl
+Matched: gis
+
+Environmental Inspector-In-Training | West Virginia | West Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5377669-0/environmental-inspector-in-training
+Matched: environmental
+
+Environmental Resources Program Manager 1 | West Virginia | West Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5379216-0/environmental-resources-program-manager-1
+Matched: environmental
+
+Transportation Engineering Technologist - Kanawha County | West Virginia | West Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5380871-0/transportation-engineering-technologist-kanawha-county
+Matched: gis
+
+Registered Nurse | West Virginia | West Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5379280-0/registered-nurse
 Matched: gis
