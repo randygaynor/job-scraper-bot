@@ -1,99 +1,51 @@
-Subject: Job Digest - 2026-06-18
+Subject: Job Digest - 2026-06-19
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-18 11:11:19 UTC
-  End: 2026-06-18 11:16:05 UTC
-  Runtime: 4m 46s
-  Sources with email jobs: LinkedIn, StateBoard:Alabama, StateBoard:Georgia, StateBoard:Hawaii, StateBoard:Illinois, StateBoard:Iowa, StateBoard:Kentucky, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Nebraska, StateBoard:New Jersey, StateBoard:New Mexico, StateBoard:South Dakota, StateBoard:Tennessee, StateBoard:West Virginia
-  Fetched: 1736 | Considered: 912 | Matched: 850 | Mailed: 22
+  Start: 2026-06-19 11:27:05 UTC
+  End: 2026-06-19 11:33:06 UTC
+  Runtime: 6m 1s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Idaho, StateBoard:Iowa, StateBoard:Kentucky, StateBoard:Maryland, StateBoard:Michigan, StateBoard:New Jersey, StateBoard:North Carolina, StateBoard:West Virginia
+  Fetched: 1609 | Considered: 836 | Matched: 776 | Mailed: 10
 
-Slalom Flex - Principal Meteorologist | Slalom | Los Angeles, CA
-URL: https://www.linkedin.com/jobs/view/slalom-flex-principal-meteorologist-at-slalom-4428072360?position=14&pageNum=0&refId=NvTPn8QG%2BCwgveSpKYrndg%3D%3D&trackingId=Va42S9EUnKRWxt%2FvMjH28g%3D%3D
+Meteorologist | WMUR-TV | Manchester, NH
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-wmur-tv-4427875112?position=38&pageNum=0&refId=b6udHwxuwKcgHUhT6xBw9w%3D%3D&trackingId=PHXct5PRbxdk4J1cWVIY%2BQ%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Meteorologist | TDS Telecommunications LLC | Bend, OR
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-tds-telecommunications-llc-4428750690?position=50&pageNum=0&refId=NvTPn8QG%2BCwgveSpKYrndg%3D%3D&trackingId=NIUZmgc4eYkUJ9fFy3rbpQ%3D%3D
-Score: 10 | Matched: gis, meteorologist
+Environmental Resources Analyst | West Virginia | West Virginia
+URL: https://www.governmentjobs.com/jobs/5378702-0/environmental-resources-analyst
+Score: 7 | Matched: environmental, analyst
 
-BUDGET ANALYST | Iowa | Iowa
-URL: https://www.governmentjobs.com/jobs/5380959-0/budget-analyst
+Research Analyst 3 (PCN 20-1080) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5381890-0/research-analyst-3-pcn-20-1080
 Score: 5 | Matched: analyst
 
-Systems Analyst | Kentucky | Kentucky
-URL: https://www.governmentjobs.com/jobs/5377622-0/systems-analyst
+Health Program Analyst (PH&W Employees ONLY) | Kentucky | Kentucky
+URL: https://www.governmentjobs.com/jobs/5381481-0/health-program-analyst-phw-employees-only
 Score: 5 | Matched: analyst
 
-WILDLIFE AND FISHERIES COMPLIANCE ANALYST A-C | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5380556-0/wildlife-and-fisheries-compliance-analyst-a-c
+Business Solutions Analyst II | Maryland | Maryland
+URL: https://www.governmentjobs.com/jobs/5382353-0/business-solutions-analyst-ii
 Score: 5 | Matched: analyst
 
-Junior Applications Developer (Information Technology Analyst 1) | New Jersey | New Jersey
-URL: https://www.governmentjobs.com/jobs/5377111-0/junior-applications-developer-information-technology-analyst-1
+Departmental Analyst (Trainee) 9-P11 | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5382029-0/departmental-analyst-trainee-9-p11
 Score: 5 | Matched: analyst
 
-Purchasing Analyst | South Dakota | South Dakota
-URL: https://www.governmentjobs.com/jobs/5378260-0/purchasing-analyst
+EEO Case Analyst (Administrative Specialist 3, Confidential) | New Jersey | New Jersey
+URL: https://www.governmentjobs.com/jobs/5374173-0/eeo-case-analyst-administrative-specialist-3-confidential
 Score: 5 | Matched: analyst
 
-Human Resources Analyst - Benefits | Tennessee | Tennessee
-URL: https://www.governmentjobs.com/jobs/5373185-0/human-resources-analyst-benefits
-Score: 5 | Matched: analyst
+Climate Action Intern | Idaho | Idaho
+URL: https://www.governmentjobs.com/jobs/5378186-0/climate-action-intern
+Score: 3 | Matched: climate
 
-Environmental Services Technician- Green Waste | Alabama | Alabama
-URL: https://www.governmentjobs.com/jobs/5380756-0/environmental-services-technician-green-waste
-Score: 3 | Matched: environmental
-
-PH Registered Nurse 2 - PCM - Marietta | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5032395-0/ph-registered-nurse-2-pcm-marietta
+Registered Nurse (RN) | Iowa | Iowa
+URL: https://www.governmentjobs.com/jobs/5310783-0/registered-nurse-rn
 Score: 3 | Matched: gis
 
-Public Health Registered Nurse, Level 1 or 2 | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5380511-0/public-health-registered-nurse-level-1-or-2
-Score: 3 | Matched: gis
-
-EMERGENCY MANAGEMENT SPECIALIST VI - DIAMOND HEAD CRATER - KAIMUKI, OAHU | Hawaii | Hawaii
-URL: https://www.governmentjobs.com/jobs/5371945-0/emergency-management-specialist-vi-diamond-head-crater-kaimuki-oahu
-Score: 3 | Matched: emergency management
-
-Environmental Services Laborer | Illinois | Illinois
-URL: https://www.governmentjobs.com/jobs/5379128-0/environmental-services-laborer
-Score: 3 | Matched: environmental
-
-Psychologist Post-Doctoral Fellow / Psychologist 2-3 | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5380367-0/psychologist-post-doctoral-fellow-psychologist-2-3
-Score: 3 | Matched: gis
-
-Associate 1-2-3 to a Psychologist | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5380339-0/associate-1-2-3-to-a-psychologist
-Score: 3 | Matched: gis
-
-Environmental Inspector I - Department of Planning & Land Management | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/145172-1/environmental-inspector-i-department-of-planning-land-management
-Score: 3 | Matched: environmental
-
-Psychiatric Registered Nurse - Detox | Nebraska | Nebraska
-URL: https://www.governmentjobs.com/jobs/5370369-0/psychiatric-registered-nurse-detox
-Score: 3 | Matched: gis
-
-SNP Field Compliance Supervisor (Current GISD Employees Only) - Position Available August 2026 | New Mexico | New Mexico
-URL: https://www.governmentjobs.com/jobs/5381576-0/snp-field-compliance-supervisor-current-gisd-employees-only-position-availabl
-Score: 3 | Matched: gis
-
-Environmental Inspector-In-Training | West Virginia | West Virginia
-URL: https://www.governmentjobs.com/jobs/5377669-0/environmental-inspector-in-training
-Score: 3 | Matched: environmental
-
-Environmental Resources Program Manager 1 | West Virginia | West Virginia
-URL: https://www.governmentjobs.com/jobs/5379216-0/environmental-resources-program-manager-1
-Score: 3 | Matched: environmental
-
-Transportation Engineering Technologist - Kanawha County | West Virginia | West Virginia
-URL: https://www.governmentjobs.com/jobs/5380871-0/transportation-engineering-technologist-kanawha-county
-Score: 3 | Matched: gis
-
-Registered Nurse | West Virginia | West Virginia
-URL: https://www.governmentjobs.com/jobs/5379280-0/registered-nurse
+Digital Communication Strategist | North Carolina | North Carolina
+URL: https://www.governmentjobs.com/jobs/5379826-0/digital-communication-strategist
 Score: 3 | Matched: gis
