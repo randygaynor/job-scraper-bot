@@ -1,51 +1,19 @@
-Subject: Job Digest - 2026-06-19
+Subject: Job Digest - 2026-06-20
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-19 11:27:05 UTC
-  End: 2026-06-19 11:33:06 UTC
-  Runtime: 6m 1s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Idaho, StateBoard:Iowa, StateBoard:Kentucky, StateBoard:Maryland, StateBoard:Michigan, StateBoard:New Jersey, StateBoard:North Carolina, StateBoard:West Virginia
-  Fetched: 1609 | Considered: 836 | Matched: 776 | Mailed: 10
+  Start: 2026-06-20 10:11:05 UTC
+  End: 2026-06-20 10:32:03 UTC
+  Runtime: 20m 58s
+  Sources with email jobs: LinkedIn
+  Fetched: 482 | Considered: 258 | Matched: 198 | Mailed: 2
 
-Meteorologist | WMUR-TV | Manchester, NH
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-wmur-tv-4427875112?position=38&pageNum=0&refId=b6udHwxuwKcgHUhT6xBw9w%3D%3D&trackingId=PHXct5PRbxdk4J1cWVIY%2BQ%3D%3D
+Oceanographer/Meteorologist | RG&T Solutions | Newport News, VA
+URL: https://www.linkedin.com/jobs/view/oceanographer-meteorologist-at-rg-t-solutions-4430062727?position=37&pageNum=0&refId=cBXXgyYU0dN%2FsIavO%2BMy4Q%3D%3D&trackingId=kf0Gc8HYeuw2d8vuINg%2BNQ%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Environmental Resources Analyst | West Virginia | West Virginia
-URL: https://www.governmentjobs.com/jobs/5378702-0/environmental-resources-analyst
-Score: 7 | Matched: environmental, analyst
-
-Research Analyst 3 (PCN 20-1080) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5381890-0/research-analyst-3-pcn-20-1080
-Score: 5 | Matched: analyst
-
-Health Program Analyst (PH&W Employees ONLY) | Kentucky | Kentucky
-URL: https://www.governmentjobs.com/jobs/5381481-0/health-program-analyst-phw-employees-only
-Score: 5 | Matched: analyst
-
-Business Solutions Analyst II | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5382353-0/business-solutions-analyst-ii
-Score: 5 | Matched: analyst
-
-Departmental Analyst (Trainee) 9-P11 | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5382029-0/departmental-analyst-trainee-9-p11
-Score: 5 | Matched: analyst
-
-EEO Case Analyst (Administrative Specialist 3, Confidential) | New Jersey | New Jersey
-URL: https://www.governmentjobs.com/jobs/5374173-0/eeo-case-analyst-administrative-specialist-3-confidential
-Score: 5 | Matched: analyst
-
-Climate Action Intern | Idaho | Idaho
-URL: https://www.governmentjobs.com/jobs/5378186-0/climate-action-intern
-Score: 3 | Matched: climate
-
-Registered Nurse (RN) | Iowa | Iowa
-URL: https://www.governmentjobs.com/jobs/5310783-0/registered-nurse-rn
-Score: 3 | Matched: gis
-
-Digital Communication Strategist | North Carolina | North Carolina
-URL: https://www.governmentjobs.com/jobs/5379826-0/digital-communication-strategist
-Score: 3 | Matched: gis
+Oceanographer/Meteorologist | RG&T Solutions | Elizabeth City, NC
+URL: https://www.linkedin.com/jobs/view/oceanographer-meteorologist-at-rg-t-solutions-4430048993?position=52&pageNum=0&refId=cBXXgyYU0dN%2FsIavO%2BMy4Q%3D%3D&trackingId=%2FNt7JtmmClCpP2xb3cYEug%3D%3D
+Score: 10 | Matched: gis, meteorologist
