@@ -1,19 +1,11 @@
-Subject: Job Digest - 2026-06-20
+Subject: Job Digest - 2026-06-21
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-20 10:11:05 UTC
-  End: 2026-06-20 10:32:03 UTC
-  Runtime: 20m 58s
-  Sources with email jobs: LinkedIn
-  Fetched: 482 | Considered: 258 | Matched: 198 | Mailed: 2
-
-Oceanographer/Meteorologist | RG&T Solutions | Newport News, VA
-URL: https://www.linkedin.com/jobs/view/oceanographer-meteorologist-at-rg-t-solutions-4430062727?position=37&pageNum=0&refId=cBXXgyYU0dN%2FsIavO%2BMy4Q%3D%3D&trackingId=kf0Gc8HYeuw2d8vuINg%2BNQ%3D%3D
-Score: 10 | Matched: gis, meteorologist
-
-Oceanographer/Meteorologist | RG&T Solutions | Elizabeth City, NC
-URL: https://www.linkedin.com/jobs/view/oceanographer-meteorologist-at-rg-t-solutions-4430048993?position=52&pageNum=0&refId=cBXXgyYU0dN%2FsIavO%2BMy4Q%3D%3D&trackingId=%2FNt7JtmmClCpP2xb3cYEug%3D%3D
-Score: 10 | Matched: gis, meteorologist
+  Start: 2026-06-21 10:34:18 UTC
+  End: 2026-06-21 10:54:50 UTC
+  Runtime: 20m 31s
+  Sources with email jobs: None
+  Fetched: 520 | Considered: 278 | Matched: 220 | Mailed: 0
