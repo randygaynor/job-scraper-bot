@@ -1,51 +1,27 @@
-Subject: Job Digest - 2026-06-22
+Subject: Job Digest - 2026-06-23
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-22 12:53:05 UTC
-  End: 2026-06-22 13:03:50 UTC
-  Runtime: 10m 45s
-  Sources with email jobs: LinkedIn, StateBoard:Florida, StateBoard:Georgia, StateBoard:Nebraska, StateBoard:Pennsylvania, StateBoard:Utah, StateBoard:Virginia
-  Fetched: 1290 | Considered: 683 | Matched: 623 | Mailed: 10
+  Start: 2026-06-23 10:38:31 UTC
+  End: 2026-06-23 10:59:00 UTC
+  Runtime: 20m 29s
+  Sources with email jobs: LinkedIn, StateBoard:Georgia
+  Fetched: 519 | Considered: 264 | Matched: 229 | Mailed: 4
 
-Meteorologist | National Association of Black Journalists (NABJ) | Manchester, CA
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-national-association-of-black-journalists-nabj-4431675046?position=17&pageNum=0&refId=HtCfPUrzVAWEOhN5KcQI8Q%3D%3D&trackingId=7JeTFHmUqdwd88gDzy67%2Bg%3D%3D
+Meteorologist | VDart BPM | United States
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-vdart-bpm-4429677505?position=38&pageNum=0&refId=km3AsUwnZbsgxa2p6KMuCg%3D%3D&trackingId=ljlvOsOhqcTVoj5mjfkBtw%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Meteorologist | Southwest Airlines | Dallas, TX
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-southwest-airlines-4430349687?position=48&pageNum=0&refId=HtCfPUrzVAWEOhN5KcQI8Q%3D%3D&trackingId=WnF2toR5x8drS6x52zUqNg%3D%3D
+INTERDISCIPLINARY - PHYSICAL SCIENTIST / METEOROLOGIST / OCEANOGRAPHER | U.S. Fleet Forces Command | Mississippi, United States
+URL: https://www.linkedin.com/jobs/view/interdisciplinary-physical-scientist-meteorologist-oceanographer-at-u-s-fleet-forces-command-4432099181?position=15&pageNum=0&refId=%2FBIH0rQtx107HE7AcNIWXw%3D%3D&trackingId=GWQ4TyNVX%2FHS4CHFTxCurQ%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Risk & Wellness Services Analyst | Virginia | Virginia
-URL: https://www.governmentjobs.com/jobs/5382472-0/risk-wellness-services-analyst
-Score: 7 | Matched: risk, analyst
+GIS Analyst | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5381269-0/gis-analyst
+Score: 7 | Matched: gis, analyst
 
-Departmental Application Support Analyst II | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5377437-0/departmental-application-support-analyst-ii
-Score: 5 | Matched: analyst
-
-Human Resources Analyst (Fire & EMS) | Virginia | Virginia
-URL: https://www.governmentjobs.com/jobs/5381004-0/human-resources-analyst-fire-ems
-Score: 5 | Matched: analyst
-
-Utilities GIS Mapping Technician (DOQ) | Florida | Florida
-URL: https://www.governmentjobs.com/jobs/5382517-0/utilities-gis-mapping-technician-doq
-Score: 3 | Matched: gis
-
-Psychiatric Registered Nurse | Nebraska | Nebraska
-URL: https://www.governmentjobs.com/jobs/5378544-0/psychiatric-registered-nurse
-Score: 3 | Matched: gis
-
-Registered Nurse Supervisor (2nd Shift) - Selinsgrove Center | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5376916-0/registered-nurse-supervisor-2nd-shift-selinsgrove-center
-Score: 3 | Matched: gis
-
-Adjunct, Surgical Technologist | Utah | Utah
-URL: https://www.governmentjobs.com/jobs/5382054-0/adjunct-surgical-technologist
-Score: 3 | Matched: gis
-
-Registration Coordinator - Transcript Evaluator | Utah | Utah
-URL: https://www.governmentjobs.com/jobs/5382060-0/registration-coordinator-transcript-evaluator
-Score: 3 | Matched: gis
+Climate Scientist Senior – P&C Climate Risk & Exposure Analytics | USAA | San Antonio, TX
+URL: https://www.linkedin.com/jobs/view/climate-scientist-senior-%E2%80%93-p-c-climate-risk-exposure-analytics-at-usaa-4427889309?position=23&pageNum=0&refId=%2FBIH0rQtx107HE7AcNIWXw%3D%3D&trackingId=TMQuTxh3dzjla95V%2FJIuVg%3D%3D
+Score: 6 | Matched: climate, risk
