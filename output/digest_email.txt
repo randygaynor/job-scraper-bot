@@ -1,27 +1,47 @@
-Subject: Job Digest - 2026-06-23
+Subject: Job Digest - 2026-06-24
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-23 10:38:31 UTC
-  End: 2026-06-23 10:59:00 UTC
-  Runtime: 20m 29s
-  Sources with email jobs: LinkedIn, StateBoard:Georgia
-  Fetched: 519 | Considered: 264 | Matched: 229 | Mailed: 4
+  Start: 2026-06-24 10:25:20 UTC
+  End: 2026-06-24 10:36:03 UTC
+  Runtime: 10m 42s
+  Sources with email jobs: StateBoard:Georgia, StateBoard:Idaho, StateBoard:Louisiana, StateBoard:Missouri, StateBoard:New Mexico, StateBoard:Tennessee, StateBoard:West Virginia
+  Fetched: 1271 | Considered: 660 | Matched: 598 | Mailed: 9
 
-Meteorologist | VDart BPM | United States
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-vdart-bpm-4429677505?position=38&pageNum=0&refId=km3AsUwnZbsgxa2p6KMuCg%3D%3D&trackingId=ljlvOsOhqcTVoj5mjfkBtw%3D%3D
-Score: 10 | Matched: gis, meteorologist
+Data Analyst | Idaho | Idaho
+URL: https://www.governmentjobs.com/jobs/5386475-0/data-analyst
+Score: 5 | Matched: analyst
 
-INTERDISCIPLINARY - PHYSICAL SCIENTIST / METEOROLOGIST / OCEANOGRAPHER | U.S. Fleet Forces Command | Mississippi, United States
-URL: https://www.linkedin.com/jobs/view/interdisciplinary-physical-scientist-meteorologist-oceanographer-at-u-s-fleet-forces-command-4432099181?position=15&pageNum=0&refId=%2FBIH0rQtx107HE7AcNIWXw%3D%3D&trackingId=GWQ4TyNVX%2FHS4CHFTxCurQ%3D%3D
-Score: 10 | Matched: gis, meteorologist
+Data Analyst III - Public Works | Idaho | Idaho
+URL: https://www.governmentjobs.com/jobs/5385016-0/data-analyst-iii-public-works
+Score: 5 | Matched: analyst
 
-GIS Analyst | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5381269-0/gis-analyst
-Score: 7 | Matched: gis, analyst
+IT STATEWIDE ANALYST 1/2/3 (AppDM LaGOV ERP FINANCIAL POS# 50363181) | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5385499-0/it-statewide-analyst-1-2-3-appdm-lagov-erp-financial-pos-50363181
+Score: 5 | Matched: analyst
 
-Climate Scientist Senior – P&C Climate Risk & Exposure Analytics | USAA | San Antonio, TX
-URL: https://www.linkedin.com/jobs/view/climate-scientist-senior-%E2%80%93-p-c-climate-risk-exposure-analytics-at-usaa-4427889309?position=23&pageNum=0&refId=%2FBIH0rQtx107HE7AcNIWXw%3D%3D&trackingId=TMQuTxh3dzjla95V%2FJIuVg%3D%3D
-Score: 6 | Matched: climate, risk
+Programmer/Analyst | Missouri | Missouri
+URL: https://www.governmentjobs.com/jobs/5384335-0/programmer-analyst
+Score: 5 | Matched: analyst
+
+Insurance Assistant 1-Mail Room | West Virginia | West Virginia
+URL: https://www.governmentjobs.com/jobs/5382756-0/insurance-assistant-1-mail-room
+Score: 4 | Matched: insurance
+
+PH Registered Nurse - Clinch | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5385305-0/ph-registered-nurse-clinch
+Score: 3 | Matched: gis
+
+Student Employee - Registrar's Office - Fall 2026 | Missouri | Missouri
+URL: https://www.governmentjobs.com/jobs/5384980-0/student-employee-registrars-office-fall-2026
+Score: 3 | Matched: gis
+
+Desert View Elem. 7hr. Cook/Clerk (Current GISD Employees Only) | New Mexico | New Mexico
+URL: https://www.governmentjobs.com/jobs/5385641-0/desert-view-elem-7hr-cook-clerk-current-gisd-employees-only
+Score: 3 | Matched: gis
+
+Communications Officer (Dispatcher) - Office of Emergency Management | Tennessee | Tennessee
+URL: https://www.governmentjobs.com/jobs/3656225-0/communications-officer-dispatcher-office-of-emergency-management
+Score: 3 | Matched: emergency management
