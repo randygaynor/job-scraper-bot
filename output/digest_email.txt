@@ -1,103 +1,47 @@
-Subject: Job Digest - 2026-06-25
+Subject: Job Digest - 2026-06-26
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-25 10:17:42 UTC
-  End: 2026-06-25 10:28:58 UTC
-  Runtime: 11m 15s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Illinois, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Michigan, StateBoard:Mississippi, StateBoard:Nevada, StateBoard:Ohio, StateBoard:Texas, StateBoard:Washington
-  Fetched: 1202 | Considered: 615 | Matched: 595 | Mailed: 23
+  Start: 2026-06-26 10:25:18 UTC
+  End: 2026-06-26 10:33:05 UTC
+  Runtime: 7m 46s
+  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Arkansas, StateBoard:Georgia, StateBoard:Nevada, StateBoard:Ohio, StateBoard:Pennsylvania, StateBoard:Virginia
+  Fetched: 1544 | Considered: 805 | Matched: 751 | Mailed: 9
 
-Entry Level NWS Meteorologists GS 5-9 at NWS Sacramento and across the Nation | US National Weather Service Sacramento California | Sacramento, CA
-URL: https://www.linkedin.com/jobs/view/entry-level-nws-meteorologists-gs-5-9-at-nws-sacramento-and-across-the-nation-at-us-national-weather-service-sacramento-california-4431839624?position=8&pageNum=0&refId=47hQn%2Bbvu1ss%2Ff%2F5QsDpzw%3D%3D&trackingId=0ghpbzrSXoJKV3%2BzCoK4cg%3D%3D
-Score: 19 | Matched: weather, nws, gis, meteorologist
-
-Physical Scientist/Hydrologist/Meteorologist | National Oceanic & Atmospheric Administration | Wailuku, HI
-URL: https://www.glassdoor.com/job-listing/physical-scientist-hydrologist-meteorologist-national-oceanic-atmospheric-administration-JV_IC1140693_KO0,44_KE45,88.htm?jl=1010165498690
-Score: 12 | Matched: atmospheric, gis, meteorologist
-
-INTERDISCIPLINARY - PHYSICAL SCIENTIST / METEOROLOGIST / OCEANOGRAPHER | Arizona Small Business Association - ASBA | Mississippi, United States
-URL: https://www.linkedin.com/jobs/view/interdisciplinary-physical-scientist-meteorologist-oceanographer-at-arizona-small-business-association-asba-4431807834?position=52&pageNum=0&refId=47hQn%2Bbvu1ss%2Ff%2F5QsDpzw%3D%3D&trackingId=yh9FO7RtO0fKXpDBtOah5g%3D%3D
+Meteorologist | E-Solutions | United States
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-e-solutions-4432292956?position=5&pageNum=0&refId=ejpRK0RXdRHDambj5SXE9A%3D%3D&trackingId=gn4gYpes34w3TL062%2B3F%2Bw%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Weather Forecaster I - US Air Force Academy | Colorado Aviation Business Association (CABA) | Colorado Springs, CO
-URL: https://www.linkedin.com/jobs/view/weather-forecaster-i-us-air-force-academy-at-colorado-aviation-business-association-caba-4430068143?position=37&pageNum=0&refId=47hQn%2Bbvu1ss%2Ff%2F5QsDpzw%3D%3D&trackingId=rstFlzq2%2FK9Zk%2BtjZyAY5Q%3D%3D
-Score: 9 | Matched: weather, forecast, forecaster
-
-Associate Weather Risk Analyst | DTN | Bloomington, MN
-URL: https://www.linkedin.com/jobs/view/associate-weather-risk-analyst-at-dtn-4427383859?position=33&pageNum=0&refId=47hQn%2Bbvu1ss%2Ff%2F5QsDpzw%3D%3D&trackingId=%2B3pZkCRDBIu65%2BcsIPiMyw%3D%3D
-Score: 8 | Matched: weather, risk, analyst
-
-Junior Geospatial Data Scientist (Pipeline & Algorithm Focus) | Matter Intelligence | San Francisco, CA
-URL: https://www.glassdoor.com/job-listing/junior-geospatial-data-scientist-pipeline-algorithm-focus-matter-intelligence-JV_IC1147401_KO0,57_KE58,77.htm?jl=1010031312624
-Score: 7 | Matched: spatial, geospatial
-
-GIS Analyst - Graduate Level Internship | Texas | Texas
-URL: https://www.governmentjobs.com/jobs/5386658-0/gis-analyst-graduate-level-internship
+GIS Analyst/PW -Admin | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5389526-0/gis-analyst-pw-admin
 Score: 7 | Matched: gis, analyst
 
-Weather & Climatology Analyst, Global Security Intelligence | Amazon | Herndon, VA
-URL: https://www.linkedin.com/jobs/view/weather-climatology-analyst-global-security-intelligence-at-amazon-4432481210?position=40&pageNum=0&refId=47hQn%2Bbvu1ss%2Ff%2F5QsDpzw%3D%3D&trackingId=t%2FNOrf4KFhwc9XFp%2BoAQnQ%3D%3D
-Score: 6 | Matched: weather, analyst
-
-Proj Mgr - Adv Forecasting & Trad Met | Avangrid | Portland, OR
-URL: https://www.linkedin.com/jobs/view/proj-mgr-adv-forecasting-trad-met-at-avangrid-4432428313?position=55&pageNum=0&refId=47hQn%2Bbvu1ss%2Ff%2F5QsDpzw%3D%3D&trackingId=sEPEnkjPTXq9nAeFp%2F25pQ%3D%3D
-Score: 5 | Matched: forecast
-
-Systems Interface Analyst 1 | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5387361-0/systems-interface-analyst-1
+Social Program Analyst | Ohio | Ohio
+URL: https://www.governmentjobs.com/jobs/5286786-0/social-program-analyst
 Score: 5 | Matched: analyst
 
-Grants Analyst I - Department of Management and Budget | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/145506-1/grants-analyst-i-department-of-management-and-budget
+Elections Analyst 2 | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5385732-0/elections-analyst-2
 Score: 5 | Matched: analyst
 
-Department Analyst 9-P11 (Specialty Trades) | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5385700-0/department-analyst-9-p11-specialty-trades
-Score: 5 | Matched: analyst
+Intel Analyst | Arcfield | Colorado Springs, CO
+URL: https://www.glassdoor.com/job-listing/intel-analyst-arcfield-JV_IC1148136_KO0,13_KE14,22.htm?jl=1010172306144
+Score: 4 | Matched: analyst
 
-Computer Analyst I* | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5363479-0/computer-analyst-i
-Score: 5 | Matched: analyst
-
-MANAGEMENT ANALYST 2 | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5386781-0/management-analyst-2
-Score: 5 | Matched: analyst
-
-NATURAL RESOURCE ANALYST-UNCLASSIFIED | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5388320-0/natural-resource-analyst-unclassified
-Score: 5 | Matched: analyst
-
-Programmer/Analyst 5, DJFS | Ohio | Ohio
-URL: https://www.governmentjobs.com/jobs/5387089-0/programmer-analyst-5-djfs
-Score: 5 | Matched: analyst
-
-Fiscal Analyst 4 | Washington | Washington
-URL: https://www.governmentjobs.com/jobs/5377487-0/fiscal-analyst-4
-Score: 5 | Matched: analyst
-
-UNEMPLOYMENT INSURANCE REPRESENTATIVE 1- UNDERFILL | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5386850-0/unemployment-insurance-representative-1-underfill
+INSURANCE EXAMINER I | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5388603-0/insurance-examiner-i
 Score: 4 | Matched: insurance
 
-Registered Nurse (RN) - Full-Time | Illinois | Illinois
-URL: https://www.governmentjobs.com/jobs/5387547-0/registered-nurse-rn-full-time
+PT-Cash Register Operator (Rebsmen Golf) | Arkansas | Arkansas
+URL: https://www.governmentjobs.com/jobs/5379300-0/pt-cash-register-operator-rebsmen-golf
 Score: 3 | Matched: gis
 
-Environmental Laboratory Supervisor | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5387099-0/environmental-laboratory-supervisor
-Score: 3 | Matched: environmental
-
-Environmental/Natural Resources Specialist Manager | Mississippi | Mississippi
-URL: https://www.governmentjobs.com/jobs/5387350-0/environmental-natural-resources-specialist-manager
-Score: 3 | Matched: environmental
-
-Public Health Environmental Health Specialist I (Vacancies) | Ohio | Ohio
-URL: https://www.governmentjobs.com/jobs/5378515-0/public-health-environmental-health-specialist-i-vacancies
-Score: 3 | Matched: environmental
-
-Work Study - Registration Office Assistant | Washington | Washington
-URL: https://www.governmentjobs.com/jobs/5386955-0/work-study-registration-office-assistant
+PH Registered Nurse 3 | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5389335-0/ph-registered-nurse-3
 Score: 3 | Matched: gis
+
+Senior Environmental, Health & Safety Manager | Virginia | Virginia
+URL: https://www.governmentjobs.com/jobs/5384461-0/senior-environmental-health-safety-manager
+Score: 3 | Matched: environmental
