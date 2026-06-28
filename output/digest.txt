@@ -1,52 +1,40 @@
-Job Digest - 2026-06-27
+Job Digest - 2026-06-28
 
 Summary:
-  Start: 2026-06-27 09:31:25 UTC
-  End: 2026-06-27 09:42:09 UTC
-  Runtime: 10m 43s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:New Hampshire, StateBoard:New Mexico, StateBoard:Tennessee, StateBoard:West Virginia
-  Fetched: 1281 | Considered: 659 | Matched: 626 | Mailed: 11
+  Start: 2026-06-28 10:06:00 UTC
+  End: 2026-06-28 10:16:13 UTC
+  Runtime: 10m 12s
+  Sources with email jobs: StateBoard:Alaska, StateBoard:Iowa, StateBoard:Michigan, StateBoard:Nevada
+  Fetched: 1312 | Considered: 663 | Matched: 631 | Mailed: 8
 
-Meteorologist (Part-Time Temporary), KNXV | ABC15 Arizona | Greater Phoenix Area
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-part-time-temporary-knxv-at-abc15-arizona-4432139736?position=58&pageNum=0&refId=xvBqtLPChVGs%2Fib6cNubnQ%3D%3D&trackingId=Tra3Dac%2FF1GxGy%2B5RgMX5g%3D%3D
-Matched: gis, meteorologist
-
-Research Analyst 1 (Survey Data Manager PCN 061087) | Alaska | Alaska
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5387788-0/research-analyst-1-survey-data-manager-pcn-061087
+Analyst Programmer III | Alaska | Alaska
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5324058-0/analyst-programmer-iii
 Matched: analyst
 
-COMMUNITY DEVELOPMENT FINANCIAL ANALYST 1,2 | Louisiana | Louisiana
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5390807-0/community-development-financial-analyst-1-2
+Data Analyst - Part Time | Iowa | Iowa
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5391195-0/data-analyst-part-time
 Matched: analyst
 
-Quality Control Data Analyst | New Mexico | New Mexico
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5389186-0/quality-control-data-analyst
+Network Analyst for Traffic Control Systems | Nevada | Nevada
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5356889-0/network-analyst-for-traffic-control-systems
 Matched: analyst
 
-IS Operations Analyst 3 - Service Desk Team Lead | Tennessee | Tennessee
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5378006-0/is-operations-analyst-3-service-desk-team-lead
+Systems Analyst | Nevada | Nevada
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5356870-0/systems-analyst
 Matched: analyst
 
-Help Desk Analyst 1 | West Virginia | West Virginia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5388792-0/help-desk-analyst-1
-Matched: analyst
+Registered Nurse- Part Time | Iowa | Iowa
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5391220-0/registered-nurse-part-time
+Matched: gis
 
-Environmental Health Spec 1 - Newton County (Internal Applicants Only) | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5390462-0/environmental-health-spec-1-newton-county-internal-applicants-only
-Matched: environmental
+Psychologist 9-P11 | Michigan | Michigan
+Score: 3 | URL: https://www.governmentjobs.com/jobs/2879502-0/psychologist-9-p11
+Matched: gis
 
 Qualified Mental Health Professional 9-P11 (LPC, MSW, Psychologist, Social Worker) | Michigan | Michigan
-Score: 3 | URL: https://www.governmentjobs.com/jobs/2960488-0/qualified-mental-health-professional-9-p11-lpc-msw-psychologist-social-worker
+Score: 3 | URL: https://www.governmentjobs.com/jobs/2960681-0/qualified-mental-health-professional-9-p11-lpc-msw-psychologist-social-worker
 Matched: gis
 
-Qualified Mental Health Professional 9-P11 LPC, MSW, Psychologist, Social Worker) | Michigan | Michigan
-Score: 3 | URL: https://www.governmentjobs.com/jobs/2960515-0/qualified-mental-health-professional-9-p11-lpc-msw-psychologist-social-worker
-Matched: gis
-
-Assistant Registrar | New Hampshire | New Hampshire
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5386066-0/assistant-registrar
-Matched: gis
-
-Registered Nurse | West Virginia | West Virginia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5389208-0/registered-nurse
+Qualified Mental Health Professional 9-P11 (LPC, MSW, Psychologist, Social Worker) | Michigan | Michigan
+Score: 3 | URL: https://www.governmentjobs.com/jobs/2960693-0/qualified-mental-health-professional-9-p11-lpc-msw-psychologist-social-worker
 Matched: gis
