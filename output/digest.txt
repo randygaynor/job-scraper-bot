@@ -1,40 +1,24 @@
-Job Digest - 2026-06-28
+Job Digest - 2026-06-29
 
 Summary:
-  Start: 2026-06-28 10:06:00 UTC
-  End: 2026-06-28 10:16:13 UTC
-  Runtime: 10m 12s
-  Sources with email jobs: StateBoard:Alaska, StateBoard:Iowa, StateBoard:Michigan, StateBoard:Nevada
-  Fetched: 1312 | Considered: 663 | Matched: 631 | Mailed: 8
+  Start: 2026-06-29 12:02:57 UTC
+  End: 2026-06-29 12:19:52 UTC
+  Runtime: 16m 55s
+  Sources with email jobs: StateBoard:Alabama, StateBoard:Alaska, StateBoard:Indiana, StateBoard:Louisiana
+  Fetched: 786 | Considered: 417 | Matched: 356 | Mailed: 4
 
-Analyst Programmer III | Alaska | Alaska
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5324058-0/analyst-programmer-iii
+Digital Forensic Analyst | Alabama | Alabama
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5391486-0/digital-forensic-analyst
 Matched: analyst
 
-Data Analyst - Part Time | Iowa | Iowa
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5391195-0/data-analyst-part-time
+Research Analyst 3 (PCN 114267) | Alaska | Alaska
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5388176-0/research-analyst-3-pcn-114267
 Matched: analyst
 
-Network Analyst for Traffic Control Systems | Nevada | Nevada
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5356889-0/network-analyst-for-traffic-control-systems
+Data Analyst - DPW-D3 Street Maint West St | Indiana | Indiana
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5390571-0/data-analyst-dpw-d3-street-maint-west-st
 Matched: analyst
 
-Systems Analyst | Nevada | Nevada
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5356870-0/systems-analyst
+Human Resources Analyst A - C | Louisiana | Louisiana
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5390989-0/human-resources-analyst-a-c
 Matched: analyst
-
-Registered Nurse- Part Time | Iowa | Iowa
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5391220-0/registered-nurse-part-time
-Matched: gis
-
-Psychologist 9-P11 | Michigan | Michigan
-Score: 3 | URL: https://www.governmentjobs.com/jobs/2879502-0/psychologist-9-p11
-Matched: gis
-
-Qualified Mental Health Professional 9-P11 (LPC, MSW, Psychologist, Social Worker) | Michigan | Michigan
-Score: 3 | URL: https://www.governmentjobs.com/jobs/2960681-0/qualified-mental-health-professional-9-p11-lpc-msw-psychologist-social-worker
-Matched: gis
-
-Qualified Mental Health Professional 9-P11 (LPC, MSW, Psychologist, Social Worker) | Michigan | Michigan
-Score: 3 | URL: https://www.governmentjobs.com/jobs/2960693-0/qualified-mental-health-professional-9-p11-lpc-msw-psychologist-social-worker
-Matched: gis
