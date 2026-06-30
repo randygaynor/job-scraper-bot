@@ -1,27 +1,87 @@
-Subject: Job Digest - 2026-06-29
+Subject: Job Digest - 2026-06-30
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-29 12:02:57 UTC
-  End: 2026-06-29 12:19:52 UTC
-  Runtime: 16m 55s
-  Sources with email jobs: StateBoard:Alabama, StateBoard:Alaska, StateBoard:Indiana, StateBoard:Louisiana
-  Fetched: 786 | Considered: 417 | Matched: 356 | Mailed: 4
+  Start: 2026-06-30 10:33:29 UTC
+  End: 2026-06-30 10:36:32 UTC
+  Runtime: 3m 3s
+  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Nevada, StateBoard:North Carolina, StateBoard:Pennsylvania, StateBoard:South Carolina, StateBoard:Tennessee, StateBoard:Virginia
+  Fetched: 1838 | Considered: 943 | Matched: 910 | Mailed: 19
 
-Digital Forensic Analyst | Alabama | Alabama
-URL: https://www.governmentjobs.com/jobs/5391486-0/digital-forensic-analyst
+Meteorologists/Forecasters | EarlyAlert | United States
+URL: https://www.linkedin.com/jobs/view/meteorologists-forecasters-at-earlyalert-4434732329?position=43&pageNum=0&refId=al%2FKthMObMCOeFhsgroKzw%3D%3D&trackingId=QOY5Devsb4nBYBuWvEv64g%3D%3D
+Score: 14 | Matched: forecast, gis, forecaster, meteorologist
+
+Meteorologist and Data Scientist Developer | Lynker | College Park, MD
+URL: https://www.linkedin.com/jobs/view/meteorologist-and-data-scientist-developer-at-lynker-4431559070?position=42&pageNum=0&refId=al%2FKthMObMCOeFhsgroKzw%3D%3D&trackingId=VMG%2F4EL27oF0pivvFJc15A%3D%3D
+Score: 12 | Matched: gis, meteorologist
+
+Meteorologist and Data Scientist Developer | Lynker | College Park, MD
+URL: https://www.linkedin.com/jobs/view/meteorologist-and-data-scientist-developer-at-lynker-4431559070?position=52&pageNum=0&refId=aAdkjc06paG6SQzeSFEOjg%3D%3D&trackingId=6LGLEbj0tqYOzwMSPQpvCg%3D%3D
+Score: 12 | Matched: gis, meteorologist
+
+Insurance Company Financial Analyst Trainee | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5389046-0/insurance-company-financial-analyst-trainee
+Score: 8 | Matched: insurance, analyst
+
+Atmospheric Modeling Scientist | JANUS Research Group | United States
+URL: https://www.linkedin.com/jobs/view/atmospheric-modeling-scientist-at-janus-research-group-4431552456?position=9&pageNum=0&refId=aAdkjc06paG6SQzeSFEOjg%3D%3D&trackingId=LlbjWEYMAzXGcIZumQ2zig%3D%3D
+Score: 5 | Matched: atmospheric
+
+Manager of Recruitment and Class and Compensation/HR Analyst III | Maryland | Maryland
+URL: https://www.governmentjobs.com/jobs/5392391-0/manager-of-recruitment-and-class-and-compensation-hr-analyst-iii
 Score: 5 | Matched: analyst
 
-Research Analyst 3 (PCN 114267) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5388176-0/research-analyst-3-pcn-114267
+Senior Data and Governance Analyst | North Carolina | North Carolina
+URL: https://www.governmentjobs.com/jobs/5391778-0/senior-data-and-governance-analyst
 Score: 5 | Matched: analyst
 
-Data Analyst - DPW-D3 Street Maint West St | Indiana | Indiana
-URL: https://www.governmentjobs.com/jobs/5390571-0/data-analyst-dpw-d3-street-maint-west-st
+Service Integration and Improvement Analyst | North Carolina | North Carolina
+URL: https://www.governmentjobs.com/jobs/5391764-0/service-integration-and-improvement-analyst
 Score: 5 | Matched: analyst
 
-Human Resources Analyst A - C | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5390989-0/human-resources-analyst-a-c
+Senior Data Analyst | North Carolina | North Carolina
+URL: https://www.governmentjobs.com/jobs/5391752-0/senior-data-analyst
 Score: 5 | Matched: analyst
+
+Elections Analyst 1 | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5387072-0/elections-analyst-1
+Score: 5 | Matched: analyst
+
+Accounting / Fiscal Manager I - Financial Planning Analyst (61031836) | South Carolina | South Carolina
+URL: https://www.governmentjobs.com/jobs/5391935-0/accounting-fiscal-manager-i-financial-planning-analyst-61031836
+Score: 5 | Matched: analyst
+
+Principal Automation Analyst | Virginia | Virginia
+URL: https://www.governmentjobs.com/jobs/5388868-0/principal-automation-analyst
+Score: 5 | Matched: analyst
+
+Environmental Health Specialist | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5392472-0/environmental-health-specialist
+Score: 3 | Matched: environmental
+
+REGISTERED NURSE SUPERVISOR A | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5391945-0/registered-nurse-supervisor-a
+Score: 3 | Matched: gis
+
+REGISTERED NURSE SUPERVISOR A | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5391772-0/registered-nurse-supervisor-a
+Score: 3 | Matched: gis
+
+ENVIRONMENTAL SCIENTIST 3 - PART TIME | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5388532-0/environmental-scientist-3-part-time
+Score: 3 | Matched: environmental
+
+ENVIRONMENTAL SCIENTIST 3 | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5388506-0/environmental-scientist-3
+Score: 3 | Matched: environmental
+
+Epidemiologist 2 (Behavioral Health/Opioid Overdose Reduction Program) | Tennessee | Tennessee
+URL: https://www.governmentjobs.com/jobs/4192277-0/epidemiologist-2-behavioral-health-opioid-overdose-reduction-program
+Score: 3 | Matched: gis
+
+Human Services Assistant - Application Registration | Virginia | Virginia
+URL: https://www.governmentjobs.com/jobs/5389522-0/human-services-assistant-application-registration
+Score: 3 | Matched: gis
