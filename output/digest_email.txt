@@ -1,87 +1,87 @@
-Subject: Job Digest - 2026-06-30
+Subject: Job Digest - 2026-07-01
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-06-30 10:33:29 UTC
-  End: 2026-06-30 10:36:32 UTC
-  Runtime: 3m 3s
-  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Nevada, StateBoard:North Carolina, StateBoard:Pennsylvania, StateBoard:South Carolina, StateBoard:Tennessee, StateBoard:Virginia
-  Fetched: 1838 | Considered: 943 | Matched: 910 | Mailed: 19
+  Start: 2026-07-01 10:44:29 UTC
+  End: 2026-07-01 10:50:06 UTC
+  Runtime: 5m 37s
+  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:Nevada, StateBoard:Oregon, StateBoard:Pennsylvania
+  Fetched: 1730 | Considered: 915 | Matched: 840 | Mailed: 19
 
-Meteorologists/Forecasters | EarlyAlert | United States
-URL: https://www.linkedin.com/jobs/view/meteorologists-forecasters-at-earlyalert-4434732329?position=43&pageNum=0&refId=al%2FKthMObMCOeFhsgroKzw%3D%3D&trackingId=QOY5Devsb4nBYBuWvEv64g%3D%3D
-Score: 14 | Matched: forecast, gis, forecaster, meteorologist
+Meteorologist | San Antonio River Authority | San Antonio, Texas Metropolitan Area
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-san-antonio-river-authority-4431963640?position=3&pageNum=0&refId=dD3QGySeyXPWORn40OHRcg%3D%3D&trackingId=0oBdVW9R9i7ZegOl4F%2BSiA%3D%3D
+Score: 10 | Matched: gis, meteorologist
 
-Meteorologist and Data Scientist Developer | Lynker | College Park, MD
-URL: https://www.linkedin.com/jobs/view/meteorologist-and-data-scientist-developer-at-lynker-4431559070?position=42&pageNum=0&refId=al%2FKthMObMCOeFhsgroKzw%3D%3D&trackingId=VMG%2F4EL27oF0pivvFJc15A%3D%3D
-Score: 12 | Matched: gis, meteorologist
+Meteorologist | Amentum | United States
+URL: https://www.glassdoor.com/job-listing/meteorologist-amentum-JV_KO0,13_KE14,21.htm?jl=1010183140649
+Score: 10 | Matched: gis, meteorologist
 
-Meteorologist and Data Scientist Developer | Lynker | College Park, MD
-URL: https://www.linkedin.com/jobs/view/meteorologist-and-data-scientist-developer-at-lynker-4431559070?position=52&pageNum=0&refId=aAdkjc06paG6SQzeSFEOjg%3D%3D&trackingId=6LGLEbj0tqYOzwMSPQpvCg%3D%3D
-Score: 12 | Matched: gis, meteorologist
+Meteorologist Senior | Amentum | United States
+URL: https://www.glassdoor.com/job-listing/meteorologist-senior-amentum-JV_KO0,20_KE21,28.htm?jl=1010183140650
+Score: 10 | Matched: gis, meteorologist
 
-Insurance Company Financial Analyst Trainee | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5389046-0/insurance-company-financial-analyst-trainee
-Score: 8 | Matched: insurance, analyst
+Meteorologist Developer | Lynker Technologies | College Park, MD
+URL: https://www.glassdoor.com/job-listing/meteorologist-developer-lynker-technologies-JV_IC1153841_KO0,23_KE24,43.htm?jl=1010121695127
+Score: 10 | Matched: gis, meteorologist
 
-Atmospheric Modeling Scientist | JANUS Research Group | United States
-URL: https://www.linkedin.com/jobs/view/atmospheric-modeling-scientist-at-janus-research-group-4431552456?position=9&pageNum=0&refId=aAdkjc06paG6SQzeSFEOjg%3D%3D&trackingId=LlbjWEYMAzXGcIZumQ2zig%3D%3D
+Weather & Climatology Analyst, Global Security Intelligence | Amazon | Herndon, VA
+URL: https://www.glassdoor.com/job-listing/weather-climatology-analyst-global-security-intelligence-amazon-JV_IC1130374_KO0,56_KE57,63.htm?jl=1010177438357
+Score: 6 | Matched: weather, analyst
+
+Postdoctoral Associate: Geostationary measurements of atmospheric chemistry | University of Minnesota | Minneapolis, MN
+URL: https://www.glassdoor.com/job-listing/postdoctoral-associate-geostationary-measurements-of-atmospheric-chemistry-university-of-minnesota-JV_IC1142551_KO0,74_KE75,98.htm?jl=1010155652194
 Score: 5 | Matched: atmospheric
 
-Manager of Recruitment and Class and Compensation/HR Analyst III | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5392391-0/manager-of-recruitment-and-class-and-compensation-hr-analyst-iii
+Physical Scientist and Warn-on-Forecast System Developer | Lynker Technologies | College Park, MD
+URL: https://www.glassdoor.com/job-listing/physical-scientist-and-warn-on-forecast-system-developer-lynker-technologies-JV_IC1153841_KO0,56_KE57,76.htm?jl=1010155693281
+Score: 5 | Matched: forecast
+
+Program Analyst II or III | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5391496-0/program-analyst-ii-or-iii
 Score: 5 | Matched: analyst
 
-Senior Data and Governance Analyst | North Carolina | North Carolina
-URL: https://www.governmentjobs.com/jobs/5391778-0/senior-data-and-governance-analyst
+GROUP BENEFITS ANALYST 1, 2, OR 3 | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5393695-0/group-benefits-analyst-1-2-or-3
 Score: 5 | Matched: analyst
 
-Service Integration and Improvement Analyst | North Carolina | North Carolina
-URL: https://www.governmentjobs.com/jobs/5391764-0/service-integration-and-improvement-analyst
+Behavior Analyst - School Behavior Analyst 9-P11 | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5372957-0/behavior-analyst-school-behavior-analyst-9-p11
 Score: 5 | Matched: analyst
 
-Senior Data Analyst | North Carolina | North Carolina
-URL: https://www.governmentjobs.com/jobs/5391752-0/senior-data-analyst
-Score: 5 | Matched: analyst
+Senior Data Scientist III - GEOINT/Remote Sensing | Pacific Northwest National Laboratory | Richland, WA
+URL: https://www.glassdoor.com/job-listing/senior-data-scientist-iii-geoint-remote-sensing-pacific-northwest-national-laboratory-JV_IC1150330_KO0,47_KE48,85.htm?jl=1010176326513
+Score: 3 | Matched: 
 
-Elections Analyst 1 | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5387072-0/elections-analyst-1
-Score: 5 | Matched: analyst
+Lead Data Scientist IV - GEOINT/Remote Sensing | Pacific Northwest National Laboratory | Richland, WA
+URL: https://www.glassdoor.com/job-listing/lead-data-scientist-iv-geoint-remote-sensing-pacific-northwest-national-laboratory-JV_IC1150330_KO0,44_KE45,82.htm?jl=1010176326514
+Score: 3 | Matched: 
 
-Accounting / Fiscal Manager I - Financial Planning Analyst (61031836) | South Carolina | South Carolina
-URL: https://www.governmentjobs.com/jobs/5391935-0/accounting-fiscal-manager-i-financial-planning-analyst-61031836
-Score: 5 | Matched: analyst
+AI and Data Assimilation Scientist | Lynker Technologies | College Park, MD
+URL: https://www.glassdoor.com/job-listing/ai-and-data-assimilation-scientist-lynker-technologies-JV_IC1153841_KO0,34_KE35,54.htm?jl=1010124587656
+Score: 3 | Matched: data assimilation
 
-Principal Automation Analyst | Virginia | Virginia
-URL: https://www.governmentjobs.com/jobs/5388868-0/principal-automation-analyst
-Score: 5 | Matched: analyst
-
-Environmental Health Specialist | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5392472-0/environmental-health-specialist
-Score: 3 | Matched: environmental
-
-REGISTERED NURSE SUPERVISOR A | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5391945-0/registered-nurse-supervisor-a
+Special Assistant to the Commissioner 2 (Legislative Liaison - 02-1147) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5394667-0/special-assistant-to-the-commissioner-2-legislative-liaison-02-1147
 Score: 3 | Matched: gis
 
-REGISTERED NURSE SUPERVISOR A | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5391772-0/registered-nurse-supervisor-a
+Registered Nurse 3 (WAE) | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5393597-0/registered-nurse-3-wae
 Score: 3 | Matched: gis
 
-ENVIRONMENTAL SCIENTIST 3 - PART TIME | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5388532-0/environmental-scientist-3-part-time
-Score: 3 | Matched: environmental
-
-ENVIRONMENTAL SCIENTIST 3 | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5388506-0/environmental-scientist-3
-Score: 3 | Matched: environmental
-
-Epidemiologist 2 (Behavioral Health/Opioid Overdose Reduction Program) | Tennessee | Tennessee
-URL: https://www.governmentjobs.com/jobs/4192277-0/epidemiologist-2-behavioral-health-opioid-overdose-reduction-program
+LICENSED PSYCHOLOGIST 2 | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5394782-0/licensed-psychologist-2
 Score: 3 | Matched: gis
 
-Human Services Assistant - Application Registration | Virginia | Virginia
-URL: https://www.governmentjobs.com/jobs/5389522-0/human-services-assistant-application-registration
+Clinic Registered Nurse (Per Diem) | Oregon | Oregon
+URL: https://www.governmentjobs.com/jobs/145822-1/clinic-registered-nurse-per-diem
+Score: 3 | Matched: gis
+
+Registered Nurse - Selinsgrove Center (1st, 2nd, & 3rd shift) | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5380549-0/registered-nurse-selinsgrove-center-1st-2nd-3rd-shift
+Score: 3 | Matched: gis
+
+Registered Nurse Supervisor (2nd Shift) - Danville State Hospital | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5393467-0/registered-nurse-supervisor-2nd-shift-danville-state-hospital
 Score: 3 | Matched: gis
