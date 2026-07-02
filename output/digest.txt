@@ -1,84 +1,44 @@
-Job Digest - 2026-07-01
+Job Digest - 2026-07-02
 
 Summary:
-  Start: 2026-07-01 10:44:29 UTC
-  End: 2026-07-01 10:50:06 UTC
-  Runtime: 5m 37s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:Nevada, StateBoard:Oregon, StateBoard:Pennsylvania
-  Fetched: 1730 | Considered: 915 | Matched: 840 | Mailed: 19
+  Start: 2026-07-02 10:12:30 UTC
+  End: 2026-07-02 10:21:50 UTC
+  Runtime: 9m 20s
+  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Georgia, StateBoard:Nevada, StateBoard:New Jersey
+  Fetched: 1408 | Considered: 727 | Matched: 676 | Mailed: 9
 
-Meteorologist | San Antonio River Authority | San Antonio, Texas Metropolitan Area
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-san-antonio-river-authority-4431963640?position=3&pageNum=0&refId=dD3QGySeyXPWORn40OHRcg%3D%3D&trackingId=0oBdVW9R9i7ZegOl4F%2BSiA%3D%3D
+Morning Meteorologist | University of Missouri-Columbia | Columbia, MO
+Score: 10 | URL: https://www.linkedin.com/jobs/view/morning-meteorologist-at-university-of-missouri-columbia-4432721143?position=11&pageNum=0&refId=OI%2FH569SdeoqBrsoLvq7Og%3D%3D&trackingId=8pKSDa8agWP0dTg%2B0uoVjA%3D%3D
 Matched: gis, meteorologist
 
-Meteorologist | Amentum | United States
-Score: 10 | URL: https://www.glassdoor.com/job-listing/meteorologist-amentum-JV_KO0,13_KE14,21.htm?jl=1010183140649
+Assistant, Associate, or Full Research Meteorologist | UC San Diego Academic Jobs | San Diego, CA
+Score: 10 | URL: https://www.linkedin.com/jobs/view/assistant-associate-or-full-research-meteorologist-at-uc-san-diego-academic-jobs-4436174274?position=40&pageNum=0&refId=OI%2FH569SdeoqBrsoLvq7Og%3D%3D&trackingId=c88uhYYaIV7bpVOFdQey4Q%3D%3D
 Matched: gis, meteorologist
 
-Meteorologist Senior | Amentum | United States
-Score: 10 | URL: https://www.glassdoor.com/job-listing/meteorologist-senior-amentum-JV_KO0,20_KE21,28.htm?jl=1010183140650
+Assistant, Associate, or Full Research Meteorologist | UC San Diego Academic Jobs | San Diego, CA
+Score: 10 | URL: https://www.linkedin.com/jobs/view/assistant-associate-or-full-research-meteorologist-at-uc-san-diego-academic-jobs-4436174274?position=7&pageNum=0&refId=H8NF%2BkFBCd0WCpsDwtfTkA%3D%3D&trackingId=2cd94LB4mJ2fLphC0DLCrA%3D%3D
 Matched: gis, meteorologist
 
-Meteorologist Developer | Lynker Technologies | College Park, MD
-Score: 10 | URL: https://www.glassdoor.com/job-listing/meteorologist-developer-lynker-technologies-JV_IC1153841_KO0,23_KE24,43.htm?jl=1010121695127
-Matched: gis, meteorologist
-
-Weather & Climatology Analyst, Global Security Intelligence | Amazon | Herndon, VA
-Score: 6 | URL: https://www.glassdoor.com/job-listing/weather-climatology-analyst-global-security-intelligence-amazon-JV_IC1130374_KO0,56_KE57,63.htm?jl=1010177438357
-Matched: weather, analyst
-
-Postdoctoral Associate: Geostationary measurements of atmospheric chemistry | University of Minnesota | Minneapolis, MN
-Score: 5 | URL: https://www.glassdoor.com/job-listing/postdoctoral-associate-geostationary-measurements-of-atmospheric-chemistry-university-of-minnesota-JV_IC1142551_KO0,74_KE75,98.htm?jl=1010155652194
+Research Associate, Atmospheric Science, Machine Learning | DeVine Consulting, Inc. | Silver Spring, MD
+Score: 5 | URL: https://www.linkedin.com/jobs/view/research-associate-atmospheric-science-machine-learning-at-devine-consulting-inc-4431951781?position=40&pageNum=0&refId=H8NF%2BkFBCd0WCpsDwtfTkA%3D%3D&trackingId=9Uk%2FbUGQW4wFvA%2B2rQlN9A%3D%3D
 Matched: atmospheric
 
-Physical Scientist and Warn-on-Forecast System Developer | Lynker Technologies | College Park, MD
-Score: 5 | URL: https://www.glassdoor.com/job-listing/physical-scientist-and-warn-on-forecast-system-developer-lynker-technologies-JV_IC1153841_KO0,56_KE57,76.htm?jl=1010155693281
-Matched: forecast
+GD166 Atmospheric Data Support Scientist | Adnet Systems | Greenbelt, MD
+Score: 5 | URL: https://www.glassdoor.com/job-listing/gd166-atmospheric-data-support-scientist-adnet-systems-JV_IC1153857_KO0,40_KE41,54.htm?jl=1010163270507
+Matched: atmospheric
 
-Program Analyst II or III | Georgia | Georgia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5391496-0/program-analyst-ii-or-iii
+Crime & Intelligence Analyst (SACRC) | Georgia | Georgia
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5386672-0/crime-intelligence-analyst-sacrc
 Matched: analyst
 
-GROUP BENEFITS ANALYST 1, 2, OR 3 | Louisiana | Louisiana
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5393695-0/group-benefits-analyst-1-2-or-3
+Information Technology Analyst 2 | New Jersey | New Jersey
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5393446-0/information-technology-analyst-2
 Matched: analyst
 
-Behavior Analyst - School Behavior Analyst 9-P11 | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5372957-0/behavior-analyst-school-behavior-analyst-9-p11
-Matched: analyst
+ENVIRONMENTAL SCIENTIST 3 | Nevada | Nevada
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5392997-0/environmental-scientist-3
+Matched: environmental
 
-Senior Data Scientist III - GEOINT/Remote Sensing | Pacific Northwest National Laboratory | Richland, WA
-Score: 3 | URL: https://www.glassdoor.com/job-listing/senior-data-scientist-iii-geoint-remote-sensing-pacific-northwest-national-laboratory-JV_IC1150330_KO0,47_KE48,85.htm?jl=1010176326513
-Matched: 
-
-Lead Data Scientist IV - GEOINT/Remote Sensing | Pacific Northwest National Laboratory | Richland, WA
-Score: 3 | URL: https://www.glassdoor.com/job-listing/lead-data-scientist-iv-geoint-remote-sensing-pacific-northwest-national-laboratory-JV_IC1150330_KO0,44_KE45,82.htm?jl=1010176326514
-Matched: 
-
-AI and Data Assimilation Scientist | Lynker Technologies | College Park, MD
-Score: 3 | URL: https://www.glassdoor.com/job-listing/ai-and-data-assimilation-scientist-lynker-technologies-JV_IC1153841_KO0,34_KE35,54.htm?jl=1010124587656
-Matched: data assimilation
-
-Special Assistant to the Commissioner 2 (Legislative Liaison - 02-1147) | Alaska | Alaska
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5394667-0/special-assistant-to-the-commissioner-2-legislative-liaison-02-1147
-Matched: gis
-
-Registered Nurse 3 (WAE) | Louisiana | Louisiana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5393597-0/registered-nurse-3-wae
-Matched: gis
-
-LICENSED PSYCHOLOGIST 2 | Nevada | Nevada
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5394782-0/licensed-psychologist-2
-Matched: gis
-
-Clinic Registered Nurse (Per Diem) | Oregon | Oregon
-Score: 3 | URL: https://www.governmentjobs.com/jobs/145822-1/clinic-registered-nurse-per-diem
-Matched: gis
-
-Registered Nurse - Selinsgrove Center (1st, 2nd, & 3rd shift) | Pennsylvania | Pennsylvania
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5380549-0/registered-nurse-selinsgrove-center-1st-2nd-3rd-shift
-Matched: gis
-
-Registered Nurse Supervisor (2nd Shift) - Danville State Hospital | Pennsylvania | Pennsylvania
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5393467-0/registered-nurse-supervisor-2nd-shift-danville-state-hospital
-Matched: gis
+ENVIRONMENTAL SCIENTIST 3 | Nevada | Nevada
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5393002-0/environmental-scientist-3
+Matched: environmental
