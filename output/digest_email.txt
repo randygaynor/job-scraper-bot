@@ -1,47 +1,63 @@
-Subject: Job Digest - 2026-07-02
+Subject: Job Digest - 2026-07-03
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-07-02 10:12:30 UTC
-  End: 2026-07-02 10:21:50 UTC
-  Runtime: 9m 20s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Georgia, StateBoard:Nevada, StateBoard:New Jersey
-  Fetched: 1408 | Considered: 727 | Matched: 676 | Mailed: 9
+  Start: 2026-07-03 10:08:18 UTC
+  End: 2026-07-03 10:27:22 UTC
+  Runtime: 19m 3s
+  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Colorado, StateBoard:Florida, StateBoard:Georgia
+  Fetched: 699 | Considered: 364 | Matched: 314 | Mailed: 13
 
-Morning Meteorologist | University of Missouri-Columbia | Columbia, MO
-URL: https://www.linkedin.com/jobs/view/morning-meteorologist-at-university-of-missouri-columbia-4432721143?position=11&pageNum=0&refId=OI%2FH569SdeoqBrsoLvq7Og%3D%3D&trackingId=8pKSDa8agWP0dTg%2B0uoVjA%3D%3D
+Meteorologist and Data Scientist Developer | Lynker Technologies | College Park, MD
+URL: https://www.glassdoor.com/job-listing/meteorologist-and-data-scientist-developer-lynker-technologies-JV_IC1153841_KO0,42_KE43,62.htm?jl=1010183655272
+Score: 12 | Matched: gis, meteorologist
+
+Meteorologist (Producer) | The Walt Disney Company | New York, NY
+URL: https://www.linkedin.com/jobs/view/meteorologist-producer-at-the-walt-disney-company-4435080988?position=1&pageNum=0&refId=HwFtR2mPajWV0XmUy2XPOg%3D%3D&trackingId=0kOHQsuHljxaZQ2qe558UA%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Assistant, Associate, or Full Research Meteorologist | UC San Diego Academic Jobs | San Diego, CA
-URL: https://www.linkedin.com/jobs/view/assistant-associate-or-full-research-meteorologist-at-uc-san-diego-academic-jobs-4436174274?position=40&pageNum=0&refId=OI%2FH569SdeoqBrsoLvq7Og%3D%3D&trackingId=c88uhYYaIV7bpVOFdQey4Q%3D%3D
+Meteorologist | VK CONSULTING SERVICES | United States
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-vk-consulting-services-4430029297?position=55&pageNum=0&refId=HwFtR2mPajWV0XmUy2XPOg%3D%3D&trackingId=3ap0QA3l0P%2FLo7kvimq4pw%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Assistant, Associate, or Full Research Meteorologist | UC San Diego Academic Jobs | San Diego, CA
-URL: https://www.linkedin.com/jobs/view/assistant-associate-or-full-research-meteorologist-at-uc-san-diego-academic-jobs-4436174274?position=7&pageNum=0&refId=H8NF%2BkFBCd0WCpsDwtfTkA%3D%3D&trackingId=2cd94LB4mJ2fLphC0DLCrA%3D%3D
+Morning Meteorologist | University of Missouri | Columbia, MO
+URL: https://www.glassdoor.com/job-listing/morning-meteorologist-university-of-missouri-JV_IC1130886_KO0,21_KE22,44.htm?jl=1010187305533
 Score: 10 | Matched: gis, meteorologist
 
-Research Associate, Atmospheric Science, Machine Learning | DeVine Consulting, Inc. | Silver Spring, MD
-URL: https://www.linkedin.com/jobs/view/research-associate-atmospheric-science-machine-learning-at-devine-consulting-inc-4431951781?position=40&pageNum=0&refId=H8NF%2BkFBCd0WCpsDwtfTkA%3D%3D&trackingId=9Uk%2FbUGQW4wFvA%2B2rQlN9A%3D%3D
+Meteorologist, Weekends, KNXV | The E.W. Scripps Company | Phoenix, AZ
+URL: https://www.glassdoor.com/job-listing/meteorologist-weekends-knxv-the-ew-scripps-company-JV_IC1133904_KO0,27_KE28,50.htm?jl=1010163250353
+Score: 10 | Matched: gis, meteorologist
+
+Meteorologist, KMGH | The E.W. Scripps Company | Denver, CO
+URL: https://www.glassdoor.com/job-listing/meteorologist-kmgh-the-ew-scripps-company-JV_IC1148170_KO0,18_KE19,41.htm?jl=1010159689751
+Score: 10 | Matched: gis, meteorologist
+
+Weather Forecaster | VK CONSULTING SERVICES | United States
+URL: https://www.linkedin.com/jobs/view/weather-forecaster-at-vk-consulting-services-4433295210?position=37&pageNum=0&refId=HwFtR2mPajWV0XmUy2XPOg%3D%3D&trackingId=DRXrjfMjQ72%2Bn7arqs1%2B%2Bw%3D%3D
+Score: 9 | Matched: weather, forecast, forecaster
+
+Lead Atmospheric Science & GNSS Research Analyst - 140301 | UC San Diego | San Diego, CA
+URL: https://www.linkedin.com/jobs/view/lead-atmospheric-science-gnss-research-analyst-140301-at-uc-san-diego-4433115313?position=14&pageNum=0&refId=VSyZC94oFIyBMTKQ5hTPdQ%3D%3D&trackingId=j3pJo870FvojZz1fR5k31w%3D%3D
+Score: 9 | Matched: atmospheric, analyst
+
+Computational Atmospheric Scientist | National Laboratory of the Rockies | Boulder, CO
+URL: https://www.glassdoor.com/job-listing/computational-atmospheric-scientist-national-laboratory-of-the-rockies-JV_IC1148112_KO0,35_KE36,70.htm?jl=1010188423970
 Score: 5 | Matched: atmospheric
 
-GD166 Atmospheric Data Support Scientist | Adnet Systems | Greenbelt, MD
-URL: https://www.glassdoor.com/job-listing/gd166-atmospheric-data-support-scientist-adnet-systems-JV_IC1153857_KO0,40_KE41,54.htm?jl=1010163270507
-Score: 5 | Matched: atmospheric
-
-Crime & Intelligence Analyst (SACRC) | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5386672-0/crime-intelligence-analyst-sacrc
+Senior Data Analyst – Department of Human Services | Colorado | Colorado
+URL: https://www.governmentjobs.com/jobs/5398064-0/senior-data-analyst-department-of-human-services
 Score: 5 | Matched: analyst
 
-Information Technology Analyst 2 | New Jersey | New Jersey
-URL: https://www.governmentjobs.com/jobs/5393446-0/information-technology-analyst-2
-Score: 5 | Matched: analyst
+Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
+URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4436490544?position=46&pageNum=0&refId=HwFtR2mPajWV0XmUy2XPOg%3D%3D&trackingId=gld%2FGXiJbuHwMYMOL1%2FjIA%3D%3D
+Score: 4 | Matched: meteorology, weather
 
-ENVIRONMENTAL SCIENTIST 3 | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5392997-0/environmental-scientist-3
-Score: 3 | Matched: environmental
+SWWRF Wastewater Treatment Plant Operator Trainee | Florida | Florida
+URL: https://www.governmentjobs.com/jobs/5397472-0/swwrf-wastewater-treatment-plant-operator-trainee
+Score: 3 | Matched: wrf
 
-ENVIRONMENTAL SCIENTIST 3 | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5393002-0/environmental-scientist-3
+Environmental Health Specialist 1, 2, 3, or 4 (Sumter County) | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5367692-0/environmental-health-specialist-1-2-3-or-4-sumter-county
 Score: 3 | Matched: environmental
