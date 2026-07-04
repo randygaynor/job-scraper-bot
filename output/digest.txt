@@ -1,60 +1,24 @@
-Job Digest - 2026-07-03
+Job Digest - 2026-07-04
 
 Summary:
-  Start: 2026-07-03 10:08:18 UTC
-  End: 2026-07-03 10:27:22 UTC
-  Runtime: 19m 3s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Colorado, StateBoard:Florida, StateBoard:Georgia
-  Fetched: 699 | Considered: 364 | Matched: 314 | Mailed: 13
+  Start: 2026-07-04 09:26:30 UTC
+  End: 2026-07-04 09:47:45 UTC
+  Runtime: 21m 15s
+  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Georgia
+  Fetched: 552 | Considered: 287 | Matched: 237 | Mailed: 4
 
-Meteorologist and Data Scientist Developer | Lynker Technologies | College Park, MD
-Score: 12 | URL: https://www.glassdoor.com/job-listing/meteorologist-and-data-scientist-developer-lynker-technologies-JV_IC1153841_KO0,42_KE43,62.htm?jl=1010183655272
-Matched: gis, meteorologist
+Geospatial Data Scientist | MITRE | McLean, VA
+Score: 7 | URL: https://www.glassdoor.com/job-listing/geospatial-data-scientist-mitre-JV_IC1158535_KO0,25_KE26,31.htm?jl=1010080514685
+Matched: spatial, geospatial
 
-Meteorologist (Producer) | The Walt Disney Company | New York, NY
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-producer-at-the-walt-disney-company-4435080988?position=1&pageNum=0&refId=HwFtR2mPajWV0XmUy2XPOg%3D%3D&trackingId=0kOHQsuHljxaZQ2qe558UA%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | VK CONSULTING SERVICES | United States
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-vk-consulting-services-4430029297?position=55&pageNum=0&refId=HwFtR2mPajWV0XmUy2XPOg%3D%3D&trackingId=3ap0QA3l0P%2FLo7kvimq4pw%3D%3D
-Matched: gis, meteorologist
-
-Morning Meteorologist | University of Missouri | Columbia, MO
-Score: 10 | URL: https://www.glassdoor.com/job-listing/morning-meteorologist-university-of-missouri-JV_IC1130886_KO0,21_KE22,44.htm?jl=1010187305533
-Matched: gis, meteorologist
-
-Meteorologist, Weekends, KNXV | The E.W. Scripps Company | Phoenix, AZ
-Score: 10 | URL: https://www.glassdoor.com/job-listing/meteorologist-weekends-knxv-the-ew-scripps-company-JV_IC1133904_KO0,27_KE28,50.htm?jl=1010163250353
-Matched: gis, meteorologist
-
-Meteorologist, KMGH | The E.W. Scripps Company | Denver, CO
-Score: 10 | URL: https://www.glassdoor.com/job-listing/meteorologist-kmgh-the-ew-scripps-company-JV_IC1148170_KO0,18_KE19,41.htm?jl=1010159689751
-Matched: gis, meteorologist
-
-Weather Forecaster | VK CONSULTING SERVICES | United States
-Score: 9 | URL: https://www.linkedin.com/jobs/view/weather-forecaster-at-vk-consulting-services-4433295210?position=37&pageNum=0&refId=HwFtR2mPajWV0XmUy2XPOg%3D%3D&trackingId=DRXrjfMjQ72%2Bn7arqs1%2B%2Bw%3D%3D
-Matched: weather, forecast, forecaster
-
-Lead Atmospheric Science & GNSS Research Analyst - 140301 | UC San Diego | San Diego, CA
-Score: 9 | URL: https://www.linkedin.com/jobs/view/lead-atmospheric-science-gnss-research-analyst-140301-at-uc-san-diego-4433115313?position=14&pageNum=0&refId=VSyZC94oFIyBMTKQ5hTPdQ%3D%3D&trackingId=j3pJo870FvojZz1fR5k31w%3D%3D
-Matched: atmospheric, analyst
-
-Computational Atmospheric Scientist | National Laboratory of the Rockies | Boulder, CO
-Score: 5 | URL: https://www.glassdoor.com/job-listing/computational-atmospheric-scientist-national-laboratory-of-the-rockies-JV_IC1148112_KO0,35_KE36,70.htm?jl=1010188423970
+Atmospheric Scientist, Calibration Validation Specialist | DeVine Consulting | Monterey, CA
+Score: 5 | URL: https://www.glassdoor.com/job-listing/atmospheric-scientist-calibration-validation-specialist-devine-consulting-JV_IC1147261_KO0,55_KE56,73.htm?jl=1010101289139
 Matched: atmospheric
 
-Senior Data Analyst – Department of Human Services | Colorado | Colorado
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5398064-0/senior-data-analyst-department-of-human-services
-Matched: analyst
-
 Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
-Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4436490544?position=46&pageNum=0&refId=HwFtR2mPajWV0XmUy2XPOg%3D%3D&trackingId=gld%2FGXiJbuHwMYMOL1%2FjIA%3D%3D
+Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4436931662?position=48&pageNum=0&refId=XhLTusixGfVezFiCO8tUkg%3D%3D&trackingId=8ko4cAXIU9fqbM1Ukb60EA%3D%3D
 Matched: meteorology, weather
 
-SWWRF Wastewater Treatment Plant Operator Trainee | Florida | Florida
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5397472-0/swwrf-wastewater-treatment-plant-operator-trainee
-Matched: wrf
-
-Environmental Health Specialist 1, 2, 3, or 4 (Sumter County) | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5367692-0/environmental-health-specialist-1-2-3-or-4-sumter-county
-Matched: environmental
+Operational Review & Internal Audit Manager | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/146007-1/operational-review-internal-audit-manager
+Matched: operational
