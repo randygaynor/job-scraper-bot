@@ -1,24 +1,16 @@
-Job Digest - 2026-07-04
+Job Digest - 2026-07-05
 
 Summary:
-  Start: 2026-07-04 09:26:30 UTC
-  End: 2026-07-04 09:47:45 UTC
-  Runtime: 21m 15s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Georgia
-  Fetched: 552 | Considered: 287 | Matched: 237 | Mailed: 4
+  Start: 2026-07-05 09:44:19 UTC
+  End: 2026-07-05 10:03:51 UTC
+  Runtime: 19m 31s
+  Sources with email jobs: LinkedIn
+  Fetched: 600 | Considered: 305 | Matched: 272 | Mailed: 2
 
-Geospatial Data Scientist | MITRE | McLean, VA
-Score: 7 | URL: https://www.glassdoor.com/job-listing/geospatial-data-scientist-mitre-JV_IC1158535_KO0,25_KE26,31.htm?jl=1010080514685
-Matched: spatial, geospatial
+PIR Weather Analyst with Security Clearance | Altamira Technologies Corporation | Dayton, OH
+Score: 6 | URL: https://www.linkedin.com/jobs/view/pir-weather-analyst-with-security-clearance-at-altamira-technologies-corporation-4433319360?position=49&pageNum=0&refId=v4KnDmluHot0MJQDJEhs3g%3D%3D&trackingId=duEWphPUrCk3fzSBnXWwsQ%3D%3D
+Matched: weather, analyst
 
-Atmospheric Scientist, Calibration Validation Specialist | DeVine Consulting | Monterey, CA
-Score: 5 | URL: https://www.glassdoor.com/job-listing/atmospheric-scientist-calibration-validation-specialist-devine-consulting-JV_IC1147261_KO0,55_KE56,73.htm?jl=1010101289139
-Matched: atmospheric
-
-Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
-Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4436931662?position=48&pageNum=0&refId=XhLTusixGfVezFiCO8tUkg%3D%3D&trackingId=8ko4cAXIU9fqbM1Ukb60EA%3D%3D
-Matched: meteorology, weather
-
-Operational Review & Internal Audit Manager | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/146007-1/operational-review-internal-audit-manager
-Matched: operational
+Ocean Modeling & Data Assimilation Researcher | Peraton | Mississippi, United States
+Score: 3 | URL: https://www.linkedin.com/jobs/view/ocean-modeling-data-assimilation-researcher-at-peraton-4299625230?position=60&pageNum=0&refId=R2%2B9IHy4nRoxbVCCkwR%2FtQ%3D%3D&trackingId=7XBLzawR2RkS1DuHq5B%2F2Q%3D%3D
+Matched: data assimilation

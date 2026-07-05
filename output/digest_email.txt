@@ -1,27 +1,19 @@
-Subject: Job Digest - 2026-07-04
+Subject: Job Digest - 2026-07-05
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-07-04 09:26:30 UTC
-  End: 2026-07-04 09:47:45 UTC
-  Runtime: 21m 15s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Georgia
-  Fetched: 552 | Considered: 287 | Matched: 237 | Mailed: 4
+  Start: 2026-07-05 09:44:19 UTC
+  End: 2026-07-05 10:03:51 UTC
+  Runtime: 19m 31s
+  Sources with email jobs: LinkedIn
+  Fetched: 600 | Considered: 305 | Matched: 272 | Mailed: 2
 
-Geospatial Data Scientist | MITRE | McLean, VA
-URL: https://www.glassdoor.com/job-listing/geospatial-data-scientist-mitre-JV_IC1158535_KO0,25_KE26,31.htm?jl=1010080514685
-Score: 7 | Matched: spatial, geospatial
+PIR Weather Analyst with Security Clearance | Altamira Technologies Corporation | Dayton, OH
+URL: https://www.linkedin.com/jobs/view/pir-weather-analyst-with-security-clearance-at-altamira-technologies-corporation-4433319360?position=49&pageNum=0&refId=v4KnDmluHot0MJQDJEhs3g%3D%3D&trackingId=duEWphPUrCk3fzSBnXWwsQ%3D%3D
+Score: 6 | Matched: weather, analyst
 
-Atmospheric Scientist, Calibration Validation Specialist | DeVine Consulting | Monterey, CA
-URL: https://www.glassdoor.com/job-listing/atmospheric-scientist-calibration-validation-specialist-devine-consulting-JV_IC1147261_KO0,55_KE56,73.htm?jl=1010101289139
-Score: 5 | Matched: atmospheric
-
-Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
-URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4436931662?position=48&pageNum=0&refId=XhLTusixGfVezFiCO8tUkg%3D%3D&trackingId=8ko4cAXIU9fqbM1Ukb60EA%3D%3D
-Score: 4 | Matched: meteorology, weather
-
-Operational Review & Internal Audit Manager | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/146007-1/operational-review-internal-audit-manager
-Score: 3 | Matched: operational
+Ocean Modeling & Data Assimilation Researcher | Peraton | Mississippi, United States
+URL: https://www.linkedin.com/jobs/view/ocean-modeling-data-assimilation-researcher-at-peraton-4299625230?position=60&pageNum=0&refId=R2%2B9IHy4nRoxbVCCkwR%2FtQ%3D%3D&trackingId=7XBLzawR2RkS1DuHq5B%2F2Q%3D%3D
+Score: 3 | Matched: data assimilation
