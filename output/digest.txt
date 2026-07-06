@@ -1,16 +1,56 @@
-Job Digest - 2026-07-05
+Job Digest - 2026-07-06
 
 Summary:
-  Start: 2026-07-05 09:44:19 UTC
-  End: 2026-07-05 10:03:51 UTC
-  Runtime: 19m 31s
-  Sources with email jobs: LinkedIn
-  Fetched: 600 | Considered: 305 | Matched: 272 | Mailed: 2
+  Start: 2026-07-06 11:40:19 UTC
+  End: 2026-07-06 11:50:35 UTC
+  Runtime: 10m 15s
+  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Kentucky, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:Montana, StateBoard:Ohio, StateBoard:Pennsylvania, StateBoard:Tennessee, StateBoard:Virginia
+  Fetched: 1363 | Considered: 712 | Matched: 664 | Mailed: 12
 
-PIR Weather Analyst with Security Clearance | Altamira Technologies Corporation | Dayton, OH
-Score: 6 | URL: https://www.linkedin.com/jobs/view/pir-weather-analyst-with-security-clearance-at-altamira-technologies-corporation-4433319360?position=49&pageNum=0&refId=v4KnDmluHot0MJQDJEhs3g%3D%3D&trackingId=duEWphPUrCk3fzSBnXWwsQ%3D%3D
-Matched: weather, analyst
+Departmental Analyst 9-P11 (Utility Security Analyst) | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5290553-0/departmental-analyst-9-p11-utility-security-analyst
+Matched: analyst
 
-Ocean Modeling & Data Assimilation Researcher | Peraton | Mississippi, United States
-Score: 3 | URL: https://www.linkedin.com/jobs/view/ocean-modeling-data-assimilation-researcher-at-peraton-4299625230?position=60&pageNum=0&refId=R2%2B9IHy4nRoxbVCCkwR%2FtQ%3D%3D&trackingId=7XBLzawR2RkS1DuHq5B%2F2Q%3D%3D
-Matched: data assimilation
+Departmental Analyst (Trainee) 9-P11 (Print & Mail Management) | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5396108-0/departmental-analyst-trainee-9-p11-print-mail-management
+Matched: analyst
+
+Business Operations Analyst - Benefits | Ohio | Ohio
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5397558-0/business-operations-analyst-benefits
+Matched: analyst
+
+Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
+Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4437148527?position=50&pageNum=0&refId=m6gvwy8A4de4q0gnYpfgrQ%3D%3D&trackingId=nvNgPckicowZUWb0HycYfg%3D%3D
+Matched: meteorology, weather
+
+ENVIRONMENTAL WATER TECHNICIAN | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5398600-0/environmental-water-technician
+Matched: environmental
+
+Registered Dietitian/Nutritionist/Health Educator 1, 2, or 3 (Sumter County) | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/4787028-0/registered-dietitian-nutritionist-health-educator-1-2-or-3-sumter-county
+Matched: gis
+
+Environmental Compliance Inspector (ECI) | Kentucky | Kentucky
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5397121-0/environmental-compliance-inspector-eci
+Matched: environmental
+
+BIOLOGIST 1-3 | Louisiana | Louisiana
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5397045-0/biologist-1-3
+Matched: gis
+
+GIS Technician | Montana | Montana
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5398448-0/gis-technician
+Matched: gis
+
+Environmental Engineering Trainee | Pennsylvania | Pennsylvania
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5393702-0/environmental-engineering-trainee
+Matched: environmental
+
+Office Supervisor #1151 - Environmental Health Services - Health & Social Services Division | Tennessee | Tennessee
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5397577-0/office-supervisor-1151-environmental-health-services-health-social-service
+Matched: environmental
+
+Senior Engineer (Environmental Engineering) | Virginia | Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5395377-0/senior-engineer-environmental-engineering
+Matched: environmental
