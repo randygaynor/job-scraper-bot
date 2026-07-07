@@ -1,59 +1,79 @@
-Subject: Job Digest - 2026-07-06
+Subject: Job Digest - 2026-07-07
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-07-06 11:40:19 UTC
-  End: 2026-07-06 11:50:35 UTC
-  Runtime: 10m 15s
-  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Kentucky, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:Montana, StateBoard:Ohio, StateBoard:Pennsylvania, StateBoard:Tennessee, StateBoard:Virginia
-  Fetched: 1363 | Considered: 712 | Matched: 664 | Mailed: 12
+  Start: 2026-07-07 10:28:23 UTC
+  End: 2026-07-07 10:30:38 UTC
+  Runtime: 2m 15s
+  Sources with email jobs: LinkedIn, StateBoard:Connecticut, StateBoard:Georgia, StateBoard:Kentucky, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Missouri, StateBoard:Nebraska, StateBoard:New Mexico, StateBoard:North Carolina, StateBoard:Ohio, StateBoard:Pennsylvania, StateBoard:South Carolina, StateBoard:Wisconsin
+  Fetched: 1993 | Considered: 1040 | Matched: 977 | Mailed: 17
 
-Departmental Analyst 9-P11 (Utility Security Analyst) | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5290553-0/departmental-analyst-9-p11-utility-security-analyst
+Risk Manager | Connecticut | Connecticut
+URL: https://www.governmentjobs.com/jobs/146144-1/risk-manager
+Score: 5 | Matched: risk
+
+CRIME INTELLEGENCE ANALYST I | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5399316-0/crime-intellegence-analyst-i
 Score: 5 | Matched: analyst
 
-Departmental Analyst (Trainee) 9-P11 (Print & Mail Management) | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5396108-0/departmental-analyst-trainee-9-p11-print-mail-management
+Health Policy Analyst | Missouri | Missouri
+URL: https://www.governmentjobs.com/jobs/5399988-0/health-policy-analyst
 Score: 5 | Matched: analyst
 
-Business Operations Analyst - Benefits | Ohio | Ohio
-URL: https://www.governmentjobs.com/jobs/5397558-0/business-operations-analyst-benefits
+Public Safety Research Analyst - Juvenile | North Carolina | North Carolina
+URL: https://www.governmentjobs.com/jobs/5397705-0/public-safety-research-analyst-juvenile
+Score: 5 | Matched: analyst
+
+SENIOR COMPUTER PROGRAMMER ANALYST | Ohio | Ohio
+URL: https://www.governmentjobs.com/jobs/5399798-0/senior-computer-programmer-analyst
+Score: 5 | Matched: analyst
+
+Unclaimed Property Claims Analyst | South Carolina | South Carolina
+URL: https://www.governmentjobs.com/jobs/5296194-0/unclaimed-property-claims-analyst
+Score: 5 | Matched: analyst
+
+Institutional Data Analyst | South Carolina | South Carolina
+URL: https://www.governmentjobs.com/jobs/5399420-0/institutional-data-analyst
 Score: 5 | Matched: analyst
 
 Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
-URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4437148527?position=50&pageNum=0&refId=m6gvwy8A4de4q0gnYpfgrQ%3D%3D&trackingId=nvNgPckicowZUWb0HycYfg%3D%3D
+URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4437756047?position=50&pageNum=0&refId=pQpYZkBDdFxwTKleqKIW7g%3D%3D&trackingId=xG4lrz2aEswYtJJ70V73LA%3D%3D
 Score: 4 | Matched: meteorology, weather
 
-ENVIRONMENTAL WATER TECHNICIAN | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5398600-0/environmental-water-technician
+Environmental Health Metrics Specialist | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5399048-0/environmental-health-metrics-specialist
 Score: 3 | Matched: environmental
 
-Registered Dietitian/Nutritionist/Health Educator 1, 2, or 3 (Sumter County) | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/4787028-0/registered-dietitian-nutritionist-health-educator-1-2-or-3-sumter-county
+Environmental Health Specialist Level 1, 2, 3, or 4 | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5398798-0/environmental-health-specialist-level-1-2-3-or-4
+Score: 3 | Matched: environmental
+
+Environmental Health Manager | Kentucky | Kentucky
+URL: https://www.governmentjobs.com/jobs/5374364-0/environmental-health-manager
+Score: 3 | Matched: environmental
+
+Registered Nurse 1, 2, or 3 | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5398982-0/registered-nurse-1-2-or-3
 Score: 3 | Matched: gis
 
-Environmental Compliance Inspector (ECI) | Kentucky | Kentucky
-URL: https://www.governmentjobs.com/jobs/5397121-0/environmental-compliance-inspector-eci
-Score: 3 | Matched: environmental
-
-BIOLOGIST 1-3 | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5397045-0/biologist-1-3
+Police Communications Strategist - Non-Merit | Maryland | Maryland
+URL: https://www.governmentjobs.com/jobs/5393774-0/police-communications-strategist-non-merit
 Score: 3 | Matched: gis
 
-GIS Technician | Montana | Montana
-URL: https://www.governmentjobs.com/jobs/5398448-0/gis-technician
+Registered Nurse | Nebraska | Nebraska
+URL: https://www.governmentjobs.com/jobs/5397291-0/registered-nurse
 Score: 3 | Matched: gis
 
-Environmental Engineering Trainee | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5393702-0/environmental-engineering-trainee
-Score: 3 | Matched: environmental
+Registered Nurse | New Mexico | New Mexico
+URL: https://www.governmentjobs.com/jobs/5399468-0/registered-nurse
+Score: 3 | Matched: gis
 
-Office Supervisor #1151 - Environmental Health Services - Health & Social Services Division | Tennessee | Tennessee
-URL: https://www.governmentjobs.com/jobs/5397577-0/office-supervisor-1151-environmental-health-services-health-social-service
-Score: 3 | Matched: environmental
+Registered Nurse - Gino Merli Veterans' Center (2nd Shift) | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5396167-0/registered-nurse-gino-merli-veterans-center-2nd-shift
+Score: 3 | Matched: gis
 
-Senior Engineer (Environmental Engineering) | Virginia | Virginia
-URL: https://www.governmentjobs.com/jobs/5395377-0/senior-engineer-environmental-engineering
+Instructor, Environmental Health and Water Quality (Part-time) | Wisconsin | Wisconsin
+URL: https://www.governmentjobs.com/jobs/5366178-0/instructor-environmental-health-and-water-quality-part-time
 Score: 3 | Matched: environmental
