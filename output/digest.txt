@@ -1,76 +1,84 @@
-Job Digest - 2026-07-07
+Job Digest - 2026-07-08
 
 Summary:
-  Start: 2026-07-07 10:28:23 UTC
-  End: 2026-07-07 10:30:38 UTC
-  Runtime: 2m 15s
-  Sources with email jobs: LinkedIn, StateBoard:Connecticut, StateBoard:Georgia, StateBoard:Kentucky, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Missouri, StateBoard:Nebraska, StateBoard:New Mexico, StateBoard:North Carolina, StateBoard:Ohio, StateBoard:Pennsylvania, StateBoard:South Carolina, StateBoard:Wisconsin
-  Fetched: 1993 | Considered: 1040 | Matched: 977 | Mailed: 17
+  Start: 2026-07-08 09:28:33 UTC
+  End: 2026-07-08 09:38:50 UTC
+  Runtime: 10m 16s
+  Sources with email jobs: LinkedIn, StateBoard:Michigan, StateBoard:Nevada, StateBoard:North Carolina, StateBoard:Ohio, StateBoard:Pennsylvania, StateBoard:South Carolina, StateBoard:Virginia, StateBoard:Wisconsin
+  Fetched: 1332 | Considered: 697 | Matched: 665 | Mailed: 19
 
-Risk Manager | Connecticut | Connecticut
-Score: 5 | URL: https://www.governmentjobs.com/jobs/146144-1/risk-manager
-Matched: risk
+Assistant State Meteorologist - 31001639 | State of Florida | Tallahassee, FL
+Score: 10 | URL: https://www.linkedin.com/jobs/view/assistant-state-meteorologist-31001639-at-state-of-florida-4437872580?position=6&pageNum=0&refId=ODWXMba1rQXoZMNR0sQxWg%3D%3D&trackingId=rKg9d5u3cFACUuTBknG2Qg%3D%3D
+Matched: gis, meteorologist
 
-CRIME INTELLEGENCE ANALYST I | Georgia | Georgia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5399316-0/crime-intellegence-analyst-i
+Meteorologist | TJ Solutions | United States
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-tj-solutions-4436812284?position=55&pageNum=0&refId=ODWXMba1rQXoZMNR0sQxWg%3D%3D&trackingId=1%2Fq6gHCcFA4Zh%2FP7Yu2Pgg%3D%3D
+Matched: gis, meteorologist
+
+Information Systems Analyst - Utilities GIS | North Carolina | North Carolina
+Score: 7 | URL: https://www.governmentjobs.com/jobs/5398008-0/information-systems-analyst-utilities-gis
+Matched: gis, analyst
+
+Info Tech Programmer/Analyst 9-12 | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5255085-0/info-tech-programmer-analyst-9-12
 Matched: analyst
 
-Health Policy Analyst | Missouri | Missouri
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5399988-0/health-policy-analyst
+MANAGEMENT ANALYST 2 | Nevada | Nevada
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5401870-0/management-analyst-2
 Matched: analyst
 
-Public Safety Research Analyst - Juvenile | North Carolina | North Carolina
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5397705-0/public-safety-research-analyst-juvenile
+MANAGEMENT ANALYST 2 | Nevada | Nevada
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5401604-0/management-analyst-2
 Matched: analyst
 
-SENIOR COMPUTER PROGRAMMER ANALYST | Ohio | Ohio
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5399798-0/senior-computer-programmer-analyst
-Matched: analyst
-
-Unclaimed Property Claims Analyst | South Carolina | South Carolina
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5296194-0/unclaimed-property-claims-analyst
-Matched: analyst
-
-Institutional Data Analyst | South Carolina | South Carolina
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5399420-0/institutional-data-analyst
+Utilities Lab Analyst Seasonal Intern | Ohio | Ohio
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5401243-0/utilities-lab-analyst-seasonal-intern
 Matched: analyst
 
 Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
-Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4437756047?position=50&pageNum=0&refId=pQpYZkBDdFxwTKleqKIW7g%3D%3D&trackingId=xG4lrz2aEswYtJJ70V73LA%3D%3D
+Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4438186104?position=49&pageNum=0&refId=ODWXMba1rQXoZMNR0sQxWg%3D%3D&trackingId=N4TrFsn%2FJrioitA%2B%2BzTqxA%3D%3D
 Matched: meteorology, weather
 
-Environmental Health Metrics Specialist | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5399048-0/environmental-health-metrics-specialist
+Staff Data Scientist, Weather | Waymo | Mountain View, CA
+Score: 4 | URL: https://www.linkedin.com/jobs/view/staff-data-scientist-weather-at-waymo-4436265164?position=10&pageNum=0&refId=XywJ%2FOOuR9kIhs18%2Bw3vzg%3D%3D&trackingId=OFXwA5I%2F7SMPuz%2FP%2BfnT6g%3D%3D
+Matched: weather
+
+Staff Data Scientist, Weather | Waymo | San Francisco, CA
+Score: 4 | URL: https://www.linkedin.com/jobs/view/staff-data-scientist-weather-at-waymo-4436262329?position=11&pageNum=0&refId=XywJ%2FOOuR9kIhs18%2Bw3vzg%3D%3D&trackingId=gNOTp%2FfKL3VjIvpRLr5USQ%3D%3D
+Matched: weather
+
+Applied Meteorology Data Scientist | Southern Company | Alabama, United States
+Score: 4 | URL: https://www.linkedin.com/jobs/view/applied-meteorology-data-scientist-at-southern-company-4437850810?position=21&pageNum=0&refId=XywJ%2FOOuR9kIhs18%2Bw3vzg%3D%3D&trackingId=YRaGSSiawNSPAfSBb1jRxQ%3D%3D
+Matched: meteorology
+
+Applied Meteorology Data Scientist | Southern Company | Birmingham, AL
+Score: 4 | URL: https://www.linkedin.com/jobs/view/applied-meteorology-data-scientist-at-southern-company-4437857576?position=25&pageNum=0&refId=XywJ%2FOOuR9kIhs18%2Bw3vzg%3D%3D&trackingId=PXrOjMiJgy5gywXcQIcuhA%3D%3D
+Matched: meteorology
+
+Climate Science Advisor | NYC Department of Environmental Protection (NYC DEP) | Manhattan, NY
+Score: 4 | URL: https://www.linkedin.com/jobs/view/climate-science-advisor-at-nyc-department-of-environmental-protection-nyc-dep-4417233455?position=58&pageNum=0&refId=XywJ%2FOOuR9kIhs18%2Bw3vzg%3D%3D&trackingId=XZn9Q4Z1jiDGkQ2nPv6Vzg%3D%3D
+Matched: climate, environmental
+
+Toxicology Specialist-2, Environmental Health | Michigan | Michigan
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5400218-0/toxicology-specialist-2-environmental-health
 Matched: environmental
 
-Environmental Health Specialist Level 1, 2, 3, or 4 | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5398798-0/environmental-health-specialist-level-1-2-3-or-4
+Advanced Practice Registered Nurse (Vacancy) | Ohio | Ohio
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5392000-0/advanced-practice-registered-nurse-vacancy
+Matched: gis
+
+Safe Drinking Water Inspector (Environmental Trainee) | Pennsylvania | Pennsylvania
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5398818-0/safe-drinking-water-inspector-environmental-trainee
 Matched: environmental
 
-Environmental Health Manager | Kentucky | Kentucky
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5374364-0/environmental-health-manager
+Registered Nurse, Non-Institutional (Nurse Investigator) / 60018429, 61096625 | South Carolina | South Carolina
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5398742-0/registered-nurse-non-institutional-nurse-investigator-60018429-61096625
+Matched: gis
+
+Senior Environmental Construction Inspector | Virginia | Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5395360-0/senior-environmental-construction-inspector
 Matched: environmental
 
-Registered Nurse 1, 2, or 3 | Louisiana | Louisiana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5398982-0/registered-nurse-1-2-or-3
+Registered Nurse Supervisor | Wisconsin | Wisconsin
+Score: 3 | URL: https://www.governmentjobs.com/jobs/4984060-0/registered-nurse-supervisor
 Matched: gis
-
-Police Communications Strategist - Non-Merit | Maryland | Maryland
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5393774-0/police-communications-strategist-non-merit
-Matched: gis
-
-Registered Nurse | Nebraska | Nebraska
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5397291-0/registered-nurse
-Matched: gis
-
-Registered Nurse | New Mexico | New Mexico
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5399468-0/registered-nurse
-Matched: gis
-
-Registered Nurse - Gino Merli Veterans' Center (2nd Shift) | Pennsylvania | Pennsylvania
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5396167-0/registered-nurse-gino-merli-veterans-center-2nd-shift
-Matched: gis
-
-Instructor, Environmental Health and Water Quality (Part-time) | Wisconsin | Wisconsin
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5366178-0/instructor-environmental-health-and-water-quality-part-time
-Matched: environmental
