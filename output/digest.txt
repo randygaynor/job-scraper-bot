@@ -1,84 +1,48 @@
-Job Digest - 2026-07-08
+Job Digest - 2026-07-09
 
 Summary:
-  Start: 2026-07-08 09:28:33 UTC
-  End: 2026-07-08 09:38:50 UTC
-  Runtime: 10m 16s
-  Sources with email jobs: LinkedIn, StateBoard:Michigan, StateBoard:Nevada, StateBoard:North Carolina, StateBoard:Ohio, StateBoard:Pennsylvania, StateBoard:South Carolina, StateBoard:Virginia, StateBoard:Wisconsin
-  Fetched: 1332 | Considered: 697 | Matched: 665 | Mailed: 19
+  Start: 2026-07-09 10:32:31 UTC
+  End: 2026-07-09 10:42:44 UTC
+  Runtime: 10m 12s
+  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Georgia, StateBoard:Idaho, StateBoard:Louisiana, StateBoard:Wisconsin
+  Fetched: 1342 | Considered: 690 | Matched: 646 | Mailed: 10
 
-Assistant State Meteorologist - 31001639 | State of Florida | Tallahassee, FL
-Score: 10 | URL: https://www.linkedin.com/jobs/view/assistant-state-meteorologist-31001639-at-state-of-florida-4437872580?position=6&pageNum=0&refId=ODWXMba1rQXoZMNR0sQxWg%3D%3D&trackingId=rKg9d5u3cFACUuTBknG2Qg%3D%3D
+Meteorologist | WISN-TV | Milwaukee, WI
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-wisn-tv-4435615509?position=47&pageNum=0&refId=R1K5RaGzKCLBMkVNqET3ZQ%3D%3D&trackingId=p6SssSwIXlGsreY1MoJ1hg%3D%3D
 Matched: gis, meteorologist
 
-Meteorologist | TJ Solutions | United States
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-tj-solutions-4436812284?position=55&pageNum=0&refId=ODWXMba1rQXoZMNR0sQxWg%3D%3D&trackingId=1%2Fq6gHCcFA4Zh%2FP7Yu2Pgg%3D%3D
-Matched: gis, meteorologist
+Climate Scientist Senior – P&C Climate Risk & Exposure Analytics | USAA | San Antonio, TX
+Score: 6 | URL: https://www.linkedin.com/jobs/view/climate-scientist-senior-%E2%80%93-p-c-climate-risk-exposure-analytics-at-usaa-4434886911?position=17&pageNum=0&refId=KiC9lkX1tHWdY8ivqEKkqQ%3D%3D&trackingId=Z6YBC0UelQkaEjsgFacvyg%3D%3D
+Matched: climate, risk
 
-Information Systems Analyst - Utilities GIS | North Carolina | North Carolina
-Score: 7 | URL: https://www.governmentjobs.com/jobs/5398008-0/information-systems-analyst-utilities-gis
-Matched: gis, analyst
+Atmospheric/Ocean Scientist | Everforth ECS | Stennis Space Center, MS
+Score: 5 | URL: https://www.glassdoor.com/job-listing/atmospheric-ocean-scientist-ecs-JV_IC1141332_KO0,27_KE28,31.htm?jl=1010192722827
+Matched: atmospheric
 
-Info Tech Programmer/Analyst 9-12 | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5255085-0/info-tech-programmer-analyst-9-12
-Matched: analyst
-
-MANAGEMENT ANALYST 2 | Nevada | Nevada
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5401870-0/management-analyst-2
-Matched: analyst
-
-MANAGEMENT ANALYST 2 | Nevada | Nevada
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5401604-0/management-analyst-2
-Matched: analyst
-
-Utilities Lab Analyst Seasonal Intern | Ohio | Ohio
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5401243-0/utilities-lab-analyst-seasonal-intern
-Matched: analyst
-
-Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
-Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4438186104?position=49&pageNum=0&refId=ODWXMba1rQXoZMNR0sQxWg%3D%3D&trackingId=N4TrFsn%2FJrioitA%2B%2BzTqxA%3D%3D
-Matched: meteorology, weather
+Environmental Scientist / Research Environmental Scientist | National Oceanic & Atmospheric Administration | Oxford, MD
+Score: 4 | URL: https://www.glassdoor.com/job-listing/environmental-scientist-research-environmental-scientist-national-oceanic-atmospheric-administration-JV_IC1153699_KO0,56_KE57,100.htm?jl=1010192736193
+Matched: atmospheric, environmental
 
 Staff Data Scientist, Weather | Waymo | Mountain View, CA
-Score: 4 | URL: https://www.linkedin.com/jobs/view/staff-data-scientist-weather-at-waymo-4436265164?position=10&pageNum=0&refId=XywJ%2FOOuR9kIhs18%2Bw3vzg%3D%3D&trackingId=OFXwA5I%2F7SMPuz%2FP%2BfnT6g%3D%3D
+Score: 4 | URL: https://www.glassdoor.com/job-listing/staff-data-scientist-weather-waymo-JV_IC1147431_KO0,28_KE29,34.htm?jl=1010191927807
 Matched: weather
 
-Staff Data Scientist, Weather | Waymo | San Francisco, CA
-Score: 4 | URL: https://www.linkedin.com/jobs/view/staff-data-scientist-weather-at-waymo-4436262329?position=11&pageNum=0&refId=XywJ%2FOOuR9kIhs18%2Bw3vzg%3D%3D&trackingId=gNOTp%2FfKL3VjIvpRLr5USQ%3D%3D
-Matched: weather
-
-Applied Meteorology Data Scientist | Southern Company | Alabama, United States
-Score: 4 | URL: https://www.linkedin.com/jobs/view/applied-meteorology-data-scientist-at-southern-company-4437850810?position=21&pageNum=0&refId=XywJ%2FOOuR9kIhs18%2Bw3vzg%3D%3D&trackingId=YRaGSSiawNSPAfSBb1jRxQ%3D%3D
-Matched: meteorology
-
-Applied Meteorology Data Scientist | Southern Company | Birmingham, AL
-Score: 4 | URL: https://www.linkedin.com/jobs/view/applied-meteorology-data-scientist-at-southern-company-4437857576?position=25&pageNum=0&refId=XywJ%2FOOuR9kIhs18%2Bw3vzg%3D%3D&trackingId=PXrOjMiJgy5gywXcQIcuhA%3D%3D
-Matched: meteorology
-
-Climate Science Advisor | NYC Department of Environmental Protection (NYC DEP) | Manhattan, NY
-Score: 4 | URL: https://www.linkedin.com/jobs/view/climate-science-advisor-at-nyc-department-of-environmental-protection-nyc-dep-4417233455?position=58&pageNum=0&refId=XywJ%2FOOuR9kIhs18%2Bw3vzg%3D%3D&trackingId=XZn9Q4Z1jiDGkQ2nPv6Vzg%3D%3D
-Matched: climate, environmental
-
-Toxicology Specialist-2, Environmental Health | Michigan | Michigan
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5400218-0/toxicology-specialist-2-environmental-health
-Matched: environmental
-
-Advanced Practice Registered Nurse (Vacancy) | Ohio | Ohio
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5392000-0/advanced-practice-registered-nurse-vacancy
+Public Health Registered Nurse (Twiggs County) | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5277487-0/public-health-registered-nurse-twiggs-county
 Matched: gis
 
-Safe Drinking Water Inspector (Environmental Trainee) | Pennsylvania | Pennsylvania
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5398818-0/safe-drinking-water-inspector-environmental-trainee
+Environmental Educator | Idaho | Idaho
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5403526-0/environmental-educator
 Matched: environmental
 
-Registered Nurse, Non-Institutional (Nurse Investigator) / 60018429, 61096625 | South Carolina | South Carolina
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5398742-0/registered-nurse-non-institutional-nurse-investigator-60018429-61096625
+Registration Coordinator, Early College Programs | Idaho | Idaho
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5403145-0/registration-coordinator-early-college-programs
 Matched: gis
 
-Senior Environmental Construction Inspector | Virginia | Virginia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5395360-0/senior-environmental-construction-inspector
+REGISTERED NURSE SUPERVISOR A | Louisiana | Louisiana
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5402380-0/registered-nurse-supervisor-a
+Matched: gis
+
+Environmental Director | Wisconsin | Wisconsin
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5402262-0/environmental-director
 Matched: environmental
-
-Registered Nurse Supervisor | Wisconsin | Wisconsin
-Score: 3 | URL: https://www.governmentjobs.com/jobs/4984060-0/registered-nurse-supervisor
-Matched: gis
