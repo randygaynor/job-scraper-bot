@@ -1,48 +1,40 @@
-Job Digest - 2026-07-09
+Job Digest - 2026-07-10
 
 Summary:
-  Start: 2026-07-09 10:32:31 UTC
-  End: 2026-07-09 10:42:44 UTC
-  Runtime: 10m 12s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Georgia, StateBoard:Idaho, StateBoard:Louisiana, StateBoard:Wisconsin
-  Fetched: 1342 | Considered: 690 | Matched: 646 | Mailed: 10
+  Start: 2026-07-10 10:26:07 UTC
+  End: 2026-07-10 10:37:51 UTC
+  Runtime: 11m 44s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Colorado, StateBoard:Kentucky, StateBoard:Massachusetts, StateBoard:North Carolina
+  Fetched: 1183 | Considered: 614 | Matched: 555 | Mailed: 8
 
-Meteorologist | WISN-TV | Milwaukee, WI
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-wisn-tv-4435615509?position=47&pageNum=0&refId=R1K5RaGzKCLBMkVNqET3ZQ%3D%3D&trackingId=p6SssSwIXlGsreY1MoJ1hg%3D%3D
+METEOROLOGIST | Sarkes Tarzian, Inc. | Chattanooga, TN
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-sarkes-tarzian-inc-4437902139?position=6&pageNum=0&refId=kTk1%2BEGdDwDhFLRnQEIkhA%3D%3D&trackingId=0qiOwv3%2BJwyCyit%2FpfsRjA%3D%3D
 Matched: gis, meteorologist
 
-Climate Scientist Senior – P&C Climate Risk & Exposure Analytics | USAA | San Antonio, TX
-Score: 6 | URL: https://www.linkedin.com/jobs/view/climate-scientist-senior-%E2%80%93-p-c-climate-risk-exposure-analytics-at-usaa-4434886911?position=17&pageNum=0&refId=KiC9lkX1tHWdY8ivqEKkqQ%3D%3D&trackingId=Z6YBC0UelQkaEjsgFacvyg%3D%3D
-Matched: climate, risk
+Health Program Analyst | Kentucky | Kentucky
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5381481-0/health-program-analyst
+Matched: analyst
 
-Atmospheric/Ocean Scientist | Everforth ECS | Stennis Space Center, MS
-Score: 5 | URL: https://www.glassdoor.com/job-listing/atmospheric-ocean-scientist-ecs-JV_IC1141332_KO0,27_KE28,31.htm?jl=1010192722827
-Matched: atmospheric
+Junior Budget & Labor Analyst | Massachusetts | Massachusetts
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5402115-0/junior-budget-labor-analyst
+Matched: analyst
 
-Environmental Scientist / Research Environmental Scientist | National Oceanic & Atmospheric Administration | Oxford, MD
-Score: 4 | URL: https://www.glassdoor.com/job-listing/environmental-scientist-research-environmental-scientist-national-oceanic-atmospheric-administration-JV_IC1153699_KO0,56_KE57,100.htm?jl=1010192736193
-Matched: atmospheric, environmental
+LABORATORY ANALYST | North Carolina | North Carolina
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5382589-0/laboratory-analyst
+Matched: analyst
 
-Staff Data Scientist, Weather | Waymo | Mountain View, CA
-Score: 4 | URL: https://www.glassdoor.com/job-listing/staff-data-scientist-weather-waymo-JV_IC1147431_KO0,28_KE29,34.htm?jl=1010191927807
-Matched: weather
+Medical Billing and Coding Analyst (Law Enforcement) | North Carolina | North Carolina
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5400303-0/medical-billing-and-coding-analyst-law-enforcement
+Matched: analyst
 
-Public Health Registered Nurse (Twiggs County) | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5277487-0/public-health-registered-nurse-twiggs-county
+Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
+Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4439020067?position=49&pageNum=0&refId=kTk1%2BEGdDwDhFLRnQEIkhA%3D%3D&trackingId=XsF%2FUjkzijHu0o16F4%2BjfA%3D%3D
+Matched: meteorology, weather
+
+Physician Assistant/Advanced Practice Registered Nurse 1 (PCN 20-7317) | Alaska | Alaska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5405534-0/physician-assistant-advanced-practice-registered-nurse-1-pcn-20-7317
 Matched: gis
 
-Environmental Educator | Idaho | Idaho
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5403526-0/environmental-educator
-Matched: environmental
-
-Registration Coordinator, Early College Programs | Idaho | Idaho
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5403145-0/registration-coordinator-early-college-programs
-Matched: gis
-
-REGISTERED NURSE SUPERVISOR A | Louisiana | Louisiana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5402380-0/registered-nurse-supervisor-a
-Matched: gis
-
-Environmental Director | Wisconsin | Wisconsin
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5402262-0/environmental-director
+Administrative Specialist - Environmental Health Division | Colorado | Colorado
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5402361-0/administrative-specialist-environmental-health-division
 Matched: environmental
