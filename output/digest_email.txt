@@ -1,43 +1,59 @@
-Subject: Job Digest - 2026-07-10
+Subject: Job Digest - 2026-07-11
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-07-10 10:26:07 UTC
-  End: 2026-07-10 10:37:51 UTC
-  Runtime: 11m 44s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Colorado, StateBoard:Kentucky, StateBoard:Massachusetts, StateBoard:North Carolina
-  Fetched: 1183 | Considered: 614 | Matched: 555 | Mailed: 8
+  Start: 2026-07-11 08:50:40 UTC
+  End: 2026-07-11 09:05:06 UTC
+  Runtime: 14m 25s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Idaho, StateBoard:Illinois, StateBoard:Indiana, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Michigan, StateBoard:Minnesota
+  Fetched: 979 | Considered: 502 | Matched: 472 | Mailed: 12
 
-METEOROLOGIST | Sarkes Tarzian, Inc. | Chattanooga, TN
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-sarkes-tarzian-inc-4437902139?position=6&pageNum=0&refId=kTk1%2BEGdDwDhFLRnQEIkhA%3D%3D&trackingId=0qiOwv3%2BJwyCyit%2FpfsRjA%3D%3D
+Meteorologist | VDart Digital | United States
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-vdart-digital-4436612049?position=34&pageNum=0&refId=%2FDsq424YJ%2BuLyzvf2PMv5Q%3D%3D&trackingId=hknqSOO8ShWVUo8M2aKD4Q%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Health Program Analyst | Kentucky | Kentucky
-URL: https://www.governmentjobs.com/jobs/5381481-0/health-program-analyst
+Research Analyst 1/2/3 (PCN 062207) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5381915-0/research-analyst-1-2-3-pcn-062207
 Score: 5 | Matched: analyst
 
-Junior Budget & Labor Analyst | Massachusetts | Massachusetts
-URL: https://www.governmentjobs.com/jobs/5402115-0/junior-budget-labor-analyst
+Revenue Analyst G123 Finance | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5406077-0/revenue-analyst-g123-finance
 Score: 5 | Matched: analyst
 
-LABORATORY ANALYST | North Carolina | North Carolina
-URL: https://www.governmentjobs.com/jobs/5382589-0/laboratory-analyst
+EHS and Risk Specialist | Illinois | Illinois
+URL: https://www.governmentjobs.com/jobs/5406497-0/ehs-and-risk-specialist
+Score: 5 | Matched: risk
+
+Budget Analyst 4 | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5406048-0/budget-analyst-4
 Score: 5 | Matched: analyst
 
-Medical Billing and Coding Analyst (Law Enforcement) | North Carolina | North Carolina
-URL: https://www.governmentjobs.com/jobs/5400303-0/medical-billing-and-coding-analyst-law-enforcement
+Manager, Recruitment and Talent Acquisition - Human Resources Analyst III | Maryland | Maryland
+URL: https://www.governmentjobs.com/jobs/5400620-0/manager-recruitment-and-talent-acquisition-human-resources-analyst-iii
+Score: 5 | Matched: analyst
+
+Departmental Analyst 9-P11 - DVS Compensation/Program Analyst | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5398862-0/departmental-analyst-9-p11-dvs-compensation-program-analyst
+Score: 5 | Matched: analyst
+
+Management Analyst II | Minnesota | Minnesota
+URL: https://www.governmentjobs.com/jobs/5405842-0/management-analyst-ii
 Score: 5 | Matched: analyst
 
 Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
-URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4439020067?position=49&pageNum=0&refId=kTk1%2BEGdDwDhFLRnQEIkhA%3D%3D&trackingId=XsF%2FUjkzijHu0o16F4%2BjfA%3D%3D
+URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4439535603?position=51&pageNum=0&refId=%2FDsq424YJ%2BuLyzvf2PMv5Q%3D%3D&trackingId=e1OEmWDGqyCWKbIr%2BWQ9BQ%3D%3D
 Score: 4 | Matched: meteorology, weather
 
-Physician Assistant/Advanced Practice Registered Nurse 1 (PCN 20-7317) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5405534-0/physician-assistant-advanced-practice-registered-nurse-1-pcn-20-7317
+Registration Specialist, Early College Programs | Idaho | Idaho
+URL: https://www.governmentjobs.com/jobs/5403145-0/registration-specialist-early-college-programs
 Score: 3 | Matched: gis
 
-Administrative Specialist - Environmental Health Division | Colorado | Colorado
-URL: https://www.governmentjobs.com/jobs/5402361-0/administrative-specialist-environmental-health-division
-Score: 3 | Matched: environmental
+Program Coordinator IV - Logistics | Indiana | Indiana
+URL: https://www.governmentjobs.com/jobs/5406043-0/program-coordinator-iv-logistics
+Score: 3 | Matched: gis
+
+REGISTERED NURSE ASSISTANT DIRECTOR OF NURSING A/ADON | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5405852-0/registered-nurse-assistant-director-of-nursing-a-adon
+Score: 3 | Matched: gis
