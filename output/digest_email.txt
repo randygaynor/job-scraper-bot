@@ -1,59 +1,59 @@
-Subject: Job Digest - 2026-07-11
+Subject: Job Digest - 2026-07-12
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-07-11 08:50:40 UTC
-  End: 2026-07-11 09:05:06 UTC
-  Runtime: 14m 25s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Idaho, StateBoard:Illinois, StateBoard:Indiana, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Michigan, StateBoard:Minnesota
-  Fetched: 979 | Considered: 502 | Matched: 472 | Mailed: 12
+  Start: 2026-07-12 09:06:33 UTC
+  End: 2026-07-12 09:12:07 UTC
+  Runtime: 5m 34s
+  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Idaho, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:New Jersey, StateBoard:New Mexico, StateBoard:Pennsylvania, StateBoard:West Virginia
+  Fetched: 1675 | Considered: 877 | Matched: 803 | Mailed: 12
 
-Meteorologist | VDart Digital | United States
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-vdart-digital-4436612049?position=34&pageNum=0&refId=%2FDsq424YJ%2BuLyzvf2PMv5Q%3D%3D&trackingId=hknqSOO8ShWVUo8M2aKD4Q%3D%3D
-Score: 10 | Matched: gis, meteorologist
-
-Research Analyst 1/2/3 (PCN 062207) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5381915-0/research-analyst-1-2-3-pcn-062207
-Score: 5 | Matched: analyst
-
-Revenue Analyst G123 Finance | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5406077-0/revenue-analyst-g123-finance
-Score: 5 | Matched: analyst
-
-EHS and Risk Specialist | Illinois | Illinois
-URL: https://www.governmentjobs.com/jobs/5406497-0/ehs-and-risk-specialist
+Risk and Safety Program Specialist - Temp | Idaho | Idaho
+URL: https://www.governmentjobs.com/jobs/5324389-0/risk-and-safety-program-specialist-temp
 Score: 5 | Matched: risk
 
-Budget Analyst 4 | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5406048-0/budget-analyst-4
+Budget Analyst 1 - 3 | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5405269-0/budget-analyst-1-3
 Score: 5 | Matched: analyst
 
-Manager, Recruitment and Talent Acquisition - Human Resources Analyst III | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5400620-0/manager-recruitment-and-talent-acquisition-human-resources-analyst-iii
+Financial Analyst 9-12 Housing and Homeless Services | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5222567-0/financial-analyst-9-12-housing-and-homeless-services
 Score: 5 | Matched: analyst
 
-Departmental Analyst 9-P11 - DVS Compensation/Program Analyst | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5398862-0/departmental-analyst-9-p11-dvs-compensation-program-analyst
+Departmental Analyst (Trainee) - Corporate Oversight Division (Charitable Trust Section) | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5367739-0/departmental-analyst-trainee-corporate-oversight-division-charitable-trust-s
 Score: 5 | Matched: analyst
 
-Management Analyst II | Minnesota | Minnesota
-URL: https://www.governmentjobs.com/jobs/5405842-0/management-analyst-ii
+Information Technology Analyst 1 | New Jersey | New Jersey
+URL: https://www.governmentjobs.com/jobs/5400266-0/information-technology-analyst-1
+Score: 5 | Matched: analyst
+
+Program Analyst 4 | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5397749-0/program-analyst-4
 Score: 5 | Matched: analyst
 
 Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
-URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4439535603?position=51&pageNum=0&refId=%2FDsq424YJ%2BuLyzvf2PMv5Q%3D%3D&trackingId=e1OEmWDGqyCWKbIr%2BWQ9BQ%3D%3D
+URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4439712527?position=50&pageNum=0&refId=%2BoaQZDZkAsZIeWo8gUg16g%3D%3D&trackingId=RhEq%2FR0BhVqk77VJ6TcVKg%3D%3D
 Score: 4 | Matched: meteorology, weather
 
-Registration Specialist, Early College Programs | Idaho | Idaho
-URL: https://www.governmentjobs.com/jobs/5403145-0/registration-specialist-early-college-programs
-Score: 3 | Matched: gis
+Data Scientist | National Oceanic & Atmospheric Administration | Boulder, CO
+URL: https://www.glassdoor.com/job-listing/data-scientist-national-oceanic-atmospheric-administration-JV_IC1148112_KO0,14_KE15,58.htm?jl=1010194067521
+Score: 4 | Matched: atmospheric
 
-Program Coordinator IV - Logistics | Indiana | Indiana
-URL: https://www.governmentjobs.com/jobs/5406043-0/program-coordinator-iv-logistics
-Score: 3 | Matched: gis
+Staff Data Scientist, Weather | Waymo | San Francisco, CA
+URL: https://www.glassdoor.com/job-listing/staff-data-scientist-weather-waymo-JV_IC1147401_KO0,28_KE29,34.htm?jl=1010191787508
+Score: 4 | Matched: weather
 
-REGISTERED NURSE ASSISTANT DIRECTOR OF NURSING A/ADON | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5405852-0/registered-nurse-assistant-director-of-nursing-a-adon
-Score: 3 | Matched: gis
+Pretreatment Environmental Technician | Idaho | Idaho
+URL: https://www.governmentjobs.com/jobs/5406385-0/pretreatment-environmental-technician
+Score: 3 | Matched: environmental
+
+Emergency Management Director | New Mexico | New Mexico
+URL: https://www.governmentjobs.com/jobs/5406212-0/emergency-management-director
+Score: 3 | Matched: emergency management
+
+Environmental Resources Specialist 2 | West Virginia | West Virginia
+URL: https://www.governmentjobs.com/jobs/5401525-0/environmental-resources-specialist-2
+Score: 3 | Matched: environmental
