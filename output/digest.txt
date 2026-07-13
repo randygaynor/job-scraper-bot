@@ -1,56 +1,12 @@
-Job Digest - 2026-07-12
+Job Digest - 2026-07-13
 
 Summary:
-  Start: 2026-07-12 09:06:33 UTC
-  End: 2026-07-12 09:12:07 UTC
-  Runtime: 5m 34s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Idaho, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:New Jersey, StateBoard:New Mexico, StateBoard:Pennsylvania, StateBoard:West Virginia
-  Fetched: 1675 | Considered: 877 | Matched: 803 | Mailed: 12
-
-Risk and Safety Program Specialist - Temp | Idaho | Idaho
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5324389-0/risk-and-safety-program-specialist-temp
-Matched: risk
-
-Budget Analyst 1 - 3 | Louisiana | Louisiana
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5405269-0/budget-analyst-1-3
-Matched: analyst
-
-Financial Analyst 9-12 Housing and Homeless Services | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5222567-0/financial-analyst-9-12-housing-and-homeless-services
-Matched: analyst
-
-Departmental Analyst (Trainee) - Corporate Oversight Division (Charitable Trust Section) | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5367739-0/departmental-analyst-trainee-corporate-oversight-division-charitable-trust-s
-Matched: analyst
-
-Information Technology Analyst 1 | New Jersey | New Jersey
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5400266-0/information-technology-analyst-1
-Matched: analyst
-
-Program Analyst 4 | Pennsylvania | Pennsylvania
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5397749-0/program-analyst-4
-Matched: analyst
+  Start: 2026-07-13 10:31:09 UTC
+  End: 2026-07-13 10:42:25 UTC
+  Runtime: 11m 15s
+  Sources with email jobs: LinkedIn
+  Fetched: 1259 | Considered: 632 | Matched: 589 | Mailed: 1
 
 Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
-Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4439712527?position=50&pageNum=0&refId=%2BoaQZDZkAsZIeWo8gUg16g%3D%3D&trackingId=RhEq%2FR0BhVqk77VJ6TcVKg%3D%3D
+Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4440000300?position=49&pageNum=0&refId=T66Nhlc5bEheIF%2Ba8Sh8Qw%3D%3D&trackingId=svLeR0RseBCTxA51tejdyA%3D%3D
 Matched: meteorology, weather
-
-Data Scientist | National Oceanic & Atmospheric Administration | Boulder, CO
-Score: 4 | URL: https://www.glassdoor.com/job-listing/data-scientist-national-oceanic-atmospheric-administration-JV_IC1148112_KO0,14_KE15,58.htm?jl=1010194067521
-Matched: atmospheric
-
-Staff Data Scientist, Weather | Waymo | San Francisco, CA
-Score: 4 | URL: https://www.glassdoor.com/job-listing/staff-data-scientist-weather-waymo-JV_IC1147401_KO0,28_KE29,34.htm?jl=1010191787508
-Matched: weather
-
-Pretreatment Environmental Technician | Idaho | Idaho
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5406385-0/pretreatment-environmental-technician
-Matched: environmental
-
-Emergency Management Director | New Mexico | New Mexico
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5406212-0/emergency-management-director
-Matched: emergency management
-
-Environmental Resources Specialist 2 | West Virginia | West Virginia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5401525-0/environmental-resources-specialist-2
-Matched: environmental
