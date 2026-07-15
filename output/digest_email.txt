@@ -1,107 +1,63 @@
-Subject: Job Digest - 2026-07-14
+Subject: Job Digest - 2026-07-15
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-07-14 09:08:07 UTC
-  End: 2026-07-14 09:13:41 UTC
-  Runtime: 5m 33s
-  Sources with email jobs: Glassdoor, LinkedIn, StateBoard:Alaska, StateBoard:Florida, StateBoard:Hawaii, StateBoard:Illinois, StateBoard:Maryland, StateBoard:Montana, StateBoard:Pennsylvania, StateBoard:Virginia
-  Fetched: 1685 | Considered: 884 | Matched: 821 | Mailed: 24
+  Start: 2026-07-15 09:12:01 UTC
+  End: 2026-07-15 09:26:38 UTC
+  Runtime: 14m 36s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Idaho, StateBoard:Illinois, StateBoard:Michigan, StateBoard:Montana, StateBoard:Oregon, StateBoard:Pennsylvania
+  Fetched: 1361 | Considered: 694 | Matched: 666 | Mailed: 13
 
-Morning Meteorologist | WeatherNation | West Palm Beach, FL
-URL: https://www.glassdoor.com/job-listing/morning-meteorologist-weathernation-JV_IC1154182_KO0,21_KE22,35.htm?jl=1010091771922
-Score: 12 | Matched: weather, gis, meteorologist
-
-Meteorologist Data Engineer | sevenhillsgrouptech | Remote
-URL: https://www.glassdoor.com/job-listing/meteorologist-data-engineer-sevenhillsgrouptech-JV_KO0,27_KE28,47.htm?jl=1010194219473
-Score: 11 | Matched: gis, meteorologist
-
-Meteorologist - WFXT TV | Cox Media Group | Dedham, MA
-URL: https://www.glassdoor.com/job-listing/meteorologist-wfxt-tv-cox-media-group-JV_IC1154556_KO0,21_KE22,37.htm?jl=1010051983825
+Meteorologist | The Dallas Morning News | Dallas, TX
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-the-dallas-morning-news-4438022582?position=19&pageNum=0&refId=tpdW7m0MSl1h55%2BBcdUSvA%3D%3D&trackingId=Pv2ClBEn%2FeLDMFR5wXtWbQ%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Meteorologist - Temporary | Univision | Los Angeles, CA
-URL: https://www.glassdoor.com/job-listing/meteorologist-temporary-univision-JV_IC1146821_KO0,23_KE24,33.htm?jl=1010139611852
-Score: 10 | Matched: gis, meteorologist
-
-Meteorologist - Oahu | Hawaiian Electric Company | Honolulu, HI
-URL: https://www.glassdoor.com/job-listing/meteorologist-oahu-hawaiian-electric-company-JV_IC1140656_KO0,18_KE19,44.htm?jl=1009949678196
-Score: 10 | Matched: gis, meteorologist
-
-Meteorologist | Portland General Electric | Tualatin, OR
-URL: https://www.glassdoor.com/job-listing/meteorologist-portland-general-electric-JV_IC1151624_KO0,13_KE14,39.htm?jl=1010150915653
-Score: 10 | Matched: gis, meteorologist
-
-Meteorologist | The South Bend Clinic | South Bend, IN
-URL: https://www.glassdoor.com/job-listing/meteorologist-the-south-bend-clinic-JV_IC1145268_KO0,13_KE14,35.htm?jl=1010126810373
-Score: 10 | Matched: gis, meteorologist
-
-Meteorologist (Full-time) | WHIZ Media Group | Zanesville, OH
-URL: https://www.glassdoor.com/job-listing/meteorologist-full-time-whiz-media-group-JV_IC1146423_KO0,23_KE24,40.htm?jl=1010098536308
-Score: 10 | Matched: gis, meteorologist
-
-Meteorologist | TDS Telecommunications | Bend, OR
-URL: https://www.glassdoor.com/job-listing/meteorologist-tds-telecommunications-JV_IC1151424_KO0,13_KE14,36.htm?jl=1010172326181
-Score: 10 | Matched: gis, meteorologist
-
-Meteorologist (Producer) | ABC News | New York, NY
-URL: https://www.glassdoor.com/job-listing/meteorologist-producer-abc-news-JV_IC1132348_KO0,22_KE23,31.htm?jl=1010188031141
-Score: 10 | Matched: gis, meteorologist
-
-Weather Forecaster I - US Air Force Academy | Akima | Colorado Springs, CO
-URL: https://www.linkedin.com/jobs/view/weather-forecaster-i-us-air-force-academy-at-akima-4436236128?position=16&pageNum=0&refId=93yXggSNsXQy9IY7iYlwJQ%3D%3D&trackingId=SdkNf%2Bj8XG4eZdMbJ%2Fyo8w%3D%3D
+Weather Forecaster, Mid | Booz Allen Hamilton | Beale Air Force Base, CA
+URL: https://www.linkedin.com/jobs/view/weather-forecaster-mid-at-booz-allen-hamilton-4440888396?position=28&pageNum=0&refId=tpdW7m0MSl1h55%2BBcdUSvA%3D%3D&trackingId=A9t9qDPGTKMI2Kp5XIwgcw%3D%3D
 Score: 9 | Matched: weather, forecast, forecaster
 
-Weather Forecaster I - US Air Force Academy with Security Clearance | Akima Infrastructure Services | Colorado Springs, CO
-URL: https://www.linkedin.com/jobs/view/weather-forecaster-i-us-air-force-academy-with-security-clearance-at-akima-infrastructure-services-4440028641?position=29&pageNum=0&refId=93yXggSNsXQy9IY7iYlwJQ%3D%3D&trackingId=gOdESk9rjAz79oNIcbqqWQ%3D%3D
-Score: 9 | Matched: weather, forecast, forecaster
-
-Weather Forecaster | B3H Corp | Air Force Academy
-URL: https://www.glassdoor.com/job-listing/weather-forecaster-b3h-corp-JV_IC5022132_KO0,18_KE19,27.htm?jl=1010186392586
-Score: 9 | Matched: weather, forecast, forecaster
-
-Weather Forecaster | Vets Hired | Carolina, PR
-URL: https://www.glassdoor.com/job-listing/weather-forecaster-vets-hired-JV_IC1141566_KO0,18_KE19,29.htm?jl=1010188331940
-Score: 9 | Matched: weather, forecast, forecaster
-
-PIR Weather Analyst | Altamira Technologies | Fairborn, OH
-URL: https://www.glassdoor.com/job-listing/pir-weather-analyst-altamira-technologies-JV_IC1145941_KO0,19_KE20,41.htm?jl=1010163269929
-Score: 6 | Matched: weather, analyst
-
-Senior Budget Analyst - FEMA Grants | Florida | Florida
-URL: https://www.governmentjobs.com/jobs/5403855-0/senior-budget-analyst-fema-grants
+Business Analyst | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5409773-0/business-analyst
 Score: 5 | Matched: analyst
 
-Senior EHS and Risk Specialist | Illinois | Illinois
-URL: https://www.governmentjobs.com/jobs/5406576-0/senior-ehs-and-risk-specialist
-Score: 5 | Matched: risk
-
-Budget Management Analyst | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5407362-0/budget-management-analyst
+Performance Analyst Lead | Idaho | Idaho
+URL: https://www.governmentjobs.com/jobs/5410472-0/performance-analyst-lead
 Score: 5 | Matched: analyst
 
-Cybersecurity Analyst | Montana | Montana
-URL: https://www.governmentjobs.com/jobs/5408399-0/cybersecurity-analyst
+Departmental Analyst 9-P11 | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5306768-0/departmental-analyst-9-p11
 Score: 5 | Matched: analyst
 
-Administrative Analyst | Virginia | Virginia
-URL: https://www.governmentjobs.com/jobs/5402854-0/administrative-analyst
+Financial Analyst (Trainee) 9-P11 | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5405294-0/financial-analyst-trainee-9-p11
 Score: 5 | Matched: analyst
 
-Administrative Analyst - Office of the Chief | Virginia | Virginia
-URL: https://www.governmentjobs.com/jobs/5401363-0/administrative-analyst-office-of-the-chief
+Public Safety Crime Analyst/Records Clerk | Montana | Montana
+URL: https://www.governmentjobs.com/jobs/146371-1/public-safety-crime-analyst-records-clerk
 Score: 5 | Matched: analyst
 
-Environmental Compliance Technician - Point Lay | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5405536-0/environmental-compliance-technician-point-lay
-Score: 3 | Matched: environmental
+Grant/Contracts Compliance Analyst | Oregon | Oregon
+URL: https://www.governmentjobs.com/jobs/5406607-0/grant-contracts-compliance-analyst
+Score: 5 | Matched: analyst
 
-REGISTERED NURSE V (PUBLIC HEALTH) DEPARTMENT OF CORRECTIONS AND REHABILITATION - OAHU | Hawaii | Hawaii
-URL: https://www.governmentjobs.com/jobs/5390356-0/registered-nurse-v-public-health-department-of-corrections-and-rehabilitation
+Operations & Emergency Management Captain | Illinois | Illinois
+URL: https://www.governmentjobs.com/jobs/5409663-0/operations-emergency-management-captain
+Score: 3 | Matched: emergency management
+
+Psychologist 9-P11 CFP | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5409520-0/psychologist-9-p11-cfp
 Score: 3 | Matched: gis
 
-Environmental Engineering Specialist | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5398673-0/environmental-engineering-specialist
+Registered Nurse - Detention Center | Montana | Montana
+URL: https://www.governmentjobs.com/jobs/5409130-0/registered-nurse-detention-center
+Score: 3 | Matched: gis
+
+Environmental Health Specialist or Sanitarian in Training | Montana | Montana
+URL: https://www.governmentjobs.com/jobs/5401732-0/environmental-health-specialist-or-sanitarian-in-training
 Score: 3 | Matched: environmental
+
+Registered Nurse - SCI Coal Township | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5408013-0/registered-nurse-sci-coal-township
+Score: 3 | Matched: gis
