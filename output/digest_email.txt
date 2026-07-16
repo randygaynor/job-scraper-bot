@@ -1,63 +1,23 @@
-Subject: Job Digest - 2026-07-15
+Subject: Job Digest - 2026-07-16
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-07-15 09:12:01 UTC
-  End: 2026-07-15 09:26:38 UTC
-  Runtime: 14m 36s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Idaho, StateBoard:Illinois, StateBoard:Michigan, StateBoard:Montana, StateBoard:Oregon, StateBoard:Pennsylvania
-  Fetched: 1361 | Considered: 694 | Matched: 666 | Mailed: 13
+  Start: 2026-07-16 09:18:52 UTC
+  End: 2026-07-16 09:39:51 UTC
+  Runtime: 20m 59s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia
+  Fetched: 487 | Considered: 264 | Matched: 205 | Mailed: 3
 
-Meteorologist | The Dallas Morning News | Dallas, TX
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-the-dallas-morning-news-4438022582?position=19&pageNum=0&refId=tpdW7m0MSl1h55%2BBcdUSvA%3D%3D&trackingId=Pv2ClBEn%2FeLDMFR5wXtWbQ%3D%3D
+Meteorologist - On-Call | American Public Media Group | St Paul, MN
+URL: https://www.linkedin.com/jobs/view/meteorologist-on-call-at-american-public-media-group-4440573615?position=11&pageNum=0&refId=1V5Sx5WeMAEK%2FtFglaDECw%3D%3D&trackingId=B8I7Fl21aLGC79LJx5Iu8w%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Weather Forecaster, Mid | Booz Allen Hamilton | Beale Air Force Base, CA
-URL: https://www.linkedin.com/jobs/view/weather-forecaster-mid-at-booz-allen-hamilton-4440888396?position=28&pageNum=0&refId=tpdW7m0MSl1h55%2BBcdUSvA%3D%3D&trackingId=A9t9qDPGTKMI2Kp5XIwgcw%3D%3D
-Score: 9 | Matched: weather, forecast, forecaster
-
-Business Analyst | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5409773-0/business-analyst
+MANAGEMENT POLICY ANALYST II | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5412369-0/management-policy-analyst-ii
 Score: 5 | Matched: analyst
 
-Performance Analyst Lead | Idaho | Idaho
-URL: https://www.governmentjobs.com/jobs/5410472-0/performance-analyst-lead
-Score: 5 | Matched: analyst
-
-Departmental Analyst 9-P11 | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5306768-0/departmental-analyst-9-p11
-Score: 5 | Matched: analyst
-
-Financial Analyst (Trainee) 9-P11 | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5405294-0/financial-analyst-trainee-9-p11
-Score: 5 | Matched: analyst
-
-Public Safety Crime Analyst/Records Clerk | Montana | Montana
-URL: https://www.governmentjobs.com/jobs/146371-1/public-safety-crime-analyst-records-clerk
-Score: 5 | Matched: analyst
-
-Grant/Contracts Compliance Analyst | Oregon | Oregon
-URL: https://www.governmentjobs.com/jobs/5406607-0/grant-contracts-compliance-analyst
-Score: 5 | Matched: analyst
-
-Operations & Emergency Management Captain | Illinois | Illinois
-URL: https://www.governmentjobs.com/jobs/5409663-0/operations-emergency-management-captain
-Score: 3 | Matched: emergency management
-
-Psychologist 9-P11 CFP | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5409520-0/psychologist-9-p11-cfp
-Score: 3 | Matched: gis
-
-Registered Nurse - Detention Center | Montana | Montana
-URL: https://www.governmentjobs.com/jobs/5409130-0/registered-nurse-detention-center
-Score: 3 | Matched: gis
-
-Environmental Health Specialist or Sanitarian in Training | Montana | Montana
-URL: https://www.governmentjobs.com/jobs/5401732-0/environmental-health-specialist-or-sanitarian-in-training
-Score: 3 | Matched: environmental
-
-Registered Nurse - SCI Coal Township | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5408013-0/registered-nurse-sci-coal-township
-Score: 3 | Matched: gis
+Bridge Drafting / Geo-Spatial Engineering Assistant 1/2/3 Flex (PCN 250212) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5365251-0/bridge-drafting-geo-spatial-engineering-assistant-1-2-3-flex-pcn-250212
+Score: 4 | Matched: spatial
