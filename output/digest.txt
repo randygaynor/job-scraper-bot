@@ -1,24 +1,48 @@
-Job Digest - 2026-07-17
+Job Digest - 2026-07-18
 
 Summary:
-  Start: 2026-07-17 09:12:38 UTC
-  End: 2026-07-17 09:33:09 UTC
-  Runtime: 20m 30s
-  Sources with email jobs: LinkedIn, StateBoard:Colorado, StateBoard:Connecticut, StateBoard:Hawaii
-  Fetched: 525 | Considered: 263 | Matched: 232 | Mailed: 4
+  Start: 2026-07-18 08:51:32 UTC
+  End: 2026-07-18 09:03:58 UTC
+  Runtime: 12m 26s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Idaho, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Massachusetts, StateBoard:Michigan
+  Fetched: 1127 | Considered: 570 | Matched: 540 | Mailed: 10
 
-GIS Analyst | Connecticut | Connecticut
-Score: 7 | URL: https://www.governmentjobs.com/jobs/5412527-0/gis-analyst
-Matched: gis, analyst
+Meteorologist | GreenArrow | Snoqualmie, WA
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-greenarrow-4439261542?position=3&pageNum=0&refId=%2FXfkubP%2BcONXXWToupnbOA%3D%3D&trackingId=2I9dTxxkY%2BnfRQwwRrbUIg%3D%3D
+Matched: gis, meteorologist
 
-Atmospheric Chemist | University of Colorado Boulder | Boulder, CO
-Score: 5 | URL: https://www.linkedin.com/jobs/view/atmospheric-chemist-at-university-of-colorado-boulder-4441255259?position=28&pageNum=0&refId=C0OMXBAfmoPPt5FM4gkaeA%3D%3D&trackingId=QGdCiYVwwuk62RjL2rNRlg%3D%3D
-Matched: atmospheric
+Associate Meteorologist | AEM | Hackettstown, NJ
+Score: 10 | URL: https://www.linkedin.com/jobs/view/associate-meteorologist-at-aem-4442422116?position=29&pageNum=0&refId=%2FXfkubP%2BcONXXWToupnbOA%3D%3D&trackingId=wSi1vBgT6rypa3ZeliAE0g%3D%3D
+Matched: gis, meteorologist
 
-Budget Analyst | Colorado | Colorado
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5412737-0/budget-analyst
+Research Analyst 3 (Medicaid Research Analyst - PCN 061518) | Alaska | Alaska
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5408660-0/research-analyst-3-medicaid-research-analyst-pcn-061518
 Matched: analyst
 
-MANAGEMENT ANALYST V - OAHU  (OHHI) | Hawaii | Hawaii
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5408310-0/management-analyst-v-oahu-ohhi
+Insight Analyst- Fire | Idaho | Idaho
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5414766-0/insight-analyst-fire
 Matched: analyst
+
+Senior Human Resources Analyst | Maryland | Maryland
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5413950-0/senior-human-resources-analyst
+Matched: analyst
+
+Senior Budget & Labor Analyst, Operating Budget | Massachusetts | Massachusetts
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5392769-0/senior-budget-labor-analyst-operating-budget
+Matched: analyst
+
+Departmental Analyst 9-P11 - HS Medicaid and Aging Supports Section | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5411645-0/departmental-analyst-9-p11-hs-medicaid-and-aging-supports-section
+Matched: analyst
+
+Environmental Programs Coordinator | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5411898-0/environmental-programs-coordinator
+Matched: environmental
+
+Registered Nurse Supervisor A (Nights) | Louisiana | Louisiana
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5414225-0/registered-nurse-supervisor-a-nights
+Matched: gis
+
+OHIS Unit Manager, Epidemiologist Manager-3 | Michigan | Michigan
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5400308-0/ohis-unit-manager-epidemiologist-manager-3
+Matched: gis
