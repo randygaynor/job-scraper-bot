@@ -1,60 +1,32 @@
-Job Digest - 2026-07-19
+Job Digest - 2026-07-20
 
 Summary:
-  Start: 2026-07-19 09:07:45 UTC
-  End: 2026-07-19 09:13:46 UTC
-  Runtime: 6m 1s
-  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Louisiana, StateBoard:Nevada, StateBoard:New Hampshire, StateBoard:New Mexico, StateBoard:Pennsylvania, StateBoard:South Carolina
-  Fetched: 1628 | Considered: 840 | Matched: 809 | Mailed: 13
+  Start: 2026-07-20 10:16:15 UTC
+  End: 2026-07-20 10:19:49 UTC
+  Runtime: 3m 33s
+  Sources with email jobs: StateBoard:Kentucky, StateBoard:Maryland, StateBoard:Michigan, StateBoard:Pennsylvania, StateBoard:South Carolina
+  Fetched: 1820 | Considered: 929 | Matched: 897 | Mailed: 6
 
-Meteorologist - Full Time | RG&T Solutions | Joplin, MO
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-full-time-at-rg-t-solutions-4441701669?position=5&pageNum=0&refId=8Q7OKA1nuMu%2Bb49bBbZT%2Fg%3D%3D&trackingId=oVvdcEvBY1OflRcH9Fl%2FiA%3D%3D
-Matched: gis, meteorologist
-
-Research Assistant in Meteorol -Tropical Cyclones and Climate Dynamics | Penn State University | University Park, PA
-Score: 7 | URL: https://www.linkedin.com/jobs/view/research-assistant-in-meteorol-tropical-cyclones-and-climate-dynamics-at-penn-state-university-4441330216?position=32&pageNum=0&refId=8Q7OKA1nuMu%2Bb49bBbZT%2Fg%3D%3D&trackingId=sH6LWzNUYCjfxfN06yBJSA%3D%3D
-Matched: tropical, climate
-
-Part-time Research Assistant in Meteorology - Tropical Cyclone Modeling and Data Analysis | Penn State University | University Park, PA
-Score: 7 | URL: https://www.linkedin.com/jobs/view/part-time-research-assistant-in-meteorology-tropical-cyclone-modeling-and-data-analysis-at-penn-state-university-4441331130?position=56&pageNum=0&refId=8Q7OKA1nuMu%2Bb49bBbZT%2Fg%3D%3D&trackingId=PjoPwfWUdvfan0sVss7Qag%3D%3D
-Matched: meteorology, tropical
-
-Business Support Analyst 3 | Georgia | Georgia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5414952-0/business-support-analyst-3
+Revenue Systems Analyst | Kentucky | Kentucky
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5414311-0/revenue-systems-analyst
 Matched: analyst
 
-Revenue Tax Analyst 1/2 | Louisiana | Louisiana
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5413497-0/revenue-tax-analyst-1-2
+Budget Management Analyst | Maryland | Maryland
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5414251-0/budget-management-analyst
 Matched: analyst
 
-Social Services Analyst 1/2/3 (Child Support Enforcement - Baton Rouge Region) | Louisiana | Louisiana
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5411751-0/social-services-analyst-1-2-3-child-support-enforcement-baton-rouge-region
+IT Security Analyst 9-12 | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5412824-0/it-security-analyst-9-12
 Matched: analyst
 
-HUMAN RESOURCES ANALYST 1 | Nevada | Nevada
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5415296-0/human-resources-analyst-1
+Human Resource Analyst 2 | Pennsylvania | Pennsylvania
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5413626-0/human-resource-analyst-2
 Matched: analyst
 
-EXECUTIVE GRANT ANALYST ( UNCLASSIFIED) | Nevada | Nevada
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5414417-0/executive-grant-analyst-unclassified
-Matched: analyst
-
-Legal Analyst, OGC | Pennsylvania | Pennsylvania
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5409610-0/legal-analyst-ogc
-Matched: analyst
-
-25-114: Satellite Remote Sensing Specialist for Weather Research Applications | Top 2 Percent Scientists | Greater Fort Collins Area
-Score: 3 | URL: https://www.linkedin.com/jobs/view/25-114-satellite-remote-sensing-specialist-for-weather-research-applications-at-top-2-percent-scientists-4438494375?position=14&pageNum=0&refId=8Q7OKA1nuMu%2Bb49bBbZT%2Fg%3D%3D&trackingId=4iPN1059n8Ny9Oq18hFnKg%3D%3D
-Matched: weather
-
-Deputy Director of Public Works  - Environmental | New Hampshire | New Hampshire
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5410065-0/deputy-director-of-public-works-environmental
+Water Quality Specialist Trainee (Environmental Trainee) | Pennsylvania | Pennsylvania
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5410927-0/water-quality-specialist-trainee-environmental-trainee
 Matched: environmental
 
-Registered Nurse | New Mexico | New Mexico
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5411292-0/registered-nurse
-Matched: gis
-
-Registrar and Enrollment Specialist (SSPC II) #2696 | South Carolina | South Carolina
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5298489-0/registrar-and-enrollment-specialist-sspc-ii-2696
+Registered Nurse, Non-Institutional / 60016154 | South Carolina | South Carolina
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5412836-0/registered-nurse-non-institutional-60016154
 Matched: gis
