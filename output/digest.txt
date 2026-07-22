@@ -1,80 +1,16 @@
-Job Digest - 2026-07-21
+Job Digest - 2026-07-22
 
 Summary:
-  Start: 2026-07-21 09:31:01 UTC
-  End: 2026-07-21 09:36:35 UTC
-  Runtime: 5m 33s
-  Sources with email jobs: LinkedIn, StateBoard:Connecticut, StateBoard:Illinois, StateBoard:Kansas, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Michigan, StateBoard:New Jersey, StateBoard:Pennsylvania, StateBoard:Virginia
-  Fetched: 1669 | Considered: 863 | Matched: 832 | Mailed: 18
+  Start: 2026-07-22 09:30:04 UTC
+  End: 2026-07-22 09:50:05 UTC
+  Runtime: 20m 1s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska
+  Fetched: 565 | Considered: 305 | Matched: 246 | Mailed: 2
 
-Weather & Climatology Analyst, Global Security Intelligence | Amazon | Herndon, VA
-Score: 6 | URL: https://www.linkedin.com/jobs/view/weather-climatology-analyst-global-security-intelligence-at-amazon-4443047543?position=41&pageNum=0&refId=6TTlCk5vayvRQ8mXxY8t1A%3D%3D&trackingId=wRXS0C7VPqZnvTOSayOolQ%3D%3D
-Matched: weather, analyst
-
-Assessment Analyst | Connecticut | Connecticut
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5382234-0/assessment-analyst
+Research Analyst 3 (PCN 25N23017) | Alaska | Alaska
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5413926-0/research-analyst-3-pcn-25n23017
 Matched: analyst
 
-Application Analyst | Kansas | Kansas
-Score: 5 | URL: https://www.governmentjobs.com/jobs/4008576-0/application-analyst
-Matched: analyst
-
-Revenue Tax Analyst 1 or 2 | Louisiana | Louisiana
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5415254-0/revenue-tax-analyst-1-or-2
-Matched: analyst
-
-Social Services Analyst 1/2/3 (Shreveport Child Support Enforcement) | Louisiana | Louisiana
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5415203-0/social-services-analyst-1-2-3-shreveport-child-support-enforcement
-Matched: analyst
-
-Human Resources Analyst II - Trainer | Maryland | Maryland
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5416252-0/human-resources-analyst-ii-trainer
-Matched: analyst
-
-Departmental Analyst 12 - Clinical Support, Navigation, and Coordination Analyst - BCCHPS | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5416046-0/departmental-analyst-12-clinical-support-navigation-and-coordination-analyst
-Matched: analyst
-
-Departmental Analyst 12 - HS Behavioral Health Financial Supports Section | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5378802-0/departmental-analyst-12-hs-behavioral-health-financial-supports-section
-Matched: analyst
-
-Departmental Analyst 12 - Home Visiting Program Analyst | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5416039-0/departmental-analyst-12-home-visiting-program-analyst
-Matched: analyst
-
-Departmental Analyst 12 - Adult IRH Analyst - HS Intensive Residential Habilitation (IRH) Section | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5415857-0/departmental-analyst-12-adult-irh-analyst-hs-intensive-residential-habilitati
-Matched: analyst
-
-Departmental Analyst (Trainee) 9-P11/12 (Senior Field Compliance) Metro Region | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5414812-0/departmental-analyst-trainee-9-p11-12-senior-field-compliance-metro-region
-Matched: analyst
-
-Registered Environmental Health Specialist | New Jersey | New Jersey
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5187215-0/registered-environmental-health-specialist
-Matched: gis, environmental
-
-Human Services Analyst | Pennsylvania | Pennsylvania
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5412383-0/human-services-analyst
-Matched: analyst
-
-Human Resource Analyst 2 | Pennsylvania | Pennsylvania
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5414576-0/human-resource-analyst-2
-Matched: analyst
-
-Financial Systems Analyst | Virginia | Virginia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5411059-0/financial-systems-analyst
-Matched: analyst
-
-Staff Psychologist - Lake County, IL | Illinois | Illinois
-Score: 3 | URL: https://www.governmentjobs.com/jobs/146998-1/staff-psychologist-lake-county-il
-Matched: gis
-
-Environmental Protection Compliance Specialist | Pennsylvania | Pennsylvania
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5415820-0/environmental-protection-compliance-specialist
-Matched: environmental
-
-Emergency Management Specialist | Pennsylvania | Pennsylvania
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5413006-0/emergency-management-specialist
-Matched: emergency management
+Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
+Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4443764281?position=54&pageNum=0&refId=EMY%2Bw%2FwKhQlSbODLkoRbRQ%3D%3D&trackingId=Q0ziolG35BM%2B1LL9Z2jq7A%3D%3D
+Matched: meteorology, weather
