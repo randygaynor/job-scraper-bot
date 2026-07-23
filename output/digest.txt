@@ -1,16 +1,56 @@
-Job Digest - 2026-07-22
+Job Digest - 2026-07-23
 
 Summary:
-  Start: 2026-07-22 09:30:04 UTC
-  End: 2026-07-22 09:50:05 UTC
-  Runtime: 20m 1s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska
-  Fetched: 565 | Considered: 305 | Matched: 246 | Mailed: 2
+  Start: 2026-07-23 09:27:19 UTC
+  End: 2026-07-23 09:41:08 UTC
+  Runtime: 13m 48s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Colorado, StateBoard:Illinois, StateBoard:Michigan
+  Fetched: 1056 | Considered: 560 | Matched: 503 | Mailed: 12
 
-Research Analyst 3 (PCN 25N23017) | Alaska | Alaska
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5413926-0/research-analyst-3-pcn-25n23017
+Air Pollution Meteorologist 1 / Trainee 1 / 2 - NY HELPS | NYS Department of Environmental Conservation | Albany, NY
+Score: 12 | URL: https://www.linkedin.com/jobs/view/air-pollution-meteorologist-1-trainee-1-2-ny-helps-at-nys-department-of-environmental-conservation-4443503804?position=42&pageNum=0&refId=dJQCgi185gHZfuYu4K72cQ%3D%3D&trackingId=l19a1TiFocXUCj6wJxYV8w%3D%3D
+Matched: gis, environmental, meteorologist
+
+Meteorologist, Other Locations | Marine Resource Management Program - Oregon State University | Frankfort, KY
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-other-locations-at-marine-resource-management-program-oregon-state-university-4443190037?position=11&pageNum=0&refId=dJQCgi185gHZfuYu4K72cQ%3D%3D&trackingId=QYBRT9c7vg46stxMe6GKYw%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist, Eastern US | Marine Resource Management Program - Oregon State University | Frankfort, KY
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-eastern-us-at-marine-resource-management-program-oregon-state-university-4443180412?position=28&pageNum=0&refId=dJQCgi185gHZfuYu4K72cQ%3D%3D&trackingId=TDJMC32wIXqRxbRRFIZBkg%3D%3D
+Matched: gis, meteorologist
+
+Meteorologist, Western US | Marine Resource Management Program - Oregon State University | Frankfort, KY
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-western-us-at-marine-resource-management-program-oregon-state-university-4443169861?position=39&pageNum=0&refId=dJQCgi185gHZfuYu4K72cQ%3D%3D&trackingId=BwrqMEIZmN379AO3wITcEA%3D%3D
+Matched: gis, meteorologist
+
+Planning & GIS Analyst | Colorado | Colorado
+Score: 7 | URL: https://www.governmentjobs.com/jobs/5420688-0/planning-gis-analyst
+Matched: gis, analyst
+
+RECORDS SPECIALIST (Personnel Analyst I) - Range 12 / NON | Alaska | Alaska
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5420364-0/records-specialist-personnel-analyst-i-range-12-non
 Matched: analyst
 
-Technical Officer Space Weather | Bureau of Meteorology | Washington, United States
-Score: 4 | URL: https://www.linkedin.com/jobs/view/technical-officer-space-weather-at-bureau-of-meteorology-4443764281?position=54&pageNum=0&refId=EMY%2Bw%2FwKhQlSbODLkoRbRQ%3D%3D&trackingId=Q0ziolG35BM%2B1LL9Z2jq7A%3D%3D
-Matched: meteorology, weather
+Healthcare Informatics Analyst | Illinois | Illinois
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5371187-0/healthcare-informatics-analyst
+Matched: analyst
+
+Departmental Analyst 9-P11 | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5417587-0/departmental-analyst-9-p11
+Matched: analyst
+
+Departmental Analyst 9-12 - External Affairs & Responsible Gaming Support | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5313959-0/departmental-analyst-9-12-external-affairs-responsible-gaming-support
+Matched: analyst
+
+Departmental Analyst 12 - Public Health Analyst- Policy and Planning Bureau LTA | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5329841-0/departmental-analyst-12-public-health-analyst-policy-and-planning-bureau-lta
+Matched: analyst
+
+Wildlife Biologist 1 (PCN 112266) | Alaska | Alaska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5416314-0/wildlife-biologist-1-pcn-112266
+Matched: gis
+
+Registered Nurse Manager 13 | Michigan | Michigan
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5420162-0/registered-nurse-manager-13
+Matched: gis
