@@ -1,107 +1,75 @@
-Subject: Job Digest - 2026-07-24
+Subject: Job Digest - 2026-07-25
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-07-24 09:23:50 UTC
-  End: 2026-07-24 09:28:24 UTC
-  Runtime: 4m 33s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Idaho, StateBoard:Kentucky, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Michigan, StateBoard:Missouri, StateBoard:Nebraska, StateBoard:Nevada, StateBoard:Pennsylvania, StateBoard:South Dakota, StateBoard:Utah, StateBoard:Wisconsin
-  Fetched: 1729 | Considered: 908 | Matched: 848 | Mailed: 24
+  Start: 2026-07-25 09:02:44 UTC
+  End: 2026-07-25 09:12:59 UTC
+  Runtime: 10m 15s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Idaho, StateBoard:Iowa, StateBoard:Nevada, StateBoard:New York, StateBoard:Virginia, StateBoard:West Virginia
+  Fetched: 1317 | Considered: 691 | Matched: 633 | Mailed: 16
 
-Meteorologist | Praedictix | Eden Prairie, MN
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-praedictix-4443882931?position=5&pageNum=0&refId=cSNRPMVM%2BoA7jExVJi3mOQ%3D%3D&trackingId=2kw2fOSgyugAo%2FuRU3U3iA%3D%3D
+Operational Meteorologist | Perry Weather | Dallas, TX
+URL: https://www.linkedin.com/jobs/view/operational-meteorologist-at-perry-weather-4445240618?position=4&pageNum=0&refId=wl%2BVvSVWfU6GsDq6fD9ltw%3D%3D&trackingId=sTIjQz1MsumOLubmmPpS8w%3D%3D
+Score: 14 | Matched: weather, operational, gis, meteorologist
+
+Quantitative Meteorologist | Rainmaker Technology Corporation | El Segundo, CA
+URL: https://www.linkedin.com/jobs/view/quantitative-meteorologist-at-rainmaker-technology-corporation-4445232725?position=51&pageNum=0&refId=wl%2BVvSVWfU6GsDq6fD9ltw%3D%3D&trackingId=cYchRVLXQ2Xq%2FG6DTtEkmg%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Uncertainty Meteorologist | Southwest Power Pool | Little Rock, AR
-URL: https://www.linkedin.com/jobs/view/uncertainty-meteorologist-at-southwest-power-pool-4443149544?position=33&pageNum=0&refId=cSNRPMVM%2BoA7jExVJi3mOQ%3D%3D&trackingId=OXuj9AikHkc5aspOVd%2BsQQ%3D%3D
-Score: 10 | Matched: gis, meteorologist
+Identifying weather extremes from ensemble weather forecasting or stochastic weather generators | JCAR ATRACE | Indiana, United States
+URL: https://www.linkedin.com/jobs/view/identifying-weather-extremes-from-ensemble-weather-forecasting-or-stochastic-weather-generators-at-jcar-atrace-4441568096?position=12&pageNum=0&refId=wl%2BVvSVWfU6GsDq6fD9ltw%3D%3D&trackingId=zbDvAmK7RLTAbGouugDrJg%3D%3D
+Score: 7 | Matched: weather, forecast
 
-Legislative Analyst (14822, Grade 28) | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5421011-0/legislative-analyst-14822-grade-28
-Score: 7 | Matched: gis, analyst
-
-Program/Project Analyst | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5421134-0/program-project-analyst
+DESKTOP ANALYST - Range 15 / NON | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5422443-0/desktop-analyst-range-15-non
 Score: 5 | Matched: analyst
 
-Water Quality Lab Analyst I | Idaho | Idaho
-URL: https://www.governmentjobs.com/jobs/5421161-0/water-quality-lab-analyst-i
+Budget Analyst 1, 2 or 3 | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5425040-0/budget-analyst-1-2-or-3
 Score: 5 | Matched: analyst
 
-Tactical Crime Intel Analyst | Kentucky | Kentucky
-URL: https://www.governmentjobs.com/jobs/5416066-0/tactical-crime-intel-analyst
+Senior Budget Analyst | Idaho | Idaho
+URL: https://www.governmentjobs.com/jobs/5417411-0/senior-budget-analyst
 Score: 5 | Matched: analyst
 
-MEDICAID ANALYST 1-3 | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5420756-0/medicaid-analyst-1-3
+SENIOR BUDGET ANALYST | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5424956-0/senior-budget-analyst
 Score: 5 | Matched: analyst
 
-MEDICAID ANALYST 1-2 | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5420807-0/medicaid-analyst-1-2
+Business Services Analyst (Payroll and Telestaff Administrator) | Virginia | Virginia
+URL: https://www.governmentjobs.com/jobs/5413687-0/business-services-analyst-payroll-and-telestaff-administrator
 Score: 5 | Matched: analyst
 
-Classification & Compensation Analyst (Administrative Analyst II) – Office of Human Resources | Maryland | Maryland
-URL: https://www.governmentjobs.com/jobs/5334945-0/classification-compensation-analyst-administrative-analyst-ii-office-of-hum
-Score: 5 | Matched: analyst
+UNEMPLOYMENT INSURANCE REPRESENTATIVE 1 | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5425026-0/unemployment-insurance-representative-1
+Score: 4 | Matched: insurance
 
-Financial Analyst 9-P11 | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5421293-0/financial-analyst-9-p11
-Score: 5 | Matched: analyst
-
-Human Resources Analyst | South Dakota | South Dakota
-URL: https://www.governmentjobs.com/jobs/5416763-0/human-resources-analyst
-Score: 5 | Matched: analyst
-
-Analyst, Student Experience Research | Utah | Utah
-URL: https://www.governmentjobs.com/jobs/5419410-0/analyst-student-experience-research
-Score: 5 | Matched: analyst
-
-Wildlife Biologist 1 (PCN 11N24014) | Alaska | Alaska
-URL: https://www.governmentjobs.com/jobs/5419707-0/wildlife-biologist-1-pcn-11n24014
+Registered Nurse - Home Visiting Program | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5423169-0/registered-nurse-home-visiting-program
 Score: 3 | Matched: gis
 
-REGISTERED NURSE SUPERVISOR A | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5420878-0/registered-nurse-supervisor-a
-Score: 3 | Matched: gis
-
-Registered Nurse - Bay Pines | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5369847-0/registered-nurse-bay-pines
-Score: 3 | Matched: gis
-
-Professional Engineer - Environmental Services - Wastewater Utility | Missouri | Missouri
-URL: https://www.governmentjobs.com/jobs/5418697-0/professional-engineer-environmental-services-wastewater-utility
-Score: 3 | Matched: environmental
-
-Emergency Management Specialist I | Nebraska | Nebraska
-URL: https://www.governmentjobs.com/jobs/5416027-0/emergency-management-specialist-i
+Emergency Management Specialist 2 | Iowa | Iowa
+URL: https://www.governmentjobs.com/jobs/5422584-0/emergency-management-specialist-2
 Score: 3 | Matched: emergency management
 
-ENVIRONMENTAL SCIENTIST 4 | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5422253-0/environmental-scientist-4
+ENVIRONMENTAL SCIENTIST 3 | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5422193-0/environmental-scientist-3
 Score: 3 | Matched: environmental
 
-Registered Nurse - SCI Waymart | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5407616-0/registered-nurse-sci-waymart
+Part-Time Warming House Operational Coordinator | New York | New York
+URL: https://www.governmentjobs.com/jobs/5420754-0/part-time-warming-house-operational-coordinator
+Score: 3 | Matched: operational
+
+Senior Emergency Management Specialist | Virginia | Virginia
+URL: https://www.governmentjobs.com/jobs/5411907-0/senior-emergency-management-specialist
+Score: 3 | Matched: emergency management
+
+Nosologist | West Virginia | West Virginia
+URL: https://www.governmentjobs.com/jobs/5419214-0/nosologist
 Score: 3 | Matched: gis
 
-Registered Nurse - SCI Cambridge Springs | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5419152-0/registered-nurse-sci-cambridge-springs
-Score: 3 | Matched: gis
-
-Registered Nurse - SCI Somerset | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5421361-0/registered-nurse-sci-somerset
-Score: 3 | Matched: gis
-
-Environmental Trainee | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5420946-0/environmental-trainee
-Score: 3 | Matched: environmental
-
-Instructor, Nursing (Practical or Registered) Full-Time | Wisconsin | Wisconsin
-URL: https://www.governmentjobs.com/jobs/5421256-0/instructor-nursing-practical-or-registered-full-time
-Score: 3 | Matched: gis
-
-Instructor, Nursing (Practical or Registered) Part-time | Wisconsin | Wisconsin
-URL: https://www.governmentjobs.com/jobs/5421205-0/instructor-nursing-practical-or-registered-part-time
+Registered Nurse | West Virginia | West Virginia
+URL: https://www.governmentjobs.com/jobs/5421360-0/registered-nurse
 Score: 3 | Matched: gis
