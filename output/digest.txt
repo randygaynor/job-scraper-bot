@@ -1,8 +1,32 @@
-Job Digest - 2026-07-26
+Job Digest - 2026-07-27
 
 Summary:
-  Start: 2026-07-26 09:18:49 UTC
-  End: 2026-07-26 09:38:21 UTC
-  Runtime: 19m 32s
-  Sources with email jobs: None
-  Fetched: 604 | Considered: 320 | Matched: 262 | Mailed: 0
+  Start: 2026-07-27 10:47:40 UTC
+  End: 2026-07-27 11:00:20 UTC
+  Runtime: 12m 39s
+  Sources with email jobs: StateBoard:Alaska, StateBoard:Colorado, StateBoard:Missouri, StateBoard:Ohio, StateBoard:Wisconsin
+  Fetched: 1160 | Considered: 604 | Matched: 544 | Mailed: 6
+
+GIS Analyst | Colorado | Colorado
+Score: 7 | URL: https://www.governmentjobs.com/jobs/5416977-0/gis-analyst
+Matched: gis, analyst
+
+Business Process Analyst - SCADA/CC&B | Ohio | Ohio
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5363257-0/business-process-analyst-scada-ccb
+Matched: analyst
+
+Chief Systems Analyst Cyber & Infrastructure | Ohio | Ohio
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5422873-0/chief-systems-analyst-cyber-infrastructure
+Matched: analyst
+
+Property Lister / Analyst | Wisconsin | Wisconsin
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5423090-0/property-lister-analyst
+Matched: analyst
+
+Public Health Microbiologist 1 (PCN 061232M) | Alaska | Alaska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5420089-0/public-health-microbiologist-1-pcn-061232m
+Matched: gis
+
+Strategic Coordinator - Environmental Services | Missouri | Missouri
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5421007-0/strategic-coordinator-environmental-services
+Matched: environmental
