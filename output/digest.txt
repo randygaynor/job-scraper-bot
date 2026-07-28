@@ -1,32 +1,28 @@
-Job Digest - 2026-07-27
+Job Digest - 2026-07-28
 
 Summary:
-  Start: 2026-07-27 10:47:40 UTC
-  End: 2026-07-27 11:00:20 UTC
-  Runtime: 12m 39s
-  Sources with email jobs: StateBoard:Alaska, StateBoard:Colorado, StateBoard:Missouri, StateBoard:Ohio, StateBoard:Wisconsin
-  Fetched: 1160 | Considered: 604 | Matched: 544 | Mailed: 6
+  Start: 2026-07-28 09:38:29 UTC
+  End: 2026-07-28 09:57:38 UTC
+  Runtime: 19m 9s
+  Sources with email jobs: StateBoard:California, StateBoard:Georgia, StateBoard:Hawaii, StateBoard:Idaho
+  Fetched: 683 | Considered: 370 | Matched: 309 | Mailed: 5
 
-GIS Analyst | Colorado | Colorado
-Score: 7 | URL: https://www.governmentjobs.com/jobs/5416977-0/gis-analyst
-Matched: gis, analyst
-
-Business Process Analyst - SCADA/CC&B | Ohio | Ohio
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5363257-0/business-process-analyst-scada-ccb
+Staff Services Analyst - Fiscal | California | California
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5425990-0/staff-services-analyst-fiscal
 Matched: analyst
 
-Chief Systems Analyst Cyber & Infrastructure | Ohio | Ohio
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5422873-0/chief-systems-analyst-cyber-infrastructure
+GENERAL PROFESSIONAL IV (MED-QUEST DATA ANALYST) - EWA, OAHU | Hawaii | Hawaii
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5422433-0/general-professional-iv-med-quest-data-analyst-ewa-oahu
 Matched: analyst
 
-Property Lister / Analyst | Wisconsin | Wisconsin
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5423090-0/property-lister-analyst
+Grants Analyst | Idaho | Idaho
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5425670-0/grants-analyst
 Matched: analyst
 
-Public Health Microbiologist 1 (PCN 061232M) | Alaska | Alaska
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5420089-0/public-health-microbiologist-1-pcn-061232m
-Matched: gis
-
-Strategic Coordinator - Environmental Services | Missouri | Missouri
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5421007-0/strategic-coordinator-environmental-services
+PH Environmental Health Specialist 1 or 2 | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5425359-0/ph-environmental-health-specialist-1-or-2
 Matched: environmental
+
+EMERGENCY MANAGEMENT SPECIALIST V - DIAMOND HEAD CRATER -  KAIMUKI, OAHU | Hawaii | Hawaii
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5426668-0/emergency-management-specialist-v-diamond-head-crater-kaimuki-oahu
+Matched: emergency management
