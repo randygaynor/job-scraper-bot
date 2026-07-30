@@ -1,84 +1,36 @@
-Job Digest - 2026-07-29
+Job Digest - 2026-07-30
 
 Summary:
-  Start: 2026-07-29 09:40:47 UTC
-  End: 2026-07-29 09:46:49 UTC
-  Runtime: 6m 1s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Michigan, StateBoard:Mississippi, StateBoard:New Hampshire, StateBoard:Pennsylvania, StateBoard:Utah, StateBoard:Virginia
-  Fetched: 1633 | Considered: 846 | Matched: 821 | Mailed: 19
+  Start: 2026-07-30 09:33:30 UTC
+  End: 2026-07-30 09:41:36 UTC
+  Runtime: 8m 6s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Iowa, StateBoard:Maryland, StateBoard:New Hampshire
+  Fetched: 1471 | Considered: 777 | Matched: 718 | Mailed: 7
 
-SPACE SCIENTIST / PHYSICIST / METEOROLOGIST | Arizona Small Business Association - ASBA | Monterey, CA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/space-scientist-physicist-meteorologist-at-arizona-small-business-association-asba-4445711800?position=59&pageNum=0&refId=eDNOqe21Zh%2BqaGpDLskFIw%3D%3D&trackingId=CHaNyefMC5t8RaNveKYlcQ%3D%3D
+Weather Producer/Meteorologist, FOX Weather | FOX Weather | New York, NY
+Score: 12 | URL: https://www.linkedin.com/jobs/view/weather-producer-meteorologist-fox-weather-at-fox-weather-4446461470?position=36&pageNum=0&refId=L1fk7whOcpoy05DTcAchFQ%3D%3D&trackingId=hangkGBO%2BzPKFn5HOLzQlg%3D%3D
+Matched: weather, gis, meteorologist
+
+Meteorologist | WLNE ABC6 | Providence, RI
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-wlne-abc6-4446721418?position=9&pageNum=0&refId=L1fk7whOcpoy05DTcAchFQ%3D%3D&trackingId=E5rRiVVMnUfjiaUr%2BwsUbQ%3D%3D
 Matched: gis, meteorologist
 
-SPACE SCIENTIST / PHYSICIST / METEOROLOGIST | U.S. Fleet Forces Command | Monterey, CA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/space-scientist-physicist-meteorologist-at-u-s-fleet-forces-command-4445656775?position=2&pageNum=0&refId=jXb%2BqP87LkPmW0%2F20aKEgg%3D%3D&trackingId=a2ZczEdvLQrhUt36OqZ9Zw%3D%3D
+Meteorologist | Jackson's 16 WAPT | Jackson, MS
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-jackson-s-16-wapt-4443631386?position=58&pageNum=0&refId=L1fk7whOcpoy05DTcAchFQ%3D%3D&trackingId=77FWg%2FEELJdVkr5AW9VuBw%3D%3D
 Matched: gis, meteorologist
 
-SPACE SCIENTIST / PHYSICIST / METEOROLOGIST | Arizona Small Business Association - ASBA | Monterey, CA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/space-scientist-physicist-meteorologist-at-arizona-small-business-association-asba-4445711800?position=13&pageNum=0&refId=jXb%2BqP87LkPmW0%2F20aKEgg%3D%3D&trackingId=cx9duzzTJaTPprSg%2FGGkyQ%3D%3D
-Matched: gis, meteorologist
+Environmental Scientist (Environmental Analyst IV) | Maryland | Maryland
+Score: 7 | URL: https://www.governmentjobs.com/jobs/5407352-0/environmental-scientist-environmental-analyst-iv
+Matched: environmental, analyst
 
-Radar Meteorologist | MIT Lincoln Laboratory | Lexington, MA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/radar-meteorologist-at-mit-lincoln-laboratory-4445284199?position=29&pageNum=0&refId=jXb%2BqP87LkPmW0%2F20aKEgg%3D%3D&trackingId=2M7hhq4bc0bW6Vy4s3nkzQ%3D%3D
-Matched: gis, meteorologist
-
-Lead Meteorologist, Growth | WindBorne Systems | Redwood City, CA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/lead-meteorologist-growth-at-windborne-systems-4445268018?position=46&pageNum=0&refId=jXb%2BqP87LkPmW0%2F20aKEgg%3D%3D&trackingId=aM%2BfKBkSY2kYJsRK4L5NLw%3D%3D
-Matched: gis, meteorologist
-
-Associate Research Professor - Greenhouse Gases -Meteorology and Atmospheric Science | Penn State University | University Park, PA
-Score: 7 | URL: https://www.linkedin.com/jobs/view/associate-research-professor-greenhouse-gases-meteorology-and-atmospheric-science-at-penn-state-university-4444706277?position=19&pageNum=0&refId=jXb%2BqP87LkPmW0%2F20aKEgg%3D%3D&trackingId=xD4lgWESCnCFFkuubPrkgw%3D%3D
-Matched: meteorology, atmospheric
-
-State Climatologist/Associate in Research, 12 Month Salaried (Center for Ocean-Atmospheric Prediction Studies) | Florida State University | Tallahassee Metropolitan Area
-Score: 7 | URL: https://www.linkedin.com/jobs/view/state-climatologist-associate-in-research-12-month-salaried-center-for-ocean-atmospheric-prediction-studies-at-florida-state-university-4446342752?position=56&pageNum=0&refId=jXb%2BqP87LkPmW0%2F20aKEgg%3D%3D&trackingId=mscBo%2BYAXKe2ji9%2Fl1pVOw%3D%3D
-Matched: atmospheric, gis
-
-Atmospheric/Ocean Scientist | CHEManager International | Mississippi, United States
-Score: 5 | URL: https://www.linkedin.com/jobs/view/atmospheric-ocean-scientist-at-chemanager-international-4445191176?position=18&pageNum=0&refId=jXb%2BqP87LkPmW0%2F20aKEgg%3D%3D&trackingId=h8L00voEn6TFooy9oSJpmw%3D%3D
-Matched: atmospheric
-
-Atmospheric Aerosol Experiments Postdoctoral Researcher | Los Alamos National Laboratory | Los Alamos, NM
-Score: 5 | URL: https://www.linkedin.com/jobs/view/atmospheric-aerosol-experiments-postdoctoral-researcher-at-los-alamos-national-laboratory-4445326666?position=47&pageNum=0&refId=jXb%2BqP87LkPmW0%2F20aKEgg%3D%3D&trackingId=NmRrR34huACyxOItd2gbdA%3D%3D
-Matched: atmospheric
-
-Aviation Analyst 9-P11 (Airport Inspector) - Aviation Safety and Data Analysis Unit | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5426099-0/aviation-analyst-9-p11-airport-inspector-aviation-safety-and-data-analysis-un
-Matched: analyst
-
-Systems Analyst | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5426049-0/systems-analyst
-Matched: analyst
-
-Research/Data Analyst I | Mississippi | Mississippi
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5427361-0/research-data-analyst-i
-Matched: analyst
-
-Quality Assurance Risk Management Coordinator (1st Shift) - Selinsgrove Center | Pennsylvania | Pennsylvania
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5422555-0/quality-assurance-risk-management-coordinator-1st-shift-selinsgrove-center
-Matched: risk
-
-Southeastern Region Apprenticeship and Training Representative (Workforce Development Analyst 2) | Pennsylvania | Pennsylvania
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5422694-0/southeastern-region-apprenticeship-and-training-representative-workforce-develop
-Matched: analyst
-
-BUDGET & MANAGEMENT ANALYST | Utah | Utah
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5420521-0/budget-management-analyst
-Matched: analyst
-
-Senior Administrative Analyst - Finance | Virginia | Virginia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5424955-0/senior-administrative-analyst-finance
-Matched: analyst
-
-Public Health Microbiologist 1 (PCN 161021) | Alaska | Alaska
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5418660-0/public-health-microbiologist-1-pcn-161021
+Physician Assistant/Advanced Practice Registered Nurse 1 (Psychiatric, PCN 20-7322) | Alaska | Alaska
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5429331-0/physician-assistant-advanced-practice-registered-nurse-1-psychiatric-pcn-20-732
 Matched: gis
 
-Barber/Cosmetologist | Mississippi | Mississippi
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5426743-0/barber-cosmetologist
-Matched: gis
-
-Environmental Services Technician | New Hampshire | New Hampshire
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5425955-0/environmental-services-technician
+Environmental Specialist | Iowa | Iowa
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5428693-0/environmental-specialist
 Matched: environmental
+
+PART TIME ADMINISTRATIVE TECHNICIAN- TAX AND AUTO REGISTRATION | New Hampshire | New Hampshire
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5407785-0/part-time-administrative-technician-tax-and-auto-registration
+Matched: gis
