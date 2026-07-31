@@ -1,36 +1,72 @@
-Job Digest - 2026-07-30
+Job Digest - 2026-07-31
 
 Summary:
-  Start: 2026-07-30 09:33:30 UTC
-  End: 2026-07-30 09:41:36 UTC
-  Runtime: 8m 6s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Iowa, StateBoard:Maryland, StateBoard:New Hampshire
-  Fetched: 1471 | Considered: 777 | Matched: 718 | Mailed: 7
+  Start: 2026-07-31 09:48:57 UTC
+  End: 2026-07-31 09:58:42 UTC
+  Runtime: 9m 45s
+  Sources with email jobs: LinkedIn, StateBoard:Connecticut, StateBoard:Iowa, StateBoard:Kansas, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:Missouri, StateBoard:South Carolina, StateBoard:Tennessee, StateBoard:Wisconsin
+  Fetched: 1360 | Considered: 699 | Matched: 671 | Mailed: 16
 
-Weather Producer/Meteorologist, FOX Weather | FOX Weather | New York, NY
-Score: 12 | URL: https://www.linkedin.com/jobs/view/weather-producer-meteorologist-fox-weather-at-fox-weather-4446461470?position=36&pageNum=0&refId=L1fk7whOcpoy05DTcAchFQ%3D%3D&trackingId=hangkGBO%2BzPKFn5HOLzQlg%3D%3D
+KABC Meteorologist/Weather Reporter | The Walt Disney Company | Glendale, CA
+Score: 12 | URL: https://www.linkedin.com/jobs/view/kabc-meteorologist-weather-reporter-at-the-walt-disney-company-4446770194?position=11&pageNum=0&refId=CBsHDVxZ511rLoUl8ghLtw%3D%3D&trackingId=IrNL9vV4makwTfasfGx2Ow%3D%3D
 Matched: weather, gis, meteorologist
 
-Meteorologist | WLNE ABC6 | Providence, RI
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-wlne-abc6-4446721418?position=9&pageNum=0&refId=L1fk7whOcpoy05DTcAchFQ%3D%3D&trackingId=E5rRiVVMnUfjiaUr%2BwsUbQ%3D%3D
-Matched: gis, meteorologist
+Senior Scientist - Hurricane Model Developer, Impact Forecasting | Aon | Chicago, IL
+Score: 7 | URL: https://www.linkedin.com/jobs/view/senior-scientist-hurricane-model-developer-impact-forecasting-at-aon-4447271167?position=35&pageNum=0&refId=iGAxJWWnog4lO52tNeFvgA%3D%3D&trackingId=tXEsyTMWRVd7bVgjzn%2BXkw%3D%3D
+Matched: forecast, hurricane
 
-Meteorologist | Jackson's 16 WAPT | Jackson, MS
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-jackson-s-16-wapt-4443631386?position=58&pageNum=0&refId=L1fk7whOcpoy05DTcAchFQ%3D%3D&trackingId=77FWg%2FEELJdVkr5AW9VuBw%3D%3D
-Matched: gis, meteorologist
+Senior Scientist - Hurricane Model Developer, Impact Forecasting | Aon | Boston, MA
+Score: 7 | URL: https://www.linkedin.com/jobs/view/senior-scientist-hurricane-model-developer-impact-forecasting-at-aon-4447267171?position=39&pageNum=0&refId=iGAxJWWnog4lO52tNeFvgA%3D%3D&trackingId=qbNCHzjxHuoqLsPyZJiDDA%3D%3D
+Matched: forecast, hurricane
 
-Environmental Scientist (Environmental Analyst IV) | Maryland | Maryland
-Score: 7 | URL: https://www.governmentjobs.com/jobs/5407352-0/environmental-scientist-environmental-analyst-iv
-Matched: environmental, analyst
+GIS Crime Analyst | Kansas | Kansas
+Score: 7 | URL: https://www.governmentjobs.com/jobs/2345824-0/gis-crime-analyst
+Matched: gis, analyst
 
-Physician Assistant/Advanced Practice Registered Nurse 1 (Psychiatric, PCN 20-7322) | Alaska | Alaska
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5429331-0/physician-assistant-advanced-practice-registered-nurse-1-psychiatric-pcn-20-732
+Police Research Analyst | Connecticut | Connecticut
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5431548-0/police-research-analyst
+Matched: analyst
+
+MOTOR VEHICLE COMPLIANCE ANALYST 1/2/3 | Louisiana | Louisiana
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5429552-0/motor-vehicle-compliance-analyst-1-2-3
+Matched: analyst
+
+Retirement Benefits Analyst 1, 2, 3, 4 | Louisiana | Louisiana
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5430851-0/retirement-benefits-analyst-1-2-3-4
+Matched: analyst
+
+Financial Analyst 12 - DWEHD Budget Analyst | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5430619-0/financial-analyst-12-dwehd-budget-analyst
+Matched: analyst
+
+Departmental Analyst 9 - P11 / ITB / OHSP / Impaired Driving Unit | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5335606-0/departmental-analyst-9-p11-itb-ohsp-impaired-driving-unit
+Matched: analyst
+
+IS Applications Analyst 3 - Business Analyst | Tennessee | Tennessee
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5422655-0/is-applications-analyst-3-business-analyst
+Matched: analyst
+
+Insurance Specialist 4 | Louisiana | Louisiana
+Score: 4 | URL: https://www.governmentjobs.com/jobs/5429130-0/insurance-specialist-4
+Matched: insurance
+
+Death Registration Program Coordinator | Iowa | Iowa
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5430904-0/death-registration-program-coordinator
 Matched: gis
 
-Environmental Specialist | Iowa | Iowa
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5428693-0/environmental-specialist
+Registered Nurse- Part Time | Iowa | Iowa
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5431134-0/registered-nurse-part-time
+Matched: gis
+
+Environmental Public Health Specialist | Missouri | Missouri
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5428774-0/environmental-public-health-specialist
 Matched: environmental
 
-PART TIME ADMINISTRATIVE TECHNICIAN- TAX AND AUTO REGISTRATION | New Hampshire | New Hampshire
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5407785-0/part-time-administrative-technician-tax-and-auto-registration
+Housing Capital Strategist | South Carolina | South Carolina
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5430953-0/housing-capital-strategist
+Matched: gis
+
+Registration Specialist (Full-Time) | Wisconsin | Wisconsin
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5131123-0/registration-specialist-full-time
 Matched: gis
