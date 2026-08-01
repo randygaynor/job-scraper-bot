@@ -1,72 +1,36 @@
-Job Digest - 2026-07-31
+Job Digest - 2026-08-01
 
 Summary:
-  Start: 2026-07-31 09:48:57 UTC
-  End: 2026-07-31 09:58:42 UTC
-  Runtime: 9m 45s
-  Sources with email jobs: LinkedIn, StateBoard:Connecticut, StateBoard:Iowa, StateBoard:Kansas, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:Missouri, StateBoard:South Carolina, StateBoard:Tennessee, StateBoard:Wisconsin
-  Fetched: 1360 | Considered: 699 | Matched: 671 | Mailed: 16
+  Start: 2026-08-01 09:09:23 UTC
+  End: 2026-08-01 09:22:50 UTC
+  Runtime: 13m 26s
+  Sources with email jobs: StateBoard:Idaho, StateBoard:Michigan, StateBoard:South Carolina, StateBoard:Virginia, StateBoard:West Virginia
+  Fetched: 1389 | Considered: 728 | Matched: 667 | Mailed: 7
 
-KABC Meteorologist/Weather Reporter | The Walt Disney Company | Glendale, CA
-Score: 12 | URL: https://www.linkedin.com/jobs/view/kabc-meteorologist-weather-reporter-at-the-walt-disney-company-4446770194?position=11&pageNum=0&refId=CBsHDVxZ511rLoUl8ghLtw%3D%3D&trackingId=IrNL9vV4makwTfasfGx2Ow%3D%3D
-Matched: weather, gis, meteorologist
-
-Senior Scientist - Hurricane Model Developer, Impact Forecasting | Aon | Chicago, IL
-Score: 7 | URL: https://www.linkedin.com/jobs/view/senior-scientist-hurricane-model-developer-impact-forecasting-at-aon-4447271167?position=35&pageNum=0&refId=iGAxJWWnog4lO52tNeFvgA%3D%3D&trackingId=tXEsyTMWRVd7bVgjzn%2BXkw%3D%3D
-Matched: forecast, hurricane
-
-Senior Scientist - Hurricane Model Developer, Impact Forecasting | Aon | Boston, MA
-Score: 7 | URL: https://www.linkedin.com/jobs/view/senior-scientist-hurricane-model-developer-impact-forecasting-at-aon-4447267171?position=39&pageNum=0&refId=iGAxJWWnog4lO52tNeFvgA%3D%3D&trackingId=qbNCHzjxHuoqLsPyZJiDDA%3D%3D
-Matched: forecast, hurricane
-
-GIS Crime Analyst | Kansas | Kansas
-Score: 7 | URL: https://www.governmentjobs.com/jobs/2345824-0/gis-crime-analyst
-Matched: gis, analyst
-
-Police Research Analyst | Connecticut | Connecticut
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5431548-0/police-research-analyst
+Departmental Analyst 12 (Senior MCO Analyst) - Managed Care Oversight Unit - MDHHS OIG | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5432124-0/departmental-analyst-12-senior-mco-analyst-managed-care-oversight-unit-mdhh
 Matched: analyst
 
-MOTOR VEHICLE COMPLIANCE ANALYST 1/2/3 | Louisiana | Louisiana
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5429552-0/motor-vehicle-compliance-analyst-1-2-3
+Senior Accountant/Fiscal Analyst / 61015652 | South Carolina | South Carolina
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5432622-0/senior-accountant-fiscal-analyst-61015652
 Matched: analyst
 
-Retirement Benefits Analyst 1, 2, 3, 4 | Louisiana | Louisiana
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5430851-0/retirement-benefits-analyst-1-2-3-4
+Board Certified Behavior Analyst (BCBA) - REPOST: OIDD-Midlands | South Carolina | South Carolina
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5290984-0/board-certified-behavior-analyst-bcba-repost-oidd-midlands
 Matched: analyst
 
-Financial Analyst 12 - DWEHD Budget Analyst | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5430619-0/financial-analyst-12-dwehd-budget-analyst
+FISCAL ANALYST | Virginia | Virginia
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5431202-0/fiscal-analyst
 Matched: analyst
 
-Departmental Analyst 9 - P11 / ITB / OHSP / Impaired Driving Unit | Michigan | Michigan
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5335606-0/departmental-analyst-9-p11-itb-ohsp-impaired-driving-unit
-Matched: analyst
-
-IS Applications Analyst 3 - Business Analyst | Tennessee | Tennessee
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5422655-0/is-applications-analyst-3-business-analyst
-Matched: analyst
-
-Insurance Specialist 4 | Louisiana | Louisiana
-Score: 4 | URL: https://www.governmentjobs.com/jobs/5429130-0/insurance-specialist-4
-Matched: insurance
-
-Death Registration Program Coordinator | Iowa | Iowa
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5430904-0/death-registration-program-coordinator
-Matched: gis
-
-Registered Nurse- Part Time | Iowa | Iowa
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5431134-0/registered-nurse-part-time
-Matched: gis
-
-Environmental Public Health Specialist | Missouri | Missouri
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5428774-0/environmental-public-health-specialist
+Environmental Systems Technician | Idaho | Idaho
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5431286-0/environmental-systems-technician
 Matched: environmental
 
-Housing Capital Strategist | South Carolina | South Carolina
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5430953-0/housing-capital-strategist
+Voter Registration (Elections Assistant) | Virginia | Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5431010-0/voter-registration-elections-assistant
 Matched: gis
 
-Registration Specialist (Full-Time) | Wisconsin | Wisconsin
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5131123-0/registration-specialist-full-time
+Transportation Engineering Technologist - Kanawha County | West Virginia | West Virginia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5431276-0/transportation-engineering-technologist-kanawha-county
 Matched: gis
