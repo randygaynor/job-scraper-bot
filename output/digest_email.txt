@@ -1,59 +1,27 @@
-Subject: Job Digest - 2026-08-02
+Subject: Job Digest - 2026-08-03
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-08-02 09:12:25 UTC
-  End: 2026-08-02 09:32:54 UTC
-  Runtime: 20m 28s
-  Sources with email jobs: LinkedIn
-  Fetched: 525 | Considered: 275 | Matched: 246 | Mailed: 12
+  Start: 2026-08-03 10:47:38 UTC
+  End: 2026-08-03 11:06:39 UTC
+  Runtime: 19m 0s
+  Sources with email jobs: LinkedIn, StateBoard:Arkansas
+  Fetched: 632 | Considered: 319 | Matched: 294 | Mailed: 4
 
-USAFA Weather Forecaster I | Akima | Colorado Springs, CO
-URL: https://www.linkedin.com/jobs/view/usafa-weather-forecaster-i-at-akima-4445750135?position=21&pageNum=0&refId=AS7%2FhsZY0hdavf31T%2Fpmbw%3D%3D&trackingId=VLBdmA1k6LrUufGKhg7DzA%3D%3D
-Score: 9 | Matched: weather, forecast, forecaster
+Meteorologist | KGTX 7 News | United States
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-kgtx-7-news-4447674586?position=29&pageNum=0&refId=oa2tPc0ju1UJtNjfmlKKVw%3D%3D&trackingId=PvfSThy8ct2YxPTDJCdIag%3D%3D
+Score: 10 | Matched: gis, meteorologist
 
-USAFA Weather Forecaster I with Security Clearance | Akima Infrastructure Services | Colorado Springs, CO
-URL: https://www.linkedin.com/jobs/view/usafa-weather-forecaster-i-with-security-clearance-at-akima-infrastructure-services-4446578976?position=34&pageNum=0&refId=AS7%2FhsZY0hdavf31T%2Fpmbw%3D%3D&trackingId=YZOi3yQC8AGSw1pdgknMwA%3D%3D
-Score: 9 | Matched: weather, forecast, forecaster
-
-Assistant Professor in Coastal/Marine/Inland Water Remote Sensing and Geospatial Analysis | University of Florida | Gainesville, FL
-URL: https://www.linkedin.com/jobs/view/assistant-professor-in-coastal-marine-inland-water-remote-sensing-and-geospatial-analysis-at-university-of-florida-4414796498?position=10&pageNum=0&refId=LY3ODnx2r7vFLHShwPG6xw%3D%3D&trackingId=MrMsecMKNd5tlpf0KQ91wA%3D%3D
+Assistant Professor in Coastal/Marine/Inland Water Remote Sensing and Geospatial Analysis | University of Florida - Chemical Engineering Masters Program | Gainesville, FL
+URL: https://www.linkedin.com/jobs/view/assistant-professor-in-coastal-marine-inland-water-remote-sensing-and-geospatial-analysis-at-university-of-florida-chemical-engineering-masters-program-4447209631?position=8&pageNum=0&refId=3gHTsEhTlebyHQtiXoQMZQ%3D%3D&trackingId=VPYYtDJlKA4BJ88qBniZQQ%3D%3D
 Score: 8 | Matched: spatial, geospatial
 
-Executive Director, Human Centered Weather Forecasts | University of Chicago | Chicago, IL
-URL: https://www.linkedin.com/jobs/view/executive-director-human-centered-weather-forecasts-at-university-of-chicago-4425839307?position=1&pageNum=0&refId=LY3ODnx2r7vFLHShwPG6xw%3D%3D&trackingId=8riT0vBOiudTVuTkLp3UaA%3D%3D
-Score: 7 | Matched: weather, forecast
-
-Lead Data Scientist, Demand Forecasting | Scout Motors Inc. | Charlotte, NC
-URL: https://www.linkedin.com/jobs/view/lead-data-scientist-demand-forecasting-at-scout-motors-inc-4438007143?position=45&pageNum=0&refId=LY3ODnx2r7vFLHShwPG6xw%3D%3D&trackingId=lVf%2FPR2FOGf0mLFOP0%2F8Ug%3D%3D
-Score: 7 | Matched: forecast
-
-PIR Weather Analyst with Security Clearance | Altamira Technologies Corporation | Dayton, OH
-URL: https://www.linkedin.com/jobs/view/pir-weather-analyst-with-security-clearance-at-altamira-technologies-corporation-4447789950?position=54&pageNum=0&refId=AS7%2FhsZY0hdavf31T%2Fpmbw%3D%3D&trackingId=cM98Ft4Jh3jy%2BQ12kTQz%2FQ%3D%3D
-Score: 6 | Matched: weather, analyst
-
-Open Rank, Tenure Track Faculty in Environmental Finance and Risk Management | Florida International University | Miami, FL
-URL: https://www.linkedin.com/jobs/view/open-rank-tenure-track-faculty-in-environmental-finance-and-risk-management-at-florida-international-university-4343971698?position=17&pageNum=0&refId=LY3ODnx2r7vFLHShwPG6xw%3D%3D&trackingId=wY94qvHG7PvIv9hIbqoPtg%3D%3D
-Score: 6 | Matched: risk, environmental
-
-Senior Catastrophe Risk Analyst | SageSure | Tampa, FL
-URL: https://www.linkedin.com/jobs/view/senior-catastrophe-risk-analyst-at-sagesure-4413906637?position=27&pageNum=0&refId=LY3ODnx2r7vFLHShwPG6xw%3D%3D&trackingId=esCSQ%2Bpe4VaVOxozfpjW5w%3D%3D
-Score: 6 | Matched: risk, analyst
-
 Senior Catastrophe Risk Analyst | SageSure | Chicago, IL
-URL: https://www.linkedin.com/jobs/view/senior-catastrophe-risk-analyst-at-sagesure-4413916595?position=49&pageNum=0&refId=LY3ODnx2r7vFLHShwPG6xw%3D%3D&trackingId=CYpir%2BPaNoUrQ9Pi8vI8Lw%3D%3D
+URL: https://www.linkedin.com/jobs/view/senior-catastrophe-risk-analyst-at-sagesure-4413916596?position=50&pageNum=0&refId=3gHTsEhTlebyHQtiXoQMZQ%3D%3D&trackingId=MEGrgudLMOv8h8uaPbi%2BQg%3D%3D
 Score: 6 | Matched: risk, analyst
 
-Remote ATAC Weather Observer (Rotational) - Kuparuk - CP | NMS | North Slope Borough County, AK
-URL: https://www.linkedin.com/jobs/view/remote-atac-weather-observer-rotational-kuparuk-cp-at-nms-4444146691?position=56&pageNum=0&refId=AS7%2FhsZY0hdavf31T%2Fpmbw%3D%3D&trackingId=Tp7MhtuGgc9I%2FkuYYFFluw%3D%3D
-Score: 3 | Matched: weather
-
-Director of Predictive Analytics - Insurance | Orion180 | Melbourne, FL
-URL: https://www.linkedin.com/jobs/view/director-of-predictive-analytics-insurance-at-orion180-4441362102?position=26&pageNum=0&refId=LY3ODnx2r7vFLHShwPG6xw%3D%3D&trackingId=HJJAe8y7wibzCrfV0n47yg%3D%3D
-Score: 3 | Matched: insurance
-
-Research Project Scientist/Engineer | Insurance Institute for Business & Home Safety - IBHS | Richburg, SC
-URL: https://www.linkedin.com/jobs/view/research-project-scientist-engineer-at-insurance-institute-for-business-home-safety-ibhs-4443944060?position=37&pageNum=0&refId=LY3ODnx2r7vFLHShwPG6xw%3D%3D&trackingId=RFHZJosavmBRduQIligevA%3D%3D
-Score: 3 | Matched: insurance
+Labor Relations Analyst II (EEO - Part Time) | Arkansas | Arkansas
+URL: https://www.governmentjobs.com/jobs/5426279-0/labor-relations-analyst-ii-eeo-part-time
+Score: 5 | Matched: analyst
