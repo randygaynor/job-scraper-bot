@@ -1,27 +1,55 @@
-Subject: Job Digest - 2026-08-03
+Subject: Job Digest - 2026-08-04
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-08-03 10:47:38 UTC
-  End: 2026-08-03 11:06:39 UTC
-  Runtime: 19m 0s
-  Sources with email jobs: LinkedIn, StateBoard:Arkansas
-  Fetched: 632 | Considered: 319 | Matched: 294 | Mailed: 4
+  Start: 2026-08-04 09:40:37 UTC
+  End: 2026-08-04 09:47:26 UTC
+  Runtime: 6m 48s
+  Sources with email jobs: LinkedIn, StateBoard:Colorado, StateBoard:Florida, StateBoard:Kentucky, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:North Carolina, StateBoard:Ohio
+  Fetched: 1586 | Considered: 818 | Matched: 788 | Mailed: 11
 
-Meteorologist | KGTX 7 News | United States
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-kgtx-7-news-4447674586?position=29&pageNum=0&refId=oa2tPc0ju1UJtNjfmlKKVw%3D%3D&trackingId=PvfSThy8ct2YxPTDJCdIag%3D%3D
+Meteorologist | WWL Louisiana | Greater New Orleans Region
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-wwl-louisiana-4448629500?position=24&pageNum=0&refId=RC0%2FYcDxC2FXPXeRhT7eJg%3D%3D&trackingId=kVg4NDhITsUYStRSBNnHWw%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Assistant Professor in Coastal/Marine/Inland Water Remote Sensing and Geospatial Analysis | University of Florida - Chemical Engineering Masters Program | Gainesville, FL
-URL: https://www.linkedin.com/jobs/view/assistant-professor-in-coastal-marine-inland-water-remote-sensing-and-geospatial-analysis-at-university-of-florida-chemical-engineering-masters-program-4447209631?position=8&pageNum=0&refId=3gHTsEhTlebyHQtiXoQMZQ%3D%3D&trackingId=VPYYtDJlKA4BJ88qBniZQQ%3D%3D
-Score: 8 | Matched: spatial, geospatial
+KTRK Meteorologist (Expression Of Interest) | The Walt Disney Company | Houston, TX
+URL: https://www.linkedin.com/jobs/view/ktrk-meteorologist-expression-of-interest-at-the-walt-disney-company-4448825226?position=27&pageNum=0&refId=RC0%2FYcDxC2FXPXeRhT7eJg%3D%3D&trackingId=B%2BxySp%2BWPrjoRmm0ieZAzQ%3D%3D
+Score: 10 | Matched: gis, meteorologist
 
-Senior Catastrophe Risk Analyst | SageSure | Chicago, IL
-URL: https://www.linkedin.com/jobs/view/senior-catastrophe-risk-analyst-at-sagesure-4413916596?position=50&pageNum=0&refId=3gHTsEhTlebyHQtiXoQMZQ%3D%3D&trackingId=MEGrgudLMOv8h8uaPbi%2BQg%3D%3D
-Score: 6 | Matched: risk, analyst
+Meteorologist | U.S. Fleet Forces Command | Joint Base Pearl Harbor-Hickam, HI
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-u-s-fleet-forces-command-4448142311?position=60&pageNum=0&refId=RC0%2FYcDxC2FXPXeRhT7eJg%3D%3D&trackingId=pA7B8asvMrYo33lv4kbC2Q%3D%3D
+Score: 10 | Matched: gis, meteorologist
 
-Labor Relations Analyst II (EEO - Part Time) | Arkansas | Arkansas
-URL: https://www.governmentjobs.com/jobs/5426279-0/labor-relations-analyst-ii-eeo-part-time
+Meteorologist | U.S. Fleet Forces Command | Joint Base Pearl Harbor-Hickam, HI
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-u-s-fleet-forces-command-4448142311?position=51&pageNum=0&refId=%2FDKDKIHRgQtSJJh3CaVB6w%3D%3D&trackingId=aJqBosgBqGgsyXXq3w0raQ%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+Compensation Analyst | Florida | Florida
+URL: https://www.governmentjobs.com/jobs/5434209-0/compensation-analyst
 Score: 5 | Matched: analyst
+
+Budget Management Analyst | Maryland | Maryland
+URL: https://www.governmentjobs.com/jobs/5433721-0/budget-management-analyst
+Score: 5 | Matched: analyst
+
+Information Technology Analyst - Utilities Network/Operations Technology | North Carolina | North Carolina
+URL: https://www.governmentjobs.com/jobs/5433130-0/information-technology-analyst-utilities-network-operations-technology
+Score: 5 | Matched: analyst
+
+COMPUTER PROGRAMMER/ANALYST (NON-COMPETITIVE) | Ohio | Ohio
+URL: https://www.governmentjobs.com/jobs/5432499-0/computer-programmer-analyst-non-competitive
+Score: 5 | Matched: analyst
+
+Environmental Protection Specialist Intern | Colorado | Colorado
+URL: https://www.governmentjobs.com/jobs/5416802-0/environmental-protection-specialist-intern
+Score: 3 | Matched: environmental
+
+GIS Coordinator | Kentucky | Kentucky
+URL: https://www.governmentjobs.com/jobs/5428017-0/gis-coordinator
+Score: 3 | Matched: gis
+
+Biologist 1, 2, or 3 (LOSCO) | Louisiana | Louisiana
+URL: https://www.governmentjobs.com/jobs/5434058-0/biologist-1-2-or-3-losco
+Score: 3 | Matched: gis
