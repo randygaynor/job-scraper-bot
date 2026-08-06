@@ -1,28 +1,52 @@
-Job Digest - 2026-08-05
+Job Digest - 2026-08-06
 
 Summary:
-  Start: 2026-08-05 09:39:12 UTC
-  End: 2026-08-05 09:59:11 UTC
-  Runtime: 19m 58s
-  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Idaho
-  Fetched: 564 | Considered: 300 | Matched: 241 | Mailed: 5
+  Start: 2026-08-06 09:42:31 UTC
+  End: 2026-08-06 10:00:58 UTC
+  Runtime: 18m 27s
+  Sources with email jobs: LinkedIn, StateBoard:Colorado, StateBoard:Iowa
+  Fetched: 681 | Considered: 351 | Matched: 322 | Mailed: 11
 
-Meteorologist | Arizona Public Health Association | Joint Base Pearl Harbor-Hickam, HI
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-arizona-public-health-association-4448903741?position=36&pageNum=0&refId=YXRIoZ2qROs1TEX%2FfDm2sQ%3D%3D&trackingId=qIJpvSS0rqwbaJchjSAG0Q%3D%3D
+METEOROLOGIST | U.S. Fleet Forces Command | Joint Base Pearl Harbor-Hickam, HI
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-u-s-fleet-forces-command-4449659541?position=3&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=d%2BOkb%2B3Nn2zBf1lDkeuQSA%3D%3D
 Matched: gis, meteorologist
 
-Meteorologist | Arizona Small Business Association - ASBA | Joint Base Pearl Harbor-Hickam, HI
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-arizona-small-business-association-asba-4448927325?position=42&pageNum=0&refId=YXRIoZ2qROs1TEX%2FfDm2sQ%3D%3D&trackingId=nsYS%2FvMjHkjiIoUqvWgE9g%3D%3D
+Meteorologist, KMVT | The E.W. Scripps Company | Twin Falls Area
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-kmvt-at-the-e-w-scripps-company-4449697760?position=12&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=U2op2Q4c%2Bg7M%2Bk47BipBrw%3D%3D
 Matched: gis, meteorologist
 
-Weather Forecaster | Akytech Consulting LLC | Sumter, SC
-Score: 9 | URL: https://www.linkedin.com/jobs/view/weather-forecaster-at-akytech-consulting-llc-4446213808?position=48&pageNum=0&refId=YXRIoZ2qROs1TEX%2FfDm2sQ%3D%3D&trackingId=EXUvq7TlRUd%2BkEbGTT42Hw%3D%3D
-Matched: weather, forecast, forecaster
+Meteorologist | NBC5 | South Burlington, VT
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-nbc5-4448074090?position=22&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=mDup3tej7cz9g7pBZMoiJw%3D%3D
+Matched: gis, meteorologist
 
-Compensation and HRIS Analyst - Office of Human Resources | Georgia | Georgia
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5435561-0/compensation-and-hris-analyst-office-of-human-resources
-Matched: analyst
+METEOROLOGIST | U.S. Fleet Forces Command | Joint Base Pearl Harbor-Hickam, HI
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-u-s-fleet-forces-command-4449659541?position=28&pageNum=0&refId=Pl%2BTc7egjXsanfx08PYPaQ%3D%3D&trackingId=nYpFKv1xUOWoy3sNkrQKzw%3D%3D
+Matched: gis, meteorologist
 
-Environmental Education Instructor | Idaho | Idaho
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5433806-0/environmental-education-instructor
-Matched: environmental
+CAIC Senior Avalanche Forecaster (PSRS II) | Colorado | Colorado
+Score: 8 | URL: https://www.governmentjobs.com/jobs/5436219-0/caic-senior-avalanche-forecaster-psrs-ii
+Matched: forecast, forecaster
+
+CAIC Senior Avalanche Forecaster (PSRS II). | State of Colorado | Colorado Springs, CO
+Score: 7 | URL: https://www.linkedin.com/jobs/view/caic-senior-avalanche-forecaster-psrs-ii-at-state-of-colorado-4450229056?position=58&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=eIc4NmR2ZeT2HKGliVu6QQ%3D%3D
+Matched: forecast, forecaster
+
+CAIC Senior Avalanche Forecaster (PSRS II) | State of Colorado | Denver, CO
+Score: 7 | URL: https://www.linkedin.com/jobs/view/caic-senior-avalanche-forecaster-psrs-ii-at-state-of-colorado-4448093664?position=60&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=jN4s8%2BYmu0J4DDvkFZAnlQ%3D%3D
+Matched: forecast, forecaster
+
+Meteorological Scientist - Data Assimilation and NWP | WindBorne Systems | Redwood City, CA
+Score: 3 | URL: https://www.linkedin.com/jobs/view/meteorological-scientist-data-assimilation-and-nwp-at-windborne-systems-4449078799?position=59&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=bZwYpaOGpsDTqInFUnvmhQ%3D%3D
+Matched: data assimilation
+
+Meteorological Scientist - Data Assimilation and NWP | WindBorne Systems | Redwood City, CA
+Score: 3 | URL: https://www.linkedin.com/jobs/view/meteorological-scientist-data-assimilation-and-nwp-at-windborne-systems-4449078799?position=17&pageNum=0&refId=Pl%2BTc7egjXsanfx08PYPaQ%3D%3D&trackingId=s4AJLqydpJZK23pGuWJP1g%3D%3D
+Matched: data assimilation
+
+Meteorological Scientist - Data Assimilation and NWP | WindBorne Systems | Palo Alto, CA
+Score: 3 | URL: https://www.linkedin.com/jobs/view/meteorological-scientist-data-assimilation-and-nwp-at-windborne-systems-4449041766?position=20&pageNum=0&refId=Pl%2BTc7egjXsanfx08PYPaQ%3D%3D&trackingId=tidcPBkB6EovMe%2FiPOGArQ%3D%3D
+Matched: data assimilation
+
+Registered Nurse - Part Time - Iowa Veterans Home | Iowa | Iowa
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5436797-0/registered-nurse-part-time-iowa-veterans-home
+Matched: gis
