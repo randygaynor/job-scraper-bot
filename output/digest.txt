@@ -1,52 +1,68 @@
-Job Digest - 2026-08-06
+Job Digest - 2026-08-07
 
 Summary:
-  Start: 2026-08-06 09:42:31 UTC
-  End: 2026-08-06 10:00:58 UTC
-  Runtime: 18m 27s
-  Sources with email jobs: LinkedIn, StateBoard:Colorado, StateBoard:Iowa
-  Fetched: 681 | Considered: 351 | Matched: 322 | Mailed: 11
+  Start: 2026-08-07 08:17:16 UTC
+  End: 2026-08-07 08:24:20 UTC
+  Runtime: 7m 4s
+  Sources with email jobs: LinkedIn, StateBoard:Iowa, StateBoard:Michigan, StateBoard:Mississippi, StateBoard:Nevada, StateBoard:North Carolina, StateBoard:Ohio, StateBoard:Oregon, StateBoard:Pennsylvania, StateBoard:West Virginia
+  Fetched: 1550 | Considered: 798 | Matched: 769 | Mailed: 15
 
-METEOROLOGIST | U.S. Fleet Forces Command | Joint Base Pearl Harbor-Hickam, HI
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-u-s-fleet-forces-command-4449659541?position=3&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=d%2BOkb%2B3Nn2zBf1lDkeuQSA%3D%3D
+Weather Producer/Meteorologist | FOX Weather | New York City Metropolitan Area
+Score: 12 | URL: https://www.linkedin.com/jobs/view/weather-producer-meteorologist-at-fox-weather-4450642048?position=39&pageNum=0&refId=hH6rRbvzbChGbUK9DhlxjA%3D%3D&trackingId=ik8Q9k3kaQ4PWL%2Fk6hdYrg%3D%3D
+Matched: weather, gis, meteorologist
+
+Meteorologist | Sarkes Tarzian, Inc. | Reno, NV
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-sarkes-tarzian-inc-4435102150?position=18&pageNum=0&refId=hH6rRbvzbChGbUK9DhlxjA%3D%3D&trackingId=CtbZnouX6ru559jAfRbjng%3D%3D
 Matched: gis, meteorologist
 
-Meteorologist, KMVT | The E.W. Scripps Company | Twin Falls Area
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-kmvt-at-the-e-w-scripps-company-4449697760?position=12&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=U2op2Q4c%2Bg7M%2Bk47BipBrw%3D%3D
-Matched: gis, meteorologist
+Data Analyst 1 | Iowa | Iowa
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5439572-0/data-analyst-1
+Matched: analyst
 
-Meteorologist | NBC5 | South Burlington, VT
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-nbc5-4448074090?position=22&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=mDup3tej7cz9g7pBZMoiJw%3D%3D
-Matched: gis, meteorologist
+Departmental Analyst 9-P11 | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5435264-0/departmental-analyst-9-p11
+Matched: analyst
 
-METEOROLOGIST | U.S. Fleet Forces Command | Joint Base Pearl Harbor-Hickam, HI
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-u-s-fleet-forces-command-4449659541?position=28&pageNum=0&refId=Pl%2BTc7egjXsanfx08PYPaQ%3D%3D&trackingId=nYpFKv1xUOWoy3sNkrQKzw%3D%3D
-Matched: gis, meteorologist
+Departmental Analyst Trainee 9-P11 | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5389190-0/departmental-analyst-trainee-9-p11
+Matched: analyst
 
-CAIC Senior Avalanche Forecaster (PSRS II) | Colorado | Colorado
-Score: 8 | URL: https://www.governmentjobs.com/jobs/5436219-0/caic-senior-avalanche-forecaster-psrs-ii
-Matched: forecast, forecaster
+Departmental Analyst 12 - HSA Community Transitions Section | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5206470-0/departmental-analyst-12-hsa-community-transitions-section
+Matched: analyst
 
-CAIC Senior Avalanche Forecaster (PSRS II). | State of Colorado | Colorado Springs, CO
-Score: 7 | URL: https://www.linkedin.com/jobs/view/caic-senior-avalanche-forecaster-psrs-ii-at-state-of-colorado-4450229056?position=58&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=eIc4NmR2ZeT2HKGliVu6QQ%3D%3D
-Matched: forecast, forecaster
+MANAGEMENT ANALYST 1 | Nevada | Nevada
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5437564-0/management-analyst-1
+Matched: analyst
 
-CAIC Senior Avalanche Forecaster (PSRS II) | State of Colorado | Denver, CO
-Score: 7 | URL: https://www.linkedin.com/jobs/view/caic-senior-avalanche-forecaster-psrs-ii-at-state-of-colorado-4448093664?position=60&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=jN4s8%2BYmu0J4DDvkFZAnlQ%3D%3D
-Matched: forecast, forecaster
+Sr Budget & Mgt Analyst | North Carolina | North Carolina
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5435607-0/sr-budget-mgt-analyst
+Matched: analyst
 
-Meteorological Scientist - Data Assimilation and NWP | WindBorne Systems | Redwood City, CA
-Score: 3 | URL: https://www.linkedin.com/jobs/view/meteorological-scientist-data-assimilation-and-nwp-at-windborne-systems-4449078799?position=59&pageNum=0&refId=fg1Aqk8GXrt8wvhKwmPekg%3D%3D&trackingId=bZwYpaOGpsDTqInFUnvmhQ%3D%3D
-Matched: data assimilation
+Enterprise Time Coordinator (Human Resource Analyst 3) | Pennsylvania | Pennsylvania
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5435280-0/enterprise-time-coordinator-human-resource-analyst-3
+Matched: analyst
 
-Meteorological Scientist - Data Assimilation and NWP | WindBorne Systems | Redwood City, CA
-Score: 3 | URL: https://www.linkedin.com/jobs/view/meteorological-scientist-data-assimilation-and-nwp-at-windborne-systems-4449078799?position=17&pageNum=0&refId=Pl%2BTc7egjXsanfx08PYPaQ%3D%3D&trackingId=s4AJLqydpJZK23pGuWJP1g%3D%3D
-Matched: data assimilation
+Transportation Engineering Analyst Senior - Kanawha County | West Virginia | West Virginia
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5438839-0/transportation-engineering-analyst-senior-kanawha-county
+Matched: analyst
 
-Meteorological Scientist - Data Assimilation and NWP | WindBorne Systems | Palo Alto, CA
-Score: 3 | URL: https://www.linkedin.com/jobs/view/meteorological-scientist-data-assimilation-and-nwp-at-windborne-systems-4449041766?position=20&pageNum=0&refId=Pl%2BTc7egjXsanfx08PYPaQ%3D%3D&trackingId=tidcPBkB6EovMe%2FiPOGArQ%3D%3D
-Matched: data assimilation
+Senior Research Analyst | University of Chicago | Chicago, IL
+Score: 4 | URL: https://www.linkedin.com/jobs/view/senior-research-analyst-at-university-of-chicago-4449794711?position=24&pageNum=0&refId=gYK7Hv9cmzPzmkoFyP1hug%3D%3D&trackingId=hFX035tgCPKSjPcJjiEpmg%3D%3D
+Matched: analyst
 
-Registered Nurse - Part Time - Iowa Veterans Home | Iowa | Iowa
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5436797-0/registered-nurse-part-time-iowa-veterans-home
+Emergency Management Officer I - Grants Management Specialist | Mississippi | Mississippi
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5439115-0/emergency-management-officer-i-grants-management-specialist
+Matched: emergency management
+
+BIOLOGIST 2 - UNDERFILL | Nevada | Nevada
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5436554-0/biologist-2-underfill
 Matched: gis
+
+GIS Administrator | Ohio | Ohio
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5434706-0/gis-administrator
+Matched: gis
+
+Environmental Health Specialist 2 - Part-Time - Health and Human Services | Oregon | Oregon
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5438330-0/environmental-health-specialist-2-part-time-health-and-human-services
+Matched: environmental
