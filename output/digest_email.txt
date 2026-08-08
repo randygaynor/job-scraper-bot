@@ -1,71 +1,71 @@
-Subject: Job Digest - 2026-08-07
+Subject: Job Digest - 2026-08-08
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-08-07 08:17:16 UTC
-  End: 2026-08-07 08:24:20 UTC
-  Runtime: 7m 4s
-  Sources with email jobs: LinkedIn, StateBoard:Iowa, StateBoard:Michigan, StateBoard:Mississippi, StateBoard:Nevada, StateBoard:North Carolina, StateBoard:Ohio, StateBoard:Oregon, StateBoard:Pennsylvania, StateBoard:West Virginia
-  Fetched: 1550 | Considered: 798 | Matched: 769 | Mailed: 15
+  Start: 2026-08-08 07:52:24 UTC
+  End: 2026-08-08 07:58:37 UTC
+  Runtime: 6m 12s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Massachusetts, StateBoard:Montana, StateBoard:Nevada, StateBoard:New Mexico, StateBoard:Tennessee, StateBoard:Wisconsin
+  Fetched: 1857 | Considered: 961 | Matched: 932 | Mailed: 15
 
-Weather Producer/Meteorologist | FOX Weather | New York City Metropolitan Area
-URL: https://www.linkedin.com/jobs/view/weather-producer-meteorologist-at-fox-weather-4450642048?position=39&pageNum=0&refId=hH6rRbvzbChGbUK9DhlxjA%3D%3D&trackingId=ik8Q9k3kaQ4PWL%2Fk6hdYrg%3D%3D
-Score: 12 | Matched: weather, gis, meteorologist
-
-Meteorologist | Sarkes Tarzian, Inc. | Reno, NV
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-sarkes-tarzian-inc-4435102150?position=18&pageNum=0&refId=hH6rRbvzbChGbUK9DhlxjA%3D%3D&trackingId=CtbZnouX6ru559jAfRbjng%3D%3D
+Field Meteorologist | Washington State University | Prosser, WA
+URL: https://www.linkedin.com/jobs/view/field-meteorologist-at-washington-state-university-4450528063?position=3&pageNum=0&refId=ax34b1OlQFkASnTgRQo9Ng%3D%3D&trackingId=pufbd6XZAFwGP%2Fbv5uvoOA%3D%3D
 Score: 10 | Matched: gis, meteorologist
 
-Data Analyst 1 | Iowa | Iowa
-URL: https://www.governmentjobs.com/jobs/5439572-0/data-analyst-1
+METEOROLOGIST | FAMU National Alumni Association | Joint Base Pearl Harbor-Hickam, HI
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-famu-national-alumni-association-4450733710?position=14&pageNum=0&refId=ax34b1OlQFkASnTgRQo9Ng%3D%3D&trackingId=EtQIGKKRStGkW%2BHWM4Xrjw%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+METEOROLOGIST | Arizona Small Business Association - ASBA | Joint Base Pearl Harbor-Hickam, HI
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-arizona-small-business-association-asba-4450323866?position=31&pageNum=0&refId=ax34b1OlQFkASnTgRQo9Ng%3D%3D&trackingId=%2B95YC7nekD6DWPr6fmxiLA%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+METEOROLOGIST | Arizona Small Business Association - ASBA | Patterson, OH
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-arizona-small-business-association-asba-4450328786?position=56&pageNum=0&refId=ax34b1OlQFkASnTgRQo9Ng%3D%3D&trackingId=wrFqriUtwa4JJJ%2Bsu8JCBw%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+Meteorologist | NBC 10 WJAR Providence New Bedford | Providence, RI
+URL: https://www.linkedin.com/jobs/view/meteorologist-at-nbc-10-wjar-providence-new-bedford-4448757815?position=57&pageNum=0&refId=ax34b1OlQFkASnTgRQo9Ng%3D%3D&trackingId=ccDm0JCrUcM9zR4M7OelNw%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+Field Meteorologist | Washington State University | Prosser, WA
+URL: https://www.linkedin.com/jobs/view/field-meteorologist-at-washington-state-university-4450528063?position=55&pageNum=0&refId=euDvylMoQLV7dDMzOSKMrw%3D%3D&trackingId=EZLBQJcqIxJRSZKhvrH%2Brg%3D%3D
+Score: 10 | Matched: gis, meteorologist
+
+GIS / Mapper Analyst - Community Development | New Mexico | New Mexico
+URL: https://www.governmentjobs.com/jobs/147875-1/gis-mapper-analyst-community-development
+Score: 7 | Matched: gis, analyst
+
+Business Analyst (ACPE) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5441608-0/business-analyst-acpe
 Score: 5 | Matched: analyst
 
-Departmental Analyst 9-P11 | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5435264-0/departmental-analyst-9-p11
+Senior Policy Analyst (Fare) (Policy and Strategic Planning) | Massachusetts | Massachusetts
+URL: https://www.governmentjobs.com/jobs/5435198-0/senior-policy-analyst-fare-policy-and-strategic-planning
 Score: 5 | Matched: analyst
 
-Departmental Analyst Trainee 9-P11 | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5389190-0/departmental-analyst-trainee-9-p11
+Budgetary Program Analyst | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/147866-1/budgetary-program-analyst
 Score: 5 | Matched: analyst
 
-Departmental Analyst 12 - HSA Community Transitions Section | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5206470-0/departmental-analyst-12-hsa-community-transitions-section
+Housing Choice Vouchers Quality Control/Training Analyst | Tennessee | Tennessee
+URL: https://www.governmentjobs.com/jobs/5440784-0/housing-choice-vouchers-quality-control-training-analyst
 Score: 5 | Matched: analyst
 
-MANAGEMENT ANALYST 1 | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5437564-0/management-analyst-1
-Score: 5 | Matched: analyst
-
-Sr Budget & Mgt Analyst | North Carolina | North Carolina
-URL: https://www.governmentjobs.com/jobs/5435607-0/sr-budget-mgt-analyst
-Score: 5 | Matched: analyst
-
-Enterprise Time Coordinator (Human Resource Analyst 3) | Pennsylvania | Pennsylvania
-URL: https://www.governmentjobs.com/jobs/5435280-0/enterprise-time-coordinator-human-resource-analyst-3
-Score: 5 | Matched: analyst
-
-Transportation Engineering Analyst Senior - Kanawha County | West Virginia | West Virginia
-URL: https://www.governmentjobs.com/jobs/5438839-0/transportation-engineering-analyst-senior-kanawha-county
-Score: 5 | Matched: analyst
-
-Senior Research Analyst | University of Chicago | Chicago, IL
-URL: https://www.linkedin.com/jobs/view/senior-research-analyst-at-university-of-chicago-4449794711?position=24&pageNum=0&refId=gYK7Hv9cmzPzmkoFyP1hug%3D%3D&trackingId=hFX035tgCPKSjPcJjiEpmg%3D%3D
-Score: 4 | Matched: analyst
-
-Emergency Management Officer I - Grants Management Specialist | Mississippi | Mississippi
-URL: https://www.governmentjobs.com/jobs/5439115-0/emergency-management-officer-i-grants-management-specialist
-Score: 3 | Matched: emergency management
-
-BIOLOGIST 2 - UNDERFILL | Nevada | Nevada
-URL: https://www.governmentjobs.com/jobs/5436554-0/biologist-2-underfill
+Epidemiologist 2 | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5440442-0/epidemiologist-2
 Score: 3 | Matched: gis
 
-GIS Administrator | Ohio | Ohio
-URL: https://www.governmentjobs.com/jobs/5434706-0/gis-administrator
+PH Registered Nurse 3 (Nursing) | Georgia | Georgia
+URL: https://www.governmentjobs.com/jobs/5403949-0/ph-registered-nurse-3-nursing
 Score: 3 | Matched: gis
 
-Environmental Health Specialist 2 - Part-Time - Health and Human Services | Oregon | Oregon
-URL: https://www.governmentjobs.com/jobs/5438330-0/environmental-health-specialist-2-part-time-health-and-human-services
-Score: 3 | Matched: environmental
+Registered Nurse (RN) - Detention Center | Montana | Montana
+URL: https://www.governmentjobs.com/jobs/5436563-0/registered-nurse-rn-detention-center
+Score: 3 | Matched: gis
+
+Registered Dietitian | Wisconsin | Wisconsin
+URL: https://www.governmentjobs.com/jobs/5441338-0/registered-dietitian
+Score: 3 | Matched: gis
