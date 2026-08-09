@@ -1,68 +1,44 @@
-Job Digest - 2026-08-08
+Job Digest - 2026-08-09
 
 Summary:
-  Start: 2026-08-08 07:52:24 UTC
-  End: 2026-08-08 07:58:37 UTC
-  Runtime: 6m 12s
-  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Georgia, StateBoard:Massachusetts, StateBoard:Montana, StateBoard:Nevada, StateBoard:New Mexico, StateBoard:Tennessee, StateBoard:Wisconsin
-  Fetched: 1857 | Considered: 961 | Matched: 932 | Mailed: 15
+  Start: 2026-08-09 07:55:17 UTC
+  End: 2026-08-09 08:03:34 UTC
+  Runtime: 8m 16s
+  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:South Carolina, StateBoard:Tennessee
+  Fetched: 1463 | Considered: 740 | Matched: 712 | Mailed: 9
 
-Field Meteorologist | Washington State University | Prosser, WA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/field-meteorologist-at-washington-state-university-4450528063?position=3&pageNum=0&refId=ax34b1OlQFkASnTgRQo9Ng%3D%3D&trackingId=pufbd6XZAFwGP%2Fbv5uvoOA%3D%3D
+Meteorologist. | Bonneville Power Administration | Portland, OR
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-bonneville-power-administration-4451070379?position=10&pageNum=0&refId=k63RDp%2Bjp343idNjf78dpw%3D%3D&trackingId=pXqWTd6%2B%2BZ%2B%2FwqxjOe9M1g%3D%3D
 Matched: gis, meteorologist
 
-METEOROLOGIST | FAMU National Alumni Association | Joint Base Pearl Harbor-Hickam, HI
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-famu-national-alumni-association-4450733710?position=14&pageNum=0&refId=ax34b1OlQFkASnTgRQo9Ng%3D%3D&trackingId=EtQIGKKRStGkW%2BHWM4Xrjw%3D%3D
+Meteorologist. | Bonneville Power Administration | Portland, OR
+Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-bonneville-power-administration-4451070379?position=18&pageNum=0&refId=nw5z4uQjnY1fXO0OFKHGcw%3D%3D&trackingId=r5%2Fg0kwoRad%2FVN9p85i5fQ%3D%3D
 Matched: gis, meteorologist
 
-METEOROLOGIST | Arizona Small Business Association - ASBA | Joint Base Pearl Harbor-Hickam, HI
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-arizona-small-business-association-asba-4450323866?position=31&pageNum=0&refId=ax34b1OlQFkASnTgRQo9Ng%3D%3D&trackingId=%2B95YC7nekD6DWPr6fmxiLA%3D%3D
-Matched: gis, meteorologist
-
-METEOROLOGIST | Arizona Small Business Association - ASBA | Patterson, OH
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-arizona-small-business-association-asba-4450328786?position=56&pageNum=0&refId=ax34b1OlQFkASnTgRQo9Ng%3D%3D&trackingId=wrFqriUtwa4JJJ%2Bsu8JCBw%3D%3D
-Matched: gis, meteorologist
-
-Meteorologist | NBC 10 WJAR Providence New Bedford | Providence, RI
-Score: 10 | URL: https://www.linkedin.com/jobs/view/meteorologist-at-nbc-10-wjar-providence-new-bedford-4448757815?position=57&pageNum=0&refId=ax34b1OlQFkASnTgRQo9Ng%3D%3D&trackingId=ccDm0JCrUcM9zR4M7OelNw%3D%3D
-Matched: gis, meteorologist
-
-Field Meteorologist | Washington State University | Prosser, WA
-Score: 10 | URL: https://www.linkedin.com/jobs/view/field-meteorologist-at-washington-state-university-4450528063?position=55&pageNum=0&refId=euDvylMoQLV7dDMzOSKMrw%3D%3D&trackingId=EZLBQJcqIxJRSZKhvrH%2Brg%3D%3D
-Matched: gis, meteorologist
-
-GIS / Mapper Analyst - Community Development | New Mexico | New Mexico
-Score: 7 | URL: https://www.governmentjobs.com/jobs/147875-1/gis-mapper-analyst-community-development
-Matched: gis, analyst
-
-Business Analyst (ACPE) | Alaska | Alaska
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5441608-0/business-analyst-acpe
+Part-Time Criminal Intelligence Analyst - (Real Time Crime Center) | Georgia | Georgia
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5438673-0/part-time-criminal-intelligence-analyst-real-time-crime-center
 Matched: analyst
 
-Senior Policy Analyst (Fare) (Policy and Strategic Planning) | Massachusetts | Massachusetts
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5435198-0/senior-policy-analyst-fare-policy-and-strategic-planning
+Human Resources Analyst (Trainee) 9-12 / Specialist 13 - Labor Relations | Michigan | Michigan
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5440483-0/human-resources-analyst-trainee-9-12-specialist-13-labor-relations
 Matched: analyst
 
-Budgetary Program Analyst | Nevada | Nevada
-Score: 5 | URL: https://www.governmentjobs.com/jobs/147866-1/budgetary-program-analyst
+REPOST CSS Senior Accountant/Fiscal Analyst / 61014921 | South Carolina | South Carolina
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5399723-0/repost-css-senior-accountant-fiscal-analyst-61014921
 Matched: analyst
 
-Housing Choice Vouchers Quality Control/Training Analyst | Tennessee | Tennessee
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5440784-0/housing-choice-vouchers-quality-control-training-analyst
+Information Technology Business Analyst II / 61014896 | South Carolina | South Carolina
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5436879-0/information-technology-business-analyst-ii-61014896
 Matched: analyst
 
-Epidemiologist 2 | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5440442-0/epidemiologist-2
+Human Resources & Risk Management Director - City of Franklin, TN | Tennessee | Tennessee
+Score: 5 | URL: https://www.governmentjobs.com/jobs/147790-1/human-resources-risk-management-director-city-of-franklin-tn
+Matched: risk
+
+Registered Nurse | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/4856267-0/registered-nurse
 Matched: gis
 
-PH Registered Nurse 3 (Nursing) | Georgia | Georgia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5403949-0/ph-registered-nurse-3-nursing
-Matched: gis
-
-Registered Nurse (RN) - Detention Center | Montana | Montana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5436563-0/registered-nurse-rn-detention-center
-Matched: gis
-
-Registered Dietitian | Wisconsin | Wisconsin
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5441338-0/registered-dietitian
+Registered Nurse 4 (Public Health Emergency Response Nurse) | Louisiana | Louisiana
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5440507-0/registered-nurse-4-public-health-emergency-response-nurse
 Matched: gis
