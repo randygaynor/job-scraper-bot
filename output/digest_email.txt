@@ -1,47 +1,35 @@
-Subject: Job Digest - 2026-08-09
+Subject: Job Digest - 2026-08-10
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-08-09 07:55:17 UTC
-  End: 2026-08-09 08:03:34 UTC
-  Runtime: 8m 16s
-  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Louisiana, StateBoard:Michigan, StateBoard:South Carolina, StateBoard:Tennessee
-  Fetched: 1463 | Considered: 740 | Matched: 712 | Mailed: 9
+  Start: 2026-08-10 08:42:22 UTC
+  End: 2026-08-10 08:45:54 UTC
+  Runtime: 3m 32s
+  Sources with email jobs: StateBoard:Hawaii, StateBoard:Maryland, StateBoard:Montana, StateBoard:New Jersey, StateBoard:Pennsylvania, StateBoard:Virginia
+  Fetched: 1809 | Considered: 923 | Matched: 895 | Mailed: 6
 
-Meteorologist. | Bonneville Power Administration | Portland, OR
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-bonneville-power-administration-4451070379?position=10&pageNum=0&refId=k63RDp%2Bjp343idNjf78dpw%3D%3D&trackingId=pXqWTd6%2B%2BZ%2B%2FwqxjOe9M1g%3D%3D
-Score: 10 | Matched: gis, meteorologist
-
-Meteorologist. | Bonneville Power Administration | Portland, OR
-URL: https://www.linkedin.com/jobs/view/meteorologist-at-bonneville-power-administration-4451070379?position=18&pageNum=0&refId=nw5z4uQjnY1fXO0OFKHGcw%3D%3D&trackingId=r5%2Fg0kwoRad%2FVN9p85i5fQ%3D%3D
-Score: 10 | Matched: gis, meteorologist
-
-Part-Time Criminal Intelligence Analyst - (Real Time Crime Center) | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/5438673-0/part-time-criminal-intelligence-analyst-real-time-crime-center
+Court Research Analyst - Kapolei, Oahu | Hawaii | Hawaii
+URL: https://www.governmentjobs.com/jobs/5440193-0/court-research-analyst-kapolei-oahu
 Score: 5 | Matched: analyst
 
-Human Resources Analyst (Trainee) 9-12 / Specialist 13 - Labor Relations | Michigan | Michigan
-URL: https://www.governmentjobs.com/jobs/5440483-0/human-resources-analyst-trainee-9-12-specialist-13-labor-relations
+Full Stack .NET Developer & Project Analyst (Information Technology Specialist III), Grade 26 | Maryland | Maryland
+URL: https://www.governmentjobs.com/jobs/5436443-0/full-stack-net-developer-project-analyst-information-technology-specialist-ii
 Score: 5 | Matched: analyst
 
-REPOST CSS Senior Accountant/Fiscal Analyst / 61014921 | South Carolina | South Carolina
-URL: https://www.governmentjobs.com/jobs/5399723-0/repost-css-senior-accountant-fiscal-analyst-61014921
+Business Analyst (Information Technology Analyst 2) | New Jersey | New Jersey
+URL: https://www.governmentjobs.com/jobs/5326383-0/business-analyst-information-technology-analyst-2
 Score: 5 | Matched: analyst
 
-Information Technology Business Analyst II / 61014896 | South Carolina | South Carolina
-URL: https://www.governmentjobs.com/jobs/5436879-0/information-technology-business-analyst-ii-61014896
-Score: 5 | Matched: analyst
-
-Human Resources & Risk Management Director - City of Franklin, TN | Tennessee | Tennessee
-URL: https://www.governmentjobs.com/jobs/147790-1/human-resources-risk-management-director-city-of-franklin-tn
-Score: 5 | Matched: risk
-
-Registered Nurse | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/4856267-0/registered-nurse
+MDS Nurse (Registered Nurse) | Montana | Montana
+URL: https://www.governmentjobs.com/jobs/5106882-0/mds-nurse-registered-nurse
 Score: 3 | Matched: gis
 
-Registered Nurse 4 (Public Health Emergency Response Nurse) | Louisiana | Louisiana
-URL: https://www.governmentjobs.com/jobs/5440507-0/registered-nurse-4-public-health-emergency-response-nurse
+Licensed Psychologist Manager, Corrections - SCI Smithfield | Pennsylvania | Pennsylvania
+URL: https://www.governmentjobs.com/jobs/5435496-0/licensed-psychologist-manager-corrections-sci-smithfield
+Score: 3 | Matched: gis
+
+Registered Nurse (part-time) - Galloway | Virginia | Virginia
+URL: https://www.governmentjobs.com/jobs/5438027-0/registered-nurse-part-time-galloway
 Score: 3 | Matched: gis
