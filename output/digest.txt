@@ -1,32 +1,28 @@
-Job Digest - 2026-08-10
+Job Digest - 2026-08-11
 
 Summary:
-  Start: 2026-08-10 08:42:22 UTC
-  End: 2026-08-10 08:45:54 UTC
-  Runtime: 3m 32s
-  Sources with email jobs: StateBoard:Hawaii, StateBoard:Maryland, StateBoard:Montana, StateBoard:New Jersey, StateBoard:Pennsylvania, StateBoard:Virginia
-  Fetched: 1809 | Considered: 923 | Matched: 895 | Mailed: 6
+  Start: 2026-08-11 08:11:23 UTC
+  End: 2026-08-11 08:16:55 UTC
+  Runtime: 5m 32s
+  Sources with email jobs: LinkedIn, StateBoard:Illinois, StateBoard:Michigan, StateBoard:Oregon, StateBoard:Tennessee
+  Fetched: 1657 | Considered: 845 | Matched: 818 | Mailed: 5
 
-Court Research Analyst - Kapolei, Oahu | Hawaii | Hawaii
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5440193-0/court-research-analyst-kapolei-oahu
+CIRES/NOAA Global Monitoring Laboratory, Research Engineer in Support of Atmospheric Trace Gas Measurements | University of Colorado Boulder | Boulder, CO
+Score: 12 | URL: https://www.linkedin.com/jobs/view/cires-noaa-global-monitoring-laboratory-research-engineer-in-support-of-atmospheric-trace-gas-measurements-at-university-of-colorado-boulder-4451868355?position=54&pageNum=0&refId=tiqTvbmju%2FtqsI53KXtp1g%3D%3D&trackingId=6xGCpYvCdFHGieZ9DTx2wQ%3D%3D
+Matched: atmospheric, noaa
+
+Regional Solutions Liaison (Operations and Policy Analyst 4) | Oregon | Oregon
+Score: 5 | URL: https://www.governmentjobs.com/jobs/147911-1/regional-solutions-liaison-operations-and-policy-analyst-4
 Matched: analyst
 
-Full Stack .NET Developer & Project Analyst (Information Technology Specialist III), Grade 26 | Maryland | Maryland
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5436443-0/full-stack-net-developer-project-analyst-information-technology-specialist-ii
-Matched: analyst
-
-Business Analyst (Information Technology Analyst 2) | New Jersey | New Jersey
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5326383-0/business-analyst-information-technology-analyst-2
-Matched: analyst
-
-MDS Nurse (Registered Nurse) | Montana | Montana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5106882-0/mds-nurse-registered-nurse
+Registered Nurse (RN) - Full-Time | Illinois | Illinois
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5442929-0/registered-nurse-rn-full-time
 Matched: gis
 
-Licensed Psychologist Manager, Corrections - SCI Smithfield | Pennsylvania | Pennsylvania
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5435496-0/licensed-psychologist-manager-corrections-sci-smithfield
+Psychologist Manager 15 | Michigan | Michigan
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5253373-0/psychologist-manager-15
 Matched: gis
 
-Registered Nurse (part-time) - Galloway | Virginia | Virginia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5438027-0/registered-nurse-part-time-galloway
-Matched: gis
+Environmental Health Inspector #1653 - Environmental Health - Health and Social Services | Tennessee | Tennessee
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5438544-0/environmental-health-inspector-1653-environmental-health-health-and-social-s
+Matched: environmental
