@@ -1,48 +1,52 @@
-Job Digest - 2026-08-12
+Job Digest - 2026-08-13
 
 Summary:
-  Start: 2026-08-12 08:21:25 UTC
-  End: 2026-08-12 08:27:26 UTC
-  Runtime: 6m 0s
-  Sources with email jobs: StateBoard:Arkansas, StateBoard:Florida, StateBoard:Louisiana, StateBoard:Maryland, StateBoard:Massachusetts, StateBoard:New Hampshire, StateBoard:South Carolina, StateBoard:West Virginia
-  Fetched: 1613 | Considered: 816 | Matched: 789 | Mailed: 10
+  Start: 2026-08-13 08:24:29 UTC
+  End: 2026-08-13 08:33:06 UTC
+  Runtime: 8m 36s
+  Sources with email jobs: StateBoard:Arkansas, StateBoard:Florida, StateBoard:Georgia, StateBoard:Hawaii, StateBoard:Iowa, StateBoard:Missouri, StateBoard:Nevada, StateBoard:New Jersey, StateBoard:Tennessee, StateBoard:Virginia
+  Fetched: 1439 | Considered: 731 | Matched: 704 | Mailed: 11
 
-Operational Technology Cyber Security Manager (Systems Analyst) | Maryland | Maryland
-Score: 7 | URL: https://www.governmentjobs.com/jobs/5437392-0/operational-technology-cyber-security-manager-systems-analyst
-Matched: operational, analyst
-
-Senior IT Analyst | Florida | Florida
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5444462-0/senior-it-analyst
+Health Services Analyst | Florida | Florida
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5445591-0/health-services-analyst
 Matched: analyst
 
-Application Analyst (Transit Scheduling) | Massachusetts | Massachusetts
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5438584-0/application-analyst-transit-scheduling
+Graduate Assistant - Occupational Risk and Safety Sciences - Fall 2026 | Missouri | Missouri
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5445231-0/graduate-assistant-occupational-risk-and-safety-sciences-fall-2026
+Matched: risk
+
+SUPERVISOR, MANAGEMENT ANALYST | Nevada | Nevada
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5445802-0/supervisor-management-analyst
 Matched: analyst
 
-Crime Analyst | New Hampshire | New Hampshire
-Score: 5 | URL: https://www.governmentjobs.com/jobs/5439254-0/crime-analyst
+Junior Applications Developer (Information Technology Analyst 1) | New Jersey | New Jersey
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5445230-0/junior-applications-developer-information-technology-analyst-1
 Matched: analyst
 
-Supervisor, Engineering and Environmental Compliance | Arkansas | Arkansas
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5443258-0/supervisor-engineering-and-environmental-compliance
+Housing Program Analyst | Virginia | Virginia
+Score: 5 | URL: https://www.governmentjobs.com/jobs/5442759-0/housing-program-analyst
+Matched: analyst
+
+INSURANCE LICENSING CLERK - DOWNTOWN, OAHU (OHHI) | Hawaii | Hawaii
+Score: 4 | URL: https://www.governmentjobs.com/jobs/5443400-0/insurance-licensing-clerk-downtown-oahu-ohhi
+Matched: insurance
+
+PT-Cash Register Operator (Rebsamen Golf) | Arkansas | Arkansas
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5379300-0/pt-cash-register-operator-rebsamen-golf
+Matched: gis
+
+Planning & Zoning Technician DOQ - Environmental Field Technician | Florida | Florida
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5440307-0/planning-zoning-technician-doq-environmental-field-technician
 Matched: environmental
 
-REGISTERED NURSE-PROGRAM COORDINATOR | Louisiana | Louisiana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5441757-0/registered-nurse-program-coordinator
-Matched: gis
+Environmental Health Specialist 1, 2, 3, or 4 | Georgia | Georgia
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5445564-0/environmental-health-specialist-1-2-3-or-4
+Matched: environmental
 
-Psychology Post-Doctoral Fellow / Psychologist 2-3 | Louisiana | Louisiana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5443178-0/psychology-post-doctoral-fellow-psychologist-2-3
-Matched: gis
+Climate Action Engagement Specialist | Iowa | Iowa
+Score: 3 | URL: https://www.governmentjobs.com/jobs/148123-1/climate-action-engagement-specialist
+Matched: climate
 
-REGISTERED NURSE SUPERVISOR A/DAY/EVENING | Louisiana | Louisiana
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5443694-0/registered-nurse-supervisor-a-day-evening
-Matched: gis
-
-Administrative Assistant / Registration (Aiken) | South Carolina | South Carolina
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5444294-0/administrative-assistant-registration-aiken
-Matched: gis
-
-Psychologist Assistant | West Virginia | West Virginia
-Score: 3 | URL: https://www.governmentjobs.com/jobs/5442840-0/psychologist-assistant
-Matched: gis
+Senior Secretary #1154 - Environmental Health - Health and Social Services Division | Tennessee | Tennessee
+Score: 3 | URL: https://www.governmentjobs.com/jobs/5438528-0/senior-secretary-1154-environmental-health-health-and-social-services-divisi
+Matched: environmental
