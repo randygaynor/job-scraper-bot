@@ -1,31 +1,71 @@
-Subject: Job Digest - 2026-08-14
+Subject: Job Digest - 2026-08-15
 
 Good morning, here are the new matched jobs from last night:
 
 
 Summary:
-  Start: 2026-08-14 08:19:34 UTC
-  End: 2026-08-14 08:27:40 UTC
-  Runtime: 8m 5s
-  Sources with email jobs: LinkedIn, StateBoard:Georgia, StateBoard:Illinois, StateBoard:Nebraska
-  Fetched: 1453 | Considered: 743 | Matched: 703 | Mailed: 5
+  Start: 2026-08-15 07:34:02 UTC
+  End: 2026-08-15 07:44:16 UTC
+  Runtime: 10m 13s
+  Sources with email jobs: LinkedIn, StateBoard:Alaska, StateBoard:Michigan, StateBoard:Nevada, StateBoard:Ohio
+  Fetched: 1316 | Considered: 696 | Matched: 653 | Mailed: 15
 
-Meteorologist Developer | Lynker | College Park, MD
-URL: https://www.linkedin.com/jobs/view/meteorologist-developer-at-lynker-4453506227?position=32&pageNum=0&refId=QyUd2DstsFr5KZBG1uugBQ%3D%3D&trackingId=tLUlrh3DY1hEiRkiR2D8rQ%3D%3D
-Score: 10 | Matched: gis, meteorologist
+Field Operational Meteorologist | Roadrunner Venture Studios | Albuquerque, NM
+URL: https://www.linkedin.com/jobs/view/field-operational-meteorologist-at-roadrunner-venture-studios-4454558437?position=3&pageNum=0&refId=MZdZWVqVZkjHmZWlp1%2FV6g%3D%3D&trackingId=Ewj3rlMI6Rr43H8iaLG2Hw%3D%3D
+Score: 12 | Matched: operational, gis, meteorologist
 
-Candidate pool - Research Engineer/Scientist, Center for Space and Atmospheric Research (CSAR), Daytona Beach Campus | Embry-Riddle Aeronautical University | Daytona Beach, FL
-URL: https://www.linkedin.com/jobs/view/candidate-pool-research-engineer-scientist-center-for-space-and-atmospheric-research-csar-daytona-beach-campus-at-embry-riddle-aeronautical-university-4437638114?position=53&pageNum=0&refId=lIbGieL%2BPtpbMtNF3z9Ixg%3D%3D&trackingId=COCMXuBCzO7NMoAuyUkNXA%3D%3D
+Field Operational Meteorologist | Roadrunner Venture Studios | Albuquerque, NM
+URL: https://www.linkedin.com/jobs/view/field-operational-meteorologist-at-roadrunner-venture-studios-4454558437?position=7&pageNum=0&refId=UgxBx8nkOmRWke9YgGeHaQ%3D%3D&trackingId=j42C66sdsygH5DjanSu3nw%3D%3D
+Score: 12 | Matched: operational, gis, meteorologist
+
+Tropical meteorology, cloud and precipitation variability | ORAU | Greenbelt, MD
+URL: https://www.linkedin.com/jobs/view/tropical-meteorology-cloud-and-precipitation-variability-at-orau-4397536674?position=44&pageNum=0&refId=MZdZWVqVZkjHmZWlp1%2FV6g%3D%3D&trackingId=op5LN3lJYiJPVD%2B0qFswQw%3D%3D
+Score: 7 | Matched: meteorology, tropical
+
+Product Manager, Digital Forecasting Systems | AccuWeather | State College, PA
+URL: https://www.linkedin.com/jobs/view/product-manager-digital-forecasting-systems-at-accuweather-4365608961?position=60&pageNum=0&refId=MZdZWVqVZkjHmZWlp1%2FV6g%3D%3D&trackingId=50rg149%2BtLSYc6Q0ML2Jyw%3D%3D
+Score: 7 | Matched: weather, forecast
+
+Earth Science: Atmospheric Composition and Climate | ORAU | New York, NY
+URL: https://www.linkedin.com/jobs/view/earth-science-atmospheric-composition-and-climate-at-orau-4397528864?position=3&pageNum=0&refId=UgxBx8nkOmRWke9YgGeHaQ%3D%3D&trackingId=W3OOzonuAuiXx2LmiI128w%3D%3D
+Score: 7 | Matched: atmospheric, climate
+
+Observational Constraints on Processes Controlling Atmospheric Composition | ORAU | Pasadena, CA
+URL: https://www.linkedin.com/jobs/view/observational-constraints-on-processes-controlling-atmospheric-composition-at-orau-4397531702?position=2&pageNum=0&refId=UgxBx8nkOmRWke9YgGeHaQ%3D%3D&trackingId=0SJlmCJWHDTfQ35b95HJkw%3D%3D
 Score: 5 | Matched: atmospheric
 
-Registered Nurse 1, 2, or 3 - Smyrna | Georgia | Georgia
-URL: https://www.governmentjobs.com/jobs/4220828-0/registered-nurse-1-2-or-3-smyrna
+Post Doctoral Fellow - Earth & Atmospheric Sciences | University of Houston | Houston, TX
+URL: https://www.linkedin.com/jobs/view/post-doctoral-fellow-earth-atmospheric-sciences-at-university-of-houston-4361297073?position=59&pageNum=0&refId=UgxBx8nkOmRWke9YgGeHaQ%3D%3D&trackingId=5H2MaDgNxNtyM63BbmKcHg%3D%3D
+Score: 5 | Matched: atmospheric
+
+Departmental Analyst 9-11 (Print & Mail Services) | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5448848-0/departmental-analyst-9-11-print-mail-services
+Score: 5 | Matched: analyst
+
+Information Technology Programmer Analyst 12 - MDOT Business & IT Support Services | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5445817-0/information-technology-programmer-analyst-12-mdot-business-it-support-service
+Score: 5 | Matched: analyst
+
+Court Systems Analyst | Nevada | Nevada
+URL: https://www.governmentjobs.com/jobs/5448574-0/court-systems-analyst
+Score: 5 | Matched: analyst
+
+Utility Risk Monitoring Specialist - Oahu | Hawaiian Electric | Honolulu, HI
+URL: https://www.linkedin.com/jobs/view/utility-risk-monitoring-specialist-oahu-at-hawaiian-electric-4451250683?position=52&pageNum=0&refId=MZdZWVqVZkjHmZWlp1%2FV6g%3D%3D&trackingId=Ryg%2FVGTJjz2T1raZor9YFQ%3D%3D
+Score: 4 | Matched: risk
+
+Utility Risk Monitoring Specialist - Oahu | Hawaiian Electric | Hawaii, United States
+URL: https://www.linkedin.com/jobs/view/utility-risk-monitoring-specialist-oahu-at-hawaiian-electric-4449932605?position=54&pageNum=0&refId=MZdZWVqVZkjHmZWlp1%2FV6g%3D%3D&trackingId=V%2BAn3h%2FQpHB5rJILE7sbRQ%3D%3D
+Score: 4 | Matched: risk
+
+Fishery Biologist 3 (Groundfish Project Leader - PCN 111062) | Alaska | Alaska
+URL: https://www.governmentjobs.com/jobs/5449828-0/fishery-biologist-3-groundfish-project-leader-pcn-111062
 Score: 3 | Matched: gis
 
-Environmental Lab Technician | Illinois | Illinois
-URL: https://www.governmentjobs.com/jobs/5446993-0/environmental-lab-technician
-Score: 3 | Matched: environmental
+Geologist 9-P11 - Limited Term | Michigan | Michigan
+URL: https://www.governmentjobs.com/jobs/5448806-0/geologist-9-p11-limited-term
+Score: 3 | Matched: gis
 
-Epidemiologist (GRANT FUNDED) | Nebraska | Nebraska
-URL: https://www.governmentjobs.com/jobs/5445543-0/epidemiologist-grant-funded
+Communicable Disease Epidemiologist | Ohio | Ohio
+URL: https://www.governmentjobs.com/jobs/5448746-0/communicable-disease-epidemiologist
 Score: 3 | Matched: gis
